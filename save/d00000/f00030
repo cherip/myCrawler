@@ -1,0 +1,462 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta name="wumiiVerification" content="a5455087-8e0a-474d-a749-979314c30c6c" /><title>
+	哈佛商业评论网-全球中文版官网－打造最有影响力的管理者社区
+</title><meta name="y_key" content="3ed9db50d0f9fe4f" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="msvalidate.01" content="DF7F73DCDA0CBA9C6BBA7C00FAE1570D" /><meta http-equiv="X-UA-Compatible" /><meta property="qc:admins" content="27532360236525316533256157636" /><meta property="xn:admins" content="398071323" /><link href="http://www.ebusinessreview.cn/image/favicon.ico" rel="shortcut icon" type="image/x-icon" /><link href="/css/newstyle.css" rel="stylesheet" type="text/css" /><link href="/css/jquery-ui-1.7.1.custom.css" rel="stylesheet" type="text/css" />
+    <script src="/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+    <script src="/js/jquery-ui-1.7.1.custom.min.js" type="text/javascript"></script>
+    <script src="/js/mypage.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+    <script type="text/javascript">
+        try {
+            GS_googleAddAdSenseService("ca-pub-0958731028203412");
+            GS_googleEnableAllServices();
+        }
+        catch (err) {
+        }
+    </script>
+    <script type="text/javascript">
+        try {
+            GA_googleFetchAds();
+        }
+        catch (err) {
+        }
+    </script>
+    
+    <meta name="keywords" content="管理，金融，商业管理，管理咨询，企业管理，金融管理，哈佛商业评论" />
+    <meta name="description" content="国际商业世界最具影响力媒体《哈佛商业评论》（Harvard Business Review）中文官网，提供商业时评、名家专栏、案例分析、管理智库、管理者博客。关注实战案例、企业管理、创业创新、人力资源管理、销售管理、营销管理、运营管理、公司管理、商业管理。" />
+    <link href="/css/module.css" rel="stylesheet" type="text/css" />
+    <script src="/js/MSClass.js" type="text/javascript"></script>
+</head>
+<body>
+    <a name="top"></a>
+    
+<div class="topbar">
+    <div class="topbar_in clearfix">
+        <ul class="sitemenu">
+            <li class="io"><a href="/" target="_blank"
+                title="商业评论主站">商业评论主站</a></li>
+            <li class="bf"><a href="http://club.ebusinessreview.cn/"
+                target="blank" title="博客">博客</a></li>
+            <li class="df"><a href="http://book.ebusinessreview.cn/index.html"
+                target="blank" title="读书">读书</a></li>
+          
+            <li class="mf"><a href="http://club.ebusinessreview.cn/myspace.html" title="我的首页">我的首页</a></li>
+        </ul>
+        <div class="loginbox_new">
+            
+                    <label>
+                        用户名：</label><input class="login_input" id="head_username" type="text" title="用户名或邮箱"
+                            value="用户名或邮箱" onclick="if (this.value=='用户名或邮箱') this.value=''" onblur="if (this.value=='') this.value='用户名或邮箱'" />
+                    <label>
+                        密码：</label><input type="password" class="login_input" name="cpass" id="head_pwd" />
+                    <input id="head_remember" type="checkbox" class="checkbox" />
+                    <label for="remember">
+                        记住我</label>
+                    <input type="button" value="登 录" id="head_login" class="login_btn" />
+                    <span class="reg_link"><a href='http://club.ebusinessreview.cn/sign-up.html' target="_self"
+                        rel="nofollow">注 册</a></span>
+                    <a rel="nofollow" href="http://club.ebusinessreview.cn/forgot-password.html" target="_blank">忘记密码</a>
+                
+        </div>
+    </div>
+</div>
+
+<div class="header">
+    <div class="headerbar clearfix">
+        <div class="logo">
+            <a href="/"
+                title="商业评论网">商业评论网</a></div>
+        <div class="ad_top">
+            <div id="hbr_ad_topbanner"><!-- homepage_topbanner_728x90 -->
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-0958731028203412", "homepage_topbanner_728x90");
+GA_googleFillSlot("homepage_topbanner_728x90");
+</script></div>
+        </div>
+    </div>
+</div>
+
+    <div class="wrapper clearfix">
+        <div class="minibar clearfix">
+            <div class="quick_link">
+                <span>快速链接：</span>
+                
+                        <a href="http://www.ebusinessreview.cn/page/manageaction/manageaction222.html" title="管理行动奖" target="_blank">管理行动奖</a>
+                    
+                        &nbsp;&bull;&nbsp;
+                    
+                        <a href="http://club.ebusinessreview.cn/card.html" title="电子阅读卡" target="_blank">电子阅读卡</a>
+                    
+            </div>
+             <div class="loginAdv"><a href="http://club.ebusinessreview.cn/registerinfo.html" title="注册完整信息送杂志"><img src="/image/loginadv.png" border="0" width="197" height="50" /></a></div>
+            <div class="searchbox">
+                
+                <input type="text" id="q" class="search_input1" name="q" value='输入搜索关键字' onblur="if(this.value==''){ this.value='输入搜索关键字'}"
+                    onfocus="if(this.value=='输入搜索关键字'){ this.value='';}" />
+                <input type="button" value="搜索" class="search_btn1" onclick="search()" />
+            </div>
+        </div>
+        <div class="menubar clearfix" id="menulist">
+            <ul class="topmenu_new">
+                <li type="column"><a href="/" title="首页"><b>首页</b></a></li><li type="column"><a href='/hbropinions/'title='时评'> <b>时评</b><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul type="subcolumn"><li><a href="/commerce/" title="商业"><span>商业</span></a></li><li><a href="/people/" title="人物"><span>人物</span></a></li><li><a href="/economics/" title="经济"><span>经济</span></a></li><li><a href="/corporation/" title="公司"><span>公司</span></a></li><li><a href="/politics/" title="科技"><span>科技</span></a></li><li class="last"><a href="/community/" title="社会"><span>社会</span></a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li type="column"><a href='/column/'title='专栏'> <b>专栏</b><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul type="subcolumn"><li><a href="/masters/" title="大师观点"><span>大师观点</span></a></li><li class="last"><a href="/authors/" title="名家专栏"><span>名家专栏</span></a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li type="column"><a href='/topics/'title='商学院'> <b>商学院</b><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul type="subcolumn"><li><a href="/topics/lesson/" title="哈佛幸福课"><span>哈佛幸福课</span></a></li><li><a href="/topics/manager/" title="新经理"><span>新经理</span></a></li><li><a href="/topics/manage/" title="企业2.0"><span>企业2.0</span></a></li><li><a href="/topics/parley/" title="谈判"><span>谈判</span></a></li><li><a href="/topics/innovation/" title="创新"><span>创新</span></a></li><li><a href="/topics/corporate-social-responsibility/" title="企业社会责任"><span>企业社会责任</span></a></li><li><a href="/topics/superintend/" title="中层主管必读"><span>中层主管必读</span></a></li><li><a href="/topics/vendition/" title="销售必读"><span>销售必读</span></a></li><li><a href="/topics/work/" title="创业"><span>创业</span></a></li><li class="last"><a href="/topics/" title="更多>>"><span>更多>></span></a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li type="column"><a href="/analysis/" title="管理智库"><b>管理智库</b></a></li><li type="column"><a href='/case-studies/'title='案例分析'> <b>案例分析</b><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul type="subcolumn"><li><a href="/HBR-case/" title="HBR案例"><span>HBR案例</span></a></li><li class="last"><a href="/practices/" title="实战案例"><span>实战案例</span></a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li type="column"><a href="/spotlight/" title="焦点专题"><b>焦点专题</b></a></li><li type="column"><a href='#'title='更多精彩栏目'> <b>更多精彩栏目</b><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul type="subcolumn"><li><a href="/workplife/" title="职场人生"><span>职场人生</span></a></li><li><a href="/innovation/" title="创业故事"><span>创业故事</span></a></li><li><a href="/information-technology/" title="IT前沿"><span>IT前沿</span></a></li><li><a href="/discussion/" title="管理人论坛"><span>管理人论坛</span></a></li><li><a href="/tools/" title="管理工具"><span>管理工具</span></a></li><li><a href="/Industry/" title="行业动态"><span>行业动态</span></a></li><li class="last"><a href="/luxury/" title="奢侈品与营销"><span>奢侈品与营销</span></a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li type="column"><a href='/magazine/'title='杂志文章'> <b>杂志文章</b><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul type="subcolumn"><li><a href="/magazine/marketing/" title="销售与营销"><span>销售与营销</span></a></li><li><a href="/magazine/leadership/" title="领导力"><span>领导力</span></a></li><li><a href="/magazine/strategy/" title="战略"><span>战略</span></a></li><li><a href="/magazine/innovation/" title="创新"><span>创新</span></a></li><li><a href="/magazine/HR/" title="人力资源"><span>人力资源</span></a></li><li><a href="/magazine/execution/" title="运营管理"><span>运营管理</span></a></li><li><a href="/magazine/finance/" title="金融与服务"><span>金融与服务</span></a></li><li><a href="/magazine/technology/" title="信息技术"><span>信息技术</span></a></li><li><a href="/magazine/professional-services/" title="服务管理"><span>服务管理</span></a></li><li><a href="/magazine/venture/" title="创业"><span>创业</span></a></li><li><a href="/magazine/behavior/" title="组织行为"><span>组织行为</span></a></li><li><a href="/magazine/change-management/" title="变革管理"><span>变革管理</span></a></li><li><a href="/magazine/managing-yourself/" title="自我管理"><span>自我管理</span></a></li><li><a href="/magazine/corporate-social-responsibility/" title="企业社会责任"><span>企业社会责任</span></a></li><li class="last"><a href="/magazine/others/" title="综合管理"><span>综合管理</span></a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+            </ul>
+            <div class="newblogbox">
+                <a id="id_admini" class="search_but newblog_btn">发微博</a> <a id="blogedit" class="search_but newblog_btn">
+                    写博文</a>
+            </div>
+        </div>
+        <script type="text/javascript">
+            
+                $("#id_admini").click(function () {
+                    ScriptMessageShow("用户还没有登陆，不能发布微博");
+                });
+                $("#blogedit").click(function () {
+                    ScriptMessageShow("用户还没有登陆，不能发布微博");
+                });
+            
+        </script>
+        <input id="Hidd_Users" type="hidden" value="-1" />
+        <!-- end #header -->
+        
+    <div class="container clearfix">
+        <div class="con_left_index">
+            <div class="slidebox" id="toptabls"><div class="slidebox_title clearfix"><ul id="ul-toptabls" class="slidebox_tab clearfix"><li class="current"><a href="#hbr_special_tabs_3" rel="nofollow">战略创新中的心理学</a></li><li><a href="#hbr_special_tabs_7" rel="nofollow">高管们的高效人脉</a></li><li><a href="#hbr_special_tabs_5" rel="nofollow">CEO如何挑选接班人？</a></li><li><a href="#hbr_special_tabs_6" rel="nofollow">管理“高潜力人才”</a></li><li><a href="#hbr_special_tabs_1" rel="nofollow">跳槽的职业发展陷阱</a></li></ul></div><div id="hbr_special_tabs_3" class="slidebox_content clearfix" style="display: block;"><div style="background: url('http://manage.ebusinessreview.cn/upfile//201111281122123148.jpg') repeat scroll 0% 0% transparent;" class="top_topic_in"><h3><a href="/dissertations/dissertation227.html" title="战略创新中的心理学" target="_blank">战略创新中的心理学</a></h3><p>一个优秀的战略制定者必须同时是优秀的经济学家和心理学家，不仅仅需要很强的逻辑分析能力，还需要很强的直觉感受。战略创新不仅依靠理性分析，同样也需要直觉灵感，战略创新是理性和感性结合的结果。</p><ul><li><a href="http://www.ebusinessreview.cn/articledetail-104092.html" title="用心理学引领战略" target="_blank">用心理学引领战略</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-7079.html" title="制定战略：边做边学" target="_blank">制定战略：边做边学</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-7752.html" title="创新者的DNA有何不同" target="_blank">创新者的DNA有何不同</a></li></ul></div></div><div id="hbr_special_tabs_7" class="slidebox_content clearfix" style="display:none;"><div style="background: url('http://manage.ebusinessreview.cn/upfile//201111220746110644.jpg') repeat scroll 0% 0% transparent;" class="top_topic_in"><h3><a href="/dissertations/dissertation226.html" title="高管们的高效人脉" target="_blank">高管们的高效人脉</a></h3><p>一个高效的人脉，并不是人越多越好，也不必全由“大人物”组成。在工作业绩和人生快乐方面都很出色的高管，他们的社交网络非常多样化，而且是精心挑选，由来自不同领域、不同阶层的高品质人士组成。</p><ul><li><a href="http://www.ebusinessreview.cn/articledetail-104094.html" title="四步建立高效人脉" target="_blank">四步建立高效人脉</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-7585.html" title="社交商与领导力" target="_blank">社交商与领导力</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-66607.html" title="建立人脉网络的指导原则" target="_blank">建立人脉网络的指导原则</a></li></ul></div></div><div id="hbr_special_tabs_5" class="slidebox_content clearfix" style="display:none;"><div style="background: url('http://manage.ebusinessreview.cn/upfile//201111141329180400.jpg') repeat scroll 0% 0% transparent;" class="top_topic_in"><h3><a href="/dissertations/dissertation225.html" title="CEO如何挑选接班人？" target="_blank">CEO如何挑选接班人？</a></h3><p>CEO挑选和培养接班人非常重要。无论是即将卸任的IBM的CEO彭明盛，去年年初卸任的宝洁CEO雷富礼，还是两年前卸任的施乐CEO安妮.马尔卡希，他们在上任伊始就开始寻找和培养自己的接班人，时间跨度甚至高达十年。
+</p><ul><li><a href="http://www.ebusinessreview.cn/articledetail-104087.html" title="我为宝洁寻找接班人" target="_blank">我为宝洁寻找接班人</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-98271.html" title="我用了十年安排接班人" target="_blank">我用了十年安排接班人</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-7165.html" title="终结CEO继任危机" target="_blank">终结CEO继任危机</a></li></ul></div></div><div id="hbr_special_tabs_6" class="slidebox_content clearfix" style="display:none;"><div style="background: url('http://manage.ebusinessreview.cn/upfile//201111041640176292.jpg') repeat scroll 0% 0% transparent;" class="top_topic_in"><h3><a href="/dissertations/dissertation224.html" title="管理“高潜力人才”" target="_blank">管理“高潜力人才”</a></h3><p>要管理好高潜力人才，只需要做好以下三件事情：一是确定战略重点，这决定了公司培养高潜力人才的方式；二是认真选拔高潜力人选，并向组织内其他人通报人选名单；三是致力于培养、奖励并留住高潜力人才。
+</p><ul><li><a href="http://www.ebusinessreview.cn/articledetail-104085.html" title="怎样管理高潜力人才" target="_blank">怎样管理高潜力人才</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-57563.html" title="高潜力人才的“X特质”" target="_blank">高潜力人才的“X特质”</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-8748.html" title="是什么造就了领导者？" target="_blank">是什么造就了领导者？</a></li></ul></div></div><div id="hbr_special_tabs_1" class="slidebox_content clearfix" style="display:none;"><div style="background: url('http://manage.ebusinessreview.cn/upfile//201110311741096074.jpg') repeat scroll 0% 0% transparent;" class="top_topic_in"><h3><a href="/dissertations/dissertation223.html" title="跳槽的职业发展陷阱" target="_blank">跳槽的职业发展陷阱</a></h3><p>跳槽可能会带来职位晋升和薪水增加，但通过跳槽来到达公司高层的可能性不大。一般而言，员工在一家公司待的时间越长，他们升至最高职位的可能性就越大，因为公司更了解和信赖内部员工，内部工作变动更容易升职。</p><ul><li><a href="http://www.ebusinessreview.cn/articledetail-101946.html" title="关于跳槽的四大谬论" target="_blank">关于跳槽的四大谬论</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-5483.html" title="将“跳槽”变为“换岗”" target="_blank">将“跳槽”变为“换岗”</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-67817.html" title="领导，你可以做得更好" target="_blank">领导，你可以做得更好</a></li></ul></div></div><script type="text/javascript">SetTabs_Mouseover("toptabls");</script></div>
+            <div class="clearfix">
+                <!--left-->
+                <div class="clearfix">
+                    <div class="con_in_left">
+                        <!--时评-->
+                        <div class="left2" id="cleft_1"><div class="left2_title clearfix"><h1 class="left2_title_h"><a href="http://www.ebusinessreview.cn/hbropinions/" title="时评" target="_blank">时评</a></h1><div class="left2_title_div"><a href="http://www.ebusinessreview.cn/hbropinions/" title="更多" target="_blank">更多</a></div></div><ul class="left2_top clearfix"><li class="clearfix"><div class="left2_pic"><a href="http://www.ebusinessreview.cn/articledetail-109217.html" title="方舟子：李开复和唐骏性质不一样" target="_blank"><img src="http://www.ebusinessreview.cn/upfile/content/20111202102541.jpg" onerror="this.src=''" alt="方舟子：李开复和唐骏性质不一样"></img></a></div><h3><a href="http://www.ebusinessreview.cn/articledetail-109217.html" title="方舟子：李开复和唐骏性质不一样" target="_blank">方舟子：李开复和唐骏性质不一样</a></h3><p>方舟子：“李开复和唐骏不一样，唐骏是纯粹的造假，李开复只是拔高。”</p><div></div></li><li class="clearfix"><div class="left2_pic"><a href="http://www.ebusinessreview.cn/articledetail-109220.html" title="叶檀：绿城复活暗示什么" target="_blank"><img src="http://www.ebusinessreview.cn/upfile/content/20111202102930.jpg" onerror="this.src=''" alt="叶檀：绿城复活暗示什么"></img></a></div><h3><a href="http://www.ebusinessreview.cn/articledetail-109220.html" title="叶檀：绿城复活暗示什么" target="_blank">叶檀：绿城复活暗示什么</a></h3><p>从房地产完整开发链条方面说，它死了；但从争取未来的生存权而言，它活了。</p><div></div></li><li class="clearfix"><div class="left2_pic"><a href="http://www.ebusinessreview.cn/articledetail-109231.html" title="15年影响中国商业15人" target="_blank"><img src="http://www.ebusinessreview.cn/upfile/content/20111202113003.bmp" onerror="this.src=''" alt="15年影响中国商业15人"></img></a></div><h3><a href="http://www.ebusinessreview.cn/articledetail-109231.html" title="15年影响中国商业15人" target="_blank">15年影响中国商业15人</a></h3><p>本文对过去15年来对中国商业进程有着深刻影响的人物进行了盘点。</p><div></div></li></ul><ul class="left2_list clearfix"><li><a href="http://www.ebusinessreview.cn/articledetail-109225.html" title="破除政府特殊经济利益" target="_blank">破除政府特殊经济利益</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-109221.html" title="2012中国互联网如何重构？" target="_blank">2012中国互联网如何重构？</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-109223.html" title="李昕晢：专注是成功女性的特质" target="_blank">李昕晢：专注是成功女性的特质</a></li></ul></div>
+                        <!--时评 end-->
+                    </div>
+                    <div class="con_in_right">
+                       <!--专区-->
+                         <div class="left2" id="book_cleft_3"><div class="left2_title clearfix"><h1 class="left2_title_h"><a href="http://www.ebusinessreview.cn/topics/" title="商学院" target="_blank">商学院</a></h1><div class="left2_title_div"><a href="http://www.ebusinessreview.cn/topics/" title="更多" target="_blank">更多</a></div></div><ul class="left2_top clearfix"><li><a href="http://www.ebusinessreview.cn/topics/innovation/" title="商学院" target="_blank"><img src="/image/topics_01.jpg" alt="商学院"></img></a></li><li class="clearfix"><div class="left2_pic"><a href="http://www.ebusinessreview.cn/articledetail-7445.html" title="发掘客户体验的价值" target="_blank"><img src="http://www.ebusinessreview.cn/upfile/content/20111201161927.jpg" onerror="this.src=''" alt="发掘客户体验的价值"></img></a></div><h3><a href="http://www.ebusinessreview.cn/articledetail-7445.html" title="发掘客户体验的价值" target="_blank">发掘客户体验的价值</a></h3><p>刘强东送快递，认出东哥一律5折。在竞争愈发激烈的电子商务时代，企业应愈加重视客户体验的价值。</p><div></div></li><li class="clearfix"><div class="left2_pic"><a href="http://www.ebusinessreview.cn/articledetail-7746.html" title="高管告状记" target="_blank"><img src="http://www.ebusinessreview.cn/upfile/content/20111201145753.jpg" onerror="this.src=''" alt="高管告状记"></img></a></div><h3><a href="http://www.ebusinessreview.cn/articledetail-7746.html" title="高管告状记" target="_blank">高管告状记</a></h3><p>上药副总裁葛剑秋二度辞职。“管理艺术家”与“管理技术家”，谁更适合变革期或人际关系复杂的企业？</p><div></div></li></ul><ul class="left2_list clearfix"><li><a href="http://www.ebusinessreview.cn/articledetail-7374.html" title="销售必读：说服的科学" target="_blank">销售必读：说服的科学</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-7511.html" title="塑造战略的五种力量" target="_blank">塑造战略的五种力量</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-7355.html" title="销售的关系网战略" target="_blank">销售的关系网战略</a></li></ul></div>
+                       <!--专区  end-->
+                    </div>
+                </div>
+                <div class="clearfix">
+                    <div class="con_in_left">
+                        <!--精彩博文-->
+                        <div class="left1" id="cright_2"><div class="left1_title clearfix"><h4><a href="http://club.ebusinessreview.cn/" title="精彩博文" target="_blank">精彩博文</a></h4><div><a href="http://club.ebusinessreview.cn/" title="更多" target="_blank">更多</a></div></div><ul class="left1_top clearfix"><li class="clearfix"><div class="left1_pic"><a href="http://club.ebusinessreview.cn/space-161505.html" target="_blank"><img src="http://club.ebusinessreview.cn/upload/headimage/000000161505.jpg" onerror="this.src='http://club.ebusinessreview.cn/upload/headimage/0000.jpg'" alt="薛金福"></img></a></div><h3><a href="http://club.ebusinessreview.cn/blogArticle-109227.html" title="探求营销的本质" target="_blank">探求营销的本质</a></h3><p class="left1_pang_73">本质实际上是高度精炼的定义。要知道营销的本质先了解营销的定义。之前，很多人</p></li><li class="clearfix"><div class="left1_pic"><a href="http://club.ebusinessreview.cn/space-178683.html" target="_blank"><img src="http://club.ebusinessreview.cn/upload/headimage/000000178683.jpg" onerror="this.src='http://club.ebusinessreview.cn/upload/headimage/0000.jpg'" alt="王育琨"></img></a></div><h3><a href="http://club.ebusinessreview.cn/blogArticle-109243.html" title="从无到有 创造妙有" target="_blank">从无到有 创造妙有</a></h3><p class="left1_pang_73">从无到有创造妙有在极端物质化与纯粹灵性冥想的两极中，乔布斯找到了让生命充实</p></li><li class="clearfix"><div class="left1_pic"><a href="http://club.ebusinessreview.cn/space-145536.html" target="_blank"><img src="http://club.ebusinessreview.cn/upload/headimage/000000145536.jpg" onerror="this.src='http://club.ebusinessreview.cn/upload/headimage/0000.jpg'" alt="信海光"></img></a></div><h3><a href="http://club.ebusinessreview.cn/blogArticle-109146.html" title="听说沙县小吃要上市......" target="_blank">听说沙县小吃要上市......</a></h3><p class="left1_pang_73">沙县小吃的好大一盘棋2011年5月1日，奥巴马发表电视讲话，宣布本·拉登死讯。3天</p></li><li class="clearfix"><div class="left1_pic"><a href="http://club.ebusinessreview.cn/space-189547.html" target="_blank"><img src="http://club.ebusinessreview.cn/upload/headimage/000000189547.jpg" onerror="this.src='http://club.ebusinessreview.cn/upload/headimage/0000.jpg'" alt="陈季冰"></img></a></div><h3><a href="http://club.ebusinessreview.cn/blogArticle-109245.html" title="让我们用电视来“说教”" target="_blank">让我们用电视来“说教”</a></h3><p class="left1_pang_73">对于关心中国文化事业的人而论，中共十七届六中全通过的《中共中央关于深化文化</p></li><li class="clearfix"><div class="left1_pic"><a href="http://club.ebusinessreview.cn/space-169062.html" target="_blank"><img src="http://club.ebusinessreview.cn/upload/headimage/000000169062.jpg" onerror="this.src='http://club.ebusinessreview.cn/upload/headimage/0000.jpg'" alt="李高朋"></img></a></div><h3><a href="http://club.ebusinessreview.cn/blogArticle-109272.html" title="今日感慨：房价下降乱谈" target="_blank">今日感慨：房价下降乱谈</a></h3><p class="left1_pang_73">最近全国上下颇为关注的房价，在一片声讨中，交易量紧缩。更有不少城市传出新房</p></li></ul></div>
+                        <!--精彩博文 end-->
+                    </div>
+                    <div class="con_in_right">
+                       <!--专兰-->
+                        <div id="cright_1" class="left1"><div class="left1_tops clearfix"><h4>专栏</h4></div><ul class="left1_top clearfix"><li><div class="left1_pic"><a href="/prosingle-99.html" title="杜书伍" target="_blank"><img src="/upload/du shuwu.jpg" onerror="this.src='/image/notimage.gif'"></img></a></div><h5><a href="http://www.ebusinessreview.cn/articledetail-68358.html" title="沟通能力的基础" target="_blank">沟通能力的基础</a></h5><p><a href="/prosingle-99.html" title="联强国际集团总裁兼执行长。">杜书伍</a></p><p>“不善沟通”，是很多人亟欲改善、提升的能力要项之一...</p></li><li><div class="left1_pic"><a href="/prosingle-326.html" title="管理漫谈" target="_blank"><img src="/upload/Conversation.gif" onerror="this.src='/image/notimage.gif'"></img></a></div><h5><a href="http://www.ebusinessreview.cn/articledetail-108654.html" title="自恋型CEO会给企业带来什么" target="_blank">自恋型CEO会给企业带来什么</a></h5><p><a href="/prosingle-326.html" title="该专栏是众多管理专家的论坛园地，他们在此无拘无束地讨论各类管理话题和各自的见解。">管理漫谈</a></p><p>自恋型高管有其“光明一面”：勇于冒险和创新；在其他...</p></li><li><div class="left1_pic"><a href="/prosingle-346.html" title="罗恩·阿什克纳斯（Ron Ashkenas）" target="_blank"><img src="/upload/Ron Ashkenas.gif" onerror="this.src='/image/notimage.gif'"></img></a></div><h5><a href="http://www.ebusinessreview.cn/articledetail-108662.html" title="领导人为什么喜欢叫板" target="_blank">领导人为什么喜欢叫板</a></h5><p><a href="/prosingle-346.html" title="《通用电气“群策群力”》(The GE Work-Out)和《无边界组织》（The Boundaryless Organization）两书的作者。">罗恩·阿什克纳斯（Ron Ashkenas）</a></p><p>“胆小鬼”游戏是儿时一种比试胆量的游戏，而如今，许...</p></li><li><div class="left1_pic"><a href="/prosingle-69.html" title="克莱顿·克里斯滕森（Clayton M. Christensen）" target="_blank"><img src="/upload/Christensen.jpg" onerror="this.src='/image/notimage.gif'"></img></a></div><h5><a href="http://www.ebusinessreview.cn/articledetail-108824.html" title="创新是只黑匣子？" target="_blank">创新是只黑匣子？</a></h5><p><a href="/prosingle-69.html" title="哈佛商学院教授, “颠覆性技术”理念的首创者，并因此获得了“颠覆大师”的美誉。">克莱顿·克里斯滕森（Clayton M. Christensen）</a></p><p>我们认为，大部分企业的增长受阻的真正原因，不是因为...</p></li><li><div class="left1_pic"><a href="/prosingle-373.html" title="王育琨" target="_blank"><img src="/upfile/source/20110421145353.jpg" onerror="this.src='/image/notimage.gif'"></img></a></div><h5><a href="http://www.ebusinessreview.cn/articledetail-108167.html" title="李嘉诚证悟“盔甲骑士”" target="_blank">李嘉诚证悟“盔甲骑士”</a></h5><p><a href="/prosingle-373.html" title="王育琨，清华大学长三角研究院中国企业家思想研究中心主任，全球并购研究中心学术委员，山东大学经管学院、南京航空航天大学经管学院特聘教授，多家企业集团顾问。
+&nbsp;">王育琨</a></p><p>“更新求变，就是使自己不被盔甲禁锢束缚的关键，我们...</p></li></ul></div>
+                       <!--专兰 end-->
+                    </div>
+                </div>
+                <div class="clearfix">
+                    <div class="con_in_left">
+                        <!--案例-->
+                        <div class="caseleft" id="cright_3"><div class="caseleft_title clearfix"><h4>案例分析</h4><ul id="ul-cright_3" class="caseleft_tab clearfix"><li class="current"><a href="#cright_3_3" rel="nofollow">HBR案例</a></li><li><a href="#cright_3_4" rel="nofollow">实战案例</a></li></ul></div><div id="cright_3_3" class="caseleft_content clearfix" style="display: block;"><ul class="left2_top clearfix"><li class="clearfix"><div class="left2_pic"><a href="http://www.ebusinessreview.cn/articledetail-109083.html" title="咱们公司的年轻人" target="_blank"><img src="http://www.ebusinessreview.cn/upfile/content/20111130161816.jpg" onerror="this.src=''" alt="咱们公司的年轻人"></img></a></div><h3><a href="http://www.ebusinessreview.cn/articledetail-109083.html" title="咱们公司的年轻人" target="_blank">咱们公司的年轻人</a></h3><p>林强：他们怎么了原定9点半开始的会，小米差不多到10点才一路小跑进来。我瞄了她一眼...</p><div></div></li><li class="clearfix"><div class="left2_pic"><a href="http://www.ebusinessreview.cn/articledetail-223.html" title="渠道压货能走多远？" target="_blank"><img src="http://www.ebusinessreview.cn/upfile/content/20111128100923.jpg" onerror="this.src=''" alt="渠道压货能走多远？"></img></a></div><h3><a href="http://www.ebusinessreview.cn/articledetail-223.html" title="渠道压货能走多远？" target="_blank">渠道压货能走多远？</a></h3><p>又到了季末，家居用品生产商艾克赛索公司的销售人员们正竭尽全力向CEO弗莱提出的销售...</p><div></div></li></ul><ul class="left2_list clearfix"><li><a href="http://www.ebusinessreview.cn/articledetail-222.html" title="创业，当真没有不散的筵席？" target="_blank">创业，当真没有不散的筵席？</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-221.html" title="外包人员撂挑子了" target="_blank">外包人员撂挑子了</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-220.html" title="这“牌”该怎么打？" target="_blank">这“牌”该怎么打？</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-219.html" title="该怎么爱你，我的露比宝贝？" target="_blank">该怎么爱你，我的露比宝贝？</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-105282.html" title="当使命遇到利润" target="_blank">当使命遇到利润</a></li></ul></div><div id="cright_3_4" class="caseleft_content clearfix" style="display:none;"><ul class="left2_top clearfix"><li class="clearfix"><div class="left2_pic"><a href="http://www.ebusinessreview.cn/articledetail-109117.html" title="淘宝创想：反过来的C2B" target="_blank"><img src="http://www.ebusinessreview.cn/upfile/content/20111201092707.jpg" onerror="this.src=''" alt="淘宝创想：反过来的C2B"></img></a></div><h3><a href="http://www.ebusinessreview.cn/articledetail-109117.html" title="淘宝创想：反过来的C2B" target="_blank">淘宝创想：反过来的C2B</a></h3><p>当中国电子商务市场达到数千亿元规模，当淘宝占据中国电子商务市场大半江山的时候，淘...</p><div></div></li><li class="clearfix"><div class="left2_pic"><a href="http://www.ebusinessreview.cn/articledetail-108841.html" title="小玩具的营销大智慧" target="_blank"><img src="http://www.ebusinessreview.cn/upfile/content/20111128100642.jpg" onerror="this.src=''" alt="小玩具的营销大智慧"></img></a></div><h3><a href="http://www.ebusinessreview.cn/articledetail-108841.html" title="小玩具的营销大智慧" target="_blank">小玩具的营销大智慧</a></h3><p>2010年美国儿童最喜欢的圣诞礼物，并被《纽约时报》评为年度畅销玩具，是什么小玩意儿...</p><div></div></li></ul><ul class="left2_list clearfix"><li><a href="http://www.ebusinessreview.cn/articledetail-108604.html" title="TCL的反转战" target="_blank">TCL的反转战</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-108340.html" title="沃尔玛换血内幕" target="_blank">沃尔玛换血内幕</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-108043.html" title="黑卡黑洞" target="_blank">黑卡黑洞</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-107142.html" title="雅虎为何没落" target="_blank">雅虎为何没落</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-107134.html" title="IDEO的创新法则" target="_blank">IDEO的创新法则</a></li></ul></div><script type="text/javascript">SetTabs_Mouseover("cright_3");</script></div>
+                        <!--案例 end-->
+                    </div>
+                    <div class="con_in_right">
+                        <!--智库-->
+                        <div class="left2" id="cleft_3"><div class="left2_title clearfix"><h1 class="left2_title_h"><a href="http://www.ebusinessreview.cn/analysis/" title="管理智库" target="_blank">管理智库</a></h1><div class="left2_title_div"><a href="http://www.ebusinessreview.cn/analysis/" title="更多" target="_blank">更多</a></div></div><ul class="left2_top clearfix"><li class="clearfix"><div class="left2_pic"><a href="http://www.ebusinessreview.cn/articledetail-67764.html" title="主动转型 突破瓶颈——IBM发布《民营企业持续成长之路》白皮书" target="_blank"><img src="http://www.ebusinessreview.cn/upfile/content/20110614095527.JPG" onerror="this.src=''" alt="主动转型 突破瓶颈——IBM发布《民营企业持续成长之路》白皮书"></img></a></div><h3><a href="http://www.ebusinessreview.cn/articledetail-67764.html" title="主动转型 突破瓶颈——IBM发布《民营企业持续成长之路》白皮书" target="_blank">主动转型 突破瓶颈——IBM发布《民营企业持续成长之路》白皮书</a></h3><p>IBM全球企业咨询服务部（Global Business Services-GBS）在杭州发布了其最新的名为《...</p><div></div></li><li class="clearfix"><div class="left2_pic"><a href="http://www.ebusinessreview.cn/articledetail-85399.html" title="复制乔布斯式研发" target="_blank"><img src="http://www.ebusinessreview.cn/upfile/content/20110627095838.jpg" onerror="this.src=''" alt="复制乔布斯式研发"></img></a></div><h3><a href="http://www.ebusinessreview.cn/articledetail-85399.html" title="复制乔布斯式研发" target="_blank">复制乔布斯式研发</a></h3><p>2010年5月26日，苹果公司以2213.6亿美元的市值，成为“世上最有价值科技公司”。大部...</p><div></div></li></ul><ul class="left2_list clearfix"><li><a href="http://www.ebusinessreview.cn/articledetail-107618.html" title="快消品公司货架保卫战" target="_blank">快消品公司货架保卫战</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-94986.html" title="生意模式的抉择" target="_blank">生意模式的抉择</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-103516.html" title="工作机遇从何来？" target="_blank">工作机遇从何来？</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-68434.html" title="中企动力：云平台的个性化信息服务" target="_blank">中企动力：云平台的个性化信息服务</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-107620.html" title="商业智能优化决策" target="_blank">商业智能优化决策</a></li></ul></div>
+                        <!--智库 end-->
+                    </div>
+                </div>
+                <div class="clearfix">
+                    <div class="con_in_left">
+                        <!--精彩栏目-->
+                        <div class="left2" id="ileft_2"><div class="left2_title clearfix"><h1 class="left2_title_h"><a href="http://www.ebusinessreview.cn/workplife/" title="精彩栏目" target="_blank">精彩栏目</a></h1><div class="left2_title_div"><a href="http://www.ebusinessreview.cn/workplife/" title="更多" target="_blank">更多</a></div></div><ul class="left2_top clearfix"><li class="clearfix"><div class="left2_pic"><a href="http://www.ebusinessreview.cn/articledetail-109222.html" title="为何你的薪水不公平？" target="_blank"><img src="http://www.ebusinessreview.cn/upfile/content/20111202104244.jpg" onerror="this.src='/image/notimage.gif'" alt="为何你的薪水不公平？"></img></a></div><h3><a href="http://www.ebusinessreview.cn/articledetail-109222.html" title="为何你的薪水不公平？" target="_blank">为何你的薪水不公平？</a></h3><p>你在你的公司里长期处于薪水低于标准的状态，并且，很明显，你试图去纠正这个问题所采取的方法都没有奏效。</p><div></div></li></ul><ul class="left2_list clearfix"><li><a href="http://www.ebusinessreview.cn/articledetail-108979.html" title="商务活动中的面条和不面条" target="_blank">商务活动中的面条和不面条</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-108913.html" title="乔布斯、盖茨、布林和佩奇被高估了？" target="_blank">乔布斯、盖茨、布林和佩奇被高估了？</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-108837.html" title="虚火高燃的Facebook千亿IPO？" target="_blank">虚火高燃的Facebook千亿IPO？</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-108695.html" title="性格内向？你发光的时刻来临了！" target="_blank">性格内向？你发光的时刻来临了！</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-108614.html" title="7个步骤在工作中成为成年人" target="_blank">7个步骤在工作中成为成年人</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-108496.html" title="在中国开餐馆的年轻美籍华人" target="_blank">在中国开餐馆的年轻美籍华人</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-108392.html" title="老板偏心怎么办？" target="_blank">老板偏心怎么办？</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-108341.html" title="视频网站：“傍款”还是“拼爹”？" target="_blank">视频网站：“傍款”还是“拼爹”？</a></li></ul></div>
+                        <!--精彩栏目 end-->
+                    </div>
+                    <div class="con_in_right">
+                        <!--读书-->
+                        <div class="left2" id="activity_cright_2"><div class="left2_title clearfix"><h1 class="left2_title_h"><a href="http://book.ebusinessreview.cn/" title="读书" target="_blank">读书</a></h1><div class="left2_title_div"><a href="http://book.ebusinessreview.cn/" title="更多" target="_blank">更多</a></div></div><ul class="left2_top clearfix"><li class="clearfix"><div class="left2_pic"><a href="http://book.ebusinessreview.cn/book-109054.html" title="嚣张的特权" target="_blank"><img src="http://www.ebusinessreview.cn/upfile/content/20111130143600.jpg" onerror="this.src=''" alt="嚣张的特权"></img></a></div><h3><a href="http://book.ebusinessreview.cn/book-109054.html" title="嚣张的特权" target="_blank">嚣张的特权</a></h3><p><p>在过去的半个多世纪里，美元不仅仅是美国的货币，而且也是世界的货币，全球的进口商、出口商、投资者以...</p><div></div></li></ul><ul class="left2_list clearfix"><li><a href="http://book.ebusinessreview.cn/book-102978.html" title="管理者健康手册" target="_blank">管理者健康手册</a></li><li><a href="http://book.ebusinessreview.cn/book-103182.html" title="上班赚小钱，四大存折赚大钱" target="_blank">上班赚小钱，四大存折赚大钱</a></li><li><a href="http://book.ebusinessreview.cn/book-109040.html" title="哈佛幸福课" target="_blank">哈佛幸福课</a></li><li><a href="http://book.ebusinessreview.cn/book-97468.html" title="郎咸平说： 我们的生活为什么这么无奈" target="_blank">郎咸平说： 我们的生活为什么这么无奈</a></li><li><a href="http://book.ebusinessreview.cn/book-101970.html" title="挑战（第一部）" target="_blank">挑战（第一部）</a></li><li><a href="http://book.ebusinessreview.cn/book-108921.html" title="投放决定利润" target="_blank">投放决定利润</a></li><li><a href="http://book.ebusinessreview.cn/book-102420.html" title="社会化营销:人人参与的营销力量" target="_blank">社会化营销:人人参与的营销力量</a></li><li><a href="http://book.ebusinessreview.cn/book-104817.html" title="就这么做产品（第2版）" target="_blank">就这么做产品（第2版）</a></li></ul></div>
+                        <!--读书 end-->
+                    </div>
+                </div>
+                <div class="clearfix">
+                    <div class="con_in_left">
+                        
+                    </div>
+                    <!--right-->
+                    <div class="con_in_right">
+                        
+                    </div>
+                </div>
+                 <div class="clearfix">
+                   <a target="_blank" href="http://edm.ebusinessreview.cn/ad/index.html"><img src="../image/index_advbanner.jpg" alt=""/></a>
+                 </div>
+            </div>
+        </div>
+        <div class="con_right">
+            <!-- here is 首页右栏 -->
+       <div class="micro_blog1">
+        <div class="micro_blogtitle"><strong>官方微博</strong></div>
+        <div class="micro_blogcon">
+        	<dl class="HBR">
+                <dt><img src="/image/hbrweiboLogo.gif" width="55" height="34" /></dt>
+                <dd><a href="http://weibo.com/hbrc" target="_blank"><img src="/image/sinaLogoS.png" width="16" height="16" /></a>
+                    <a href="http://t.qq.com/hbrchina" target="_blank"><img src="/image/weiboLogoS.png" width="16" height="16" /></a>
+                </dd>     
+            </dl>
+        	<dl class="eBusiness">
+                <dt><img src="/image/ebweiboLogo.gif" width="86" height="34" /></dt>
+                <dd><a href="http://weibo.com/ebusinessreview" target="_blank"><img src="/image/sinaLogoS.png" width="16" height="16" /></a>
+                <a href="http://t.qq.com/ebusinessreview" target="_blank"><img src="/image/weiboLogoS.png" width="16" height="16" /></a>
+               <a href="http://page.renren.com/698000136" target="_blank"><img src="/image/renLogoS.png" width="16" height="16" /></a> </dd>
+        	</dl>
+        	<dl class="gxf">
+                <dt><img src="/image/gxfweiboLogo.gif" width="86" height="34" /></dt>
+             <dd><a href="http://weibo.com/gongxfang" target="_blank"><img src="/image/sinaLogoS.png" width="16" height="16" /></a>
+             <a href="http://t.qq.com/gongxfang" target="_blank"><img src="/image/weiboLogoS.png" width="16" height="16" /></a></dd>
+        	</dl>
+        </div>
+      </div>
+            <div class="note_box clearfix">
+                <div class="note_l" id="c1"><div class="note_l_obj"><a href="http://www.ebusinessreview.cn/topics/manage/" target="_blank"><img src="http://manage.ebusinessreview.cn/upfile/index/201111301313311542.jpg" alt="企业2.0专区"></img></a></div><div class="note_l_text"><a href="http://www.ebusinessreview.cn/topics/manage/" target="_blank">企业2.0专区</a></div></div>
+                <div class="note_r" id="c2"><div class="note_r_obj"><a href="http://www.ebusinessreview.cn/page/prefecture/prefecture189.html" target="_blank"><img src="http://manage.ebusinessreview.cn/upfile/index/201111111055139013.jpg" alt="哈佛幸福课专区"></img></a></div><div class="note_r_text"><a href="http://www.ebusinessreview.cn/page/prefecture/prefecture189.html" target="_blank">哈佛幸福课专区</a></div></div>
+            </div> 
+            <div class="ad_s" id="C4"><!-- homepage_center_300x250 -->
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-0958731028203412", "homepage_center_300x250");
+GA_googleFillSlot("homepage_center_300x250");
+</script></div>
+            <div class="top10" id="C5"><div class="top10_title clearfix"><h4>十大热门</h4><ul id="ul-C5" class="top10_tab clearfix"><li class="current"><a href="#hbr_hotten_tabs_4" rel="nofollow">博文</a></li><li><a href="#hbr_hotten_tabs_3" rel="nofollow">文章</a></li><li><a href="#hbr_hotten_tabs_6" rel="nofollow">杂志</a></li><li><a href="#hbr_hotten_tabs_5" rel="nofollow">读书</a></li></ul></div><div id="hbr_hotten_tabs_4" class="top10_content clearfix" style="display: block;"><ul class="top10_list"><li><span class="top10_no1">1</span><a href="http://club.ebusinessreview.cn/blogArticle-108352.html" title="普通职员与经理差别到底在哪？" target="_blank">普通职员与经理差别到底在哪？</a></li><li><span class="top10_no1">2</span><a href="http://club.ebusinessreview.cn/blogArticle-108371.html" title="回家、在路上以及七宗罪" target="_blank">回家、在路上以及七宗罪</a></li><li><span class="top10_no1">3</span><a href="http://club.ebusinessreview.cn/blogArticle-108795.html" title="职业规划迷茫者：看不清未来，就做好现在" target="_blank">职业规划迷茫者：看不清未来，就做好现在</a></li><li><span>4</span><a href="http://club.ebusinessreview.cn/blogArticle-108770.html" title="品牌谋杀手册事件" target="_blank">品牌谋杀手册事件</a></li><li><span>5</span><a href="http://club.ebusinessreview.cn/blogArticle-108453.html" title="品牌，新一轮拜物教的鼓手" target="_blank">品牌，新一轮拜物教的鼓手</a></li><li><span>6</span><a href="http://club.ebusinessreview.cn/blogArticle-108306.html" title="做有品格的人" target="_blank">做有品格的人</a></li><li><span>7</span><a href="http://club.ebusinessreview.cn/blogArticle-108941.html" title="如果你越吝啬，你就越贫穷" target="_blank">如果你越吝啬，你就越贫穷</a></li><li><span>8</span><a href="http://club.ebusinessreview.cn/blogArticle-108524.html" title="知行合一的领导力才是真正的领导力" target="_blank">知行合一的领导力才是真正的领导力</a></li><li><span>9</span><a href="http://club.ebusinessreview.cn/blogArticle-109143.html" title="浅谈印象管理与结构化面试的关系" target="_blank">浅谈印象管理与结构化面试的关系</a></li><li><span>10</span><a href="http://club.ebusinessreview.cn/blogArticle-108709.html" title="思维篇01 寻找方法之——AB思维模式" target="_blank">思维篇01 寻找方法之——AB思维模式</a></li></ul></div><div id="hbr_hotten_tabs_3" class="top10_content clearfix" style="display:none;"><ul class="top10_list"><li><span class="top10_no1">1</span><a href="http://www.ebusinessreview.cn/articledetail-109059.html" title="iPhone的价格秘密" target="_blank">iPhone的价格秘密</a></li><li><span class="top10_no1">2</span><a href="http://www.ebusinessreview.cn/articledetail-108695.html" title="性格内向？你发光的时刻来临了！" target="_blank">性格内向？你发光的时刻来临了！</a></li><li><span class="top10_no1">3</span><a href="http://www.ebusinessreview.cn/articledetail-108357.html" title="当孩子们无恙时，我们再谈中国模式吧" target="_blank">当孩子们无恙时，我们再谈中国模式吧</a></li><li><span>4</span><a href="http://www.ebusinessreview.cn/articledetail-108346.html" title="从李经纬获刑看健力宝产权改革败局" target="_blank">从李经纬获刑看健力宝产权改革败局</a></li><li><span>5</span><a href="http://www.ebusinessreview.cn/articledetail-108194.html" title="乔布斯是个好决策者吗？" target="_blank">乔布斯是个好决策者吗？</a></li><li><span>6</span><a href="http://www.ebusinessreview.cn/articledetail-108614.html" title="7个步骤在工作中成为成年人" target="_blank">7个步骤在工作中成为成年人</a></li><li><span>7</span><a href="http://www.ebusinessreview.cn/articledetail-108732.html" title="方舟子大战李开复不是坏事" target="_blank">方舟子大战李开复不是坏事</a></li><li><span>8</span><a href="http://www.ebusinessreview.cn/articledetail-74415.html" title="云计算困局" target="_blank">云计算困局</a></li><li><span>9</span><a href="http://www.ebusinessreview.cn/articledetail-108876.html" title="绿城得救了：与中投组建合资公司！" target="_blank">绿城得救了：与中投组建合资公司！</a></li><li><span>10</span><a href="http://www.ebusinessreview.cn/articledetail-108872.html" title="王老吉之患" target="_blank">王老吉之患</a></li></ul></div><div id="hbr_hotten_tabs_6" class="top10_content clearfix" style="display:none;"><ul class="top10_list"><li><span class="top10_no1">1</span><a href="http://www.ebusinessreview.cn/articledetail-101946.html" title="关于跳槽的四大谬论" target="_blank">关于跳槽的四大谬论</a></li><li><span class="top10_no1">2</span><a href="http://www.ebusinessreview.cn/articledetail-104094.html" title="四步建立高效人脉" target="_blank">四步建立高效人脉</a></li><li><span class="top10_no1">3</span><a href="http://www.ebusinessreview.cn/articledetail-101943.html" title="如何设计出突破性产品" target="_blank">如何设计出突破性产品</a></li><li><span>4</span><a href="http://www.ebusinessreview.cn/articledetail-101931.html" title="你的IT项目是定时炸弹吗" target="_blank">你的IT项目是定时炸弹吗</a></li><li><span>5</span><a href="http://www.ebusinessreview.cn/articledetail-101933.html" title="优雅地退位" target="_blank">优雅地退位</a></li><li><span>6</span><a href="http://www.ebusinessreview.cn/articledetail-104083.html" title="如何让你的员工更幸福" target="_blank">如何让你的员工更幸福</a></li><li><span>7</span><a href="http://www.ebusinessreview.cn/articledetail-104085.html" title="怎样管理高潜力人才" target="_blank">怎样管理高潜力人才</a></li><li><span>8</span><a href="http://www.ebusinessreview.cn/articledetail-101934.html" title="与复杂性共处" target="_blank">与复杂性共处</a></li><li><span>9</span><a href="http://www.ebusinessreview.cn/articledetail-101936.html" title="让复杂组织“轻”起来" target="_blank">让复杂组织“轻”起来</a></li><li><span>10</span><a href="http://www.ebusinessreview.cn/articledetail-101945.html" title="打造世界型企业" target="_blank">打造世界型企业</a></li></ul></div><div id="hbr_hotten_tabs_5" class="top10_content clearfix" style="display:none;"><ul class="top10_list"><li><span class="top10_no1">1</span><a href="http://book.ebusinessreview.cn/book-108505.html" title="黄瓜的黄，西瓜的西" target="_blank">黄瓜的黄，西瓜的西</a></li><li><span class="top10_no1">2</span><a href="http://book.ebusinessreview.cn/book-108639.html" title="一天放下成功（一胜九败Ⅱ）" target="_blank">一天放下成功（一胜九败Ⅱ）</a></li><li><span class="top10_no1">3</span><a href="http://book.ebusinessreview.cn/book-108861.html" title="IBM：蓝色基因 百年智慧" target="_blank">IBM：蓝色基因 百年智慧</a></li><li><span>4</span><a href="http://book.ebusinessreview.cn/book-108422.html" title="重塑你的大脑" target="_blank">重塑你的大脑</a></li><li><span>5</span><a href="http://book.ebusinessreview.cn/book-108616.html" title="终结拖延症" target="_blank">终结拖延症</a></li><li><span>6</span><a href="http://book.ebusinessreview.cn/book-109040.html" title="哈佛幸福课" target="_blank">哈佛幸福课</a></li><li><span>7</span><a href="http://book.ebusinessreview.cn/book-109054.html" title="嚣张的特权" target="_blank">嚣张的特权</a></li><li><span>8</span><a href="http://book.ebusinessreview.cn/book-108921.html" title="投放决定利润" target="_blank">投放决定利润</a></li><li><span>9</span><a href="http://book.ebusinessreview.cn/book-109155.html" title="管理者胜任素质发展手册" target="_blank">管理者胜任素质发展手册</a></li></ul></div><script type="text/javascript">SetTabs_Mouseover("C5");</script></div>
+             <div class="dingyueBg">
+                <div class="dingyueBgLf">
+                    <h4>
+                        每周为您推荐商业评论网的精华文章</h4>
+                    <div class="dingyueInput">
+                        <input name="" type="button" id="btnSubscription" class="dybt" value="订阅" />
+                        <input name="" type="text" id="subscriptionEmail"  value="输入email"  class="dytext" />
+                    </div>
+                </div>
+            </div>
+             <div class="apothegm"><div class="apothegmTitle"><div class="pageChange"><span id="LeftButton3" onclick="aa();" class="arrowleft"></span> <span id="RightButton3" onclick="bb();"  class="arrowright"></span> </div><b class="tbgfont">哈佛管理箴言</b></div><div class="apothegmConbg" id="MarqueeDiv3"><ul id="MarqueeDiv3Boxent"><li> <div class="apothegmCon"><span style="color: rgb(104, 104, 104); font-family: SimSun; font-size: 14px; line-height: 21px; white-space: normal; "></span><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 25px; text-indent: 2em; ">每一个值得实施的新战略都会引来争议，甚至抵制。紧要关头，你不能只是论理，更需要权力。然而，许多经理人都对权力这个话题讳莫如深，因为权谋被认为会导致内部分裂、意见分歧、绩效下降。--杰弗里.普费弗；《哈佛商业评论》<a href="http://www.ebusinessreview.cn/articledetail-29338.html">2010年12月号</a>。</p></div><div class="apothegmLink"><a  href="javascript:void(0)" onclick="postToWb('每一个值得实施的新战略都会引来争议，甚至抵制。紧要关头，你不能只是论理，更需要权力。然而，许多经理人都对权力这个话题讳莫如深，因为权谋被认为会导致内部分裂、意见分歧、绩效下降。--杰弗里.普费弗；《哈佛商业评论》2010年12月号。');return false;" style="font-size:12px;display:block; float:right;">转播到腾讯微博</a><img style="display:block; float:right;padding:5px 5px 0px 0px;" src="/image/weiboicon16.png" align="absmiddle" border="0" alt="转播到腾讯微博" /></div></li><li> <div class="apothegmCon"><span style="color: rgb(104, 104, 104); font-family: SimSun; font-size: 14px; line-height: 21px; white-space: normal; "></span><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 25px; text-indent: 2em; ">东西方用户有不同的个人信息传播行为。相对于西方用户，亚洲用户对社交网站的参与度更高。在西方，虽然用户会积极管理社交网站上的个人资料，但他们的其他信息传播行为却相对滞后。-米克拉伊.皮斯科尔斯基；《哈佛商业评论》<a href="http://www.ebusinessreview.cn/articledetail-7850.html">2010年10月号</a>。</p></div><div class="apothegmLink"><a  href="javascript:void(0)" onclick="postToWb('东西方用户有不同的个人信息传播行为。相对于西方用户，亚洲用户对社交网站的参与度更高。在西方，虽然用户会积极管理社交网站上的个人资料，但他们的其他信息传播行为却相对滞后。-米克拉伊.皮斯科尔斯基；《哈佛商业评论》2010年10月号。');return false;" style="font-size:12px;display:block; float:right;">转播到腾讯微博</a><img style="display:block; float:right;padding:5px 5px 0px 0px;" src="/image/weiboicon16.png" align="absmiddle" border="0" alt="转播到腾讯微博" /></div></li><li> <div class="apothegmCon"><span style="color: rgb(104, 104, 104); font-family: SimSun; font-size: 14px; line-height: 21px; white-space: normal; "></span><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 25px; text-indent: 2em; ">权力缺失会让人觉得无能为力，这在中层管理者中表现得尤为明显。每当公司裁减中层职位，留任者的负担就被加重，但其影响力却未能提升。在这些因素的综合作用下，他们可能变得不愿冒险，做事僵化。-罗斯.坎特；《哈佛商业评论》<a href="http://www.ebusinessreview.cn/articledetail-7852.html">2010年10月号</a>。</p></div><div class="apothegmLink"><a  href="javascript:void(0)" onclick="postToWb('权力缺失会让人觉得无能为力，这在中层管理者中表现得尤为明显。每当公司裁减中层职位，留任者的负担就被加重，但其影响力却未能提升。在这些因素的综合作用下，他们可能变得不愿冒险，做事僵化。-罗斯.坎特；《哈佛商业评论》2010年10月号。');return false;" style="font-size:12px;display:block; float:right;">转播到腾讯微博</a><img style="display:block; float:right;padding:5px 5px 0px 0px;" src="/image/weiboicon16.png" align="absmiddle" border="0" alt="转播到腾讯微博" /></div></li><li> <div class="apothegmCon"><span style="color: rgb(104, 104, 104); font-family: SimSun; font-size: 14px; line-height: 21px; white-space: normal; "></span><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 25px; text-indent: 2em; ">课堂以外的学习才是最有价值的。看一个经理人是否优秀，就是看他的整合能力，而这也是管理教育不同于职业教育的关键，因为管理教育强调相互协作性，通过互相分享经验来学习。-理查德.巴克；《哈佛商业评论》<a href="http://www.ebusinessreview.cn/articledetail-7853.html">2010年10月号</a>。</p></div><div class="apothegmLink"><a  href="javascript:void(0)" onclick="postToWb('课堂以外的学习才是最有价值的。看一个经理人是否优秀，就是看他的整合能力，而这也是管理教育不同于职业教育的关键，因为管理教育强调相互协作性，通过互相分享经验来学习。-理查德.巴克；《哈佛商业评论》2010年10月号。');return false;" style="font-size:12px;display:block; float:right;">转播到腾讯微博</a><img style="display:block; float:right;padding:5px 5px 0px 0px;" src="/image/weiboicon16.png" align="absmiddle" border="0" alt="转播到腾讯微博" /></div></li><li> <div class="apothegmCon"><span style="color: rgb(104, 104, 104); font-family: SimSun; font-size: 14px; line-height: 21px; white-space: normal; "></span><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; line-height: 25px; text-indent: 2em; ">经理人在制定创新战略时往往不考虑潮流趋势，他们要么在设计产品时只做表面文章，很肤浅地反映一下潮流对消费者的影响，要么就采取观望态度，让竞争对手率先行动。继而将自己陷入危局。-吕克.瓦休；《哈佛商业评论》<a href="http://www.ebusinessreview.cn/articledetail-7846.html">2010年10月号</a>。</p></div><div class="apothegmLink"><a  href="javascript:void(0)" onclick="postToWb('经理人在制定创新战略时往往不考虑潮流趋势，他们要么在设计产品时只做表面文章，很肤浅地反映一下潮流对消费者的影响，要么就采取观望态度，让竞争对手率先行动。继而将自己陷入危局。-吕克.瓦休；《哈佛商业评论》2010年10月号。');return false;" style="font-size:12px;display:block; float:right;">转播到腾讯微博</a><img style="display:block; float:right;padding:5px 5px 0px 0px;" src="/image/weiboicon16.png" align="absmiddle" border="0" alt="转播到腾讯微博" /></div></li> </ul></div></div> 
+             <div class="readerTJ"><div class="TJtile"> <b>读书推荐</b><div class="BookChange"><span id="BookLeft" onclick="Left();"  class="arrowleft"></span> <span id="BookRight"  onclick="Right();"  class="arrowright"></span> </div><div class="bookico"></div> </div><div class="readerTJcon" id="MarqueeBook"><ul id="MarqueeBookBox"><li><div class="rimg"><a href="http://book.ebusinessreview.cn/book-103393.html"  target="_blank" title="人生定位：特劳特教你营销自己" ><img src="/upfile/content/20111020153621.jpg" width="104" height="142" /></a><p>分享到:<em><a  href="javascript:void(0)" onclick="postToWb2('人生定位：特劳特教你营销自己--不仅企业需要定位，人生也需要定位，经营自己和经营企业的道理是一样的。所谓人生定位，就是要找到自己一个与众不同的优势，同时把自己的优势转化为价值。这是一个高效能管理者的必修课。','/upfile/content/20111020153621.jpg','http://book.ebusinessreview.cn/book-103393.html');return false;"><img src="/image/weiboLogoS.png" width="16" height="16" /></a></em></p></div> <div class="rinfo"><h4><a href="http://book.ebusinessreview.cn/book-103393.html"  target="_blank" title="人生定位：特劳特教你营销自己" >人生定位：特劳特教你营销自己</a></h4><p>不仅企业需要定位，人生也需要定位，经营自己和经营企业的道理是一样的。所谓人生定位，就是要找到自己一个与众不同的优势，同时把自己的优势转化为价值。这是一个高效能管理者的必修课。</p></div></li><li><div class="rimg"><a href="http://book.ebusinessreview.cn/book-49843.html"  target="_blank" title="修炼领导力" ><img src="/upload/636398_leader.jpg" width="104" height="142" /></a><p>分享到:<em><a  href="javascript:void(0)" onclick="postToWb2('修炼领导力--领导力大师凯文&#183;卡什曼最为经典的代表作之一。在这本书中，作者公开了大量新颖的领导力独立研究结果，涵盖令人耳目一新的最新案例，展示全新的领导力培训方法及各种实践，披露强大的领导力虚拟培训经验。','/upload/636398_leader.jpg','http://book.ebusinessreview.cn/book-49843.html');return false;"><img src="/image/weiboLogoS.png" width="16" height="16" /></a></em></p></div> <div class="rinfo"><h4><a href="http://book.ebusinessreview.cn/book-49843.html"  target="_blank" title="修炼领导力" >修炼领导力</a></h4><p>领导力大师凯文·卡什曼最为经典的代表作之一。在这本书中，作者公开了大量新颖的领导力独立研究结果，涵盖令人耳目一新的最新案例，展示全新的领导力培训方法及各种实践，披露强大的领导力虚拟培训经验。</p></div></li><li><div class="rimg"><a href="http://book.ebusinessreview.cn/book-68322.html"  target="_blank" title="经营为什么需要哲学" ><img src="/upfile/content/20110615102457.jpg" width="104" height="142" /></a><p>分享到:<em><a  href="javascript:void(0)" onclick="postToWb2('经营为什么需要哲学--经营的最高境界，一定会上升到哲学层面，正所谓经营之道。经营是为了什么？如何有效地管理人，如何追随最新的商业趋势。稻盛和夫先生用自己50多年的经营经验，完美地阐述了他的经营之道。','/upfile/content/20110615102457.jpg','http://book.ebusinessreview.cn/book-68322.html');return false;"><img src="/image/weiboLogoS.png" width="16" height="16" /></a></em></p></div> <div class="rinfo"><h4><a href="http://book.ebusinessreview.cn/book-68322.html"  target="_blank" title="经营为什么需要哲学" >经营为什么需要哲学</a></h4><p>经营的最高境界，一定会上升到哲学层面，正所谓经营之道。经营是为了什么？如何有效地管理人，如何追随最新的商业趋势。稻盛和夫先生用自己50多年的经营经验，完美地阐述了他的经营之道。</p></div></li><li><div class="rimg"><a href="http://book.ebusinessreview.cn/book-67209.html"  target="_blank" title="管理十律" ><img src="/upfile/content/20110531103257.jpg" width="104" height="142" /></a><p>分享到:<em><a  href="javascript:void(0)" onclick="postToWb2('管理十律--商学院不教管理。这句话听上去很矛盾，但大多数商学院的确如此，对于经理人所需要的最实际、最关键的管理法则，商学院往往是不教的。这些管理法则大都和领导力有关，这也是这本书的主题所在。','/upfile/content/20110531103257.jpg','http://book.ebusinessreview.cn/book-67209.html');return false;"><img src="/image/weiboLogoS.png" width="16" height="16" /></a></em></p></div> <div class="rinfo"><h4><a href="http://book.ebusinessreview.cn/book-67209.html"  target="_blank" title="管理十律" >管理十律</a></h4><p>商学院不教管理。这句话听上去很矛盾，但大多数商学院的确如此，对于经理人所需要的最实际、最关键的管理法则，商学院往往是不教的。这些管理法则大都和领导力有关，这也是这本书的主题所在。</p></div></li><li><div class="rimg"><a href="http://book.ebusinessreview.cn/book-97625.html"  target="_blank" title="成为更好的领导者" ><img src="/upfile/content/20110819142631.jpg" width="104" height="142" /></a><p>分享到:<em><a  href="javascript:void(0)" onclick="postToWb2('成为更好的领导者--这本书介绍了实用的领导力提升技巧，包括识别自己的领导风格，设定完善的目标，认识领导力的基础，拥有坚定的信念，改进自己的沟通技能，形成良好的思维模式，学习与他人交往合作的能力，平衡工作和生活。','/upfile/content/20110819142631.jpg','http://book.ebusinessreview.cn/book-97625.html');return false;"><img src="/image/weiboLogoS.png" width="16" height="16" /></a></em></p></div> <div class="rinfo"><h4><a href="http://book.ebusinessreview.cn/book-97625.html"  target="_blank" title="成为更好的领导者" >成为更好的领导者</a></h4><p>这本书介绍了实用的领导力提升技巧，包括识别自己的领导风格，设定完善的目标，认识领导力的基础，拥有坚定的信念，改进自己的沟通技能，形成良好的思维模式，学习与他人交往合作的能力，平衡工作和生活。</p></div></li></ul></div></div>  
+            <div class="active" id="C6"><div class="active_title"><h4><a href="http://club.ebusinessreview.cn/events" title="热门活动" target="_blank">热门活动</a></h4><div><a href="http://club.ebusinessreview.cn/events" title="更多" target="_blank">更多</a></div></div><ul class="active_top"><li class="clearfix"><div class="active_pic"><a href="http://club.ebusinessreview.cn/activitydetail-6630.html" target="_blank"><img src="http://www.ebusinessreview.cn/upfile/activity/20111128094711.jpg" onerror="this.src='/image/notimage.gif'" alt="2011中国财务精英俱乐部财务精英高峰论坛暨嘉年华"></img></a></div><h3><a href="http://club.ebusinessreview.cn/activitydetail-6630.html" title="2011中国财务精英俱乐部财务精英高峰论坛暨嘉年华" target="_blank">2011中国财务精英俱乐部财务精英高峰论坛暨嘉年华</a></h3><p> 2011财务精英高峰论坛将于2011年12月21日在上海举行，本届论坛由CFEC（中国财务精英俱乐部）主办，主题是</p></li><li class="clearfix"><div class="active_pic"><a href="http://club.ebusinessreview.cn/activitydetail-6622.html" target="_blank"><img src="http://www.ebusinessreview.cn/upfile/activity/20111031140734.jpg" onerror="this.src='/image/notimage.gif'" alt="创新营销2011 高峰论坛"></img></a></div><h3><a href="http://club.ebusinessreview.cn/activitydetail-6622.html" title="创新营销2011 高峰论坛" target="_blank">创新营销2011 高峰论坛</a></h3><p>会议主旨：  创新营销2011高峰论坛是为最高端的以客户为中心的电子时代营销人士举办的圆桌论坛。主要讨论和</p></li><li class="clearfix"><div class="active_pic"><a href="http://club.ebusinessreview.cn/activitydetail-6632.html" target="_blank"><img src="http://www.ebusinessreview.cn/upfile/activity/20111129162115.gif" onerror="this.src='/image/notimage.gif'" alt="福盈则祸至：一种处世哲学"></img></a></div><h3><a href="http://club.ebusinessreview.cn/activitydetail-6632.html" title="福盈则祸至：一种处世哲学" target="_blank">福盈则祸至：一种处世哲学</a></h3><p>主题：福盈则祸至：一种处世哲学地点：浙江省杭州市植物园时间：12月17日（周六） 13:30-16:30 请提前半小</p></li><li class="clearfix"><div class="active_pic"><a href="http://club.ebusinessreview.cn/activitydetail-6631.html" target="_blank"><img src="http://www.ebusinessreview.cn/upfile/activity/20111128161802.jpg" onerror="this.src='/image/notimage.gif'" alt="2011 ASIA HR SUMMIT暨年度颁奖嘉年华"></img></a></div><h3><a href="http://club.ebusinessreview.cn/activitydetail-6631.html" title="2011 ASIA HR SUMMIT暨年度颁奖嘉年华" target="_blank">2011 ASIA HR SUMMIT暨年度颁奖嘉年华</a></h3><p> 2011年12月9日亚太区人力资源高峰论坛将在上海国际会议中心隆重开幕，作为ASIA HR SUMMIT落户中国后首次大</p></li><li class="clearfix"><div class="active_pic"><a href="http://club.ebusinessreview.cn/activitydetail-6628.html" target="_blank"><img src="http://www.ebusinessreview.cn" onerror="this.src='/image/notimage.gif'" alt="行动的证悟--百年基业第六届领导力发展最佳实践分享年"></img></a></div><h3><a href="http://club.ebusinessreview.cn/activitydetail-6628.html" title="行动的证悟--百年基业第六届领导力发展最佳实践分享年" target="_blank">行动的证悟--百年基业第六届领导力发展最佳实践分享年</a></h3><p> 2011年对中国而言，是“十二五”规划的开局之年，“十二五”时期是加快转变经济发展方式的攻坚时期。对于</p></li></ul></div>
+            <div id="C7"></div>
+        </div>
+    </div>
+    <div>
+        <!-- here is 首页通栏下方 -->
+        <div class="magbox_new" id="left6"><div class="mag_top clearfix"></div><div class="mag_inner clearfix"><div class="mag_ml"><div class="mag_title clearfix"><h4>杂志</h4></div><div class="mag clearfix" id="ID"><div class="mag_content"><span class="mag_u" id="IDprev"></span><span class="mag_n" id="IDnext"></span><div class="mag_recommend clearfix" id="ID_box"><ul><li><div class="blog_pic"><a href="http://www.ebusinessreview.cn/articledetail-7816.html" target="_blank"><img src="/upfile/content/20110119095251.jpg" onerror="this.src='/image/notimage.gif'" alt="领导者必修课：了解你的追随者"></img></a></div><div class="mag_right"><h5><a href="http://www.ebusinessreview.cn/articledetail-7816.html" title="领导者必修课：了解你的追随者" target="_blank">领导者必修课：了解你的追随者</a></h5><p>只要是领导者，至少就有一个追随者，这是毋庸置疑的。然而，大量的研究和著作都在关注优秀的领导力，而从未关注过追随者， 这给人的错觉就是：领导者很重要，追随者无所谓。其实，领导者与追随者之间是一种密不可分的关系，无论离开哪一方，另一方都将难以为继。与领导者风格各异一样，追随者也并非千人一面，因此，对追随者不能采取简单的一刀切的方法。本文作者对领导者与追随者之间的关系演变进行了研究，提出了自己的下属分类</p></div></li><li><div class="blog_pic"><a href="http://www.ebusinessreview.cn/articledetail-7817.html" target="_blank"><img src="/upfile/content/20110314101519.jpg" onerror="this.src='/image/notimage.gif'" alt="停止创新内战"></img></a></div><div class="mag_right"><h5><a href="http://www.ebusinessreview.cn/articledetail-7817.html" title="停止创新内战" target="_blank">停止创新内战</a></h5><p>在很多组织中，创新团队与日常运营团队间矛盾重重。究其根源，是因为两个团队之间存在深层次的差异。业绩引擎的负责人关注的是效率、权责明晰等，它们的目标是让每一项任务、每一个流程和每一项活动都尽可能地成为企业周而复始的惯例。但创新工作则恰恰相反，它本来就是要打破常规。由于创新与日常业务在各方面都格格不入，自然会形成一种相互敌视的局面。正是由于创新团队和日常运营团队的相互敌视，所以多数高管认为，要实施重大</p></div></li><li><div class="blog_pic"><a href="http://www.ebusinessreview.cn/articledetail-7818.html" target="_blank"><img src="/upfile/content/20110119095452.jpg" onerror="this.src='/image/notimage.gif'" alt="怎样砍成本"></img></a></div><div class="mag_right"><h5><a href="http://www.ebusinessreview.cn/articledetail-7818.html" title="怎样砍成本" target="_blank">怎样砍成本</a></h5><p>削减成本是一件令管理者感到很头疼的事情。公司削减成本的原因有很多，如提高或维持利润、取得收购的协同效益、避免破产等。如果你正在领导一个部门，现在接到公司的命令，要求把本部门的管理费用削减10%，20%，甚至30%。你该怎么办？首先，不要指望一个点子就可以彻底改变部门的成本结构，一蹴而就地解决问题。相反，你应该制订计划，采取10项或更多的举措来达成目标。其次，你削减成本的力度越大，对公司产生的冲击通</p></div></li><li><div class="blog_pic"><a href="http://www.ebusinessreview.cn/articledetail-7819.html" target="_blank"><img src="/upfile/content/20110121101713.jpg" onerror="this.src='/image/notimage.gif'" alt="让客户省心"></img></a></div><div class="mag_right"><h5><a href="http://www.ebusinessreview.cn/articledetail-7819.html" title="让客户省心" target="_blank">让客户省心</a></h5><p>公司必须“取悦”客户，这一观念已根深蒂固，很少会有人对此加以质疑。但作者的研究表明，取悦客户并不能提高客户忠诚度，帮他们减少在使用公司产品时的麻烦则能。公司如能谨遵这一原则，将有助于提高客服质量，降低客服成本，减少客户流失。作者发现，最容易引起客户不满的是让他们在使用公司产品时劳神费力。因此，公司要做的事情就是让顾客“省心省力”。要减少顾客的麻烦，评估客户的不满程度，公司可以使用一个新的指标，客户</p></div></li><li><div class="blog_pic"><a href="http://www.ebusinessreview.cn/articledetail-7820.html" target="_blank"><img src="/upfile/content/20110121101753.jpg" onerror="this.src='/image/notimage.gif'" alt="变局时代的三大冲击波"></img></a></div><div class="mag_right"><h5><a href="http://www.ebusinessreview.cn/articledetail-7820.html" title="变局时代的三大冲击波" target="_blank">变局时代的三大冲击波</a></h5><p>过去，每经历过一次翻天覆地的技术创新（比如电话和内燃机的出现），基础设施的发展步伐便会迅速稳定下来。而如今，基础设施的发展日新月异，根本看不到任何稳定下来的痕迹。这意味着竞争的激烈程度虽两倍于40年前，但仍愈演愈烈，同时，数字化基础设施的迅速发展也增加了商业创新的潜力和必要性。</p></div></li><li><div class="blog_pic"><a href="http://www.ebusinessreview.cn/articledetail-7822.html" target="_blank"><img src="/upfile/content/20111202101151.jpg" onerror="this.src='/image/notimage.gif'" alt="实现梦想，先从梦中醒来——专访美国首位黑人女宇航员梅&#8226;杰米森"></img></a></div><div class="mag_right"><h5><a href="http://www.ebusinessreview.cn/articledetail-7822.html" title="实现梦想，先从梦中醒来——专访美国首位黑人女宇航员梅&#8226;杰米森" target="_blank">实现梦想，先从梦中醒来——专访美国首位黑人女宇航员梅&#8226;杰米森</a></h5><p>她是进入太空的第一个有色人种女性，在“奋进号”历时8天的飞行中，完成了包括在太空首次繁殖蛙类两栖动物等多项实验。她是一名创业者，离开NASA后，她创建了自己的技术设备研发及服务公司，并获得了NASA的商业化许可。她是一位社会活动家，创立了名为“地球共享”（The Earth We Share）的国际科学营，激发青少年思考有关地球的问题。她还是一名医生，作为和平组织的一员，她在西非、东非和柬埔寨难民</p></div></li></ul></div><script src="/js/jcarousellite.min.js" type="text/javascript"></script><script language="javascript" type="text/javascript">recommend("ID",2)</script></div></div></div><div class="mag_mr"><div class="new_mag"><div class="clearfix"><div class="mag_new_r"><div class="mag_title clearfix"><div class="mag_left"><a href="/magazinesingle-120.html" title="2011-12" target="_blank">最新期刊</a></div></div><ul><li><a href="http://www.ebusinessreview.cn/articledetail-109064.html" title="广告语的反作用" target="_blank">广告语的反作用</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-109065.html" title="“大我型”领导更有效" target="_blank">“大我型”领导更有效</a></li><li><a href="http://www.ebusinessreview.cn/articledetail-109067.html" title="可持续发展的三个趋势" target="_blank">可持续发展的三个趋势</a></li></ul><script type="text/javascript">function rdi(url) { var id=$('#selectliset').val(); document.location.href = url.replace('0', id);}</script><div class="mag_title clearfix"><a href="/magzine.html" title="过往期刊" target="_blank">过往期刊</a></div><select id="selectliset" onchange="rdi('/magazinesingle-0.html')"><option class="form" value="0">请选择期刊号</option><option value="120">2011-12</option><option value="119">2011-11</option><option value="118">2011-10</option><option value="117">2011-09</option><option value="116">2011-08</option><option value="115">2011-07</option><option value="114">2011-06</option><option value="113">2011-05</option><option value="112">2011-04</option><option value="111">2011-03</option><option value="110">2011-02</option><option value="109">2011-01</option><option value="108">2010-12</option><option value="106">2010-11</option><option value="105">2010-10</option><option value="103">2010-09</option><option value="102">2010-08</option><option value="101">2010-07</option><option value="99">2010-06</option><option value="98">2010-05</option><option value="97">2010-04</option><option value="96">2010-03</option><option value="93">2010-02</option><option value="95">2010-01</option><option value="91">2009-12</option><option value="90">2009-11</option><option value="89">2009-10</option><option value="88">2009-09</option><option value="87">2009-08</option><option value="86">2009-07</option><option value="84">2009-06</option><option value="83">2009-05</option><option value="82">2009-04</option><option value="81">2009-03</option><option value="80">2009-02</option><option value="79">2009-01</option><option value="78">2008-12</option><option value="77">2008-11</option><option value="76">2008-10</option><option value="75">2008-09</option><option value="74">2008-08</option><option value="73">2008-07</option><option value="72">2008-06</option><option value="71">2008-05</option><option value="70">2008-04</option><option value="69">2008-03</option><option value="68">2008-02</option><option value="67">2008-01</option><option value="66">2007-12</option><option value="65">2007-11</option><option value="64">2007-10</option><option value="63">2007-09</option><option value="62">2007-08</option><option value="61">2007-07</option><option value="60">2007-06</option><option value="59">2007-05</option><option value="58">2007-04</option><option value="57">2007-03</option><option value="56">2007-02</option><option value="55">2007-01</option><option value="54">2006-12</option><option value="53">2006-11</option><option value="52">2006-10</option><option value="51">2006-09</option><option value="50">2006-08</option><option value="49">2006-07</option><option value="48">2006-06</option><option value="47">2006-05</option><option value="46">2006-04</option><option value="45">2006-03</option><option value="44">2006-02</option><option value="43">2006-01</option><option value="42">2005-12</option><option value="41">2005-11</option><option value="40">2005-10</option><option value="39">2005-09</option><option value="38">2005-08</option><option value="37">2005-07</option><option value="36">2005-06</option><option value="35">2005-05</option><option value="34">2005-04</option><option value="33">2005-03</option><option value="32">2005-02</option><option value="31">2005-01</option><option value="30">2004-12</option><option value="29">2004-11</option><option value="28">2004-10</option><option value="27">2004-09</option><option value="26">2004-08</option><option value="25">2004-07</option><option value="24">2004-06</option><option value="23">2004-05</option><option value="22">2004-04</option><option value="21">2004-03</option><option value="20">2004-02</option><option value="19">2004-01</option><option value="18">2003-12</option><option value="17">2003-11</option><option value="16">2003-10</option><option value="15">2003-09</option><option value="14">2003-08</option><option value="13">2003-07</option><option value="12">2003-06</option><option value="11">2003-05</option><option value="10">2003-04</option><option value="8">2003-03</option><option value="9">2003-02</option><option value="3">2003-01</option><option value="4">2002-12</option><option value="5">2002-11</option><option value="6">2002-10</option><option value="7">2002-09</option></select><ul id="buy_menu" class="mag_mr_buy_menu_ul"><li><a href="http://club.ebusinessreview.cn/subscribe.html" title="个人订购" target="_blank">个人订购</a></li><li><a href='/group_edm/001.html'title='团体订购' target='_blank'>团体订购<!--[if gte IE 7]><!--></a><!--<![endif]--><ul><!--[if lte IE 6]><table><tr><td><![endif]--><li><a href="/group_edm/001.html" title="团体订购" target="_blank">团体订购</a></li><li><a href="/group_edm/002.html" title="管理文库" target="_blank">管理文库</a></li><li><a href="/group_edm/003.html" title="经典文章重印" target="_blank">经典文章重印</a></li><li><a href="/group_edm/004.html" title="企业学习中心" target="_blank">企业学习中心</a></li><!--[if lte IE 6]></td></tr></table></a><![endif]--></ul></li></ul></div><div class="mag_new_pic"><p><a href="/magazinesingle-120.html" target="_blank"><img src="/upfile/magazine/20111130152830.jpg" onerror="this.src='/image/notimage.gif'" alt="2011-12"></img></a></p><p class="redbtn"><a href="http://club.ebusinessreview.cn/recharge_card.html" class="mag_buy_card" title="阅读卡充值;" target="_blank">阅读卡充值&gt;</a></p></div></div></div></div></div></div>
+    </div>
+     <script src="/js/index.js" type="text/javascript"></script>
+
+        <!--begin #footer-->
+        <div class="footer clearfix">
+        <div class="returntop"><a href="#top"><img src="/image/returntop.png" width="30" height="101" /></a></div>
+            <div class="hbr">
+                <a href="http://www.hbr.org">
+                    <img src="/image/hbr_logo.gif" alt="Harvard Business Publishing" /></a><img src="/image/hbrchina_logo.gif"
+                        alt="商业评论网" /><a href="http://www.gongxf.com/landing.aspx?id=7"><img src="/image/login_logo.png"
+                            alt="兄弟网站" /></a></div>
+            <div class="foot_right">
+       
+                <ul class="footmenu">
+                    <li class="first">
+                        <a href="http://www.ebusinessreview.cn/about_us.html" title="关于我们" target="_blank">关于我们</a>
+                    </li>
+                    <li>
+                        <a href="http://www.ebusinessreview.cn/contact.html" title="联系我们" target="_blank">联系我们</a>
+                    </li>
+                    <li>
+                        <a href="http://www.ebusinessreview.cn/service_claim.html" title="服务条款" target="_blank">服务条款</a></li><li>
+                            <a href="http://www.ebusinessreview.cn/ad.html" title="广告业务" target="_blank">广告业务</a>
+                        </li>
+                    <li>
+                        <a href="http://www.ebusinessreview.cn/copyright_claim.html" title="版权说明" target="_blank">版权声明</a>
+                    </li>
+                    <li>
+                        <a href="http://www.ebusinessreview.cn/sitemap.html" title="网站地图" target="_blank">网站地图</a>
+                    </li>
+                    <li>
+                        <a href="http://www.ebusinessreview.cn/career.html" title="加入我们" target="_blank">加入我们</a>
+                    </li>
+                    <li>
+                        <a href="http://www.ebusinessreview.cn/links.html" title="友情链接" target="_blank">友情链接</a>
+                    </li>
+                </ul>
+                <ul class="rssbar">
+                   
+                    <li class="rss_new"><a href="http://www.ebusinessreview.cn/feeds.html">RSS订阅</a></li>
+                    <li><a href="http://club.ebusinessreview.cn/subscribe.html">杂志订阅</a></li></ul>
+            </div>
+        </div>
+
+
+
+    </div>
+    <div class="copyright">
+        <div class="linkbox clearfix">
+            <span><a href="http://www.ebusinessreview.cn/partners.html" target="_blank">合作伙伴</a>：</span><div
+                class="friends_link">
+                
+                        <a href="http://finance.qq.com/" title="" target="_blank">腾讯财经</a>
+                    
+                        |
+                        <a href="http://biz.163.com" title="" target="_blank">网易商业频道</a>
+                    
+                        |
+                        <a href="http://money.163.com/" title="" target="_blank">网易财经</a>
+                    
+                        |
+                        <a href="http://business.sohu.com" title="" target="_blank">搜狐财经</a>
+                    
+                        |
+                        <a href="http://finance.sina.com.cn/" title="" target="_blank">新浪财经</a>
+                    
+                        |
+                        <a href="http://cn.wsj.com" title="" target="_blank">华尔街日报中文版</a>
+                    
+                        |
+                        <a href="http://www.21cbh.com/" title="" target="_blank">21世纪网</a>
+                    
+                        |
+                        <a href="http://www.yicai.com" title="" target="_blank">一财网</a>
+                    
+                        |
+                        <a href="http://www.iceo.com.cn/" title="" target="_blank">中国企业家网</a>
+                    
+                        |
+                        <a href="http://www.eeo.com.cn/" title="" target="_blank">经济观察网</a>
+                    
+                        |
+                        <a href="http://www.cb.com.cn/" title="" target="_blank">中国经营网</a>
+                    
+                        |
+                        <a href="http://www.caing.com" title="" target="_blank">财新网</a>
+                    
+                        |
+                        <a href="http://www.hexun.com" title="" target="_blank">和讯网</a>
+                    
+                        |
+                        <a href="http://cn.yahoo.com/" title="" target="_blank">中国雅虎</a>
+                    
+                        |
+                        <a href="http://www.time-weekly.com/" title="" target="_blank">时代周报</a>
+                    
+                        |
+                        <a href="http://www.nbd.com.cn" title="" target="_blank">每日经济新闻</a>
+                    
+                        |
+                        <a href="http://www.gemag.com.cn/" title="" target="_blank">环球企业家</a>
+                    
+                        |
+                        <a href="http://www.ceocio.com.cn/" title="" target="_blank">经理世界网</a>
+                    
+                        |
+                        <a href="http://www.chinavalue.net/Index.html" title="" target="_blank">价值中国网</a>
+                    
+                        |
+                        <a href="http://www.ceconline.com" title="" target="_blank">世界经理人网站</a>
+                    
+                        |
+                        <a href="http://www.forbeschina.com/" title="" target="_blank">福布斯中文网</a>
+                    
+                        |
+                        <a href="http://www.bundpic.com/" title="" target="_blank">外滩画报</a>
+                    
+                        |
+                        <a href="http://www.china.cnbc.com" title="" target="_blank">CNBC中文网</a>
+                    
+                        |
+                        <a href="http://www.chuangyejia.com/" title="" target="_blank">创业家网</a>
+                    
+                        |
+                        <a href="http://www.bnet.com.cn/" title="" target="_blank">BNET商业英才网</a>
+                    
+                        |
+                        <a href="http://www.vsharing.com/" title="" target="_blank">畅享网</a>
+                    
+                        |
+                        <a href="http://www.talentsmag.com/" title="" target="_blank">英才杂志</a>
+                    
+                        |
+                        <a href="http://www.hroot.com/" title="" target="_blank">HR管理世界</a>
+                    
+                        |
+                        <a href="http://www.prnasia.com" title="" target="_blank">美通网(亚洲)</a>
+                    
+                        |
+                        <a href="http://www.ushi.cn/" title="" target="_blank">优士网</a>
+                    
+                        |
+                        <a href="http://www.cyzone.cn/" title="" target="_blank">创业邦</a>
+                    
+                        |
+                        <a href="http://www.1mfg.com/" title="" target="_blank">制慧网</a>
+                    
+                        |
+                        <a href="http://www.blogchina.com/" title="" target="_blank">博客中国网</a>
+                    
+                        |
+                        <a href="http://www.trainingmag.com.cn/" title="" target="_blank">《培训》杂志</a>
+                    
+                        |
+                        <a href="http://www.wingsbook.com/" title="" target="_blank">天翼图书</a>
+                    
+                        |
+                        <a href="http://www.managershare.com" title="" target="_blank">经理人分享站</a>
+                    
+                        |
+                        <a href="http://www.netarget.com/" title="" target="_blank">网策信息科技</a>
+                    
+                        |
+                        <a href="http://www.mycfz.com" title="" target="_blank">创富志</a>
+                    
+            </div>
+        </div>
+        <p>
+            Copyright 2002-2008 《商业评论》(译文由 Harvard Business Review 独家授权) <a href="http://www.miibeian.gov.cn/"
+                rel="nofollow">沪ICP备06019570号</a> 京公网安备110105003199 </p>
+        <p style="text-align: center">
+            <a href="http://mixpanel.com/f/partner">
+                <img src="http://mixpanel.com/site_media/images/partner/badge_blue.png" alt="Real Time Web Analytics" /></a></p>
+    </div>
+    <div id='ScriptMessage' title='提示信息' class='replyDialog' style='display: none'>
+        <div id='ScriptMessageText' class='messfont'>
+        </div>
+    </div>
+    <script type="text/javascript">
+        try {
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-2105770-6']);
+            _gaq.push(['_trackPageview']);
+            _gaq.push(['_trackPageLoadTime']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        }
+        catch (err) {
+
+        }
+    </script>
+    <script type="text/javascript">
+        try {
+            var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+            document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F85dd3b2102c2ecd4dde201d1662d257c' type='text/javascript'%3E%3C/script%3E"));
+        }
+        catch (err) {
+
+        }
+    </script>
+    <!-- start Mixpanel -->
+    <script type="text/javascript">
+        try {
+            var mpq = []; mpq.push(["init", "ada3b29d01f94daa56b4900d042b33bd"]); (function () { var b, a, e, d, c; b = document.createElement("script"); b.type = "text/javascript"; b.async = true; b.src = (document.location.protocol === "https:" ? "https:" : "http:") + "//api.mixpanel.com/site_media/js/api/mixpanel.js"; a = document.getElementsByTagName("script")[0]; a.parentNode.insertBefore(b, a); e = function (f) { return function () { mpq.push([f].concat(Array.prototype.slice.call(arguments, 0))) } }; d = ["init", "track", "track_links", "track_forms", "register", "register_once", "identify", "name_tag", "set_config"]; for (c = 0; c < d.length; c++) { mpq[d[c]] = e(d[c]) } })();
+        }
+        catch (err) {
+
+        }
+    </script>
+    <!-- end Mixpanel -->
+</body>
+</html>

@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>工作机会 拼范网 - 分类收藏每一个新发现！</title>
+	<meta name="Description" content="拼范网是一个图微博社区，刚刚开始测试，并将在接下来的一段时间里,和你一起不断创造惊喜. 你会发现，原来有这么个地方我可以分享任何我喜欢的东东，你可以关注我，这样就可以看到我的分享了。一旦加入拼范网，就可以创建你自己的账户来和大家分享你自己所喜欢的东东了。" />
+	<meta name="Keywords" content="拼范,图片分享,家居,服饰,美食,设计,艺术,时尚,摄影,电影" />
+	<link rel="stylesheet" href="http://static.pinfun.com/css/conf/frame.css?t=1314982261" />
+	<link rel="stylesheet" href="http://static.pinfun.com/css/module/component/top.css?t=1314982261" />
+	<link rel="stylesheet" href="http://static.pinfun.com/css/module/component/aboutus.css?t=1314982261" />
+	<link rel="Shortcut Icon" href="http://static.pinfun.com/images/common/16.ico" />
+	<script type="text/javascript" src="http://static.pinfun.com/js/pf.min.js?t=1314982261"></script>
+</head>
+<body>
+	<div class="aboutus">
+		<div class="aboutus_l PF_floatl">
+			<p class="aboutus_l">
+				<a  class="aboutus_l_logo" href="/">
+					PINFUN
+					<span class="aboutus_l-beta"></span>
+					<span class="aboutus_l-home"></span>
+				</a>
+			</p>
+			<ul>
+	<li  id="about_about">
+		<a href="/about" class="PF_textf  PF_fontc">关于拼范儿</a>
+	</li>
+	<li id="about_job">
+		<a href="/job" class="PF_textf PF_fontc">工作机会</a>
+	</li>
+	<li id="about_feedback">
+		<a href="/feedback" class="PF_textf PF_fontc">建议反馈</a>
+	</li>
+	<!-- <li id="about_mediareports">
+		<a href="/mediareports" class="PF_textf PF_fontc">媒体报道</a>
+	</li> -->
+	<li id="about_icp">
+		<a href="/icp" class="PF_textf PF_fontc">备案信息</a>
+	</li>
+	<!-- <li>
+		<a href="#" class="PF_textf  PF_fontc">怎样拼</a>
+	</li>
+	<li>
+		<a href="#" class="PF_textf  PF_fontc">好用的拼武器</a>
+	</li>
+	<li>
+		<a href="#" class="PF_textf  PF_fontc">拼招聘</a>
+	</li>
+	<li>
+		<a href="#" class="PF_textf  PF_fontc">拼团队</a>
+	</li>
+	<li  class="aboutun">
+	</li>
+	<li>
+		<a href="#" class="PF_textf  PF_fontc">隐私协议</a>
+	</li>
+	<li>
+		<a href="#" class="PF_textf  PF_fontc">版权所有</a>
+	</li>
+	<li>
+		<a href="#" class="PF_textf  PF_fontc">服务条款</a>
+	</li> -->
+</ul>
+<script>
+		var nav = 'job';
+		if(nav == '') {
+			nav = 'about';
+		}
+		var about = $I('#about_' + nav);
+		$_addClass(about, 'aboutmenu');
+		$_addClass(about.children[0], 'PF_fontwb');
+</script>
+		</div>
+		<div class="aboutus_r PF_floatl">
+			<div class="abouts_r_left">
+			<h1 class="PF_fonte">工作机会</h1>
+			<!--h2>拼范网</h2-->
+			<p class="loginr_un"></p>
+			<div class="job">
+				<h3 class="PF_fontc PF_textga PF_fontwb">拼范网-php开发工程师</h3>
+				<span class="PF_textgc">工作地点：北京</span>
+				<span class="PF_textgc">招聘人数：若干</span>
+			</div>
+			<h4 class="job_h4">职位要求：</h4>
+			<ol class="job_r">
+				<li>有良好的计算机基础知识，掌握基本数据结构和算法，并能进行熟练运用；</li>
+				<li>熟练掌握PHP编程语言，熟悉PHP web开发框架、模板、缓存、优化等技术；</li>
+				<li>熟悉json、xml等数据交换格式；</li>
+				<li>扎实的SQL知识，能熟练运用MySQL数据库；</li>
+				<li>了解HTML/CSS/JavaScript/HTTP等知识；  </li>
+				<li>快速的学习能力，善于沟通和表达，良好的团队合作意识；  </li>
+				<li>具有大型、高并发web经验者优先。 </li>
+			</ol>
+			<p class="PF_fontb PF_textgb">有意者发简历到hr@pinfun.com</p>
+			<p class="loginr_un"></p>
+			
+			<!-- ************************************************************************* -->
+			
+			<div class="job">
+				<h3 class="PF_fontc PF_textga PF_fontwb">拼范网-前端开发工程师</h3>
+				<span class="PF_textgc">工作地点：北京</span>
+				<span class="PF_textgc">招聘人数：若干</span>
+			</div>
+			<h4 class="job_h4">职位描述：</h4>
+			<ol class="job_r">
+				<li>对网站前端应用进行开发，支持视觉设计以及 Web 开发的相关工作；</li>
+				<li>本着以用户为核心的设计理念，对页面进行优化，使用户操作更趋于人性化； </li>
+				<li>支持部门产品维护和新产品的开发，负责产品前端优化；</li>
+				<li>掌握未来技术发展方向，进行最新技术研究；</li>
+				<li>制定和遵守开发规范，提升开发效率。</li>
+			</ol>
+			<h4 class="job_h4">职位要求：</h4>
+			<ol class="job_r">
+				<li> 两年以上Web前端开发经验；</li>
+				<li> 熟悉编程基础知识，例如数据结构，基本算法等；</li>
+				<li>精通 HTML、CSS、JavaScript等Web前端技术，熟悉W3C网页标准，至少了解一种Web开发语言（PHP、Python 或 Ruby）；</li>
+				<li>理解AJAX运作机制，了解常见JS开发框架（如：prototype、jQuery、Mootools、YUI等）；</li>
+				<li>了解 Linux系统的基本操作；</li>
+				<li>对业内新技术及趋势有较强的敏感度；</li>
+				<li>有较强的敬业精神，责任心及良好的沟通能力和团队合作精神，具有较强的学习能力和洞察力。</li>
+			</ol>
+			<p class="PF_fontb PF_textgb">有意者发简历到hr@pinfun.com</p>
+			<p class="loginr_un"></p>
+			
+			<!-- ************************************************************************* -->
+
+			<div class="job">
+				<h3 class="PF_fontc PF_textga PF_fontwb">拼范网-iPhone开发工程师</h3>
+				<span class="PF_textgc">工作地点：北京</span>
+				<span class="PF_textgc">招聘人数：若干</span>
+			</div>
+			<h4 class="job_h4">职位描述：</h4>
+			<ol class="job_r">
+				<li>从事iPhone平台的客户端软件开发。</li>
+
+			</ol>
+			<h4 class="job_h4">职位要求：</h4>
+			<ol class="job_r">
+				<li> 一年以上iPhone平台开发经验；</li>
+				<li> 两年以上c/c++开发经验； </li>
+				<li>熟悉iPhone SDK开发环境及底层API调用；</li>
+				<li>熟悉HTTP、TCP/IP通讯协议；</li>
+				<li>熟悉面向对象编程，图形界面开发；</li>
+				<li>具有良好的沟通能力、团队合作精神、能承担工作压力。</li>
+			</ol>
+			<p class="PF_fontb PF_textgb">有意者发简历到hr@pinfun.com</p>
+			<p class="loginr_un"></p>
+			
+			<!-- ************************************************************************* -->			
+			
+			<div class="job">
+				<h3 class="PF_fontc PF_textga PF_fontwb">拼范网-微博推广专员</h3>
+				<span class="PF_textgc">工作地点：北京</span>
+				<span class="PF_textgc">招聘人数：若干</span>
+			</div>
+			<h4 class="job_h4">职位描述：</h4>
+			<ol class="job_r">
+				<li>负责官方微博日常维护工作;</li>
+				<li>负责文案推广-博客营销-微博营销,熟悉Baidu，Google等搜索引擎基本相关知识，能看懂优化行业基本资料；对网站页面语言熟悉，如html； </li>
+				<li>管理软文写手，协助图片编辑和文字编辑进行文案创作；</li>
+				<li>跟进线上推广的效果。</li>
+			</ol>
+			<h4 class="job_h4">职位要求：</h4>
+			<ol class="job_r">
+				<li> 具有美术和文字编辑功底，能熟练使用photoshop，dreamweaver等办公软件； </li>
+				<li> 工作有条理性，汇总和分析能力强，具有良好的稳定性； </li>
+				<li>良好的团队合作精神，高度的敬业精神，主动积极，能承受压力； </li>
+				<li>有较强的学习能力和良好的理解能力,学习、沟通、协调、计划、应变能力较强，思路清晰考虑问题细致。</li>
+			</ol>
+			<p class="PF_fontb PF_textgb">有意者发简历到hr@pinfun.com</p>
+			<p class="loginr_un"></p>
+			
+			<!-- ************************************************************************* -->
+						
+			<div class="job">
+				<h3 class="PF_fontc PF_textga PF_fontwb">拼范网-产品经理</h3>
+				<span class="PF_textgc">工作地点：北京</span>
+				<span class="PF_textgc">招聘人数：若干</span>
+			</div>
+			<h4 class="job_h4">职位描述：</h4>
+			<ol class="job_r">
+				<li>负责产品的调研与需求分析，确定功能定位；</li>
+				<li>负责产品架构与详细功能设计；</li>
+				<li>对产品数据进行跟踪与研究，分析运营效果，掌握产品运行情况；</li>
+				<li>协同交互、视觉、前端、数据挖掘、运营与BD团队，确保产品的研发与运营进度。</li>
+			</ol>
+			<h4 class="job_h4">职位要求：</h4>
+			<ol class="job_r">
+				<li> 三年以上产品工作经验；</li>
+				<li> 工作有条理性，汇总和分析能力强，具有良好的稳定性； </li>
+				<li>互联网重度用户，以体验研究设计各种互联网产品为乐；</li>
+				<li>出色的语言、沟通、组织和协调能力，极强的问题解决能力；</li>
+				<li>具备激情、敏锐的观察力、分析和创意能力，思维严谨，学习能力强；</li>
+				<li>具备较好的英文读写能力。</li>
+			</ol>
+			<p class="PF_fontb PF_textgb">有意者发简历到hr@pinfun.com</p>
+			<p class="loginr_un"></p>	
+
+			<!-- ************************************************************************* -->
+			
+			<div class="job">
+				<h3 class="PF_fontc PF_textga PF_fontwb">拼范网-网站内容运营专员</h3>
+				<span class="PF_textgc">工作地点：北京</span>
+				<span class="PF_textgc">招聘人数：若干</span>
+			</div>
+			<h4 class="job_h4">职位描述：</h4>
+			<ol class="job_r">
+				<li>策划活动方案及日常图片内容的引导；</li>
+				<li>组织并引导用户集体参加，配合相关部门进行运营活动的实施及效果评估；</li>
+				<li>内容挖掘与输出，建立知识中心，通过不同渠道输出给用户。</li>
+			</ol>
+			<h4 class="job_h4">职位要求：</h4>
+			<ol class="job_r">
+				<li>本科及以上学历;经济管理或计算机专业均可；</li>
+				<li>一年以上内容运营经验； </li>
+				<li>熟悉电子商务、家居等行业均可；</li>
+				<li>良好的沟通能力和团队合作精神，较强的组织协调能力；</li>
+				<li>创新意识、抗压力强。</li>
+			</ol>
+			<p class="PF_fontb PF_textgb">有意者发简历到hr@pinfun.com</p>
+			<p class="loginr_un"></p>
+			
+			<!-- ************************************************************************* -->
+			
+			<div class="job">
+				<h3 class="PF_fontc PF_textga PF_fontwb">拼范网-网站图片编辑</h3>
+				<span class="PF_textgc">工作地点：北京</span>
+				<span class="PF_textgc">招聘人数：若干</span>
+			</div>
+			<h4 class="job_h4">职位描述：</h4>
+			<ol class="job_r">
+				<li>负责网站相关内容的定期更新、编辑和发布；</li>
+				<li>负责站内、站外的公告编辑及发布等；</li>
+				<li>具备一定的美术功底，能运用一至两种美工编辑软件, 并对图片有一点的自己的见解；</li>
+				<li>负责协助产品部门研究相关各类产品的设计分析；</li>
+				<li>监控公司产品或网站关键词在各大搜索引擎的排名，并能围绕优化及时提出合理的调整建议，定期提交排名检测报告。</li>
+			</ol>
+			<h4 class="job_h4">职位要求：</h4>
+			<ol class="job_r">
+				<li>本科及以上学历</li>
+				<li>熟练操作常用的网页制作软件和网络搜索工具，了解网站开发、运行及维护的相关知识；</li>
+				<li>熟悉当前流行的互联网产品及平台，有一年以上网站设计制作经验；</li>
+				<li>工作认真、细致、敬业、有较强的沟通能力和团队合作精神；</li>
+				<li>熟悉开源平台或产品者优先。</li>
+			</ol>
+			<p class="PF_fontb PF_textgb">有意者发简历到hr@pinfun.com</p>
+			<p class="loginr_un"></p>
+
+			<!-- ************************************************************************* -->
+
+			<div class="job">
+				<h3 class="PF_fontc PF_textga PF_fontwb">拼范网-活动策划</h3>
+				<span class="PF_textgc">工作地点：北京</span>
+				<span class="PF_textgc">招聘人数：若干</span>
+			</div>
+			<h4 class="job_h4">职位描述：</h4>
+			<ol class="job_r">
+				<li>策划企业参与的活动方案及日常话题的引导；</li>
+				<li>组织并引导企业用户集体参加，配合相关部门进行企业运营活动的实施及效果评估；</li>
+				<li>内容挖掘与输出，建立知识中心，通过不同渠道输出给企业。</li>
+			</ol>
+			<h4 class="job_h4">职位要求：</h4>
+			<ol class="job_r">
+				<li> 一年以上内容运营经验；</li>
+				<li> 熟悉电子商务、汽车、教育、房产、金融任意行业均可；</li>
+				<li>互联网重度用户，以体验研究设计各种互联网产品为乐；</li>
+				<li>良好的沟通能力和团队合作精神，较强的组织协调能力；</li>
+				<li>创新意识、抗压力强。</li>
+			</ol>
+			<p class="PF_fontb PF_textgb">有意者发简历到hr@pinfun.com</p>
+			<p class="loginr_un"></p>
+
+			<!-- ************************************************************************* -->
+			
+			<div class="job">
+				<h3 class="PF_fontc PF_textga PF_fontwb">拼范网-互动营销运营师</h3>
+				<span class="PF_textgc">工作地点：北京</span>
+				<span class="PF_textgc">招聘人数：若干</span>
+			</div>
+			<h4 class="job_h4">职位描述：</h4>
+			<ol class="job_r">
+				<li>制定社交媒体的传播和营销方案；</li>
+				<li>策划各种线上互动营销活动；</li>
+				<li>维护各社交媒体的官方主页。</li>
+			</ol>
+			<h4 class="job_h4">职位要求：</h4>
+			<ol class="job_r">
+				<li>了解微博，论坛，博客，SNS社区，熟悉网络文化，对网上交流有持久兴趣，对相关网络产品，网络技术有所了解；</li>
+				<li>高效执行传播计划，并能分析传播效果；</li>
+				<li>大专以上学历，具备良好的学习能力；</li>
+				<li>有创意和想法，具备良好的沟通能力；</li>
+				<li>有相关活动策划经验者优先。</li>
+			</ol>
+			<p class="PF_fontb PF_textgb">有意者发简历到hr@pinfun.com</p>
+			<p class="loginr_un"></p>
+		</div>
+		</div>
+	</div>
+	<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://stat.pinfun.com/" : "http://stat.pinfun.com/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+
+</script><noscript><p><img src="http://stat.pinfun.com/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+</body>
+</html>

@@ -1,0 +1,673 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+
+    
+    <title>成功营销——中国营销媒体第一品牌 | 《成功营销》官方网站</title>
+
+<!-- Import Begin -->
+    <script src="js/general.js" type="text/javascript"></script>
+    <link href="css/general.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">   var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-3415185-17']);   _gaq.push(['_trackPageview']);  (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();</script>
+<!-- Import End -->
+</head>
+
+<body>
+<form action="#">
+  <div id='index' >
+        <div id="PageOutterContainer">
+            <div id="PageContainer">
+	            <!-- Header Begin -->
+                    <div id="Header">
+                      <div id="cp_homepage1" class="row cp">
+                        <div class="logo"><img src="images/logo.jpg" width="281" height="87" /></div>
+                          <div class="banner">
+                              <!--<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase=" http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0"
+                                  width="588" height="86">
+                                  <param name="movie" value="images/guanggao/in1.swf" />
+                                  <param name="quality" value="high" />
+                                  <embed src="images/guanggao/in1.swf" quality="high" pluginspage='http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash'
+                                      type='application/x-shockwave-flash' width="588" height="86"></embed>
+                              </object>
+                              -->
+                              <a href="http://www.vmarketing.cn/fenghui2011/Summit2011.aspx" target="_blank"><img src="/images/ad/2011-8-30_1.jpg" /></a>
+                              <!--<img src="images/guanggao/banner.jpg" />-->
+                          </div>
+                        <div class="topmenu">
+                        	            <script language="javascript" type="text/javascript">
+	function qiehuan(num){
+		for(var id = 0;id<=4;id++)
+		{
+			if(id==num)
+			{
+				document.getElementById("qh_con"+id).style.display="block";
+				document.getElementById("mynav"+id).className="nav_on";
+			}
+			else
+			{
+				document.getElementById("qh_con"+id).style.display="none";
+				document.getElementById("mynav"+id).className="";
+			}
+		}
+	}
+</script>
+<div id=men>
+<UL id=menunav>
+<LI><A class=nav_on id="mynav0" onmouseover=javascript:qiehuan(5) href="index.html"><SPAN>首&nbsp;&nbsp;&nbsp;页</SPAN></A></LI>
+<LI class="menu_line">|</LI>
+<li><a href="Marketing.html" onMouseOver="javascript:qiehuan(1)" id="mynav1" class="nav_off"><span>成功营销</span></a></li>
+<li class="menu_line">|</li>
+<li><a href="case.html" onMouseOver="javascript:qiehuan(2)" id="mynav2" class="nav_off"><span>营销案例库</span></a></li>
+<li class="menu_line">|</li>
+<li><a href="consulting.html" onMouseOver="javascript:qiehuan(3)" id="mynav3" class="nav_off"><span>营销资讯</span></a></li>
+<li class="menu_line">|</li>
+<li><a href="charging.html" onMouseOver="javascript:qiehuan(4)" id="mynav4" class="nav_off"><span>营销充电</span></a></li>
+<li class="menu_line">|</li>
+<li><a href="BlogList.html" onMouseOver="javascript:qiehuan(5)" id="mynav4" class="nav_off"><span>微博入口</span></a></li>
+<li class="menu_line">|</li>
+<li><a href="http://www.vmarketing.cn/fenghui2011/Summit2011.aspx" onMouseOver="javascript:qiehuan(5)" id="A1" class="nav_off"><span style='color:Red'>营销峰会</span></a></li>
+<li class="menu_line">|</li>
+<li><a href="Dynamic.html" onMouseOver="javascript:qiehuan(5)" id="A2" class="nav_off"><span>《成功营销》动态</span></a></li>
+<li class="menu_line">|</li>
+<li><a href="http://www.vmarketing.cn/specialarticle2.aspx?aid=26992" onMouseOver="javascript:qiehuan(5)" id="A3" class="nav_off" target="_blank"><span style='color:blue'>创新营销沙龙</span></a></li>
+</UL>
+<div id=menu_con>
+<div id=qh_con0 style="DISPLAY: block"></div> 
+<div id=qh_con1 style="DISPLAY: none"><UL>
+  <LI><a href="articlelist_2205_1.html">封面文章</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2185_1.html">新媒体·新营销</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2186_1.html">月度胜案</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2176_1.html">国际营销</A></LI>
+ <li class="menu_line">|</li>
+  <LI><A href="articlelist_2126_1.html">精英访谈</A></LI>
+   <li class="menu_line">|</li>
+  <LI><A href="articlelist_2109_1.html">特别报道</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2188_1.html">更多精彩</A></LI>
+</UL></div> 
+<div id=qh_con2 style="DISPLAY: none"><UL>
+  <LI><a href="articlelist_2172_1.html">汽车</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2173_1.html">金融</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2195_1.html">医药健康</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2196_1.html">服装</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2197_1.html">消费电子</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2198_1.html">快消品</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2199_1.html">房产家居</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2200_1.html">城市旅游</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2201_1.html">电子商务</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2204_1.html">其他</A></LI>
+</UL></div> 
+<div id=qh_con3 style="DISPLAY: none"><UL>
+  <LI><a href="articlelist_2182_1.html">行业营销资讯</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2111_1.html">国际营销视野</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2184_1.html">营销平台资讯</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2183_1.html">营销活动</A></LI>
+</UL></div> 
+<div id=qh_con4 style="DISPLAY: none"><UL>
+  <LI><a href="articlelist_2180_1.html">营销工具</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2203_1.html">培训推荐</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2139_1.html">图书推荐</A></LI>
+  <li class="menu_line">|</li>
+  <LI><A href="articlelist_2117_1.html">营销故事</A></LI>
+</UL>
+</div>
+</div></div>
+         
+                        </div>
+                        
+                      </div>
+                    </div>	
+	            <!-- Header End -->
+                 <div id="PageBodyContainer"><!-- PageBody Begin --><div id="PageBodyContainer"><script type="text/javascript">
+function $(id) { return document.getElementById(id); }
+
+function addLoadEvent(func){
+	var oldonload = window.onload;
+	if (typeof window.onload != 'function') {
+		window.onload = func;
+	} else {
+		window.onload = function(){
+			oldonload();
+			func();
+		}
+	}
+}
+
+function moveElement(elementID,final_x,final_y,interval) {
+  if (!document.getElementById) return false;
+  if (!document.getElementById(elementID)) return false;
+  var elem = document.getElementById(elementID);
+  if (elem.movement) {
+    clearTimeout(elem.movement);
+  }
+  if (!elem.style.left) {
+    elem.style.left = "0px";
+  }
+  if (!elem.style.top) {
+    elem.style.top = "0px";
+  }
+  var xpos = parseInt(elem.style.left);
+  var ypos = parseInt(elem.style.top);
+  if (xpos == final_x && ypos == final_y) {
+		return true;
+  }
+  if (xpos < final_x) {
+    var dist = Math.ceil((final_x - xpos)/10);
+    xpos = xpos + dist;
+  }
+  if (xpos > final_x) {
+    var dist = Math.ceil((xpos - final_x)/10);
+    xpos = xpos - dist;
+  }
+  if (ypos < final_y) {
+    var dist = Math.ceil((final_y - ypos)/10);
+    ypos = ypos + dist;
+  }
+  if (ypos > final_y) {
+    var dist = Math.ceil((ypos - final_y)/10);
+    ypos = ypos - dist;
+  }
+  elem.style.left = xpos + "px";
+  elem.style.top = ypos + "px";
+  var repeat = "moveElement('"+elementID+"',"+final_x+","+final_y+","+interval+")";
+  elem.movement = setTimeout(repeat,interval);
+}
+
+function classNormal(iFocusBtnID,iFocusTxID){
+	var iFocusBtns= $(iFocusBtnID).getElementsByTagName('li');
+	var iFocusTxs = $(iFocusTxID).getElementsByTagName('li');
+	for(var i=0; i<iFocusBtns.length; i++) {
+		iFocusBtns[i].className='normal';
+		iFocusTxs[i].className='normal';
+	}
+}
+
+function classCurrent(iFocusBtnID,iFocusTxID,n){
+	var iFocusBtns= $(iFocusBtnID).getElementsByTagName('li');
+	var iFocusTxs = $(iFocusTxID).getElementsByTagName('li');
+	iFocusBtns[n].className='current';
+	iFocusTxs[n].className='current';
+}
+
+function iFocusChange() {
+	if(!$('ifocus')) return false;
+	$('ifocus').onmouseover = function(){atuokey = true};
+	$('ifocus').onmouseout = function(){atuokey = false};
+	var iFocusBtns = $('ifocus_btn').getElementsByTagName('li');
+	var listLength = iFocusBtns.length;
+	iFocusBtns[0].onmouseover = function() {
+		moveElement('ifocus_piclist',0,0,5);
+		classNormal('ifocus_btn','ifocus_tx');
+		classCurrent('ifocus_btn','ifocus_tx',0);
+	}
+	if (listLength>=2) {
+		iFocusBtns[1].onmouseover = function() {
+			moveElement('ifocus_piclist',0,-182,5);
+			classNormal('ifocus_btn','ifocus_tx');
+			classCurrent('ifocus_btn','ifocus_tx',1);
+		}
+	}
+	if (listLength>=3) {
+		iFocusBtns[2].onmouseover = function() {
+			moveElement('ifocus_piclist',0,-364,5);
+			classNormal('ifocus_btn','ifocus_tx');
+			classCurrent('ifocus_btn','ifocus_tx',2);
+		}
+	}
+	if (listLength>=4) {
+		iFocusBtns[3].onmouseover = function() {
+			moveElement('ifocus_piclist',0,-546,5);
+			classNormal('ifocus_btn','ifocus_tx');
+			classCurrent('ifocus_btn','ifocus_tx',3);
+		}
+	}
+}
+
+setInterval('autoiFocus()',5000);
+var atuokey = false;
+function autoiFocus() {
+	if(!$('ifocus')) return false;
+	if(atuokey) return false;
+	var focusBtnList = $('ifocus_btn').getElementsByTagName('li');
+	var listLength = focusBtnList.length;
+	for(var i=0; i<listLength; i++) {
+		if (focusBtnList[i].className == 'current') var currentNum = i;
+	}
+	if (currentNum==0&&listLength!=1 ){
+		moveElement('ifocus_piclist',0,-182,5);
+		classNormal('ifocus_btn','ifocus_tx');
+		classCurrent('ifocus_btn','ifocus_tx',1);
+	}
+	if (currentNum==1&&listLength!=2 ){
+		moveElement('ifocus_piclist',0,-364,5);
+		classNormal('ifocus_btn','ifocus_tx');
+		classCurrent('ifocus_btn','ifocus_tx',2);
+	}
+	if (currentNum==2&&listLength!=3 ){
+		moveElement('ifocus_piclist',0,-546,5);
+		classNormal('ifocus_btn','ifocus_tx');
+		classCurrent('ifocus_btn','ifocus_tx',3);
+	}
+	if (currentNum==3 ){
+		moveElement('ifocus_piclist',0,0,5);
+		classNormal('ifocus_btn','ifocus_tx');
+		classCurrent('ifocus_btn','ifocus_tx',0);
+	}
+	if (currentNum==1&&listLength==2 ){
+		moveElement('ifocus_piclist',0,0,5);
+		classNormal('ifocus_btn','ifocus_tx');
+		classCurrent('ifocus_btn','ifocus_tx',0);
+	}
+	if (currentNum==2&&listLength==3 ){
+		moveElement('ifocus_piclist',0,0,5);
+		classNormal('ifocus_btn','ifocus_tx');
+		classCurrent('ifocus_btn','ifocus_tx',0);
+	}
+}
+addLoadEvent(iFocusChange);
+
+</script><script type="text/javascript">
+var sina={$:function(objName){if(document.getElementById){return eval('document.getElementById("'+objName+'")')}else{return eval('document.all.'+objName)}},isIE:navigator.appVersion.indexOf("MSIE")!=-1?true:false,addEvent:function(l,i,I){if(l.attachEvent){l.attachEvent("on"+i,I)}else{l.addEventListener(i,I,false)}},delEvent:function(l,i,I){if(l.detachEvent){l.detachEvent("on"+i,I)}else{l.removeEventListener(i,I,false)}},readCookie:function(O){var o="",l=O+"=";if(document.cookie.length>0){var i=document.cookie.indexOf(l);if(i!=-1){i+=l.length;var I=document.cookie.indexOf(";",i);if(I==-1)I=document.cookie.length;o=unescape(document.cookie.substring(i,I))}};return o},writeCookie:function(i,l,o,c){var O="",I="";if(o!=null){O=new Date((new Date).getTime()+o*3600000);O="; expires="+O.toGMTString()};if(c!=null){I=";domain="+c};document.cookie=i+"="+escape(l)+O+I},readStyle:function(I,l){if(I.style[l]){return I.style[l]}else if(I.currentStyle){return I.currentStyle[l]}else if(document.defaultView&&document.defaultView.getComputedStyle){var i=document.defaultView.getComputedStyle(I,null);return i.getPropertyValue(l)}else{return null}}};
+
+function ScrollPic(scrollContId,arrLeftId,arrRightId,dotListId){this.scrollContId=scrollContId;this.arrLeftId=arrLeftId;this.arrRightId=arrRightId;this.dotListId=dotListId;this.dotClassName="dotItem";this.dotOnClassName="dotItemOn";this.dotObjArr=[];this.pageWidth=0;this.frameWidth=0;this.speed=10;this.space=10;this.pageIndex=0;this.autoPlay=true;this.autoPlayTime=5;var _autoTimeObj,_scrollTimeObj,_state="ready";this.stripDiv=document.createElement("DIV");this.listDiv01=document.createElement("DIV");this.listDiv02=document.createElement("DIV");if(!ScrollPic.childs){ScrollPic.childs=[]};this.ID=ScrollPic.childs.length;ScrollPic.childs.push(this);this.initialize=function(){if(!this.scrollContId){throw new Error("必须指定scrollContId.");return};this.scrollContDiv=sina.$(this.scrollContId);if(!this.scrollContDiv){throw new Error("scrollContId不是正确的对象.(scrollContId = \""+this.scrollContId+"\")");return};this.scrollContDiv.style.width=this.frameWidth+"px";this.scrollContDiv.style.overflow="hidden";this.listDiv01.innerHTML=this.listDiv02.innerHTML=this.scrollContDiv.innerHTML;this.scrollContDiv.innerHTML="";this.scrollContDiv.appendChild(this.stripDiv);this.stripDiv.appendChild(this.listDiv01);this.stripDiv.appendChild(this.listDiv02);this.stripDiv.style.overflow="hidden";this.stripDiv.style.zoom="1";this.stripDiv.style.width="32766px";this.listDiv01.style.cssFloat="left";this.listDiv02.style.cssFloat="left";sina.addEvent(this.scrollContDiv,"mouseover",Function("ScrollPic.childs["+this.ID+"].stop()"));sina.addEvent(this.scrollContDiv,"mouseout",Function("ScrollPic.childs["+this.ID+"].play()"));if(this.arrLeftId){this.arrLeftObj=sina.$(this.arrLeftId);if(this.arrLeftObj){sina.addEvent(this.arrLeftObj,"mousedown",Function("ScrollPic.childs["+this.ID+"].rightMouseDown()"));sina.addEvent(this.arrLeftObj,"mouseup",Function("ScrollPic.childs["+this.ID+"].rightEnd()"));sina.addEvent(this.arrLeftObj,"mouseout",Function("ScrollPic.childs["+this.ID+"].rightEnd()"))}};if(this.arrRightId){this.arrRightObj=sina.$(this.arrRightId);if(this.arrRightObj){sina.addEvent(this.arrRightObj,"mousedown",Function("ScrollPic.childs["+this.ID+"].leftMouseDown()"));sina.addEvent(this.arrRightObj,"mouseup",Function("ScrollPic.childs["+this.ID+"].leftEnd()"));sina.addEvent(this.arrRightObj,"mouseout",Function("ScrollPic.childs["+this.ID+"].leftEnd()"))}};if(this.dotListId){this.dotListObj=sina.$(this.dotListId);if(this.dotListObj){var pages=Math.round(this.listDiv01.offsetWidth/this.frameWidth+0.4),i,tempObj;for(i=0;i<pages;i++){tempObj=document.createElement("span");this.dotListObj.appendChild(tempObj);this.dotObjArr.push(tempObj);if(i==this.pageIndex){tempObj.className=this.dotClassName}else{tempObj.className=this.dotOnClassName};tempObj.title="第"+(i+1)+"页";sina.addEvent(tempObj,"click",Function("ScrollPic.childs["+this.ID+"].pageTo("+i+")"))}}};if(this.autoPlay){this.play()}};this.leftMouseDown=function(){if(_state!="ready"){return};_state="floating";_scrollTimeObj=setInterval("ScrollPic.childs["+this.ID+"].moveLeft()",this.speed)};this.rightMouseDown=function(){if(_state!="ready"){return};_state="floating";_scrollTimeObj=setInterval("ScrollPic.childs["+this.ID+"].moveRight()",this.speed)};this.moveLeft=function(){if(this.scrollContDiv.scrollLeft+this.space>=this.listDiv01.scrollWidth){this.scrollContDiv.scrollLeft=this.scrollContDiv.scrollLeft+this.space-this.listDiv01.scrollWidth}else{this.scrollContDiv.scrollLeft+=this.space};this.accountPageIndex()};this.moveRight=function(){if(this.scrollContDiv.scrollLeft-this.space<=0){this.scrollContDiv.scrollLeft=this.listDiv01.scrollWidth+this.scrollContDiv.scrollLeft-this.space}else{this.scrollContDiv.scrollLeft-=this.space};this.accountPageIndex()};this.leftEnd=function(){if(_state!="floating"){return};_state="stoping";clearInterval(_scrollTimeObj);var fill=this.pageWidth-this.scrollContDiv.scrollLeft%this.pageWidth;this.move(fill)};this.rightEnd=function(){if(_state!="floating"){return};_state="stoping";clearInterval(_scrollTimeObj);var fill=-this.scrollContDiv.scrollLeft%this.pageWidth;this.move(fill)};this.move=function(num,quick){var thisMove=num/5;if(!quick){if(thisMove>this.space){thisMove=this.space};if(thisMove<-this.space){thisMove=-this.space}};if(Math.abs(thisMove)<1&&thisMove!=0){thisMove=thisMove>=0?1:-1}else{thisMove=Math.round(thisMove)};var temp=this.scrollContDiv.scrollLeft+thisMove;if(thisMove>0){if(this.scrollContDiv.scrollLeft+thisMove>=this.listDiv01.scrollWidth){this.scrollContDiv.scrollLeft=this.scrollContDiv.scrollLeft+thisMove-this.listDiv01.scrollWidth}else{this.scrollContDiv.scrollLeft+=thisMove}}else{if(this.scrollContDiv.scrollLeft-thisMove<=0){this.scrollContDiv.scrollLeft=this.listDiv01.scrollWidth+this.scrollContDiv.scrollLeft-thisMove}else{this.scrollContDiv.scrollLeft+=thisMove}};num-=thisMove;if(Math.abs(num)==0){_state="ready";if(this.autoPlay){this.play()};this.accountPageIndex();return}else{this.accountPageIndex();setTimeout("ScrollPic.childs["+this.ID+"].move("+num+","+quick+")",this.speed)}};this.next=function(){if(_state!="ready"){return};_state="stoping";this.move(this.pageWidth,true)};this.play=function(){if(!this.autoPlay){return};clearInterval(_autoTimeObj);_autoTimeObj=setInterval("ScrollPic.childs["+this.ID+"].next()",this.autoPlayTime*1000)};this.stop=function(){clearInterval(_autoTimeObj)};this.pageTo=function(num){if(_state!="ready"){return};_state="stoping";var fill=num*this.frameWidth-this.scrollContDiv.scrollLeft;this.move(fill,true)};this.accountPageIndex=function(){this.pageIndex=Math.round(this.scrollContDiv.scrollLeft/this.frameWidth);if(this.pageIndex>Math.round(this.listDiv01.offsetWidth/this.frameWidth+0.4)-1){this.pageIndex=0};var i;for(i=0;i<this.dotObjArr.length;i++){if(i==this.pageIndex){this.dotObjArr[i].className=this.dotClassName}else{this.dotObjArr[i].className=this.dotOnClassName}}}};
+
+</script><div id="PageBody"><div class="Content-left"><div class="Column0-Information"><div class="Column-Information"><div class="lanmu-bianxian"><img src="images/lanmu-top.png" /></div><div class="lanmu-content"><div class="lanmu6-article"><div id="ifocus"><div id="ifocus_pic"><!--                <div id="ifocus_piclist"><ul><li><a href='ArticleContent_27221.html' target='_blank'><img src='http://img.vmarketing.cn/201111/20111101103034441.jpg' /></a></li><li><a href='ArticleContent_27228.html' target='_blank'><img src='http://img.vmarketing.cn/201111/20111101035858494.png' /></a></li><li><a href='ArticleContent_27121.html' target='_blank'><img src='http://img.vmarketing.cn/201109/20110927033731664.jpg' /></a></li><li><a href='ArticleContent_27123.html' target='_blank'><img src='http://img.vmarketing.cn/201109/20110927033744747.jpg' /></a></li></ul></div><div id="ifocus_opdiv"></div><div id="ifocus_tx"><ul> <li class='current'><a href='ArticleContent_27221.html'>伦敦前奏 Twitter时代看奥运</a></li> <li class='normal'><a href='ArticleContent_27228.html'>这个时代伟大的营销者</a></li> <li class='normal'><a href='ArticleContent_27121.html'>百度：超越搜索</a></li> <li class='normal'><a href='ArticleContent_27123.html'>客座主编金昱冬 年轻人的部落族群营销</a></li></ul></div><div id="ifocus_btn"><ul><li class='current'><a href='ArticleContent_27221.html'>1</a></li><li class='normal'><a href='ArticleContent_27228.html'>2</a></li><li class='normal'><a href='ArticleContent_27121.html'>3</a></li><li class='normal'><a href='ArticleContent_27123.html'>4</a></li></ul></div>-->
+<div id="ifocus_piclist">
+<ul><li><a href='ArticleContent_27221.html' target='_blank'><img src='http://img.vmarketing.cn/201111/20111101103034441.jpg' /></a></li><li><a href='ArticleContent_27228.html' target='_blank'><img src='http://img.vmarketing.cn/201111/20111101035858494.png' /></a></li><li><a href='ArticleContent_27121.html' target='_blank'><img src='http://img.vmarketing.cn/201109/20110927033731664.jpg' /></a></li><li><a href='ArticleContent_27123.html' target='_blank'><img src='http://img.vmarketing.cn/201109/20110927033744747.jpg' /></a></li></ul>
+</div>
+<div id="ifocus_opdiv"></div>
+<div id="ifocus_tx">
+<ul> <li class='current'><a href='ArticleContent_27221.html'>伦敦前奏 Twitter时代看奥运</a></li> <li class='normal'><a href='ArticleContent_27228.html'>这个时代伟大的营销者</a></li> <li class='normal'><a href='ArticleContent_27121.html'>百度：超越搜索</a></li> <li class='normal'><a href='ArticleContent_27123.html'>客座主编金昱冬 年轻人的部落族群营销</a></li></ul></div>
+<div id="ifocus_btn">
+<ul><li class='current'><a href='ArticleContent_27221.html'>1</a></li><li class='normal'><a href='ArticleContent_27228.html'>2</a></li><li class='normal'><a href='ArticleContent_27121.html'>3</a></li><li class='normal'><a href='ArticleContent_27123.html'>4</a></li></ul>
+</div>
+</div></div></div></div><div class="lanmu-bianxian"><img src="images/lanmu-foot.png" /></div></div><div class="Column-Information"><div class="lanmu-bianxian"><img src="images/lanmu-top.png" /></div><div class="lanmu-content"><div class="lanmu-biaoti"><span class="biaoti3"><img src="images/lanmu-biao.jpg" width="4" height="11" /></span><span class="biaoti">月度人物</span></div><div class="biaoti2"><a href="articlelist_2175_1.html"><img src="images/more.jpg" width="33" height="5" border="0" /></a></div><div class="xian2"><img src="images/xian.jpg" /></div><div class="lanmu7-article"><div class="rollBox"><div class="LeftBotton" onMouseDown="ISL_GoUp()" onMouseUp="ISL_StopUp()" onMouseOut="ISL_StopUp()"></div><div class="Cont" id="ISL_Cont"><div class="ScrCont"><div id="List1"><!-- 图片列表 begin --> <DIV class='pic'><A class=imgBorder href='ArticleContent_27231.html' target=_blank><IMG height=65 src='http://img.vmarketing.cn/201111/20111102025731615.png'width=65 border=0></A><P><A href='ArticleContent_27231.html' target=_blank>全球市场：</A></P></DIV> <DIV class='pic'><A class=imgBorder href='ArticleContent_27220.html' target=_blank><IMG height=65 src='http://img.vmarketing.cn/201110/20111031063707280.png'width=65 border=0></A><P><A href='ArticleContent_27220.html' target=_blank>杜美红-微</A></P></DIV> <DIV class='pic'><A class=imgBorder href='ArticleContent_27122.html' target=_blank><IMG height=65 src='http://img.vmarketing.cn/201109/20110927033744747.jpg'width=65 border=0></A><P><A href='ArticleContent_27122.html' target=_blank>客座主编金</A></P></DIV> <DIV class='pic'><A class=imgBorder href='ArticleContent_27082.html' target=_blank><IMG height=65 src='http://img.vmarketing.cn/201109/20110905034452808.jpg'width=65 border=0></A><P><A href='ArticleContent_27082.html' target=_blank>胡晏斌 营</A></P></DIV> <DIV class='pic'><A class=imgBorder href='ArticleContent_27027.html' target=_blank><IMG height=65 src='http://img.vmarketing.cn/201108/20110811020456842.png'width=65 border=0></A><P><A href='ArticleContent_27027.html' target=_blank>客座主编王</A></P></DIV> <DIV class='pic'><A class=imgBorder href='ArticleContent_26944.html' target=_blank><IMG height=65 src='http://img.vmarketing.cn/201107/20110704105830791.png'width=65 border=0></A><P><A href='ArticleContent_26944.html' target=_blank>萧振义：进</A></P></DIV> <DIV class='pic'><A class=imgBorder href='ArticleContent_26946.html' target=_blank><IMG height=65 src='http://img.vmarketing.cn/201107/20110704113700120.png'width=65 border=0></A><P><A href='ArticleContent_26946.html' target=_blank>苏伟铭：开</A></P></DIV> <DIV class='pic'><A class=imgBorder href='ArticleContent_26868.html' target=_blank><IMG height=65 src='http://img.vmarketing.cn/201105/20110526060323806.png'width=65 border=0></A><P><A href='ArticleContent_26868.html' target=_blank>客座主编熊</A></P></DIV><!-- 图片列表 end --></div><div id="List2"></div></div></div><div class="RightBotton" onMouseDown="ISL_GoDown()" onMouseUp="ISL_StopDown()" onMouseOut="ISL_StopDown()"></div></div></div></div><div class="lanmu-bianxian"><img src="images/lanmu-foot.png" /></div></div></div><div class="Column-Information"><div class="lanmu-bianxian"><img src="images/lanmu-top.png" /></div><div class="lanmu-content"><div class="lanmu-biaoti"><span class="biaoti3"><img src="images/lanmu-biao.jpg" width="4" height="11" /></span><span class="biaoti">热点资讯</span></div><div class="biaoti2"><a href="articlelist_2174_1.html"><img src="images/more.jpg" width="33" height="5" border="0" /></a></div><div class="xian2"><img src="images/xian.jpg" /></div><div class="lanmu-article"><ul class="xc_2174_recommendlist content ullikediv0float newsize"><li class='item0'><span class='link'><span class='ImageUrl'><a href='ArticleContent_27368.html' target='_blank'><img src='http://img.vmarketing.cn/201112/20111202111132537.png' /></a> </span></span><span class='link'><span class='Name'><a href='ArticleContent_27368.html' target='_blank'>人人网发布2012营销风...</a> </span></span><span class='link'><span class='Description'><a href='ArticleContent_27368.html' target='_blank'>以体育、音乐等高关注度的内容，三屏联动，切入消费者的生活，让他们愿意花更多时间在品牌上</a> </span></span></li></ul></div><div class="xian3"><img src="images/xian.jpg" /></div><div class="lanmu-article2 newslist"><ul class="xc_2174_list ullikediv0"><li class='item0'><span class='link'><span class='DisplayName'><a href='ArticleContent_27368.html' target='_blank'>人人网发布2012营销风向标：“三...</a> </span></span></li><li class='item1'><span class='link'><span class='DisplayName'><a href='ArticleContent_27367.html' target='_blank'>2011年度最佳创新营销平台和服务...</a> </span></span></li><li class='item2'><span class='link'><span class='DisplayName'><a href='ArticleContent_27366.html' target='_blank'>2011年度最佳创新营销产品奖获奖理由</a> </span></span></li><li class='item3'><span class='link'><span class='DisplayName'><a href='ArticleContent_27359.html' target='_blank'>多维度体验营销变革——“2011中...</a> </span></span></li><li class='item4'><span class='link'><span class='DisplayName'><a href='ArticleContent_27345.html' target='_blank'>2011创新营销五项大奖重磅出炉</a> </span></span></li><li class='item5'><span class='link'><span class='DisplayName'><a href='ArticleContent_27344.html' target='_blank'>营销夜话把酒论道 “2011创新营...</a> </span></span></li><li class='item6'><span class='link'><span class='DisplayName'><a href='ArticleContent_27343.html' target='_blank'>零距离互动体验 消费者驱动营销变革</a> </span></span></li><li class='item7'><span class='link'><span class='DisplayName'><a href='ArticleContent_27330.html' target='_blank'>《成功营销》主编 齐馨 致辞</a> </span></span></li><li class='item8'><span class='link'><span class='DisplayName'><a href='ArticleContent_27312.html' target='_blank'>黑弧奥美成立数码互动营销机构</a> </span></span></li></ul></div></div><div class="lanmu-bianxian"><img src="images/lanmu-foot.png" /></div></div><div class="Column-Information"><div class="lanmu-bianxian"><img src="images/lanmu-top.png" /></div><div class="lanmu-content"><div class="lanmu-biaoti"><span class="biaoti3"><img src="images/lanmu-biao.jpg" width="4" height="11" /></span><span class="biaoti">封面文章</span></div><div class="biaoti2"><a href="articlelist_2205_1.html"><img src="images/more.jpg" width="33" height="5" border="0" /></a></div><div class="xian2"><img src="images/xian.jpg" /></div><div class="lanmu-article"><ul class="xc_2205_recommendlist content ullikediv0float newsize"><li class='item0'><span class='link'><span class='ImageUrl'><a href='ArticleContent_27222.html' target='_blank'><img src='http://img.vmarketing.cn/201111/20111101010542482.jpg' /></a> </span></span><span class='link'><span class='Name'><a href='ArticleContent_27222.html' target='_blank'>伦敦前奏 Twitter...</a> </span></span><span class='link'><span class='Description'><a href='ArticleContent_27222.html' target='_blank'>虽然是一次体育盛会，但奥运是所有品牌绕不开的话题，也是所有营销人关注的大事。2012年伦敦奥运大幕即...</a> </span></span></li></ul></div><div class="xian3"><img src="images/xian.jpg" /></div><div class="lanmu-article2  newslist"><ul class="xc_2205_list"><li class='item0'><span class='link'><span class='DisplayName'><a href='ArticleContent_27228.html' target='_blank'>这个时代伟大的营销者</a> </span></span></li><li class='item1'><span class='link'><span class='DisplayName'><a href='ArticleContent_27222.html' target='_blank'>伦敦前奏 Twitter时代看奥运</a> </span></span></li><li class='item2'><span class='link'><span class='DisplayName'><a href='ArticleContent_27221.html' target='_blank'>伦敦前奏 Twitter时代看奥运</a> </span></span></li><li class='item3'><span class='link'><span class='DisplayName'><a href='ArticleContent_27215.html' target='_blank'>杜美红-数字媒体是主战场</a> </span></span></li><li class='item4'><span class='link'><span class='DisplayName'><a href='ArticleContent_27123.html' target='_blank'>客座主编金昱冬 年轻人的部落族群营销</a> </span></span></li><li class='item5'><span class='link'><span class='DisplayName'><a href='ArticleContent_27121.html' target='_blank'>百度：超越搜索</a> </span></span></li><li class='item6'><span class='link'><span class='DisplayName'><a href='ArticleContent_27120.html' target='_blank'>百度：超越搜索</a> </span></span></li></ul></div></div><div class="lanmu-bianxian"><img src="images/lanmu-foot.png" /></div></div><div class="Column-Information"><div class="lanmu-bianxian"><img src="images/lanmu-top.png" /></div><div class="lanmu-content"><div class="lanmu-biaoti"><span class="biaoti3"><img src="images/lanmu-biao.jpg" width="4" height="11" /></span><span class="biaoti">特别报道</span></div><div class="biaoti2"><a href="articlelist_2109_1.html"><img src="images/more.jpg" width="33" height="5" border="0" /></a></div><div class="xian2"><img src="images/xian.jpg" /></div><div class="lanmu-article"><ul class="xc_2109_recommendlist content ullikediv0float newsize"><li class='item0'><span class='link'><span class='ImageUrl'><a href='ArticleContent_27240.html' target='_blank'><img src='http://img.vmarketing.cn/201111/20111104011548322.png' /></a> </span></span><span class='link'><span class='Name'><a href='ArticleContent_27240.html' target='_blank'>无网不营销，网罗“人”的力量</a> </span></span><span class='link'><span class='Description'><a href='ArticleContent_27240.html' target='_blank'></a> </span></span></li></ul></div><div class="xian3"><img src="images/xian.jpg" /></div><div class="lanmu-article2  newslist"><ul class="xc_2109_list"><li class='item0'><span class='link'><span class='DisplayName'><a href='ArticleContent_27249.html' target='_blank'>非常办公室</a> </span></span></li><li class='item1'><span class='link'><span class='DisplayName'><a href='ArticleContent_27240.html' target='_blank'>无网不营销，网罗“人”的力量</a> </span></span></li><li class='item2'><span class='link'><span class='DisplayName'><a href='ArticleContent_27154.html' target='_blank'>“为爱上色”的公益感悟</a> </span></span></li><li class='item3'><span class='link'><span class='DisplayName'><a href='ArticleContent_27109.html' target='_blank'>营销人的“职业病”</a> </span></span></li><li class='item4'><span class='link'><span class='DisplayName'><a href='ArticleContent_27048.html' target='_blank'>刘行淑 做钻石女人</a> </span></span></li><li class='item5'><span class='link'><span class='DisplayName'><a href='ArticleContent_27047.html' target='_blank'>纪念大卫·奥格威</a> </span></span></li><li class='item6'><span class='link'><span class='DisplayName'><a href='ArticleContent_27039.html' target='_blank'>雪花啤酒的贵州样本</a> </span></span></li></ul></div></div><div class="lanmu-bianxian"><img src="images/lanmu-foot.png" /></div></div><div class="baner2"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase=" http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="750" height="86"><param name="movie" value="images/guanggao/in2.swf"/><param name="quality" value="high"/><embed src="images/guanggao/in2.swf" quality="high" pluginspage='http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash'
+                            type='application/x-shockwave-flash' width="750" height="86"></embed></object></div><div class="Column-Information"><div class="lanmu-bianxian"><img src="images/lanmu-top.png" /></div><div class="lanmu-content"><div class="lanmu-biaoti"><span class="biaoti3"><img src="images/lanmu-biao.jpg" width="4" height="11" /></span><span class="biaoti">业界&middot;声音</span></div><div class="biaoti2"><a href="articlelist_2177_1.html"><img src="images/more.jpg" width="33" height="5" border="0" /></a></div><div class="xian2"><img src="images/xian.jpg" /></div><div class="lanmu-article"><ul class="xc_2177_recommendlist content ullikediv0float newsize"><li class='item0'><span class='link'><span class='ImageUrl'><a href='ArticleContent_27011.html' target='_blank'><img src='http://img.vmarketing.cn/201108/2011080104345786.jpg' /></a> </span></span><span class='link'><span class='Name'><a href='ArticleContent_27011.html' target='_blank'>袁岳：中国电子商务开始转...</a> </span></span><span class='link'><span class='Description'><a href='ArticleContent_27011.html' target='_blank'>做电子商务的人基本上是拿别人的钱来投资，他本身就是赚钱的，他靠资本市场赚钱对于这个市场将来到底是什么...</a> </span></span></li></ul></div><div class="xian3"><img src="images/xian.jpg" /></div><div class="lanmu-article2  newslist"><ul class="xc_2177_list"><li class='item0'><span class='link'><span class='DisplayName'><a href='ArticleContent_27347.html' target='_blank'>营销3.0凤凰影响 凤凰新媒体创新...</a> </span></span></li><li class='item1'><span class='link'><span class='DisplayName'><a href='ArticleContent_27345.html' target='_blank'>2011创新营销五项大奖重磅出炉</a> </span></span></li><li class='item2'><span class='link'><span class='DisplayName'><a href='ArticleContent_27344.html' target='_blank'>营销夜话把酒论道 “2011创新营...</a> </span></span></li><li class='item3'><span class='link'><span class='DisplayName'><a href='ArticleContent_27343.html' target='_blank'>零距离互动体验 消费者驱动营销变革</a> </span></span></li><li class='item4'><span class='link'><span class='DisplayName'><a href='ArticleContent_27243.html' target='_blank'>品牌数字化生存</a> </span></span></li><li class='item5'><span class='link'><span class='DisplayName'><a href='ArticleContent_27240.html' target='_blank'>无网不营销，网罗“人”的力量</a> </span></span></li><li class='item6'><span class='link'><span class='DisplayName'><a href='ArticleContent_27235.html' target='_blank'>金网奖渐受热捧  邮件营销异军突起</a> </span></span></li></ul></div></div><div class="lanmu-bianxian"><img src="images/lanmu-foot.png" /></div></div><div class="Column-Information"><div class="lanmu-bianxian"><img src="images/lanmu-top.png" /></div><div class="lanmu-content"><div class="lanmu-biaoti"><span class="biaoti3"><img src="images/lanmu-biao.jpg" width="4" height="11" /></span><span class="biaoti">国际营销</span></div><div class="biaoti2"><a href="articlelist_2176_1.html"><img src="images/more.jpg" width="33" height="5" border="0" /></a></div><div class="xian2"><img src="images/xian.jpg" /></div><div class="lanmu-article"><ul class="xc_2176_recommendlist content ullikediv0float newsize"><li class='item0'><span class='link'><span class='ImageUrl'><a href='ArticleContent_27227.html' target='_blank'><img src='http://img.vmarketing.cn/201111/2011110103292961.png' /></a> </span></span><span class='link'><span class='Name'><a href='ArticleContent_27227.html' target='_blank'>这个时代伟大的营销者</a> </span></span><span class='link'><span class='Description'><a href='ArticleContent_27227.html' target='_blank'>史蒂夫•乔布斯（Steve Jobs）要求公司不仅要生产伟大的产品，还要打造伟大的广告作品，用各种营...</a> </span></span></li></ul></div><div class="xian3"><img src="images/xian.jpg" /></div><div class="lanmu-article2  newslist"><ul class="xc_2176_list"><li class='item0'><span class='link'><span class='DisplayName'><a href='ArticleContent_27253.html' target='_blank'>Burberry解题——奢侈品数字...</a> </span></span></li><li class='item1'><span class='link'><span class='DisplayName'><a href='ArticleContent_27252.html' target='_blank'>偷懒也可做慈善</a> </span></span></li><li class='item2'><span class='link'><span class='DisplayName'><a href='ArticleContent_27251.html' target='_blank'>会“辟谣”的自动贩卖机</a> </span></span></li><li class='item3'><span class='link'><span class='DisplayName'><a href='ArticleContent_27250.html' target='_blank'>T-Mobile 罚单处处有惊喜</a> </span></span></li><li class='item4'><span class='link'><span class='DisplayName'><a href='ArticleContent_27229.html' target='_blank'>“以顾客为中心” 再定义</a> </span></span></li><li class='item5'><span class='link'><span class='DisplayName'><a href='ArticleContent_27227.html' target='_blank'>这个时代伟大的营销者</a> </span></span></li><li class='item6'><span class='link'><span class='DisplayName'><a href='ArticleContent_27155.html' target='_blank'>性格土豆</a> </span></span></li></ul></div></div><div class="lanmu-bianxian"><img src="images/lanmu-foot.png" /></div></div><div class="Column-Information"><div class="lanmu-bianxian"><img src="images/lanmu-top.png" /></div><div class="lanmu-content"><div class="lanmu-biaoti"><span class="biaoti3"><img src="images/lanmu-biao.jpg" width="4" height="11" /></span><span class="biaoti">营销案例</span></div><div class="biaoti2"><a href="articlelist_2178_1.html"><img src="images/more.jpg" width="33" height="5" border="0" /></a></div><div class="xian2"><img src="images/xian.jpg" /></div><div class="lanmu-article"><ul class="xc_2178_recommendlist content ullikediv0float newsize"><li class='item0'><span class='link'><span class='ImageUrl'><a href='ArticleContent_27245.html' target='_blank'><img src='http://img.vmarketing.cn/201111/20111104041907600.png' /></a> </span></span><span class='link'><span class='Name'><a href='ArticleContent_27245.html' target='_blank'>创意 在品牌内涵之上生花</a> </span></span><span class='link'><span class='Description'><a href='ArticleContent_27245.html' target='_blank'></a> </span></span></li></ul></div><div class="xian3"><img src="images/xian.jpg" /></div><div class="lanmu-article2  newslist"><ul class="xc_2178_list"><li class='item0'><span class='link'><span class='DisplayName'><a href='ArticleContent_27265.html' target='_blank'>蒙牛酸酸乳：笃信音乐营销</a> </span></span></li><li class='item1'><span class='link'><span class='DisplayName'><a href='ArticleContent_27264.html' target='_blank'>尊尼获加：“造梦者”逻辑</a> </span></span></li><li class='item2'><span class='link'><span class='DisplayName'><a href='ArticleContent_27252.html' target='_blank'>偷懒也可做慈善</a> </span></span></li><li class='item3'><span class='link'><span class='DisplayName'><a href='ArticleContent_27251.html' target='_blank'>会“辟谣”的自动贩卖机</a> </span></span></li><li class='item4'><span class='link'><span class='DisplayName'><a href='ArticleContent_27250.html' target='_blank'>T-Mobile 罚单处处有惊喜</a> </span></span></li><li class='item5'><span class='link'><span class='DisplayName'><a href='ArticleContent_27245.html' target='_blank'>创意 在品牌内涵之上生花</a> </span></span></li><li class='item6'><span class='link'><span class='DisplayName'><a href='ArticleContent_27239.html' target='_blank'>耐克“用运动”造句</a> </span></span></li></ul></div></div><div class="lanmu-bianxian"><img src="images/lanmu-foot.png" /></div></div><div class="Column-Information"><div class="lanmu-bianxian"><img src="images/lanmu-top.png" /></div><div class="lanmu-content"><div class="lanmu-biaoti"><span class="biaoti3"><img src="images/lanmu-biao.jpg" width="4" height="11" /></span><span class="biaoti">营销充电</span></div><div class="biaoti2"><a href="articlelist_2179_1.html"><img src="images/more.jpg" width="33" height="5" border="0" /></a></div><div class="xian2"><img src="images/xian.jpg" /></div><div class="lanmu-article"><ul class="xc_2179_recommendlist content ullikediv0float newsize"><li class='item0'><span class='link'><span class='ImageUrl'><a href='ArticleContent_27255.html' target='_blank'><img src='http://img.vmarketing.cn/201111/20111107035002705.png' /></a> </span></span><span class='link'><span class='Name'><a href='ArticleContent_27255.html' target='_blank'>《小V日记》中的情感诉求</a> </span></span><span class='link'><span class='Description'><a href='ArticleContent_27255.html' target='_blank'></a> </span></span></li></ul></div><div class="xian3"><img src="images/xian.jpg" /></div><div class="lanmu-article2  newslist"><ul class="xc_2179_list"><li class='item0'><span class='link'><span class='DisplayName'><a href='ArticleContent_27255.html' target='_blank'>《小V日记》中的情感诉求</a> </span></span></li><li class='item1'><span class='link'><span class='DisplayName'><a href='ArticleContent_27253.html' target='_blank'>Burberry解题——奢侈品数字...</a> </span></span></li><li class='item2'><span class='link'><span class='DisplayName'><a href='ArticleContent_27246.html' target='_blank'>洞察低线城市消费者</a> </span></span></li><li class='item3'><span class='link'><span class='DisplayName'><a href='ArticleContent_27156.html' target='_blank'>90后大学生的数字化生活</a> </span></span></li><li class='item4'><span class='link'><span class='DisplayName'><a href='ArticleContent_27099.html' target='_blank'>品牌怎么玩性感</a> </span></span></li><li class='item5'><span class='link'><span class='DisplayName'><a href='ArticleContent_27070.html' target='_blank'>汽车营销之三大网络用户攻略</a> </span></span></li><li class='item6'><span class='link'><span class='DisplayName'><a href='ArticleContent_27064.html' target='_blank'>社交营销求胜术？</a> </span></span></li></ul></div></div><div class="lanmu-bianxian"><img src="images/lanmu-foot.png" /></div></div><div class="banner3"><a href="http://www.ciweekforum.com" target="_blank"><img src="images/ad/2011-10-19.gif" width="370" height="86" /></a></div><div class="banner3"><a href="http://meeting.iresearch.cn/events/82/" target="_blank"><img src="images/ad/2011-10-21.jpg" width="370" height="86" /></a></div><div class="banner3"><a href="http://forum.paidai.com/2011emar/" target="_blank"><img src="images/ad/20111124370-86.jpg" width="370" height="86" /></a></div><div class="banner3"><a href="http://www.egou.com/vote2011/" target="_blank"><img src="images/2011111_2.jpg" width="370" height="86" /></a></div><div class="Column-Information"><div class="lanmu-bianxian"><img src="images/lanmu-top.png"></div><div class="lanmu-content"><div class="lanmu-biaoti"><span class="biaoti3"><img height="11" width="4" src="images/lanmu-biao.jpg"></span><span class="biaoti">新媒体新营销</span></div><div class="biaoti2"><a href="articlelist_2185_1.html"><img height="5" width="33" border="0" src="images/more.jpg"></a></div><div class="xian2"><img src="images/xian.jpg"></div><div class="lanmu-article"><ul class="xc_2185_recommendlist content ullikediv0float newsize"><li class='item0'><span class='link'><span class='ImageUrl'><a href='ArticleContent_27259.html' target='_blank'><img src='http://img.vmarketing.cn/201111/20111108102957800.png' /></a> </span></span><span class='link'><span class='Name'><a href='ArticleContent_27259.html' target='_blank'>F团：草根代言的魔力</a> </span></span><span class='link'><span class='Description'><a href='ArticleContent_27259.html' target='_blank'>发展至今，团购网的广告战一直火力十足，不同企业的轮番广告轰炸，展现出不同诉求和定位……</a> </span></span></li></ul></div><div class="xian3"><img src="images/xian.jpg"></div><div class="lanmu-article2  newslist"><ul class="xc_2185_list"><li class='item0'><span class='link'><span class='DisplayName'><a href='ArticleContent_27345.html' target='_blank'>2011创新营销五项大奖重磅出炉</a> </span></span></li><li class='item1'><span class='link'><span class='DisplayName'><a href='ArticleContent_27267.html' target='_blank'>寻找小天：不闪式3D的社交“赢”销</a> </span></span></li><li class='item2'><span class='link'><span class='DisplayName'><a href='ArticleContent_27262.html' target='_blank'>新嘉年华跨界1+1</a> </span></span></li><li class='item3'><span class='link'><span class='DisplayName'><a href='ArticleContent_27261.html' target='_blank'>威猛先生网络来袭</a> </span></span></li><li class='item4'><span class='link'><span class='DisplayName'><a href='ArticleContent_27260.html' target='_blank'>奢侈品新“视界”</a> </span></span></li><li class='item5'><span class='link'><span class='DisplayName'><a href='ArticleContent_27259.html' target='_blank'>F团：草根代言的魔力</a> </span></span></li><li class='item6'><span class='link'><span class='DisplayName'><a href='ArticleContent_27211.html' target='_blank'>Web Power：行业监管促进邮...</a> </span></span></li></ul></div></div><div class="lanmu-bianxian"><img src="images/lanmu-foot.png"></div></div><div class="Column-Information"><div class="lanmu-bianxian"><img src="images/lanmu-top.png"></div><div class="lanmu-content"><div class="lanmu-biaoti"><span class="biaoti3"><img height="11" width="4" src="images/lanmu-biao.jpg"></span><span class="biaoti">精英访谈</span></div><div class="biaoti2"><a href="articlelist_2126_1.html"><img height="5" width="33" border="0" src="images/more.jpg"></a></div><div class="xian2"><img src="images/xian.jpg"></div><div class="lanmu-article"><ul class="xc_2126_recommendlist content ullikediv0float newsize"><li class='item0'><span class='link'><span class='ImageUrl'><a href='ArticleContent_27087.html' target='_blank'><img src='http://img.vmarketing.cn/201109/20110906010102826.jpg' /></a> </span></span><span class='link'><span class='Name'><a href='ArticleContent_27087.html' target='_blank'>凯伦·西蒙斯：驶向新轨道</a> </span></span><span class='link'><span class='Description'><a href='ArticleContent_27087.html' target='_blank'>NHTGlobal全球十周年庆典使得凯伦·西蒙斯在数次中国之行后，第一次来到了北京。此次在香港举办为...</a> </span></span></li></ul></div><div class="xian3"><img src="images/xian.jpg"></div><div class="lanmu-article2  newslist"><ul class="xc_2126_list"><li class='item0'><span class='link'><span class='DisplayName'><a href='ArticleContent_27254.html' target='_blank'>尹敬业 热闹中的冷静</a> </span></span></li><li class='item1'><span class='link'><span class='DisplayName'><a href='ArticleContent_27248.html' target='_blank'>踩着节奏去成长</a> </span></span></li><li class='item2'><span class='link'><span class='DisplayName'><a href='ArticleContent_27231.html' target='_blank'>全球市场：完整的品牌世界</a> </span></span></li><li class='item3'><span class='link'><span class='DisplayName'><a href='ArticleContent_27095.html' target='_blank'>王小川 沉静而凶猛的搜狗当家人</a> </span></span></li><li class='item4'><span class='link'><span class='DisplayName'><a href='ArticleContent_27087.html' target='_blank'>凯伦·西蒙斯：驶向新轨道</a> </span></span></li><li class='item5'><span class='link'><span class='DisplayName'><a href='ArticleContent_27034.html' target='_blank'>破解钻石业电商密码</a> </span></span></li><li class='item6'><span class='link'><span class='DisplayName'><a href='ArticleContent_27033.html' target='_blank'>乐高 旧战场上的新战役</a> </span></span></li></ul></div></div><div class="lanmu-bianxian"><img src="images/lanmu-foot.png"></div></div><div class="Column-Information"><div class="lanmu-bianxian"><img src="images/lanmu-top.png"></div><div class="lanmu-content"><div class="lanmu-biaoti"><span class="biaoti3"><img height="11" width="4" src="images/lanmu-biao.jpg"></span><span class="biaoti">行业营销资讯</span></div><div class="biaoti2"><a href="articlelist_2182_1.html"><img height="5" width="33" border="0" src="images/more.jpg"></a></div><div class="xian2"><img src="images/xian.jpg"></div><div class="lanmu-article"><ul class="xc_2182_recommendlist content ullikediv0float newsize"><li class='item0'><span class='link'><span class='ImageUrl'><a href='ArticleContent_27241.html' target='_blank'><img src='http://img.vmarketing.cn/201111/20111104013033119.png' /></a> </span></span><span class='link'><span class='Name'><a href='ArticleContent_27241.html' target='_blank'>奥美零空间2011秋季展...</a> </span></span><span class='link'><span class='Description'><a href='ArticleContent_27241.html' target='_blank'></a> </span></span></li></ul></div><div class="xian3"><img src="images/xian.jpg"></div><div class="lanmu-article2  newslist"><ul class="xc_2182_list"><li class='item0'><span class='link'><span class='DisplayName'><a href='ArticleContent_27368.html' target='_blank'>人人网发布2012营销风向标：“三...</a> </span></span></li><li class='item1'><span class='link'><span class='DisplayName'><a href='ArticleContent_27347.html' target='_blank'>营销3.0凤凰影响 凤凰新媒体创新...</a> </span></span></li><li class='item2'><span class='link'><span class='DisplayName'><a href='ArticleContent_27344.html' target='_blank'>营销夜话把酒论道 “2011创新营...</a> </span></span></li><li class='item3'><span class='link'><span class='DisplayName'><a href='ArticleContent_27343.html' target='_blank'>零距离互动体验 消费者驱动营销变革</a> </span></span></li><li class='item4'><span class='link'><span class='DisplayName'><a href='ArticleContent_27312.html' target='_blank'>黑弧奥美成立数码互动营销机构</a> </span></span></li><li class='item5'><span class='link'><span class='DisplayName'><a href='ArticleContent_27297.html' target='_blank'>Web Power 获荷兰“国泰航...</a> </span></span></li><li class='item6'><span class='link'><span class='DisplayName'><a href='ArticleContent_27293.html' target='_blank'>TBWA\TEQUILA\ 携手G...</a> </span></span></li></ul></div></div><div class="lanmu-bianxian"><img src="images/lanmu-foot.png"></div></div><div class="Column-Information"><div class="lanmu-bianxian"><img src="images/lanmu-top.png"></div><div class="lanmu-content"><div class="lanmu-biaoti"><span class="biaoti3"><img height="11" width="4" src="images/lanmu-biao.jpg"></span><span class="biaoti">营销活动</span></div><div class="biaoti2"><a href="articlelist_2183_1.html"><img height="5" width="33" border="0" src="images/more.jpg"></a></div><div class="xian2"><img src="images/xian.jpg"></div><div class="lanmu-article"><ul class="xc_2183_recommendlist content ullikediv0float newsize"><li class='item0'><span class='link'><span class='ImageUrl'><a href='ArticleContent_27304.html' target='_blank'><img src='http://img.vmarketing.cn/201111/20111118062511884.png' /></a> </span></span><span class='link'><span class='Name'><a href='ArticleContent_27304.html' target='_blank'>李亚：营销3.0 有效提...</a> </span></span><span class='link'><span class='Description'><a href='ArticleContent_27304.html' target='_blank'>从08年提出要做一个很凰很暴力的主流门户，到09年提出4IforROI实效营销理念，再到提出要成为超...</a> </span></span></li></ul></div><div class="xian3"><img src="images/xian.jpg"></div><div class="lanmu-article2  newslist"><ul class="xc_2183_list"><li class='item0'><span class='link'><span class='DisplayName'><a href='ArticleContent_27310.html' target='_blank'>中国经济和信息化年会问道2012</a> </span></span></li><li class='item1'><span class='link'><span class='DisplayName'><a href='ArticleContent_27304.html' target='_blank'>李亚：营销3.0 有效提升广告主ROI</a> </span></span></li><li class='item2'><span class='link'><span class='DisplayName'><a href='ArticleContent_27284.html' target='_blank'>你有多努力，就有多美“力”</a> </span></span></li><li class='item3'><span class='link'><span class='DisplayName'><a href='ArticleContent_27068.html' target='_blank'>2011创新营销五项大奖重磅出炉</a> </span></span></li><li class='item4'><span class='link'><span class='DisplayName'><a href='ArticleContent_27257.html' target='_blank'>中国经济和信息化年会 2011论坛...</a> </span></span></li><li class='item5'><span class='link'><span class='DisplayName'><a href='ArticleContent_27238.html' target='_blank'>创意产品 演绎美好生活</a> </span></span></li><li class='item6'><span class='link'><span class='DisplayName'><a href='ArticleContent_27224.html' target='_blank'>2011易观国际首设金薇奖 为企业...</a> </span></span></li></ul></div></div><div class="lanmu-bianxian"><img src="images/lanmu-foot.png"></div></div><div class="baner2"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase=" http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0"
+                        width="750" height="86"><param name="movie" value="images/guanggao/in2.swf" /><param name="quality" value="high" /><embed src="images/guanggao/in2.swf" quality="high" pluginspage='http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash'
+                            type='application/x-shockwave-flash' width="750" height="86"></embed></object></div><div class="zazhixinshang"><div class="zazhixinshang-top"><img src="images/hengfu3-top.png" /></div><div class="zazhixinshang-content"><div class="zazhixinshang-biaoti"><span class="biaoti3"><img src="images/lanmu-biao.jpg" width="4" height="11" /></span><span class="biaoti">杂志展示</span></div><div class="biaoti2"><!--<a href="articlelist_2143_1.html"><img src="images/more.jpg" width="33" height="5" border="0" /></a>--></div><div class="xian6"><img src="images/xian3.jpg" /></div><div class="tupiangundong"><div class=blk_29><div class='LeftBotton' id='LeftArr'><img src="images/qiehuan-anniu.png" width="15" height="30" /></div><div class='Cont' id='ISL_Cont_1'><ul class="xc_imglist_list.htm coverlist"><LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/11-05a.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/11-05b.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><IMG style="WIDTH: 93px; HEIGHT: 118px" alt="" src="http://www.vmarketing.cn/system_dntb/upload/2011413135329535.jpg" width=159 height=197><!--<a href="#" target=_blank>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><IMG style="WIDTH: 95px; HEIGHT: 129px" alt="" src="http://www.vmarketing.cn/system_dntb/upload/2011413135356719.jpg" width=178 height=221></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><IMG style="WIDTH: 93px; HEIGHT: 130px" alt="" src="http://www.vmarketing.cn/system_dntb/upload/201141313598219.jpg" width=398 height=500></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><IMG style="WIDTH: 95px; HEIGHT: 122px" alt="" src="http://www.vmarketing.cn/system_dntb/upload/2011413135653714.jpg" width=221 height=300></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><IMG border=0 src="images/zazhi/10-12.png" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/10-11.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/10-09.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/10-08.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/10-07.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/2010-06.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/2010-05.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/2010-04.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/2010-0203.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/2010-01.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/09-12.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/09-11.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/09-10.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/09-09.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/09-08.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/09-07.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/09-06.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><IMG border=0 src="images/zazhi/09-05.jpg" width=97 height=131><!--</a>--></SPAN></SPAN> 
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><!--</a>--></SPAN></SPAN>
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><!--</a>--></SPAN></SPAN>
+<LI class=item0><SPAN class=link><SPAN class=ImageUrl><!--<a href="#" target=_blank>--><!--</a>--></SPAN></SPAN></LI></ul></div><div class='RightBotton' id='RightArr'><img src="images/qiehuan-anniu2.png" width="15" height="30" /></div></div></div></div><div class="zazhixinshang-top"><img src="images/hengfu3-foot.png" /></div></div></div><div class="Content-right"><div class="lanmu-dingyue"><div class="dingyue-top"><img src="images/dingyue-top.png" /></div><div class="dingyue-content"><div class="dingyue-biaoti"><span class="biaoti3"><img src="images/lanmu-biao.jpg" width="4" height="11" /></span><span class="biaoti">《成功营销》</span></div><div class="xian5"><img src="images/xian2.jpg"/></div><div class="zazhifengmian"><ul class="xc_img_list.htm">﻿                                      <li class='item0'><span class='link'><span class='ImageUrl'><a href="http://www.vmarketing.cn/dingyue" target="_blank">
+                                          <img src="images/ad/2011-9-5.jpg" width="158" height="216" /></a></span></span></li>
+</ul></div><div class="dingyuemennu"><a href="http://www.vmarketing.cn/dingyue" target="_blank"><img src="images/dingyueanniu.png" border="0" /></a></div></div><div class="dingyue-foot"><img src="images/dingyue-foot.png" /></div></div><div class="huiyuandenglu"><div class="huiyuandenglu-top"><img src="images/dingyue-top.png" /></div><div class="huiyuandenglukuang"><div class="dingyue-biaoti"><span class="biaoti3"><img src="images/lanmu-biao.jpg" width="4" height="11" /></span><span class="biaoti">用户登录</span></div><div class="xian5"><img src="images/xian2.jpg" /></div><div class="dengluwenbenkuang"><div class="zhanghu">用户名<br />
+                            密码</div><div class="shurukuang"><input name="UserName" type="text" id="UserName" maxlength="15" style="width:120px; height:16px;border: #c5c5c5 1px solid;font-size: 9pt;" /></div><div class="shurukuang"><input name="UserName1" type="password" id="UserName1" maxlength="15" style="width:120px; height:16px;border: #c5c5c5 1px solid;font-size: 9pt;" /></div><div class="dengluanniu"><a href="javascript:alert('建设中暂时无法访问');"><img src="images/dengluanniu.png" width="57" height="24" border="0" /></a></div><div class="zhuce"><a href="javascript:alert('建设中暂时无法访问');" class="lianjie">注册</a> | <a href="javascript:alert('建设中暂时无法访问');" class="lianjie">忘记密码</a></div></div></div><div class="huiyuandenglu-foot"><img src="images/huiyuandenglu-foot.png" /></div></div><div><a href="http://www.vmarketing.cn/ArticleContent_26849.html"><img src="images/ad_188x141.png"></a><br><a href="/ArticleContent_26739.html" target="_blank"><img src="images/dzdc.jpg" width="180"/></a></div><div class="huiyuanqiye"><div class="huiyuandenglu"><div class="huiyuandenglu-top"><img src="images/dingyue-top.png" /></div><div class="huiyuanqiye-content"><div class="huiyuan-biaoti"><span class="biaoti3"><img src="images/lanmu-biao.jpg" width="4" height="11" /></span><span class="biaoti">会员企业</span></div><div class="biaoti2"></div><div class="xian5"><img src="images/xian2.jpg" /></div><div class="shuxinggundong"><div id=idScroller><div id=idScrollMid><ul class="xc_gg_list"><LI><A href="http://www.cntv.cn/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/CNTV104X45.png" width=104 height=45></A> 
+<LI><A href="http://www.12114.org.cn/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/112114.jpg" width=104 height=45></A> 
+<LI><A href="http://www.acxiom.cn/Pages/Acxiom%20China.aspx"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/acxiom.jpg" width=104 height=45></A> 
+<LI><A href="http://www.aigo.com/default.aspx"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/aigo.jpg" width=104 height=45></A> 
+<LI><A href="http://china.alibaba.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/alibaba.jpg" width=104 height=45></A> 
+<LI><A href="http://www.amway.com.cn/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/amway.jpg" width=104 height=45></A> 
+<LI><A href="http://www.baidu.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/baidu.jpg" width=104 height=45></A> 
+<LI><A href="http://www.pepsi.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/baishi.jpg" width=104 height=45></A> 
+<LI><A href="http://www.boloni.com.cn/boloni/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/BOLONI.jpg" width=104 height=45></A> 
+<LI><A href="http://1118.cctv.com/index.shtml"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/cctv.png" width=104 height=45></A> 
+<LI><A href="http://www.cntv.cn/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/cntv.jpg" width=104 height=45></A> 
+<LI><A href="http://www.coolpad.cn/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/coolpad.jpg" width=104 height=45></A> 
+<LI><A href="http://www1.ap.dell.com/content/topics/topic.aspx/ap/topics/main/zhcn/dell_home_business?c=cn&amp;l=zh&amp;s=gen&amp;dgc=ST&amp;cid=33416&amp;lid=786906&amp;acd=136699067738400"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/DELL.jpg" width=104 height=45></A> 
+<LI><A href="http://www.umholdings.com.cn/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/dingcheng.png" width=104 height=45></A> 
+<LI><A href="http://www.founder.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/fangzheng.jpg" width=104 height=45></A> 
+<LI><A href="http://www.google.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/google.jpg" width=104 height=45></A> 
+<LI><A href="http://www.google.com.hk/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/hp.jpg" width=104 height=45></A> 
+<LI><A href="http://www.iresearch.cn/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/iresearch.jpg" width=104 height=45></A> 
+<LI><A href="http://www.jdbchina.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/jdb.jpg" width=104 height=45></A> 
+<LI><A href="http://www.admaster.com.cn/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/jingshuo.jpg" width=104 height=45></A> 
+<LI><A href="http://www.ku6.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/KU6.png" width=104 height=45></A> 
+<LI><A href="http://www.lenovo.com.cn/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/lenovo.jpg" width=104 height=45></A> 
+<LI><A href="http://www.linksense.cn/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/lianhua.jpg" width=104 height=45></A> 
+<LI><A href="http://www.lorealparis.com.cn/_zh/_cn/home/index.aspx?cm_mmc=SEM-_-Brandzone-_-Push1-_-junpromo"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/loreal.jpg" width=104 height=45></A> 
+<LI><A href="http://www.mosh.cn/beijing"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/mosh.jpg" width=104 height=45></A> 
+<LI><A href="http://www.nokia.com.cn/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/nokia.jpg" width=104 height=45></A> 
+<LI><A href="http://www.qq.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/qq.jpg" width=104 height=45></A> 
+<LI><A href="http://reg.renren.com/xn6212.do?ss=17040&amp;rt=1&amp;g=title"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/renren.png" width=104 height=45></A> 
+<LI><A href="http://www.samsung.com/cn/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/sanxing.jpg" width=104 height=45></A> 
+<LI><A href="http://www.sina.com.cn/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/sina.jpg" width=104 height=45></A> 
+<LI><A href="http://www.skyworth.com/ch/index.asp"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/skyworth.jpg" width=104 height=45></A> 
+<LI><A href="http://www.sohu.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/sohu.jpg" width=104 height=45></A> 
+<LI><A href="http://www.benephon.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/tianyu.jpg" width=104 height=45></A> 
+<LI><A href="http://www.toyota.com.cn/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/toyota.jpg" width=104 height=45></A> 
+<LI><A href="http://www.tudou.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/tudou.png" width=104 height=45></A> 
+<LI><A href="http://www.wuliangye.com.cn/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/wuliangye.jpg" width=104 height=45></A> 
+<LI><A href="http://www.adchina.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/yichuanmei.jpg" width=104 height=45></A> 
+<LI><A href="http://www.yili.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/yili.jpg" width=104 height=45></A> 
+<LI><A href="http://www.faw-volkswagen.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/yiqidazhong.jpg" width=104 height=45></A> 
+<LI><A href="http://www.youku.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/youku.jpg" width=104 height=45></A> 
+<LI><A href="http://www.zenithoptimedia.com.cn/zenith/index.jsp"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/zenithoptimedia.jpg" width=104 height=45></A> 
+<LI><A href="http://bank.ecitic.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/zhongxin.jpg" width=104 height=45></A> 
+<LI><A href="http://www.yoyi.com.cn/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/youyihutong.jpg" width=104 height=45></A> 
+<LI><A href="http://www.mediav.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/mediav.jpg" width=104 height=45></A>
+<LI><A href="http://www.evermotion.cn/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/ry.png" width=104 height=45></A> 
+<LI><A href="http://cn.msn.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/MSN.png" width=104 height=45></A> 
+<LI><A href="http://www.ompchina.com/main.htm"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/ompchina.png" width=104 height=45></A>
+<LI><A href="http://www.charmbj.com/"><IMG border=0 src="http://www.vmarketing.cn/images/Logo/enterprise/charmbj.png" width=104 height=45></A> </LI></ul><div style="clear:both;"></div></div></div></div></div><div class="huiyuandenglu-foot"><img src="images/huiyuandenglu-foot.png" /></div></div></div><div class="huiyuandenglu"><div class="huiyuandenglu-top"><img src="images/dingyue-top.png" /></div><div class="huiyuandenglukuang"><div class="huiyuan-biaoti"><span class="biaoti3"><img src="images/lanmu-biao.jpg" width="4" height="11" /></span><span class="biaoti">会员动态</span></div><div class="biaoti2"><a href="articlelist_2192_1.html"><img src="images/more.jpg" width="33" height="5" border="0" /></a></div><div class="xian5"><img src="images/xian2.jpg" /></div><div class="huiyuandongtai-neirong"><ul class="xc_2192_list content ullikediv0float"><li class='item0'><span class='link'><span class='DisplayName'><a href='ArticleContent_27260.html' target='_blank'>奢侈品新“视界”</a> </span></span></li><li class='item1'><span class='link'><span class='DisplayName'><a href='ArticleContent_27100.html' target='_blank'>PPTV与安徽卫视网台联动 网络独...</a> </span></span></li><li class='item2'><span class='link'><span class='DisplayName'><a href='ArticleContent_26951.html' target='_blank'>人人网与智威汤逊北京建立战略合作</a> </span></span></li><li class='item3'><span class='link'><span class='DisplayName'><a href='ArticleContent_26928.html' target='_blank'>用LBS点亮星空？茉莉清茶再掀星座...</a> </span></span></li><li class='item4'><span class='link'><span class='DisplayName'><a href='ArticleContent_26871.html' target='_blank'>百度深耕品牌营销 鸿媒体树立展示广...</a> </span></span></li><li class='item5'><span class='link'><span class='DisplayName'><a href='ArticleContent_26870.html' target='_blank'>精准到“人”的网络营销</a> </span></span></li><li class='item6'><span class='link'><span class='DisplayName'><a href='ArticleContent_26865.html' target='_blank'>英特尔携土豆网推广“炫”视界 互动...</a> </span></span></li><li class='item7'><span class='link'><span class='DisplayName'><a href='ArticleContent_26864.html' target='_blank'>悠易互通CEO刘竣丰：技术驱动精准营销</a> </span></span></li><li class='item8'><span class='link'><span class='DisplayName'><a href='ArticleContent_26861.html' target='_blank'>惠普金牌服务体验中心落户重庆</a> </span></span></li></ul></div></div><div class="huiyuandenglu-foot"><img src="images/huiyuandenglu-foot.png" /></div></div></div><script language=javascript type=text/javascript><!--//--><![CDATA[//><!--
+		var scrollPic_02 = new ScrollPic();
+		scrollPic_02.scrollContId   = "ISL_Cont_1";
+		scrollPic_02.arrLeftId      = "LeftArr";//左箭头ID
+		scrollPic_02.arrRightId     = "RightArr"; //右箭头ID
+		scrollPic_02.frameWidth     = 690;//显示框宽度
+		scrollPic_02.pageWidth      = 115; //翻页宽度
+		scrollPic_02.speed          = 10; //移动速度(毫秒，越小越快)
+		scrollPic_02.space          = 10; //每次移动像素(单位px，越大越快)
+		scrollPic_02.autoPlay       = false; //自动播放
+		scrollPic_02.autoPlayTime   = 3; //自动播放间隔时间(秒)
+		scrollPic_02.initialize(); //初始化
+		//--><!]]></script><script 	><!--//--><![CDATA[//><!--
+//图片滚动列表 mengjia 070816
+var Speed = 1; //速度(毫秒)
+var Space = 5; //每次移动(px)
+var PageWidth = 74; //翻页宽度
+var fill = 0; //整体移位
+var MoveLock = false;
+var MoveTimeObj;
+var Comp = 0;
+var AutoPlayObj=null;
+GetObj("List2").innerHTML = GetObj("List1").innerHTML;
+GetObj('ISL_Cont').scrollLeft = fill;
+GetObj("ISL_Cont").onmouseover = function(){clearInterval(AutoPlayObj);}
+GetObj("ISL_Cont").onmouseout = function(){AutoPlay();}
+AutoPlay();
+function GetObj(objName){if(document.getElementById){return eval('document.getElementById("'+objName+'")')}else{return eval('document.all.'+objName)}}
+function AutoPlay(){ //自动滚动
+ clearInterval(AutoPlayObj);
+ AutoPlayObj = setInterval('ISL_GoDown();ISL_StopDown();',3000); //间隔时间
+}
+function ISL_GoUp(){ //上翻开始
+ if(MoveLock) return;
+ clearInterval(AutoPlayObj);
+ MoveLock = true;
+ MoveTimeObj = setInterval('ISL_ScrUp();',Speed);
+}
+function ISL_StopUp(){ //上翻停止
+ clearInterval(MoveTimeObj);
+ if(GetObj('ISL_Cont').scrollLeft % PageWidth - fill != 0){
+  Comp = fill - (GetObj('ISL_Cont').scrollLeft % PageWidth);
+  CompScr();
+ }else{
+  MoveLock = false;
+ }
+ AutoPlay();
+}
+function ISL_ScrUp(){ //上翻动作
+ if(GetObj('ISL_Cont').scrollLeft <= 0){GetObj('ISL_Cont').scrollLeft = GetObj('ISL_Cont').scrollLeft + GetObj('List1').offsetWidth}
+ GetObj('ISL_Cont').scrollLeft -= Space ;
+}
+function ISL_GoDown(){ //下翻
+ clearInterval(MoveTimeObj);
+ if(MoveLock) return;
+ clearInterval(AutoPlayObj);
+ MoveLock = true;
+ ISL_ScrDown();
+ MoveTimeObj = setInterval('ISL_ScrDown()',Speed);
+}
+function ISL_StopDown(){ //下翻停止
+ clearInterval(MoveTimeObj);
+ if(GetObj('ISL_Cont').scrollLeft % PageWidth - fill != 0 ){
+  Comp = PageWidth - GetObj('ISL_Cont').scrollLeft % PageWidth + fill;
+  CompScr();
+ }else{
+  MoveLock = false;
+ }
+ AutoPlay();
+}
+function ISL_ScrDown(){ //下翻动作
+ if(GetObj('ISL_Cont').scrollLeft >= GetObj('List1').scrollWidth){GetObj('ISL_Cont').scrollLeft = GetObj('ISL_Cont').scrollLeft - GetObj('List1').scrollWidth;}
+ GetObj('ISL_Cont').scrollLeft += Space ;
+}
+function CompScr(){
+ var num;
+ if(Comp == 0){MoveLock = false;return;}
+ if(Comp < 0){ //上翻
+  if(Comp < -Space){
+   Comp += Space;
+   num = Space;
+  }else{
+   num = -Comp;
+   Comp = 0;
+  }
+  GetObj('ISL_Cont').scrollLeft -= num;
+  setTimeout('CompScr()',Speed);
+ }else{ //下翻
+  if(Comp > Space){
+   Comp -= Space;
+   num = Space;
+  }else{
+   num = Comp;
+   Comp = 0;
+  }
+  GetObj('ISL_Cont').scrollLeft += num;
+  setTimeout('CompScr()',Speed);
+ }
+}
+//--><!]]></script></div><!-- PageBody End -->
+<!-- Footer Begin -->
+	            <div id="Footer">
+	                <div class="Group">
+                    <div class="Group-1">财<br />讯<br />集<br />团</div>
+                    <div class="Group-2"><ul>
+                    <li><span class="Image"><a href="http://www.seecmedia.net/" target="_blank"><img src="images/Logo/bloc/seec.png" border="0" /></a></span></li>
+                    <li><span class="Image"><a href="http://www.caijing.com.cn" target="_blank"><img src="images/Logo/bloc/caijing.png" border="0" /></a></span></li>
+                    <li><span class="Image"><a href="http://www.capitalweek.com.cn/index.html" target="_blank"><img src="images/Logo/bloc/zhengquanshichangzhoukan.png" border="0" /></a></span></li>
+                    <li><span class="Image"><a href="http://www.hongzhoukan.com" target="_blank"><img src="images/Logo/bloc/hongzhoukan.png" border="0" /></a></span></li>
+                    <li><span class="Image"><a href="http://www.vmarketing.cn" target="_blank"><img src="images/Logo/bloc/vmarketing.png" border="0" /></a></span></li>
+                    <li><span class="Image"><a href="http://www.xindichan.com.cn/index.html" target="_blank"><img src="images/Logo/bloc/dichan.png" border="0" /></a></span></li>
+                    <li><span class="Image"><a href="http://www.auto-pictorial.com" target="_blank"><img src="images/Logo/bloc/qichehuabaoNEW.png" border="0" style="width:65px;padding-top:20px"/></a></span></li>
+                    <li><span class="Image"><a href="http://www.autocarcn.com" target="_blank"><img src="images/Logo/bloc/dongganjiayu.png" border="0" /></a></span></li>
+                    <li><span class="Image"><a href="http://pcmag.hexun.com" target="_blank"><img src="images/Logo/bloc/pc.png" border="0" /></a></span></li>
+                    <li><span class="Image"><a href="http://www.cioinsight.com.cn" target="_blank"><img src="images/Logo/bloc/cio.png" border="0" /></a></span></li>
+                    <li><span class="Image"><a href="http://www.sichina.com" target="_blank"><img src="images/Logo/bloc/tiyuhuabao.png" border="0" /></a></span></li>
+                    <li><span class="Image"><a href="http://www.bhgmag.com.cn" target="_blank"><img src="images/Logo/bloc/meihaojiayuan.png" border="0" /></a></span></li>
+                    <li><span class="Image"><a href="http://www.xinlvxing.com.cn/index.html" target="_blank"><img src="images/Logo/bloc/voyage.jpg" border="0" /></a></span></li>
+                    <li><span class="Image"><a href="http://www.timeoutcn.com" target="_blank"><img src="images/Logo/bloc/timoout.jpg" border="0" /></a></span></li>
+                    <li><span class="Image"><a href="http://www.timeoutcn.com" target="_blank"><img src="images/Logo/bloc/timeoutbeijing.jpg" border="0" /></a></span></li>
+                    <li><span class="Image"><a href="http://www.hislife.com.cn/index.html" target="_blank"><img src="images/Logo/bloc/hislift.jpg" border="0" /></a></span></li>
+                    <li><span class="Image"><a href="http://www.grazia.onlylady.com" target="_blank"><img src="images/Logo/bloc/grazia.jpg" border="0" /></a></span></li>
+                    <li><span class="Image"><a href="#" target="_blank"><img src="images/Logo/bloc/putaojiu.png" border="0" /></a></span></li>
+                    <li><span class="Image"><a href="#" target="_blank"><img src="images/Logo/bloc/fangyizhoudong.png" border="0" /></a></span></li>
+                
+     
+                    </ul>
+                    </div>
+                     <div class="Group-3"><img src="images/liebiao2_long.png" /></div>
+                    </div>
+                    <div class="Links">
+                    <div class="Links-1">友<br />情<br />链<br />接</div>
+                    <div class="Links-2">
+                    <ul >
+            
+                    <li><a href="http://finance.sina.com.cn/
+" target="_blank">新浪财经
+</a></li>
+                    <li><a href="http://www.sohu.com/
+" target="_blank">搜狐
+</a></li>
+                    <li><a href="http://finance.qq.com/
+" target="_blank">腾讯财经
+</a></li>
+                    <li><a href="http://www.jrj.com.cn/
+" target="_blank">金融界
+</a></li>
+                    <li><a href="http://www.163.com/
+" target="_blank">网易
+</a></li>
+                    <li><a href="http://www.hexun.com/
+" target="_blank">和讯
+</a></li>
+                    <li><a href="http://www.ifeng.com/
+" target="_blank">凤凰网</a></li>
+                    <li><a href="http://www.people.com.cn/
+" target="_blank">人民网
+
+</a></li>
+                    <li><a href="http://www.xinhuanet.com/
+" target="_blank">新华网
+</a></li>
+        
+                    <li><a href="http://www.eastmoney.com/
+" target="_blank">东方财富网
+</a></li>
+                    <li><a href="http://www.iresearch.cn/
+" target="_blank">艾瑞
+</a></li>
+                    <li><a href="http://www.dszr.com/
+" target="_blank">第三种人
+</a></li>
+           
+                    <li><a href="http://www.ecm.com.cn/
+" target="_blank">中国市场营销网
+</a></li>
+                    <li><a href="http://www.bnet.com.cn/
+" target="_blank">商业英才网
+</a></li>
+                    <li><a href="http://www.brandcn.com/
+" target="_blank">品牌中国网
+</a></li>
+                    <li><a href="http://www.meihua.info/default.htm
+" target="_blank">梅花网
+</a></li>
+                    <li><a href="http://www.gcctour.cn/
+" target="_blank">中国高尔夫网
+</a></li>
+                    <li><a href="http://www.ftchinese.com/
+" target="_blank">FT中文网
+</a></li>
+                    <li><a href="http://www.caixun.com/
+" target="_blank">财讯网
+</a></li>
+                    <li><a href="http://www.yingxiao360.com/
+" target="_blank">第一营销网
+</a></li>
+                    <li><a href="http://www.zgjrw.com/
+" target="_blank">中国金融网</a></li>
+                    <li><a href="http://www.chinavalue.net/
+" target="_blank">价值中国网
+</a></li>
+                    <li><a href="http://www.emkt.com.cn/
+" target="_blank">中国营销传播网
+</a></li>
+                    <li><a href="http://www.518ad.com/
+" target="_blank">商机网
+</a></li>
+                    <li><a href="http://yizhantong.ebdoor.com/ 
+" target="_blank">一站通
+</a></li>
+                    <li><a href="http://www.shichangbu.com/
+" target="_blank">市场部网
+</a></li>
+                    <li><a href="http://www.myzazhi.cn/
+" target="_blank">我得杂志网
+</a></li>
+                    <li><a href="http://www.bokee.net
+" target="_blank">企博网
+</a></li>
+                    <li><a href=" http://www.hq88.com
+" target="_blank">华企在线商学院
+</a></li>
+                    <li><a href=" http://www.boraid.com/
+" target="_blank">博锐管理在线
+</a></li>
+                    <li><a href="  http://www.21cmo.net
+" target="_blank">中国营销资源在线
+</a></li>
+                    <li><a href=" http://www.bwvip.com
+" target="_blank">大正高尔夫
+</a></li>
+                    <li><a href=" http://www.docin.com
+" target="_blank">豆丁网
+</a></li>
+
+                   <li><a href="http://www.digitimes.com.cn/" target="_blank">数字商业时代
+</a></li>
+                    <li id='sp_001' style='display:none'><a href="http://catch.tudou.com/ 
+" target="_blank">土豆网娱乐营销
+</a></li>
+
+                    </ul>
+                    
+                    <script type="text/javascript">
+
+                        var dom123 = document.getElementById("sp_001");
+                        if (window.location.href.toLowerCase().indexOf('index.html') >= 0) {
+                            dom123.style.display = "none";
+                        }
+                        else {
+                            dom123.style.display = "block";
+                        }
+                    
+                    
+                    
+                    
+                    </script>
+                    
+                    </div>
+                    <div class="Links-3"><img src="images/liebiao2.png" /></div>
+                    </div>
+                    <div class="navigation">
+                    <ul>
+                    <li><a href="About.html">关于我们</a></li><li><span class="xian4">|</span></li>
+                    <li><a href="http://www.vmarketing.cn/dingyue">订阅杂志</a></li><li><span class="xian4">|</span></li>
+                    <li><a href="Advertising.html">杂志广告</a></li><li><span class="xian4">|</span></li>
+                    <li><a href="javascript:alert('建设中暂时无法访问');">网站广告</a></li><li><span class="xian4">|</span></li>
+                    <li><a href="Contact.html">联系我们</a></li><li><span class="xian4">|</span></li>
+                    <li><a href="/liuyan">留言入口</a></li><li><span class="xian4">|</span></li>
+                     <li><a href="SiteMap.html">站点地图</a></li>
+                    </ul>
+                    </div>          
+                   <div class="copyright">本站归成功营销杂志所有。未经授权，不得转载。&nbsp;&nbsp;<script src="http://s15.cnzz.com/stat.php?id=2291614&web_id=2291614&show=pic" language="JavaScript"></script>
+<br />Copyright 《成功营销》 All Rights Reserved 版权所有 复制必究 <a href="http://www.vmarketing.cn">京ICP备11014849号</a>
+</div>
+                     </div>
+
+                     
+
+
+	                <!-- Footer End -->
+	        </div>
+	        </div>
+        </div>
+</div>
+</form>
+
+</body>
+</html>
+

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>登录 拼范网 - 分类收藏每一个新发现！</title>
+	<meta name="Description" content="拼范网是一个图微博社区，刚刚开始测试，并将在接下来的一段时间里,和你一起不断创造惊喜. 你会发现，原来有这么个地方我可以分享任何我喜欢的东东，你可以关注我，这样就可以看到我的分享了。一旦加入拼范网，就可以创建你自己的账户来和大家分享你自己所喜欢的东东了。" />
+	<meta name="Keywords" content="拼范,图片分享,家居,服饰,美食,设计,艺术,时尚,摄影,电影" />
+	<link rel="stylesheet" href="http://static.pinfun.com/css/conf/frame.css?t=1314982261" />
+	<link rel="stylesheet" href="http://static.pinfun.com/css/conf/logintwo.css?t=1314982261" />
+	<link rel="Shortcut Icon" href="http://static.pinfun.com/images/common/16.ico" />
+	<script type="text/javascript" src="http://static.pinfun.com/js/pf.min.js?t=1314982261"></script>
+</head>
+<body>
+			<!--主体-->
+	<div class="logontwo">
+		<p class="logintlp PF_floatl"></p>
+		<ul class="logintmp PF_floatl">
+			<li class="logintmfirst">
+				<p>
+					<a class="laogintlogo" href="/">
+						PINFUN
+						<span class="beta">测试版</span>
+						<span class="home">测试版</span>
+					</a>
+				</p>
+								<form method="post" name="loginform" action="/login">
+					<p class="logintemail">
+												<input type="text" class="input_text PF_fontd PF_textgc" value="登录名/邮箱" name="login_name" id="login_name" tabindex="1"/>
+					</p>
+					<p class="logintpassword">
+						
+						<input style="display:block" type="text" class="input_text PF_fontd PF_textgc  PF_floatl" value="登录密码" name="passwd_show" id="passwd_show" tabindex="2"/>
+						<input style="display:none" type="password" class="input_text PF_fontd PF_floatl" name="user_passwd" id="user_passwd" value=""/>
+						<button type="submit" class="PF_fontc button02 PF_textwa">登录</button>
+					</p>
+					<p class="autologin">
+						<input type="checkbox" value="1"  name="auto_login" class="PF_floatl" checked="checked"/>
+						<label for="auto_login">两周之内自动登录</label> 
+						<a href="/find_pwd" class="PF_under">忘记密码?</a>
+					</p>
+					<p class="loginlike">
+						<a href="/sina" class="PF_fonta chainbtn PF_floatl">
+							<img width="22" align="absmiddle" height="20" title="" alt="" class="PF_icon PF_icon08" src="http://static.pinfun.com/images/common/PF_trans.gif">新浪登录</a>
+						<a href="/tencent" class="PF_fonta chainbtn PF_floatl">
+							<img width="22" align="absmiddle" height="20" title="" alt="" class="PF_icon PF_icon06" src="http://static.pinfun.com/images/common/PF_trans.gif">腾讯登录</a>
+						<a href="/renren" class="PF_fonta chainbtn PF_floatl">
+							<img width="22" align="absmiddle" height="20" title="" alt="" class="PF_icon PF_icon07" src="http://static.pinfun.com/images/common/PF_trans.gif">人人登录</a>
+						<a href="/douban" class="PF_fonta chainbtn PF_floatl">
+							<img width="22" align="absmiddle" height="20" title="" alt="" class="PF_icon PF_icon30" src="http://static.pinfun.com/images/common/PF_trans.gif">豆瓣登录</a>
+					</p>
+				</form>
+			</li>	
+			<li class="logintmlast"></li>	
+		</ul>
+		<p class="logintrp PF_floatl"></p>
+	</div>
+	<!--主体-->
+	<script type="text/javascript" charset="utf-8">
+		var login_name 		= $I('#login_name');
+		var passwd_show 	= $I('#passwd_show');  
+		var user_passwd 	= $I('#user_passwd');
+		var cookie_name = "";
+		$_addHandler(login_name, 'focus', function(){
+			 var value = login_name.value;
+			 if(value == '登录名/邮箱'){
+				login_name.value = '';
+				$_removeClass(login_name,'PF_textgc');
+				$_addClass(login_name,'PF_textgb');
+			}else {
+				login_name.select();
+			}
+		});
+		$_addHandler(login_name, 'blur', function(){
+			 var value = login_name.value;
+			 if(value == ''){
+				if(cookie_name != '') {
+					login_name.value = cookie_name;
+				} else {
+					login_name.value = '登录名/邮箱';
+				}
+				$_removeClass(login_name,'PF_textgb');
+				$_addClass(login_name,'PF_textgc');
+			}
+		});
+		
+		$_addHandler(passwd_show, 'focus', function(){
+			$_setStyle(passwd_show,'display', 'none');
+			$_setStyle(user_passwd,'display', 'block');
+			user_passwd.focus();			
+		});
+		
+		$_addHandler(user_passwd, 'blur', function(){
+			var value = user_passwd.value;
+			if(value == ''){
+				$_setStyle(user_passwd,'display', 'none');
+				$_setStyle(passwd_show,'display', 'block');
+			}
+		});
+
+		
+		if(login_name.value == '登录名/邮箱') {
+			if(cookie_name != '') {
+				login_name.value = cookie_name;
+			}
+		}
+	</script>
+	<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://stat.pinfun.com/" : "http://stat.pinfun.com/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+
+</script><noscript><p><img src="http://stat.pinfun.com/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+</body>
+</html>

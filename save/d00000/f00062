@@ -1,0 +1,663 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+   <head>
+      
+      <meta name="keywords" content="mysimon, comparison shopping, compare prices, gifts, gift ideas, shopping guides" />
+ 		<meta name="description" content="Unique Gift Ideas - mySimon is the premier price comparison shopping site online letting you compare prices and find the best deals on all the hottest new products." />
+      
+      
+      <script type="text/javascript">var pageStartTime = new Date();</script>
+      <title>mySimon - Comparison Shopping - Unique Gift Ideas - Compare Prices</title>
+      <link rel="icon" href="http://i.mysimon.com/images/favicon.ico" type="image/x-icon" />
+      <link rel="shortcut icon" href="http://i.mysimon.com/images/favicon.ico" type="image/x-icon" />
+      
+          
+      <link rel="stylesheet" href="http://i.mysimon.com/css/base.css?4" />
+      <script src="http://i.mysimon.com/js/common.js?3"></script>
+      
+<style>
+#content {
+    width: 960px;
+    border-top: none;
+}
+button {
+   cursor: pointer;
+}
+#featured {
+    height: 381px;
+    width: 100%;
+    background: #e7e7e7 url('http://i.mysimon.com/images/fd/Redesign/fd_gradient_subnav_left.gif') repeat-x;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+#featured #items {
+    float: left
+}
+#featured #items ul {
+    font-family: serif;
+    font-size: 15px;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 15px 10px 10px; 
+    margin: 20px 10px 10px 10px;
+    width: 183px;
+}
+#featured #items ul li {
+    padding: 0 0 16px 0; 
+}
+#featured #items ul li a {
+    color: #007295;
+}
+#featured #items p {
+    font-weight: bold;
+    margin: 20px 10px 10px 20px;
+}
+#featured #items img {
+    margin: 10px 10px 10px 12px;
+}
+#featured #slides {
+    position: relative;
+    width: 728px;
+    height: 100%;
+    border-left: 1px solid #e7e7e7;
+    float: right;
+    z-index: 1;
+}
+#featured #slides button {
+    background-color: transparent;
+    position: absolute;
+    width: 41px;
+    height: 50px;
+    top: 155px;
+    z-index: 2000;
+}
+#featured #slides button.left {
+    left: -16px;
+    background-image: url('http://i.mysimon.com/images/fd/Redesign/button_fd_slideshow_left.png');
+}
+#featured #slides button.left:hover {
+    background-image: url('http://i.mysimon.com/images/fd/Redesign/button_fd_slideshow_left_over.png');
+}
+#featured #slides button.right {
+    right: -16px;
+    background-image: url('http://i.mysimon.com/images/fd/Redesign/button_fd_slideshow.png');
+}
+#featured #slides button.right:hover {
+    background-image: url('http://i.mysimon.com/images/fd/Redesign/button_fd_slideshow_over.png');
+}
+#featured #slides img {
+    border-radius: 3px;
+    position: absolute;
+    visibility: hidden;
+}
+#ads {
+    float: left;
+    width: 302px;
+    margin: 22px 0 15px 0;
+}
+#ads img.promo {
+    margin: 5px 0 5px 0px;
+}
+#daily_picks {
+    position: relative;
+    width: 640px;
+    height: 280px;
+    border: 1px solid #ddd;
+    float: right; 
+    margin: 22px -2px 0 0;
+    border-radius: 3px;
+    background: #e7e7e7 url('http://i.mysimon.com/images/fd/Redesign/fd_gradient_picks.gif') repeat-x;
+}
+#daily_picks h2, #twitter h2 {
+    font-family: serif;
+    margin: 15px 10px 5px 22px;
+    font-size: 19px;
+}
+#daily_picks h2 a, #twitter h2 a {
+    color: #777;
+}
+#daily_picks button {
+    background-color: transparent;
+    position: absolute;
+    width: 33px;
+    height: 36px;
+    top: 92px;
+}
+#daily_picks button.left {
+    left: -16px;
+    background-image: url('http://i.mysimon.com/images/fd/Redesign/button_fd_dailypicks_left.png');
+}
+#daily_picks button.right {
+    right: -14px;
+    background-image: url('http://i.mysimon.com/images/fd/Redesign/button_fd_dailypicks.png');
+}
+#daily_picks button.left:hover {
+    background-image: url('http://i.mysimon.com/images/fd/Redesign/button_fd_dailypicks_left_over.png');
+}
+#daily_picks button.right:hover {
+    background-image: url('http://i.mysimon.com/images/fd/Redesign/button_fd_dailypicks_over.png');
+}
+#daily_picks #carousel {
+    overflow-x: hidden;
+    margin: 25px 15px 0 15px;
+}
+#daily_picks #lights {
+    position: absolute;
+    width: 100px;
+    color: #ddd;
+    font-size: 25px;
+    left: 303px;
+    top: 12px;
+}
+#daily_picks #lights li {
+    float: left;
+    width: 12px;
+    margin: 0;
+}
+#daily_picks #lights li.selected {
+    color: #c66;
+}
+#daily_picks ul {
+    width: 5000px;
+}
+#daily_picks ul li {
+    float: left;
+    width: 134px;
+    margin: 0 10px;
+    text-align: center;
+}
+#daily_picks ul li a {
+    color: #777;
+}
+#daily_picks ul li p {
+    margin: 14px 0 0 0;
+    font-family: serif;
+    color: #777;
+    font-size: 14px;
+}
+#twitter {
+    position: relative;
+    width: 640px;
+    height: 162px;
+    float: right;
+    border: 1px solid #ddd;
+    margin: 50px -2px 15px 0;
+    border-radius: 3px;
+    background: #e7e7e7 url('http://i.mysimon.com/images/fd/Redesign/fd_gradient_twitter.gif') repeat-x;
+}
+#twitter h2 {
+    position: absolute;
+    top: -50px;
+}
+#twitter h2 p {
+    font-size: 12px;
+}
+#twitter .twtr-hd {
+    padding-bottom: 2px;
+}
+#twitter .twtr-ft div {
+    padding-top: 2px;
+    display: none;
+}
+#twitter .twtr-widget .twtr-tweet-wrap {
+    padding-left: 13px;
+}
+#twitter em {
+    font-size: 12px;
+    display: none;
+}
+#twitter p {
+    font-family: serif;
+    font-size: 16px;
+    line-height: 1.4 !important;
+}
+#simon_property {
+    display: block;
+}
+</style>
+ 
+	   
+   </head>
+   <body>
+      
+      <div id="cap"><div id="page_effects">
+<p id="simon_property">mySimon is not affiliated with or endorsed by Simon Property Group. If you are looking for Simon Property Group, click <a href="http://www.simon.com/">here</a>.</p>
+      <div id="page">
+   	   <div id="header">
+   	       <a href="/"><div id="logo"></div></a>
+               <p id="member">
+               
+               Welcome to mySimon!&nbsp;&nbsp; <a href="javascript:void(0)" onclick="mySimon.lightbox.login()">Login</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="javascript:void(0)" onclick="mySimon.lightbox.register()">Register</a> 
+               
+               </p>
+               <form id="search" name="search" action="/search" method="get">
+                  <input id="q" name="q" autocomplete="off" class="autocomplete" type="text" size="40" value="Search" />
+                  <button id="submit" type="submit"></button>
+               </form>	    
+               <p class="twitter">
+                  <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+                  <a href="http://twitter.com/mySimon" class="twitter-follow-button" data-button="blue" data-show-count="true" data-align="left">Follow @mySimon</a>
+                  <div id="fb-root"></div>
+                  <script>
+                      (function(d, s, id) {
+                          var js, fjs = d.getElementsByTagName(s)[0];
+                          if (d.getElementById(id)) {return;}
+                          js = d.createElement(s); js.id = id;
+                          js.src = "//connect.facebook.net/en_US/all.js";
+                          fjs.parentNode.insertBefore(js, fjs);
+                      }(document, 'script', 'facebook-jssdk'));
+                      window.fbAsyncInit = function(e) {
+                          FB.init({ appId: '167205973362715', status: true, cookie: true, xfbml: true, oauth2: true});
+                      };
+                  </script>              
+               </p>
+               <p class="facebook">
+                   <div class="fb-like" data-href="www.mysimon.com" data-send="false" data-layout="button_count" data-width="70" data-show-faces="false" data-font="arial"></div>
+               </p>
+               <ul id="nav"> 
+                  <li><a href="/clothing">Clothing</a></li>
+                  <li><a href="/jewelry-and-watches">Jewelry</a></li>
+                  <li><a href="/shoes">Shoes</a></li>
+                  <li><a href="/baby-and-kids">Kids</a></li>
+                  <li><a href="/home">Home Decor</a></li>
+                  <li><a href="/health-and-beauty">Beauty</a></li>
+                  <li><a href="/electronics">Electronics</a></li>
+                  <li><a href="/computers">Computers</a></li>
+                  <li class="menu last">
+                      <a href="#">Holiday Shopping Ideas</a>
+                      <button></button>
+                      <ul id="nav_menu">
+                          <li><a href="/shopping-slides/holiday-gifts/holiday-gifts-for-kids">Holiday Gifts for Kids</a></li>
+                          <li><a href="/shopping-slides/holiday-gifts/holiday-gifts-for-her">Holiday Gifts for Her</a></li>
+                          <li><a href="/shopping-slides/holiday-gifts/holiday-gifts-for-him">Holiday Gifts for Him</a></li>
+                          <li><a href="/shopping-slides/holiday-gifts/holiday-gifts-for-mom-and-dad">Holiday Gifts for Parents</a></li>
+                          <li><a href="/shopping-slides/holiday-gifts/stocking-stuffers">Stocking Stuffers</a></li>
+                      </ul>
+                  </li>
+               </ul> 
+            </div>
+            
+            <div id="content">
+                
+<div id="featured">
+    <div id="items">
+        <ul>
+            <li><a href="/shopping-slides/holiday-gifts/holiday-gifts-for-kids">Holiday Gifts for Kids</a></li>
+            <li><a href="/shopping-slides/holiday-gifts/holiday-gifts-for-her">Holiday Gifts for Her</a></li>
+            <li><a href="/shopping-slides/holiday-gifts/holiday-gifts-for-him">Holiday Gifts for Him</a></li>
+            <li><a href="/shopping-slides/holiday-gifts/holiday-gifts-for-mom-and-dad">Holiday Gifts for Parents</a></li>
+            <li><a href="/shopping-slides/holiday-gifts/stocking-stuffers">Stocking Stuffers</a></li>
+        </ul>
+        <a href="/shopping-slides/holiday-gifts/stocking-stuffers/11"><img src="/images/fd/Redesign/fd_sidepromo_asksimon.png" /></a>
+    </div>
+    <div id="slides">
+        <button class="left" onclick="mySlide.prev()"></button>
+        <button class="right" onclick="mySlide.rotate()"></button>
+        <a href="/shopping-slides/holiday-gifts/holiday-gifts-for-kids"><img src="http://i.mysimon.com/images/fd/Slide%20images/fd_slide_1holiday_kids.png.png" /></a>
+        <a href="/shopping-slides/holiday-gifts/holiday-gifts-for-him"><img src="http://i.mysimon.com/images/fd/Slide%20images/fd_slide_2holiday_guys.png" /></a>
+        <a href="/shopping-slides/holiday-gifts/stocking-stuffers"><img src="http://i.mysimon.com/images/fd/Slide%20images/fd_slide_3holiday_stockings.png" /></a>
+    </div>
+</div>
+<div id="ads">
+    
+    <div class="mpu"><!-- MAC ad --><style type="text/css">.mad_center {text-align:center;} .mad_center div, .mad_center table, .mad_center iframe, .mad_center a img {margin-left: auto; margin-right: auto;}</style><div class="mad_adcontainer mad_center sp16seg559027" id="madison_ad_16_100"><a href="http://adlog.com.com/adlog/c/r=8804&amp;sg=559027&amp;o=1%253a&amp;h=cn&amp;p=2&amp;b=3&amp;l=en_US&amp;site=8&amp;pt=9011&amp;nd=1&amp;pid=&amp;cid=0&amp;pp=100&amp;e=&amp;rqid=00phx1-ad-e18:4ED9C3844E931E&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=www.mysimon.com&amp;cpnmodule=&amp;count=&amp;ra=159%2e226%2e42%2e170&amp;pg=TtotbwoOYBUAAHy81ccAAADF&amp;t=2011.12.03.14.08.47/http://www.mysimon.com/?utm_source=cbsinetwork&utm_medium=ad&utm_campaign=Holiday" target="_blank"><img src="http://adlog.com.com/adlog/i/r=8804&amp;sg=559027&amp;o=1%253a&amp;h=cn&amp;p=2&amp;b=3&amp;l=en_US&amp;site=8&amp;pt=9011&amp;nd=1&amp;pid=&amp;cid=0&amp;pp=100&amp;e=&amp;rqid=00phx1-ad-e18:4ED9C3844E931E&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=www.mysimon.com&amp;cpnmodule=&amp;count=&amp;ra=159%2e226%2e42%2e170&amp;dvar=&amp;ucat_rsi=%2526&amp;pg=TtotbwoOYBUAAHy81ccAAADF&amp;t=2011.12.03.14.08.47/http://i.i.com.com/cnwk.1d/Ads/2446/10/holiday_mpu2.gif" height="250" width="300" alt="Click Here" border="0" /></a></div><!-- MAC [r20110907-1630-TRUNKPOSTMERGE:1.13.14] phx1-ad-xw5.cnet.com::1181681984 2011.12.03.14.08.47 --><!-- MAC T 0.1.4.5 --></div>
+    
+</div>
+<div id="daily_picks">
+    <ul id="lights"><li class="selected">&#149;</li><li>&#149;</li><li>&#149;</li></ul>
+    <button class="left" onclick="carousel.prev()"></button>
+    <button class="right" onclick="carousel.next()"></button>
+    <h2><a href="/shopping-picks">Daily Shopping Picks &gt;</a></h2>
+    <div id="carousel">
+        <ul>
+        
+            <li id="pick1">
+                <a href="/shopping-picks/syma-s107-s107g-r-c-helicopter">
+                    <img src="http://i.mysimon.com/images/fd/featprod/gifts/razor_sole_skate.png">
+                    <p>Syma S107/S107G R/C Helicopter</p>
+                </a>
+            </li>
+        
+            <li id="pick2">
+                <a href="/shopping-picks/ezyroller">
+                    <img src="http://i.mysimon.com/images/fd/featprod/gifts/ezy_roller.png">
+                    <p>EzyRoller</p>
+                </a>
+            </li>
+        
+            <li id="pick3">
+                <a href="/shopping-picks/harry-potter-illuminating-wand">
+                    <img src="http://i.mysimon.com/images/fd/featprod/gifts/harrypotter_wand.png">
+                    <p>Harry Potter Illuminating Wand</p>
+                </a>
+            </li>
+        
+            <li id="pick4">
+                <a href="/shopping-picks/rory-s-story-cubes">
+                    <img src="http://i.mysimon.com/images/fd/featprod/gifts/rory_story_cube.png">
+                    <p>Rory&#39;s Story Cubes</p>
+                </a>
+            </li>
+        
+            <li id="pick5">
+                <a href="/shopping-picks/melissa-and-doug-deluxe-standing-easel">
+                    <img src="http://i.mysimon.com/images/fd/featprod/gifts/melissaanddoug_easel.png">
+                    <p>Melissa and Doug Deluxe Standing Easel</p>
+                </a>
+            </li>
+        
+            <li id="pick6">
+                <a href="/shopping-picks/leapfrog-learn-and-groove-counting-maracas">
+                    <img src="http://i.mysimon.com/images/fd/featprod/gifts/leapfrog_maracas.png">
+                    <p>LeapFrog Learn &amp; Groove Counting Maracas</p>
+                </a>
+            </li>
+        
+            <li id="pick7">
+                <a href="/shopping-picks/progressive-international-microwavable-s-mores-maker">
+                    <img src="http://i.mysimon.com/images/fd/featprod/gifts/progressive_smores_maker.png">
+                    <p>Progressive International Microwavable S&#39;Mores Maker</p>
+                </a>
+            </li>
+        
+            <li id="pick8">
+                <a href="/shopping-picks/umagine-bizu-bead-style-studio">
+                    <img src="http://i.mysimon.com/images/fd/featprod/gifts/umagine_bizu.png">
+                    <p>Umagine Bizu Bead Style Studio</p>
+                </a>
+            </li>
+        
+            <li id="pick9">
+                <a href="/shopping-picks/fisher-price-ocean-wonders-soothe-and-glow-seahorse">
+                    <img src="http://i.mysimon.com/images/fd/featprod/gifts/fisher_price_seahorse.png">
+                    <p>Fisher-Price Ocean Wonders Soothe and Glow Seahorse</p>
+                </a>
+            </li>
+        
+            <li id="pick10">
+                <a href="/shopping-picks/razor-sole-skate">
+                    <img src="http://i.mysimon.com/images/fd/featprod/gifts/razor_sole_skate.png">
+                    <p>Razor Sole Skate</p>
+                </a>
+            </li>
+        
+            <li id="pick11">
+                <a href="/shopping-picks/kringle-mantle-scarf">
+                    <img src="http://i.mysimon.com/images/fd/featprod/gifts/kringle_mantle_scarf.jpg">
+                    <p>Kringle Mantle Scarf</p>
+                </a>
+            </li>
+        
+            <li id="pick12">
+                <a href="/shopping-picks/oneida-christmas-cut-outs-dinnerware-and-serveware">
+                    <img src="http://i.mysimon.com/images/fd/featprod/gifts/oneida_cutouts.jpg">
+                    <p>Oneida Christmas Cut-Outs Dinnerware and Serveware</p>
+                </a>
+            </li>
+        
+        </ul>
+    </div>
+</div>
+<div id="twitter">
+    <h2>
+        <a href="https://twitter.com/#!/mySimon">Simon on Twitter &gt;</a>
+    </h2>
+    <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+    <script>
+        new TWTR.Widget({
+            version: 2,
+            type: 'profile',
+            rpp: 2,
+            interval: 30000,
+            width: 622,
+            height: 330,
+            theme: {
+                shell: {
+                    background: 'transparent',
+                    color: '#777'
+                },
+                tweets: {
+                    background: 'transparent',
+                    color: '#777',
+                    links: '#c00'
+                }
+            },
+            features: {
+                scrollbar: false,
+                loop: false,
+                live: false,
+                behavior: 'all'
+            }
+        }).render().setUser('mysimon').start();
+    </script>
+</div>
+
+            </div>
+            <div style="clear: both"></div>
+      </div>
+      </div></div>
+      <div id="footer">
+         <div id="ontology">
+            <p><a href="/sitemaps/all-shopping-categories">Browse &gt;</a></p>
+            <ul>
+               <li>Electronics:</li>         
+               <li><a href="/compare-prices/camcorders">Camcorders</a></li>
+               <li><a href="/compare-prices/cell-phones">Cell&nbsp;Phones</a></li>
+               <li><a href="/compare-prices/digital-cameras">Digital&nbsp;Cameras</a></li>
+               <li><a href="/compare-prices/dvd-players">DVD&nbsp;Players</a></li>				    
+               <li><a href="/compare-prices/flat-panel-plasma-and-lcd-tvs">Flat&nbsp;Panel&nbsp;TVs</a></li>
+               <li><a href="/compare-prices/gps">GPS</a></li>
+               <li><a href="/compare-prices/home-theater-systems">Home&nbsp;Theater&nbsp;Systems</a></li>
+               <li><a href="/compare-prices/mp3-players">MP3&nbsp;Players</a></li>
+               <li><a href="/compare-prices/projection-tvs">Projection&nbsp;TVs</a></li>
+               <li><a href="/compare-prices/audio-speakers">Speakers</a></li>
+               <li><a class="more" href="/electronics">See More &gt;</a></li>
+            </ul>
+            <ul>
+               <li>Clothing:</li> 
+               <li><a href="/compare-prices/infants-and-toddlers-sleepwear">Baby&nbsp;&&nbsp;Kids&nbsp;Sleepwear</a></li>
+               <li><a href="/compare-prices/boys-clothing-pants">Boys&nbsp;Pants</a></li>
+               <li><a href="/compare-prices/boys-clothing-shirts-and-tops">Boys&nbsp;Tops</a></li>
+               <li><a href="/compare-prices/girls-clothing-dresses">Girls&nbsp;Dresses</a></li>
+               <li><a href="/compare-prices/girls-clothing-shirts-and-tops">Girls&nbsp;Tops</a></li>
+               <li><a href="/compare-prices/mens-clothing-pants">Mens&nbsp;Pants</a></li>
+               <li><a href="/compare-prices/mens-clothing-suits">Mens&nbsp;Suits</a></li>
+               <li><a href="/compare-prices/mens-clothing-shirts-and-tops">Mens&nbsp;Tops</a></li>
+               <li><a href="/compare-prices/womens-clothing-dresses">Womens&nbsp;Dresses</a></li>
+               <li><a href="/compare-prices/womens-clothing-shirts-and-tops">Womens&nbsp;Tops</a></li>
+               <li><a class="more" href="/clothing">See More &gt;</a></li>
+            </ul>
+            <ul>
+               <li>Shoes:</li> 
+               <li><a href="/compare-prices/boots">Boots</a></li>
+               <li><a href="/compare-prices/boys-shoes">Boys&nbsp;Shoes</a></li>
+               <li><a href="/compare-prices/flats">Flats</a></li>
+               <li><a href="/compare-prices/girls-shoes">Girls&nbsp;Shoes</a></li>
+               <li><a href="/compare-prices/heels">Heels</a></li>
+               <li><a href="/compare-prices/infant-and-toddler-shoes">Infant&nbsp;&&nbsp;Toddler&nbsp;Shoes</a></li>
+               <li><a href="/compare-prices/mens-shoes">Mens&nbsp;Shoes</a></li>
+               <li><a href="/compare-prices/running-shoes">Running&nbsp;Shoes</a></li>
+               <li><a href="/compare-prices/sneakers">Sneakers</a></li>
+               <li><a href="/compare-prices/womens-shoes">Womens&nbsp;Shoes</a></li>	
+               <li><a class="more" href="/shoes">See More &gt;</a></li>
+            </ul>
+            <ul>
+               <li>Sports:</li> 
+               <li><a href="/compare-prices/baseball-and-softball-gear">Baseball</a></li>	
+               <li><a href="/compare-prices/camping-and-hiking-gear">Camping&nbsp;&&nbsp;Hiking</a></li>	
+               <li><a href="/compare-prices/cycling-gear">Cycling</a></li>	
+               <li><a href="/compare-prices/fishing-gear">Fishing</a></li>
+               <li><a href="/compare-prices/football-gear">Football</a></li>	
+               <li><a href="/compare-prices/golf-gear">Golf</a></li>	
+               <li><a href="/compare-prices/personal-fitness-equipment">Personal&nbsp;Fitness</a></li>	
+               <li><a href="/compare-prices/tennis-gear">Tennis</a></li>
+               <li><a href="/compare-prices/skiing-and-snowshoeing-gear">Skiing</a></li>	
+               <li><a href="/compare-prices/snowboarding-gear">Snowboarding</a></li>
+               <li><a class="more" href="/sports-and-outdoors">See More &gt;</a></li>
+            </ul>
+            <ul>
+               <li>Toys:</li> 
+               <li><a href="/compare-prices/action-figures">Action&nbsp;Figures</a></li>	
+               <li><a href="/compare-prices/baby-and-toddler-toys">Baby&nbsp;&&nbsp;Toddler&nbsp;Toys</a></li>	
+               <li><a href="/compare-prices/board-games-and-more">Board&nbsp;Games</a></li>	
+               <li><a href="/compare-prices/costumes">Costumes</a></li>
+               <li><a href="/compare-prices/dolls-and-dollhouses">Dolls</a></li>
+               <li><a href="/compare-prices/nintendo-ds">Nintendo&nbsp;DS</a></li>	
+               <li><a href="/compare-prices/nintendo-wii">Nintendo&nbsp;Wii</a></li>	
+               <li><a href="/compare-prices/sony-playstation-3">Sony&nbsp;Playstation&nbsp;3</a></li>
+               <li><a href="/compare-prices/stuffed-animals-and-puppets">Stuffed&nbsp;Animals</a></li>	
+               <li><a href="/compare-prices/microsoft-xbox-360">Xbox&nbsp;360</a></li>	
+               <li><a class="more" href="/toys-and-video-games">See More &gt;</a></li>
+            </ul>
+            <ul>
+               <li>Jewelry:</li> 
+               <li><a href="/compare-prices/bracelets">Bracelets</a></li>	
+               <li><a href="/compare-prices/charms">Charms</a></li>	
+               <li><a href="/compare-prices/diamond-jewelry">Diamonds</a></li>	
+               <li><a href="/compare-prices/earrings">Earrings</a></li>
+               <li><a href="/compare-prices/mens-watches">Mens&nbsp;Watches</a></li>	
+               <li><a href="/compare-prices/necklaces">Necklaces</a></li>
+               <li><a href="/compare-prices/pearl-jewelry">Pearls</a></li>
+               <li><a href="/compare-prices/rings">Rings</a></li>
+               <li><a href="/compare-prices/sunglasses">Sunglasses</a></li>	
+               <li><a href="/compare-prices/womens-watches">Womens&nbsp;Watches</a></li>	
+               <li><a class="more" href="/jewelry-and-watches">See More &gt;</a></li>
+            </ul>
+            <ul>
+               <li>Computers:</li> 
+               <li><a href="/compare-prices/computer-monitors">Computer&nbsp;Monitors</a></li>	
+               <li><a href="/compare-prices/desktop-computers">Desktops</a></li>
+               <li><a href="/compare-prices/hard-drives-and-storage-devices">Hard&nbsp;Drives&nbsp;&&nbsp;Storage</a></li>
+               <li><a href="/compare-prices/laptops-and-accessories">Laptops</a></li>
+               <li><a href="/compare-prices/computer-memory">Memory</a></li>	
+               <li><a href="/compare-prices/networking">Networking</a></li>	
+               <li><a href="/compare-prices/business-productivity-software">Office&nbsp;Software</a></li>	
+               <li><a href="/compare-prices/computer-operating-systems">Operating&nbsp;Systems</a></li>
+               <li><a href="/compare-prices/printers-and-accessories">Printers</a></li>	
+               <li><a href="/compare-prices/scanners">Scanners</a></li>	
+               <li><a class="more" href="/computers">See More &gt;</a></li>
+            </ul>
+         </div>
+         <div class="section">
+             <div id="about">
+                 <ul>
+                     <li><a href="/info/about">About Us</a></li>
+                     <li><a href="javascript:void(0);" id="helpLinkBottom" rel="nofollow">Help</a></li>
+                     <li><a href="/">Home</a></li>
+                 </ul>
+                 <img src="http://i.mysimon.com/images/fd/Redesign/footer_promo_newsletter.png" onclick="mySimon.lightbox.register()" />
+                 <a href="http://www.facebook.com/mySimon"><img src="http://i.mysimon.com/images/fd/Redesign/footer_promo_fb.png" /></a>
+             </div>
+         </div>
+         <div class="section">
+             
+<div id="cbsi_f">
+<form>
+<script language="javascript">
+document.write("<div><label for=\"cbsi_footer_menu\">Visit other CBS Interactive Sites</label><select name=\"cbsi_footer_menu\" id=\"cbsi_footer_menu\"><option value=\"\">Select Site</option><option value=\"http://www.bnet.com\">BNET</option><option value=\"http://www.cbscares.com\">CBS Cares</option><option value=\"http://www.cbsfilms.com\">CBS Films</option><option value=\"http://www.cbsradio.com/streaming/index.html\">CBS Radio</option><option value=\"http://www.cbs.com\">CBS.com</option><option value=\"http://www.cbsinteractive.com\">CBSInteractive</option><option value=\"http://www.cbsnews.com\">CBSNews.com</option><option value=\"http://www.cbssports.com\">CBSSports.com</option><option value=\"http://www.chow.com\">CHOW</option><option value=\"http://www.clicker.com\">Clicker</option><option value=\"http://www.cnet.com\">CNET</option><option value=\"http://collegenetwork.cbssports.com\">College Network</option><option value=\"http://findarticles.com\">Find Articles</option><option value=\"http://www.gamespot.com\">GameSpot</option><option value=\"http://www.help.com\">Help.com</option><option value=\"http://www.last.fm\">Last.fm</option><option value=\"http://www.maxpreps.com\">MaxPreps</option><option value=\"http://www.metacritic.com\">Metacritic.com</option><option value=\"http://moneywatch.bnet.com\">Moneywatch</option><option value=\"http://www.mysimon.com\">mySimon</option><option value=\"http://www.radio.com\">Radio.com</option><option value=\"http://www.search.com\">Search.com</option><option value=\"http://www.shopper.com\">Shopper.com</option><option value=\"http://www.sho.com\">Showtime</option><option value=\"http://www.smartplanet.com\">SmartPlanet</option><option value=\"http://www.techrepublic.com\">TechRepublic</option><option value=\"http://www.theinsider.com\">The Insider</option><option value=\"http://www.tv.com\">TV.com</option><option value=\"http://www.urbanbaby.com\">UrbanBaby.com</option><option value=\"http://www.zdnet.com\">ZDNet</option></select><input type=\"button\" value=\"Go\" onClick=\"window.location=document.getElementById('cbsi_footer_menu').options[document.getElementById('cbsi_footer_menu').selectedIndex].value;\" /></div>");
+</script>
+</form>
+  <noscript>
+  <div>
+	<a href="http://www.bnet.com">BNET</a>  | <a href="http://www.cbscares.com">CBS Cares</a>  | <a href="http://www.cbsfilms.com">CBS Films</a>  | <a href="http://www.cbsradio.com/streaming/index.html">CBS Radio</a>  | <a href="http://www.cbs.com">CBS.com</a>  | <a href="http://www.cbsinteractive.com">CBSInteractive</a>  | <a href="http://www.cbsnews.com">CBSNews.com</a>  | <a href="http://www.cbssports.com">CBSSports.com</a>  | <a href="http://www.chow.com">CHOW</a>  | <a href="http://www.clicker.com">Clicker</a>  | <a href="http://www.cnet.com">CNET</a>  | <a href="http://collegenetwork.cbssports.com">College Network</a>  | <a href="http://findarticles.com">Find Articles</a>  | <a href="http://www.gamespot.com">GameSpot</a>  | <a href="http://www.help.com">Help.com</a>  | <a href="http://www.last.fm">Last.fm</a>  | <a href="http://www.maxpreps.com">MaxPreps</a>  | <a href="http://www.metacritic.com">Metacritic.com</a>  | <a href="http://moneywatch.bnet.com">Moneywatch</a>  | <a href="http://www.mysimon.com">mySimon</a>  | <a href="http://www.radio.com">Radio.com</a>  | <a href="http://www.search.com">Search.com</a>  | <a href="http://www.shopper.com">Shopper.com</a>  | <a href="http://www.sho.com">Showtime</a>  | <a href="http://www.smartplanet.com">SmartPlanet</a>  | <a href="http://www.techrepublic.com">TechRepublic</a>  | <a href="http://www.theinsider.com">The Insider</a>  | <a href="http://www.tv.com">TV.com</a>  | <a href="http://www.urbanbaby.com">UrbanBaby.com</a>  | <a href="http://www.zdnet.com">ZDNet</a> 
+  </div>
+  </noscript>
+<p>
+<a href='http://www.cnetnetworks.com/?tag=footer;link'>About CBS Interactive</a> | <a href='http://www.cnetnetworks.com/careers/?tag=footer;link'>Jobs</a> | <a href='http://www.cnetnetworks.com/advertise/?tag=footer;link'>Advertise</a>
+</p>
+<p>
+&copy; 2011 CBS Interactive Inc.  All rights reserved. | <a href='http://legalterms.cbsinteractive.com/privacy'>Privacy Policy</a> | <a href='http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1272/'>Ad Choice</a> | <a href='http://legalterms.cbsinteractive.com/terms-of-use'>Terms of Use</a>
+</p>
+</div>
+
+         </div>
+      </div>
+      	
+      
+      
+
+      <!-- mySimon -->
+      <script type="text/javascript" src="http://i.mysimon.com/js/common.js?v=109"></script>
+    
+      <!-- DW -->
+      <script type="text/javascript" src="http://dw.com.com/js/dw.js"></script>
+      <script type="text/javascript">
+         DW.pageParams = {
+            siteid: '8',
+            edid: '4',
+            ptid: '9011',
+            onid: '1',
+            astid: '',
+            asid: '',
+            ncat: '1:'
+         };
+         DW.clear();
+         DW.trackClicks();
+      </script>
+      <noscript><img src="http://dw.com.com/clear/c.gif?ts=470806031211&sid=8&edid=4&ptid=9011&onid=1&astid=&asid=" border="0" height="1" width="1" alt="" /></noscript>
+
+      <!-- MantaRay -->
+      <script type="text/javascript" src="http://i.i.com.com/cnwk.1d/Ads/common/manta/adFunctions-mysimon.js"></script>
+      <script type="text/javascript">
+         var cbsiAdGlobal = {
+            SITE: '8',
+            NCAT: '1:',
+            PTYPE: '9011',
+            CID: ''
+         }; 
+         cbsiRegisterAdGlobals(cbsiAdGlobal);
+         cbsiAdBehavioralSetup();
+         cbsiAdBehavioral();          
+      </script>
+
+      <!-- Madison -->
+      <script type="text/javascript" src="http://i.i.com.com/cnwk.1d/Ads/common/madUCat/MadUCat.js"></script>
+
+      <!-- Google Analytics -->
+      <script type="text/javascript">
+         var _gaq = _gaq || [];
+         _gaq.push(['_setAccount', 'UA-285660-2']);
+         _gaq.push(['_trackPageview']);
+
+         (function() {
+            var ga = document.createElement('script');
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            ga.setAttribute('async', 'true');
+            document.documentElement.firstChild.appendChild(ga);
+         })();
+      </script>
+
+      
+<script>
+    
+    var mySlide = new SimpleCarousel($('slides'), $$('#slides img'), $$('#slides img'), { 
+    });
+
+    var carousel = new Fx.Scroll('carousel');
+    carousel.index = 0;
+    carousel.position = 1;
+    carousel.next = function() {
+        if ($('pick'+(carousel.position+4))) {
+            carousel.position += 4;
+            carousel.index +=1;
+            var e = $('pick'+carousel.position);
+            $$('#lights li').each(function(e){e.removeClass('selected')});
+            $$('#lights li')[carousel.index].addClass('selected');
+            carousel.toElement(e);
+        } 
+    }
+    carousel.prev = function() {
+        if ($('pick'+(carousel.position-4))) {
+            carousel.position -= 4;
+            carousel.index -=1;
+            $$('#lights li').each(function(e){e.removeClass('selected')});
+            $$('#lights li')[carousel.index].addClass('selected');
+            var e = $('pick'+carousel.position);
+            if (e) carousel.toElement(e); 
+        }
+    }
+</script>
+
+
+   </body>
+</html>

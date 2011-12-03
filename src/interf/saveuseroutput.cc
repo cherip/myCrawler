@@ -70,9 +70,9 @@ void loaded (html *page) {
 #ifdef URL_TAGS
   s += sprintf(buf+s, "(%u) ", page->getUrl()->tag);
 #endif // URL_TAGS
-  printf("%s\n", page->getUrl()); 
   s += page->getUrl()->writeUrl(buf+s);
   buf[s++] = '\n';
+ // printf("%s\n", buf); 
   ecrireBuff(indexFds, buf, s);
   ecrireBuff(fd, page->getPage(), page->getLength());
   close(fd);

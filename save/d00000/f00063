@@ -1,0 +1,2211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns:og="http://opengraphprotocol.org/schema/"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<title>Metacritic - Movie Reviews, TV Reviews, Game Reviews, and Music Reviews</title>
+ 
+    <link rel="canonical" href="http://www.metacritic.com" />
+<meta name="description" content="Metacritic aggregates music, game, tv, and movie reviews from the leading critics. Only Metacritic.com uses METASCORES, which let you know at a glance how each item was reviewed.">
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=1024" />
+<meta name="dw-page-params" content="{'siteId':'50','onId':'1','ptId':'2000'}">
+<meta name="dw-reg-silo" content="12">
+
+<link rel="stylesheet" href="http://img2.gamespotcdn.net/metacritic/public/www/css/global.min.css?1318528165" type="text/css">
+<link rel="stylesheet" href="http://img1.gamespotcdn.com/metacritic/public/www/css/frontdoor/base.min.css?1305065291" type="text/css">
+
+<script type="text/javascript" src="http://img2.gamespotcdn.net/metacritic/public/www/js/global.min.js?1307650550"></script>
+
+</head>
+
+<body>	    <div class="ad_unit ad_unit_default ad_unit_default_intromercial">
+<!-- php client madison [r20110603-1430-passingHostPort]: 10.15.4.104 GET /html/BRAND=21/CELT=html/CLIENT:ID=CHEETAH/CNET%2dONTOLOGY%2dNODE%2dID=1/DVAR_SESSION=b/DVAR_FIRSTPAGE=1/HTTP_HOST=www.metacritic.com/HUB=cn/NCAT=1%3A/POS=100/PTYPE=2000/REMOTE_ADDR=159.226.42.170/SITE=50/SP=80/UA=larbin_2.6.3+larbin2.6.3%40unspecified.mail HTTP/1.0 --><!--NO AD TEXT:--><!-- default ad --><img src="http://adlog.com.com/adlog/i/r=18359&amp;sg=1815&amp;o=1%253A&amp;h=cn&amp;p=&amp;b=21&amp;l=&amp;site=50&amp;pt=2000&amp;nd=1&amp;pid=&amp;cid=&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e3:4ED9C94F4C80A2&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=159.226.42.170&amp;dvar=dvar_session%253Db%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=&amp;t=2011.12.03.14.08.45/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" HEIGHT="0" WIDTH="0" alt="" style="position:absolute; top:0px; left:0px" /><script type='text/javascript'>document.cookie='MAD_SESSION=b;path=/;domain=metacritic.com';</script><script type='text/javascript'>document.cookie='MAD_FIRSTPAGE=1;path=/;domain=metacritic.com';</script><!-- Cheetah T 0.4.4.7 --></div>
+
+<div id="site_layout">
+    <div id="masthead">
+        <div id="masthead_primary">
+            <div class="masthead_wrap">
+                <div class="logo"><a href="/">Metacritic</a></div>                    <div class="masthead_search">
+        <div class="search basic_search has_adv_search_link">
+    
+		            <div class="search_section advanced_search_section">
+                <a href="/advanced-search">Advanced Search Beta &raquo;</a>
+            </div>
+             
+        <div class="search_section basic_search_section">
+            <form class="search" method="post" action="/search">
+                <fieldset>
+                    <legend>Basic Search Fields</legend>
+                    <div class="search_wrap">
+                        <ol class="fields search_fields">
+                            <li class="field search_field search_query">
+                                <div class="field_wrap">
+                                    <span class="field">
+                                        <input class="text" type="text" size="50" name="search_term" id="masthead_search_term" tabindex="1" value="" />
+                                    </span>
+                                </div>
+                            </li>
+                            <li class="field search_field search_submit">
+                                <div class="submit"><div class="btn"><button class="submit" type="submit" tabindex="1"><span>Search</span></button></div></div>
+                            </li>
+                            <li class="field hidden">
+                                <input type="hidden" name="search_filter" value="all" />
+                            </li>
+                        </ol>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+		
+		
+		
+		
+
+		
+		
+		
+		
+    </div>
+    </div>
+
+<script type="text/javascript">
+    window.addEvent('domready', function() {
+        var search_term_field = $('masthead_search_term');
+        if (search_term_field) {
+            if (search_term_field.retrieve('autocompleter')) {
+                return;
+            }
+            search_term_field.set('autocomplete', 'off');
+            new Autocompleter.Request.JSON(search_term_field, '/autosearch', {
+                'postVar': 'search_term',
+                'maxChoices': 20,
+                'minLength': 1,
+                'onSelection': function(el, sel) {
+                    (sel.URI).toURI().go();
+                }
+            });
+            search_term_field.store('autocompleter', true);
+        }
+    });
+</script>                <div id="primary_nav">
+    <ul class="nav_items primary_nav">
+                <li class="nav nav_movies has_menu_set">
+            <span class="nav_item menu_hover_toggler">
+                <span class="nav_item_wrap">
+                    <a href="/movies">
+                        <span class="nav_text">Movies</span>
+                    </a>
+                                            <span class="menu_click_toggler">&raquo;</span>
+                                    </span>
+            </span>
+                            <div id="primary_nav_movies_menu" class="menu_items primary_nav_menu">
+                    <ul class="menu_items">
+                                            <li class="menu_item">
+                            <a href="/browse/movies/release-date/theaters/date">In Theaters</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="/browse/dvds/release-date/new-releases/date">DVD / Blu Ray</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="/browse/movies/release-date/coming-soon/date">Coming Soon</a>
+                        </li>
+                                        </ul>
+                </div>
+                    </li>
+                <li class="nav nav_games has_menu_set">
+            <span class="nav_item menu_hover_toggler">
+                <span class="nav_item_wrap">
+                    <a href="/games">
+                        <span class="nav_text">Games</span>
+                    </a>
+                                            <span class="menu_click_toggler">&raquo;</span>
+                                    </span>
+            </span>
+                            <div id="primary_nav_games_menu" class="menu_items primary_nav_menu">
+                    <ul class="menu_items">
+                                            <li class="menu_item">
+                            <a href="/games/xbox-360">Xbox 360</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="/games/pc">PC</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="/games/wii">Wii</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="/games/playstation-3">PS3</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="/games/psp">PSP</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="/games/ds">DS</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="/games/3ds">3DS</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="/games/ios">iPhone/iPad</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="/games/legacy">Legacy</a>
+                        </li>
+                                        </ul>
+                </div>
+                    </li>
+                <li class="nav nav_tv">
+            <span class="nav_item">
+                <span class="nav_item_wrap">
+                    <a href="/tv-shows">
+                        <span class="nav_text">TV</span>
+                    </a>
+                                    </span>
+            </span>
+                    </li>
+                <li class="nav nav_music">
+            <span class="nav_item">
+                <span class="nav_item_wrap">
+                    <a href="/albums">
+                        <span class="nav_text">Music</span>
+                    </a>
+                                    </span>
+            </span>
+                    </li>
+                <li class="nav nav_features">
+            <span class="nav_item">
+                <span class="nav_item_wrap">
+                    <a href="/features">
+                        <span class="nav_text">Features</span>
+                    </a>
+                                    </span>
+            </span>
+                    </li>
+            </ul>
+</div>
+            </div>
+        </div>
+        <div id="masthead_secondary">
+            <div class="masthead_wrap">
+                                <div id="userpanel">
+    <div class="panel_wrap logged_out">
+                        <div class="user_options">
+            <div class="user_options_label">User Panel Options</div>
+            <ul class="user_options">
+                                                <li class="user_option login">
+                    <a href="/signup">Log in</a>
+                </li>
+                                                <li class="user_option signup">
+                    <a href="/signup">Sign up</a>
+                </li>
+                                                <li class="user_option help">
+                    <a rel="popup:custhelp" href="https://metacritic.custhelp.com ">Help</a>
+                </li>
+                            </ul>
+        </div>
+            </div>
+</div>
+            </div>
+        </div>
+    </div>
+    
+            <div id="mantle_skin" class="site_gutters">            <div class="ad_unit ad_unit_default ad_unit_default_mantle_skin">
+<!-- php client madison [r20110603-1430-passingHostPort]: 10.15.4.104 GET /html/BRAND=21/CELT=html/CLIENT:ID=CHEETAH/CNET%2dONTOLOGY%2dNODE%2dID=1/DVAR_SESSION=b/DVAR_FIRSTPAGE=1/HTTP_HOST=www.metacritic.com/HUB=cn/NCAT=1%3A/POS=100/PTYPE=2000/REMOTE_ADDR=159.226.42.170/SITE=50/SP=119/UA=larbin_2.6.3+larbin2.6.3%40unspecified.mail HTTP/1.0 --><!--NO AD TEXT:--><!-- default ad --><img src="http://adlog.com.com/adlog/i/r=18821&amp;sg=1815&amp;o=1%253A&amp;h=cn&amp;p=&amp;b=21&amp;l=&amp;site=50&amp;pt=2000&amp;nd=1&amp;pid=&amp;cid=&amp;pp=100&amp;e=&amp;rqid=00c13-ad-e2:4ED9C5DD4F389C&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=159.226.42.170&amp;dvar=dvar_session%253Db%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=&amp;t=2011.12.03.14.08.45/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" HEIGHT="0" WIDTH="0" alt="" style="position:absolute; top:0px; left:0px" /><!-- Cheetah T 1.6.7.10 --></div>
+
+        <div id="gutters" class="site_gutters">
+                    <div id="superleader">    <div class="ad_unit ad_unit_banner"><div class="ad_wrap">
+<!-- php client madison [r20110603-1430-passingHostPort]: 10.15.4.104 GET /html/BRAND=21/CELT=html/CLIENT:ID=CHEETAH/CNET%2dONTOLOGY%2dNODE%2dID=1/DVAR_SESSION=b/DVAR_FIRSTPAGE=1/HTTP_HOST=www.metacritic.com/HUB=cn/NCAT=1%3A/POS=100/PTYPE=2000/REMOTE_ADDR=159.226.42.170/SITE=50/SP=242/UA=larbin_2.6.3+larbin2.6.3%40unspecified.mail HTTP/1.0 --><style type="text/css">.mad_center5 {padding-top: 5px; text-align:center;} .mad_center5 div, .mad_center5 table, .mad_center5 iframe, .mad_center5 a img {margin-left: auto; margin-right: auto;}</style><div class="mad_adcontainer mad_center5 sp242seg555981" id="madison_ad_242_100"><IFRAME SRC="http://ad.doubleclick.net/adi/N3671.149400.GAMESPOT.COM/B6013353.10;sz=728x90;pc=cbs555981;click0=http://adlog.com.com/adlog/e/r=19042&amp;sg=555981&amp;o=1%253A&amp;h=cn&amp;p=&amp;b=21&amp;l=&amp;site=50&amp;pt=2000&amp;nd=1&amp;pid=&amp;cid=&amp;pp=100&amp;e=&amp;rqid=00c13-ad-e3:4ED9CCB249832E&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=159.226.42.170&amp;pg=&amp;t=2011.12.03.14.08.45&event=58/;ord=2011.12.03.14.08.45?" width="728" height="90" MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR='#000000'><SCRIPT language='JavaScript1.1' SRC="http://ad.doubleclick.net/adj/N3671.149400.GAMESPOT.COM/B6013353.10;abr=!ie;sz=728x90;pc=cbs555981;click0=http://adlog.com.com/adlog/e/r=19042&amp;sg=555981&amp;o=1%253A&amp;h=cn&amp;p=&amp;b=21&amp;l=&amp;site=50&amp;pt=2000&amp;nd=1&amp;pid=&amp;cid=&amp;pp=100&amp;e=&amp;rqid=00c13-ad-e3:4ED9CCB249832E&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=159.226.42.170&amp;pg=&amp;t=2011.12.03.14.08.45&event=58/;ord=2011.12.03.14.08.45?"></SCRIPT><NOSCRIPT><A href="http://adlog.com.com/adlog/e/r=19042&amp;sg=555981&amp;o=1%253A&amp;h=cn&amp;p=&amp;b=21&amp;l=&amp;site=50&amp;pt=2000&amp;nd=1&amp;pid=&amp;cid=&amp;pp=100&amp;e=&amp;rqid=00c13-ad-e3:4ED9CCB249832E&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=159.226.42.170&amp;pg=&amp;t=2011.12.03.14.08.45&event=58/http://ad.doubleclick.net/jump/N3671.149400.GAMESPOT.COM/B6013353.10;abr=!ie4;abr=!ie5;sz=728x90;pc=cbs555981;ord=2011.12.03.14.08.45?"><IMGSRC="http://ad.doubleclick.net/ad/N3671.149400.GAMESPOT.COM/B6013353.10;abr=!ie4;abr=!ie5;sz=728x90;pc=cbs555981;ord=2011.12.03.14.08.45?" BORDER=0 WIDTH=728 HEIGHT=90 ALT="Advertisement"></A></NOSCRIPT>
+</IFRAME><img src="http://adlog.com.com/adlog/i/r=19042&amp;sg=555981&amp;o=1%253A&amp;h=cn&amp;p=&amp;b=21&amp;l=&amp;site=50&amp;pt=2000&amp;nd=1&amp;pid=&amp;cid=&amp;pp=100&amp;e=&amp;rqid=00c13-ad-e3:4ED9CCB249832E&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=159.226.42.170&amp;dvar=dvar_session%253Db%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=&amp;t=2011.12.03.14.08.45/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" HEIGHT="0" WIDTH="0" alt="" style="position:absolute; top:0px; left:0px" /></div><!-- Cheetah T 1.8.9.19 --></div></div>
+</div>
+                <div id="gutters_mid" class="site_gutters">
+            <div id="gutters_btm" class="site_gutters">
+                <div id="gutters_top" class="site_gutters">
+                    <div id="container">
+<div id="col_layout" class="col_layout">
+        
+    <div id="main_content" class="content_section mpu_layout" >
+        <div class="layout">
+                                    <div id="main" class="col main_col">
+                
+<div class="module carousel_module"><div class="head head_type_2"><div class="head_wrap"><h2 class="module_title"><a href="/browse/movies/release-date/theater/date">New & Notable</a></h2>                            <ul class="tabs tabs_type_1">            <li class="tab tab_type_1 tab_movie first">
+                                    <span class="active {href:'/?carousel=movie'}"><span>Movies</span></span>
+                            </li>
+                                                        <li class="tab tab_type_1 tab_game">
+                                                        <a  href="/?carousel=game"><span>Games</span></a>
+                            </li>
+                                                        <li class="tab tab_type_1 tab_tv">
+                                                        <a  href="/?carousel=tv"><span>TV</span></a>
+                            </li>
+                                                        <li class="tab tab_type_1 tab_music last">
+                                                        <a  href="/?carousel=music"><span>Music</span></a>
+                            </li>
+            </ul>                        </div></div><div id="frontdoor_carousel" class="body"><script type="text/javascript">(function() {$('frontdoor_carousel').addClass('js_carousel');})()</script><ul class="carousel_slots"><li class="carousel_slot carousel_movie active_slot"><div class="slot_wrap"><div class="slot_products"><ol class="slot_products"><li class="slot_product"><div class="product"><a class="product" href="/movie/the-artist"><span class="product_title">The Artist</span><span class="product_wrap"><span class="product_image"><img src="http://img1.gamespotcdn.com/metacritic/public/www/images/products/movies/6/9fb6c6605d7fd58eb6e2d41533bdcbd3-78.jpg" alt="The Artist" /></span><span class="product_score" style="padding-bottom:60px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_outstanding">87</span>
+        </span>
+    </span>
+</span></span></a></div></li><li class="slot_product"><div class="product"><a class="product" href="/movie/tinker-tailor-soldier-spy"><span class="product_title">Tinker, Tailor, Soldier, Spy</span><span class="product_wrap"><span class="product_image"><img src="http://img2.gamespotcdn.com/metacritic/public/www/images/products/movies/5/68ab7a927e521dfd29e4beb9f773f3a3-78.jpg" alt="Tinker, Tailor, Soldier, Spy" /></span><span class="product_score" style="padding-bottom:59px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_outstanding">86</span>
+        </span>
+    </span>
+</span></span></a></div></li><li class="slot_product"><div class="product"><a class="product" href="/movie/shame"><span class="product_title">Shame</span><span class="product_wrap"><span class="product_image"><img src="http://img1.gamespotcdn.com/metacritic/public/www/images/products/movies/9/4a99b6ceff38f133756c13e19a7b86af-78.jpg" alt="Shame" /></span><span class="product_score" style="padding-bottom:44px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">71</span>
+        </span>
+    </span>
+</span></span></a></div></li><li class="slot_product"><div class="product"><a class="product" href="/movie/outrage-1969"><span class="product_title">Outrage</span><span class="product_wrap"><span class="product_image"><img src="http://img2.gamespotcdn.com/metacritic/public/www/images/products/movies/9/5224ddd0c69df62cae1b6c5cda2e4c0c-78.jpg" alt="Outrage" /></span><span class="product_score" style="padding-bottom:42px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">69</span>
+        </span>
+    </span>
+</span></span></a></div></li><li class="slot_product"><div class="product"><a class="product" href="/movie/sleeping-beauty"><span class="product_title">Sleeping Beauty</span><span class="product_wrap"><span class="product_image"><img src="http://img2.gamespotcdn.net/metacritic/public/www/images/products/movies/9/67a59ef4bf37948def30d9ee8507d4f9-78.jpg" alt="Sleeping Beauty" /></span><span class="product_score" style="padding-bottom:33px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_mixed">60</span>
+        </span>
+    </span>
+</span></span></a></div></li></ol></div></div><div class="more"><a href="/browse/movies/release-date/theater/date">See more &raquo;</a></div></li><li class="carousel_slot carousel_game"><div class="slot_wrap"><div class="slot_products"><ol class="slot_products"><li class="slot_product"><div class="product"><a class="product" href="/game/wii/the-legend-of-zelda-skyward-sword"><span class="product_title">The Legend of Zelda: Skyward Sword</span><span class="product_wrap"><span class="product_image"><img src="http://img2.gamespotcdn.com/metacritic/public/www/images/products/games/3/b68f02ecc7a8fbf5789d8ae6efdcd0e6-78.jpg" alt="The Legend of Zelda: Skyward Sword" /></span><span class="product_score" style="padding-bottom:66px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_outstanding">93</span>
+        </span>
+    </span>
+</span></span></a></div></li><li class="slot_product"><div class="product"><a class="product" href="/game/pc/batman-arkham-city"><span class="product_title">Batman: Arkham City</span><span class="product_wrap"><span class="product_image"><img src="http://img1.gamespotcdn.net/metacritic/public/www/images/products/games/7/8ca786aa6ce79e3b0c30cdda2f3cb821-78.jpg" alt="Batman: Arkham City" /></span><span class="product_score" style="padding-bottom:65px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_outstanding">92</span>
+        </span>
+    </span>
+</span></span></a></div></li><li class="slot_product"><div class="product"><a class="product" href="/game/ios/infinity-blade-ii"><span class="product_title">Infinity Blade II</span><span class="product_wrap"><span class="product_image"><img src="http://img1.gamespotcdn.com/metacritic/public/www/images/products/games/3/0f3dea7ba9f43cc3e1b019d436ac0470-78.jpg" alt="Infinity Blade II" /></span><span class="product_score" style="padding-bottom:65px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_outstanding">92</span>
+        </span>
+    </span>
+</span></span></a></div></li><li class="slot_product"><div class="product"><a class="product" href="/game/3ds/mario-kart-7"><span class="product_title">Mario Kart 7</span><span class="product_wrap"><span class="product_image"><img src="http://img2.gamespotcdn.com/metacritic/public/www/images/products/games/3/663dfff581b7464f5870dbd2f59ea144-78.jpg" alt="Mario Kart 7" /></span><span class="product_score" style="padding-bottom:59px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">86</span>
+        </span>
+    </span>
+</span></span></a></div></li><li class="slot_product"><div class="product"><a class="product" href="/game/wii/fortune-street"><span class="product_title">Fortune Street</span><span class="product_wrap"><span class="product_image"><img src="http://img1.gamespotcdn.net/metacritic/public/www/images/products/games/3/a78da85c12811870203d92a62be30ea4-78.jpg" alt="Fortune Street" /></span><span class="product_score" style="padding-bottom:44px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_mixed">71</span>
+        </span>
+    </span>
+</span></span></a></div></li></ol></div></div><div class="more"><a href="/browse/games/release-date/new-releases/all/date">See more &raquo;</a></div></li><li class="carousel_slot carousel_tv"><div class="slot_wrap"><div class="slot_products"><ol class="slot_products"><li class="slot_product"><div class="product"><a class="product" href="/tv/homeland/season-1"><span class="product_title">Homeland: Season 1</span><span class="product_wrap"><span class="product_image"><img src="http://img2.gamespotcdn.net/metacritic/public/www/images/products/tv/7/1453be1127d8713b5cf20929df179d08-78.jpg" alt="Homeland: Season 1" /></span><span class="product_score" style="padding-bottom:64px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_outstanding">91</span>
+        </span>
+    </span>
+</span></span></a></div></li><li class="slot_product"><div class="product"><a class="product" href="/tv/the-walking-dead/season-2"><span class="product_title">The Walking Dead: Season 2</span><span class="product_wrap"><span class="product_image"><img src="http://img2.gamespotcdn.net/metacritic/public/www/images/products/tv/8/d678f3c1b074d70c76b5faa7212f1db7-78.jpg" alt="The Walking Dead: Season 2" /></span><span class="product_score" style="padding-bottom:53px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">80</span>
+        </span>
+    </span>
+</span></span></a></div></li><li class="slot_product"><div class="product"><a class="product" href="/tv/boss/season-1"><span class="product_title">Boss: Season 1</span><span class="product_wrap"><span class="product_image"><img src="http://img2.gamespotcdn.net/metacritic/public/www/images/products/tv/2/806e0536beaf10110f8bef711f1bbec3-78.jpg" alt="Boss: Season 1" /></span><span class="product_score" style="padding-bottom:51px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">78</span>
+        </span>
+    </span>
+</span></span></a></div></li><li class="slot_product"><div class="product"><a class="product" href="/tv/hell-on-wheels/season-1"><span class="product_title">Hell on Wheels: Season 1</span><span class="product_wrap"><span class="product_image"><img src="http://img2.gamespotcdn.com/metacritic/public/www/images/products/tv/7/044d70367aba383bb7e2681887413b1e-78.jpg" alt="Hell on Wheels: Season 1" /></span><span class="product_score" style="padding-bottom:36px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">63</span>
+        </span>
+    </span>
+</span></span></a></div></li><li class="slot_product"><div class="product"><a class="product" href="/tv/neverland/season-1"><span class="product_title">Neverland: Season 1</span><span class="product_wrap"><span class="product_image"><img src="http://img2.gamespotcdn.com/metacritic/public/www/images/products/tv/4/c3f4e454f54b11b720b4faee647baf5e-78.jpg" alt="Neverland: Season 1" /></span><span class="product_score" style="padding-bottom:32px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_mixed">59</span>
+        </span>
+    </span>
+</span></span></a></div></li></ol></div></div><div class="more"><a href="/browse/tv/release-date/new-series/date">See more &raquo;</a></div></li><li class="carousel_slot carousel_music"><div class="slot_wrap"><div class="slot_products"><ol class="slot_products"><li class="slot_product"><div class="product"><a class="product" href="/music/siamese-dream-deluxe-edition"><span class="product_title"><span class="product_artist">Smashing Pumpkins - </span>Siamese Dream [Del...</span><span class="product_wrap"><span class="product_image"><img src="http://img1.gamespotcdn.net/metacritic/public/www/images/products/music/7/3bdb7be1551dd9f4258d94e7f3784b77-78.jpg" alt="Siamese Dream [Deluxe Edition]" /></span><span class="product_score" style="padding-bottom:70px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_outstanding">97</span>
+        </span>
+    </span>
+</span></span></a></div></li><li class="slot_product"><div class="product"><a class="product" href="/music/gish-deluxe-edition"><span class="product_title"><span class="product_artist">Smashing Pumpkins - </span>Gish [Deluxe Edition]</span><span class="product_wrap"><span class="product_image"><img src="http://img2.gamespotcdn.net/metacritic/public/www/images/products/music/4/7745ebe4036e62a00231c08d49c03cbd-78.jpg" alt="Gish [Deluxe Edition]" /></span><span class="product_score" style="padding-bottom:63px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_outstanding">90</span>
+        </span>
+    </span>
+</span></span></a></div></li><li class="slot_product"><div class="product"><a class="product" href="/music/live-at-the-royal-albert-hall"><span class="product_title"><span class="product_artist">Adele - </span>Live at the Royal Albert Hall</span><span class="product_wrap"><span class="product_image"><img src="http://img1.gamespotcdn.net/metacritic/public/www/images/products/music/4/1b6f69998976fdb8a6ff2c88fcc1bb3d-78.jpg" alt="Live at the Royal Albert Hall" /></span><span class="product_score" style="padding-bottom:53px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">80</span>
+        </span>
+    </span>
+</span></span></a></div></li><li class="slot_product"><div class="product"><a class="product" href="/music/the-singles-collection-2001-2011"><span class="product_title"><span class="product_artist">Gorillaz - </span>The Singles Collectio...</span><span class="product_wrap"><span class="product_image"><img src="http://img1.gamespotcdn.com/metacritic/public/www/images/products/music/1/cac2293df1281a122f06fa8f43580440-78.jpg" alt="The Singles Collection 2001-2011" /></span><span class="product_score" style="padding-bottom:44px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">71</span>
+        </span>
+    </span>
+</span></span></a></div></li><li class="slot_product"><div class="product"><a class="product" href="/music/whatever-2011"><span class="product_title"><span class="product_artist">Hot Chelle Rae - </span>Whatever</span><span class="product_wrap"><span class="product_image"><img src="http://img1.gamespotcdn.com/metacritic/public/www/images/products/music/0/3179219c3fb6ad18cecc9253943974a2-78.jpg" alt="Whatever" /></span><span class="product_score" style="padding-bottom:35px;">    <span class="std_score">
+        <span class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">62</span>
+        </span>
+    </span>
+</span></span></a></div></li></ol></div></div><div class="more"><a href="/browse/albums/release-date/new-releases/date">See more &raquo;</a></div></li></ul></div><div class="foot"><p class="caption">The best critics' reviews combined into a simple Metascore. Scores are out of 100. <a href="/about-metacritic">Learn more about Metacritic &raquo;</a></p></div></div>
+<div class="module movers_module">
+    <div class="head head_type_2"><div class="head_wrap"><h2 class="module_title">Movers &amp; Shakers</h2></div></div>    <div class="body">
+        <ul class="movers">
+                            <li class="mover">
+                    <div class="mover_wrap">
+                        <div class="mover_head"><h3 class="mover_title"><a href="/person/michael-fassbender">Michael Fassbender</a></h3></div>
+                        <div class="mover_summary">
+                            <div class="mover_img">
+                                <a rel="nofollow" href="/person/michael-fassbender"><img class="mover_img" alt="Michael Fassbender Image" src="http://origin.image.com.com/metacritic/public/www/images/features/shakers/fassbender-100.jpg" /></a>
+                            </div>
+                                                        <div class="mover_stats">
+                                <ul class="stats">
+                                                                        <li class="stat avg_score">
+                                        <span class="label">Average score:</span>
+                                        <span class="score">
+                                                    <span class="data textscore textscore_favorable">64</span>
+                                        </span>
+                                    </li>
+                                                                                                            <li class="stat credits">
+                                        <div class="label">Last 3 Movies:</div>
+                                        <div class="product_titles">
+        <ol class="list_products list_product_titles">
+                    <li class="product first_product">
+                                <div class="product_wrap">
+                                                                                                                                
+                    					<div class="basic_stat product_title curr_product_title_length_5">
+						<a href="/movie/shame">
+						Shame</a>
+                        					</div>
+
+					<div class="basic_stat product_score brief_metascore">
+                                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">71</span>
+        </div>
+    </div>
+                                            </div>
+                </div>
+            </li>
+                    <li class="product">
+                                <div class="product_wrap">
+                                                                                                                                
+                    					<div class="basic_stat product_title curr_product_title_length_18" title="A Dangerous Method">
+						<a href="/movie/a-dangerous-method">
+						A Dangerous Method</a>
+                        					</div>
+
+					<div class="basic_stat product_score brief_metascore">
+                                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">75</span>
+        </div>
+    </div>
+                                            </div>
+                </div>
+            </li>
+                    <li class="product last_product">
+                                <div class="product_wrap">
+                                                                                                                                
+                    					<div class="basic_stat product_title curr_product_title_length_18" title="X-Men: First Class">
+						<a href="/movie/x-men-first-class">
+						X-Men: First Class</a>
+                        					</div>
+
+					<div class="basic_stat product_score brief_metascore">
+                                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">65</span>
+        </div>
+    </div>
+                                            </div>
+                </div>
+            </li>
+            </ol>
+    </div>
+                                    </li>
+                                                                    </ul>
+                            </div>
+                                                    </div>
+                    </div>
+                </li>
+                            <li class="mover">
+                    <div class="mover_wrap">
+                        <div class="mover_head"><h3 class="mover_title"><a href="/company/chair-entertainment">Chair Entertainment</a></h3></div>
+                        <div class="mover_summary">
+                            <div class="mover_img">
+                                <a rel="nofollow" href="/company/chair-entertainment"><img class="mover_img" alt="Chair Entertainment Image" src="http://origin.image.com.com/metacritic/public/www/images/features/2011games/infinityblade2-100.jpg" /></a>
+                            </div>
+                                                        <div class="mover_stats">
+                                <ul class="stats">
+                                                                        <li class="stat avg_score">
+                                        <span class="label">Average score:</span>
+                                        <span class="score">
+                                                    <span class="data textscore textscore_favorable">83</span>
+                                        </span>
+                                    </li>
+                                                                                                            <li class="stat credits">
+                                        <div class="label">Last 3 Games:</div>
+                                        <div class="product_titles">
+        <ol class="list_products list_product_titles">
+                    <li class="product first_product">
+                                <div class="product_wrap">
+                                                                                                                                
+                    					<div class="basic_stat product_title curr_product_title_length_17" title="Infinity Blade II">
+						<a href="/game/ios/infinity-blade-ii">
+						Infinity Blade II</a>
+                        					</div>
+
+					<div class="basic_stat product_score brief_metascore">
+                                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_outstanding">92</span>
+        </div>
+    </div>
+                                            </div>
+                </div>
+            </li>
+                    <li class="product">
+                                <div class="product_wrap">
+                                                                                                                                
+                    					<div class="basic_stat product_title curr_product_title_length_14">
+						<a href="/game/ios/infinity-blade">
+						Infinity Blade</a>
+                        					</div>
+
+					<div class="basic_stat product_score brief_metascore">
+                                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">87</span>
+        </div>
+    </div>
+                                            </div>
+                </div>
+            </li>
+                    <li class="product last_product">
+                                <div class="product_wrap">
+                                                                                                                                
+                    					<div class="basic_stat product_title curr_product_title_length_14">
+						<a href="/game/xbox-360/shadow-complex">
+						Shadow Complex</a>
+                        					</div>
+
+					<div class="basic_stat product_score brief_metascore">
+                                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">88</span>
+        </div>
+    </div>
+                                            </div>
+                </div>
+            </li>
+            </ol>
+    </div>
+                                    </li>
+                                                                    </ul>
+                            </div>
+                                                    </div>
+                    </div>
+                </li>
+                    </ul>
+    </div>
+</div>
+<div class="top_releases">
+    <div class="top_releases_wrap">
+            <div class="release_group_wrap">        <div class="releases movies_releases">
+                
+    
+        <div class="module products_module list_product_top_releases_module ">
+        <div class="head head_type_1"><div class="head_wrap"><h2 class="module_title"><a href="/browse/movies/release-date/theaters/date">Movies</a></h2></div></div>        <div class="body">
+                                    <div class="body_wrap">
+                                
+                        <div class="top_releases">
+                    <ol class="list_products list_product_top_releases">
+                                                                                                                                            
+                <li class="product top_product has_small_image">
+                    <div class="product_wrap top_product_wrap">
+                                            <div class="product_basics product_image small_image"><a href="/movie/the-adventures-of-tintin" rel="nofollow"><img class="product_image small_image" src="http://img1.gamespotcdn.com/metacritic/public/www/images/products/movies/5/f65faae926386c61d137578e71f59789-53.jpg" alt="The Adventures of Tintin Image" /></a></div>
+                                                <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/movie/the-adventures-of-tintin">The Adventures of Tintin</a>
+                            </div>
+                            <ul class="main_stats">
+                            
+                                                                    <li class="main_stat product_detail product_rating">
+                                        <span class="label">Rating: </span>
+                                                                                    <span class="data">PG</span>
+                                                                            </li>
+                                                                <li class="main_stat product_score">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_outstanding">86</span>
+        </div>
+    </div>
+                                    <div class="caption">Metascore based on <a href="/movie/the-adventures-of-tintin/critic-reviews">4 Critics</a></div>
+                            </li>
+                        </ul>
+                    </div>
+                    </div>
+                </li>
+                                                                                                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/movie/the-muppets">The Muppets</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_rating">
+                                        <span class="label">Rating: </span>
+                                           
+                                            <span class="data">PG</span>
+                                                                            </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">76</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/movie/arthur-christmas">Arthur Christmas</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_rating">
+                                        <span class="label">Rating: </span>
+                                           
+                                            <span class="data">PG</span>
+                                                                            </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">68</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/movie/hugo">Hugo </a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_rating">
+                                        <span class="label">Rating: </span>
+                                           
+                                            <span class="data">PG</span>
+                                                                            </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_outstanding">83</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/movie/the-twilight-saga-breaking-dawn---part-1" title="The Twilight Saga: Breaking Dawn - Part 1">The Twilight Saga: Breaking Dawn - ...</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_rating">
+                                        <span class="label">Rating: </span>
+                                           
+                                            <span class="data">PG-13</span>
+                                                                            </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_mixed">45</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/movie/happy-feet-2-in-3d">Happy Feet Two</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_rating">
+                                        <span class="label">Rating: </span>
+                                           
+                                            <span class="data">PG</span>
+                                                                            </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_mixed">50</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                                                                        <li class="product product_with_detail last_product">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/movie/immortals">Immortals</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_rating">
+                                        <span class="label">Rating: </span>
+                                           
+                                            <span class="data">R</span>
+                                                                            </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_mixed">46</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                        </ol>
+    </div>
+
+            </div>
+        </div>
+
+		
+            <div class="foot">
+        <div class="foot_wrap">
+                    <div class="more">
+                <span class="more_item"><a href="/browse/movies/release-date/theaters/date">All new Movies &raquo;</a></span>
+            </div>
+                </div>
+    </div>
+
+    </div>
+        </div>
+                            <div class="releases alt_releases games_releases">
+                
+    
+        <div class="module products_module list_product_top_releases_module ">
+        <div class="head head_type_1"><div class="head_wrap"><h2 class="module_title"><a href="/browse/games/release-date/new-releases/all/date">Games</a></h2></div></div>        <div class="body">
+                                    <div class="body_wrap">
+                                
+                        <div class="top_releases">
+                    <ol class="list_products list_product_top_releases">
+                                                                    
+                                                                        
+                <li class="product top_product has_small_image">
+                    <div class="product_wrap top_product_wrap">
+                                            <div class="product_basics product_image small_image"><a href="/game/pc/serious-sam-3-bfe" rel="nofollow"><img class="product_image small_image" src="http://img2.gamespotcdn.net/metacritic/public/www/images/products/games/7/7398d3fe558bd9dc244540f79fbee8e1-53.jpg" alt="Serious Sam 3: BFE Image" /></a></div>
+                                                <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/game/pc/serious-sam-3-bfe">Serious Sam 3: BFE</a>
+                            </div>
+                            <ul class="main_stats">
+                            
+                                                                    <li class="main_stat product_detail product_platform">
+                                        <span class="label">Platform: </span>
+                                                                                    <a href="/games/pc" class="data">PC</a>
+                                                                            </li>
+                                                                <li class="main_stat product_score">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_mixed">71</span>
+        </div>
+    </div>
+                                    <div class="caption">Metascore based on <a href="/game/pc/serious-sam-3-bfe/critic-reviews">23 Critics</a></div>
+                            </li>
+                        </ul>
+                    </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/game/playstation-3/wwe-12">WWE '12</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_platform">
+                                        <span class="label">Platform: </span>
+                                                                                    <a href="/games/ps3" class="data">PS3</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_mixed">71</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/game/playstation-3/the-king-of-fighters-xiii">The King of Fighters XIII</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_platform">
+                                        <span class="label">Platform: </span>
+                                                                                    <a href="/games/ps3" class="data">PS3</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">81</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/game/playstation-3/tekken-hybrid">Tekken Hybrid</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_platform">
+                                        <span class="label">Platform: </span>
+                                                                                    <a href="/games/ps3" class="data">PS3</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_mixed">66</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/game/pc/minecraft">Minecraft</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_platform">
+                                        <span class="label">Platform: </span>
+                                                                                    <a href="/games/pc" class="data">PC</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_outstanding">94</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/game/pc/anno-2070">Anno 2070</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_platform">
+                                        <span class="label">Platform: </span>
+                                                                                    <a href="/games/pc" class="data">PC</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">86</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/game/pc/saints-row-the-third">Saints Row: The Third</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_platform">
+                                        <span class="label">Platform: </span>
+                                                                                    <a href="/games/pc" class="data">PC</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">85</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/game/xbox-360/rayman-origins">Rayman Origins</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_platform">
+                                        <span class="label">Platform: </span>
+                                                                                    <a href="/games/xbox360" class="data">X360</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">88</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/game/pc/jurassic-park-the-game">Jurassic Park: The Game</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_platform">
+                                        <span class="label">Platform: </span>
+                                                                                    <a href="/games/pc" class="data">PC</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_mixed">56</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail last_product">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/game/playstation-3/assassins-creed-revelations">Assassin's Creed: Revelations</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_platform">
+                                        <span class="label">Platform: </span>
+                                                                                    <a href="/games/ps3" class="data">PS3</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">81</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                        </ol>
+    </div>
+
+            </div>
+        </div>
+
+		
+            <div class="foot">
+        <div class="foot_wrap">
+                    <div class="more">
+                <span class="more_item"><a href="/browse/games/release-date/new-releases/all/date">All new Games &raquo;</a></span>
+            </div>
+                </div>
+    </div>
+
+    </div>
+        </div>
+        </div>            <div class="release_group_wrap">        <div class="releases tv-shows_releases">
+                
+    
+        <div class="module products_module list_product_top_releases_module ">
+        <div class="head head_type_1"><div class="head_wrap"><h2 class="module_title"><a href="/browse/tv/release-date/new-series/date">TV</a></h2></div></div>        <div class="body">
+                                    <div class="body_wrap">
+                                
+                        <div class="top_releases">
+                    <ol class="list_products list_product_top_releases">
+                                                                    
+                                                                        
+                <li class="product top_product has_small_image">
+                    <div class="product_wrap top_product_wrap">
+                                            <div class="product_basics product_image small_image"><a href="/tv/weed-wars/season-1" rel="nofollow"><img class="product_image small_image" src="http://img2.gamespotcdn.net/metacritic/public/www/images/products/tv/0/d61135e63aa70af3564fc1892641802d-53.jpg" alt="Weed Wars: Season 1 Image" /></a></div>
+                                                <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/tv/weed-wars/season-1">Weed Wars: Season 1</a>
+                            </div>
+                            <ul class="main_stats">
+                            
+                                                                    <li class="main_stat product_detail product_network">
+                                        <span class="label">Network: </span>
+                                                                                    <a href="/company/discovery-channel" class="data">Discovery Channel</a>
+                                                                            </li>
+                                                                <li class="main_stat product_score">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">61</span>
+        </div>
+    </div>
+                                    <div class="caption">Metascore based on <a href="/tv/weed-wars/season-1/critic-reviews">6 Critics</a></div>
+                            </li>
+                        </ul>
+                    </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/tv/i-hate-my-teenage-daughter/season-1">I Hate My Teenage Daughter: Season 1</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_network">
+                                        <span class="label">Network: </span>
+                                                                                    <a href="/company/fox" class="data">FOX</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_unfavorable">36</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/tv/the-exes/season-1">The Exes: Season 1</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_network">
+                                        <span class="label">Network: </span>
+                                                                                    <a href="/company/tv-land" class="data">TV LAND</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_mixed">49</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/tv/ricochet/season-1">Ricochet: Season 1</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_network">
+                                        <span class="label">Network: </span>
+                                                                                    <a href="/company/tnt" class="data">TNT</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_unfavorable">32</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/tv/scott-turows-innocent/season-1">Scott Turow's Innocent: Season 1</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_network">
+                                        <span class="label">Network: </span>
+                                                                                    <a href="/company/tnt" class="data">TNT</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">68</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/tv/scouted/season-1">Scouted: Season 1</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_network">
+                                        <span class="label">Network: </span>
+                                                                                    <a href="/company/e!" class="data">E!</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">63</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/tv/kourtney-and-kim-take-new-york/season-2" title="Kourtney and Kim Take New York: Season 2">Kourtney and Kim Take New York: Sea...</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_network">
+                                        <span class="label">Network: </span>
+                                                                                    <a href="/company/e!" class="data">E!</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_mixed">44</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/tv/all-american-muslim/season-1">All-American Muslim: Season 1</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_network">
+                                        <span class="label">Network: </span>
+                                                                                    <a href="/company/tlc" class="data">TLC</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">69</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/tv/vietnam-in-hd/season-1">Vietnam in HD: Season 1</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_network">
+                                        <span class="label">Network: </span>
+                                                                                    <a href="/company/the-history-channel" class="data">The History Channel</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">78</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail last_product">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/tv/page-eight/season-1">Page Eight: Season 1</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_network">
+                                        <span class="label">Network: </span>
+                                                                                    <a href="/company/pbs" class="data">PBS</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">71</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                        </ol>
+    </div>
+
+            </div>
+        </div>
+
+		
+            <div class="foot">
+        <div class="foot_wrap">
+                    <div class="more">
+                <span class="more_item"><a href="/browse/tv/release-date/new-series/date">All new TV &raquo;</a></span>
+            </div>
+                </div>
+    </div>
+
+    </div>
+        </div>
+                            <div class="releases alt_releases albums_releases">
+                
+    
+        <div class="module products_module list_product_top_releases_module ">
+        <div class="head head_type_1"><div class="head_wrap"><h2 class="module_title"><a href="/browse/albums/release-date/new-releases/date">Music</a></h2></div></div>        <div class="body">
+                                    <div class="body_wrap">
+                                
+                        <div class="top_releases">
+                    <ol class="list_products list_product_top_releases">
+                                                                    
+                                                                        
+                <li class="product top_product has_small_image">
+                    <div class="product_wrap top_product_wrap">
+                                            <div class="product_basics product_image small_image"><a href="/music/bruiser" rel="nofollow"><img class="product_image small_image" src="http://img1.gamespotcdn.com/metacritic/public/www/images/products/music/0/6fee05a3d7cfd67eb28cfd1f9cb8cb9f-53.jpg" alt="Bruiser Image" /></a></div>
+                                                <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/music/bruiser">Bruiser</a>
+                            </div>
+                            <ul class="main_stats">
+                            
+                                                                    <li class="main_stat product_detail product_artist">
+                                        <span class="label">Artist: </span>
+                                                                                    <a href="/person/the-duke-spirit" class="data">The Duke Spirit</a>
+                                                                            </li>
+                                                                <li class="main_stat product_score">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">68</span>
+        </div>
+    </div>
+                                    <div class="caption">Metascore based on <a href="/music/bruiser/critic-reviews">10 Critics</a></div>
+                            </li>
+                        </ul>
+                    </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/music/ersatz-gb">Ersatz G.B.</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_artist">
+                                        <span class="label">Artist: </span>
+                                                                                    <a href="/person/the-fall" class="data">The Fall</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_mixed">54</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/music/polymers-are-forever">Polymers Are Forever</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_artist">
+                                        <span class="label">Artist: </span>
+                                                                                    <a href="/person/future-of-the-left" class="data">Future of the Left</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">75</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/music/here-and-now-2010">Here and Now</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_artist">
+                                        <span class="label">Artist: </span>
+                                                                                    <a href="/person/nickelback" class="data">Nickelback</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_mixed">57</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/music/50-words-for-snow">50 Words for Snow</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_artist">
+                                        <span class="label">Artist: </span>
+                                                                                    <a href="/person/kate-bush" class="data">Kate Bush</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_outstanding">87</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/music/talk-that-talk">Talk That Talk</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_artist">
+                                        <span class="label">Artist: </span>
+                                                                                    <a href="/person/rihanna" class="data">Rihanna</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">62</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/music/break-the-spell">Break the Spell</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_artist">
+                                        <span class="label">Artist: </span>
+                                                                                    <a href="/person/daughtry" class="data">Daughtry</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">61</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/music/my-life-iithe-journey-continues-act-1" title="My Life II...The Journey Continues (Act 1)">My Life II...The Journey Continues ...</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_artist">
+                                        <span class="label">Artist: </span>
+                                                                                    <a href="/person/mary-j-blige" class="data">Mary J. Blige</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">69</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/music/sepalcure">Sepalcure</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_artist">
+                                        <span class="label">Artist: </span>
+                                                                                    <a href="/person/sepalcure" class="data">Sepalcure</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_outstanding">85</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                                                                                
+                                                        <li class="product product_with_detail last_product">
+                    <div class="product_wrap">
+                        <div class="product_basics main_stats">
+                            <div class="product_title">
+                                <a href="/music/radioactive">Radioactive</a>
+                            </div>
+                            <ul class="main_stats">
+
+                                                                    <li class="main_stat product_detail product_artist">
+                                        <span class="label">Artist: </span>
+                                                                                    <a href="/person/yelawolf" class="data">Yelawolf</a>
+                                                                             </li>
+                                                                
+                                <li class="main_stat product_score brief_metascore">
+                                        <div class="std_score">
+        <div class="score_wrap">
+            <span class="label">Metascore: </span>
+            <span class="data metascore score_favorable">68</span>
+        </div>
+    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                        </ol>
+    </div>
+
+            </div>
+        </div>
+
+		
+            <div class="foot">
+        <div class="foot_wrap">
+                    <div class="more">
+                <span class="more_item"><a href="/browse/albums/release-date/new-releases/date">All new Music &raquo;</a></span>
+            </div>
+                </div>
+    </div>
+
+    </div>
+        </div>
+        </div>        </div>
+</div>            </div>
+                            <div id="side" class="col side_col">
+                    
+
+                    <div class="module stories_module">
+    <div class="module_wrap">
+        <div class="head head_type_2"><div class="head_wrap"><h2 class="module_title"><a href="http://www.metacritic.com/features">Metacritic Reports</a></h2><div class="more"><span class="more_item"><a href="http://www.metacritic.com/features">See more &raquo;</a></span></div></div></div>        <div class="body">
+            <div class="stories">
+                <ol class="stories stories_titles">
+                                                                                                        <li class="story highlighted_story first_story">
+            <div class="story_wrap has_story_img">
+                <div class="story_head">
+                    <div class="story_title">
+                        <a href="/feature/movie-trailers-and-news-for-week-ending-december-2-2011">                                                            <span class="story_label">Film Friday: </span>
+                                                                                                                This Week's Movie News and New Trailers
+                                                    </a>
+                    </div>
+                </div>
+                                    <div class="story_image">
+                        <a class="story_image" rel="nofollow" href="/feature/movie-trailers-and-news-for-week-ending-december-2-2011"><img class="story_image" src="http://img1.gamespotcdn.com/metacritic/public/www/images/features/main/johncarter-100.jpg" alt="Film Friday: This Week's Movie News and New Trailers Image"></a>
+                    </div>
+                                            </div>
+        </li>
+                                                                                                        <li class="story">
+            <div class="story_wrap">
+                <div class="story_head">
+                    <div class="story_title">
+                        <a href="/feature/best-and-worst-tv-shows-of-the-fall-2011-season">                                                            <span class="story_label">Fall 2011 TV Scorecard: </span>
+                                                                                                                The Best & Worst New Shows
+                                                    </a>
+                    </div>
+                </div>
+                                            </div>
+        </li>
+                                                                                                        <li class="story last_story">
+            <div class="story_wrap">
+                <div class="story_head">
+                    <div class="story_title">
+                        <a href="/feature/best-ios-games-november-2011">                                                            <span class="story_label">iPhone/iPad Games Guide: </span>
+                                                                                                                What to Buy This Month
+                                                    </a>
+                    </div>
+                </div>
+                                            </div>
+        </li>
+    </ol>
+            </div>
+        </div>
+    </div>
+</div>    
+    <div class="ad_unit ad_unit_mpu"><div class="ad_wrap">
+<!-- php client madison [r20110603-1430-passingHostPort]: 10.15.4.104 GET /html/BRAND=21/CELT=html/CLIENT:ID=CHEETAH/CNET%2dONTOLOGY%2dNODE%2dID=1/DVAR_SESSION=b/DVAR_FIRSTPAGE=1/HTTP_HOST=www.metacritic.com/HUB=cn/NCAT=1%3A/PAGESTATE=1%7C3197%7C%3B%3B%3B%7C4791/POS=100/PTYPE=2000/REMOTE_ADDR=159.226.42.170/SITE=50/SP=16/UA=larbin_2.6.3+larbin2.6.3%40unspecified.mail HTTP/1.0 --><style type="text/css">.mad_center {text-align:center;} .mad_center div, .mad_center table, .mad_center iframe, .mad_center a img {margin-left: auto; margin-right: auto;}</style><div class="mad_adcontainer mad_center sp16seg555985" id="madison_ad_16_100"><IFRAME SRC="http://ad.doubleclick.net/adi/N3671.149400.GAMESPOT.COM/B6013353.12;sz=300x250;pc=cbs555985;click0=http://adlog.com.com/adlog/e/r=12881&amp;sg=555985&amp;o=1%253A&amp;h=cn&amp;p=&amp;b=21&amp;l=&amp;site=50&amp;pt=2000&amp;nd=1&amp;pid=&amp;cid=&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e5:4ED9BB625821FA&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=159.226.42.170&amp;pg=&amp;t=2011.12.03.14.08.45&event=58/;ord=2011.12.03.14.08.45?" width="300" height="250" MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR='#000000'><SCRIPT language='JavaScript1.1' SRC="http://ad.doubleclick.net/adj/N3671.149400.GAMESPOT.COM/B6013353.12;abr=!ie;sz=300x250;pc=cbs555985;click0=http://adlog.com.com/adlog/e/r=12881&amp;sg=555985&amp;o=1%253A&amp;h=cn&amp;p=&amp;b=21&amp;l=&amp;site=50&amp;pt=2000&amp;nd=1&amp;pid=&amp;cid=&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e5:4ED9BB625821FA&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=159.226.42.170&amp;pg=&amp;t=2011.12.03.14.08.45&event=58/;ord=2011.12.03.14.08.45?"></SCRIPT><NOSCRIPT><Ahref="http://adlog.com.com/adlog/e/r=12881&amp;sg=555985&amp;o=1%253A&amp;h=cn&amp;p=&amp;b=21&amp;l=&amp;site=50&amp;pt=2000&amp;nd=1&amp;pid=&amp;cid=&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e5:4ED9BB625821FA&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=159.226.42.170&amp;pg=&amp;t=2011.12.03.14.08.45&event=58/http://ad.doubleclick.net/jump/N3671.149400.GAMESPOT.COM/B6013353.12;abr=!ie4;abr=!ie5;sz=300x250;pc=cbs555985;ord=2011.12.03.14.08.45?"><IMGSRC="http://ad.doubleclick.net/ad/N3671.149400.GAMESPOT.COM/B6013353.12;abr=!ie4;abr=!ie5;sz=300x250;pc=cbs555985;ord=2011.12.03.14.08.45?" BORDER=0 WIDTH=300 HEIGHT=250 ALT="Advertisement"></A></NOSCRIPT>
+</IFRAME><img src="http://adlog.com.com/adlog/i/r=12881&amp;sg=555985&amp;o=1%253A&amp;h=cn&amp;p=&amp;b=21&amp;l=&amp;site=50&amp;pt=2000&amp;nd=1&amp;pid=&amp;cid=&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e5:4ED9BB625821FA&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=159.226.42.170&amp;dvar=dvar_session%253Db%2523dvar_firstpage%253D1&amp;ucat_rsi=%2526&amp;pg=&amp;t=2011.12.03.14.08.45/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" HEIGHT="0" WIDTH="0" alt="" style="position:absolute; top:0px; left:0px" /></div><!-- Cheetah T 1.7.8.18 --></div></div>
+<div class="module follow_like_module">
+        <div class="body">
+        <div class="like_facebook">
+            <fb:like-box href="http://www.facebook.com/Metacritic" width="300" show_faces="true" border_color="" stream="false" header="false"></fb:like-box>
+            <div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js#appId=af0405ad26a0f11e0ef8cb75e6d4d12e&amp;xfbml=1"></script>
+<script>
+  FB.init({
+    appId  : 'af0405ad26a0f11e0ef8cb75e6d4d12e',
+    channelUrl  : "http://www.metacritic.com/facebook/channel-url"  // custom channel
+  });
+</script>        </div>
+        <div class="follow_twitter">
+        <a href="http://twitter.com/metacritic" class="twitter-follow-button">Follow @metacritic</a>
+        <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+        </div>
+    </div>
+</div>                    <div class="module user_review_module">
+        <div class="head head_type_2"><div class="head_wrap"><h2 class="module_title">The People's Score</h2></div></div>        <div class="body">
+            <div class="user_review spotlighted_review">
+                <div class="review_stats">
+                    <div class="review_critic">
+                        <a class="product_title" href="/game/pc/the-elder-scrolls-v-skyrim">The Elder Scrolls V: Skyrim</a>
+                        according to <span class="review_author">
+                                                            <a href="/user/orctowngrot">orctowngrot</a>
+                                                    </span>
+                    </div>
+                    <div class="review_grade">
+                        <div class="std_score">
+    <div class="score_wrap">
+                    <span class="label">User Score</span>
+                <span class="data userscore userscore_outstanding">10</span>
+    </div>
+</div>
+                    </div>
+                </div>
+                <div class="review_wrap review_wrap_btm"><div class="review_wrap review_wrap_top"><div class="review_wrap review_wrap_mid">
+                    <div class="review_body">
+                                                                                                                                                                
+                                <span class="inline_expand_collapse inline_collapsed"><span class="blurb blurb_collapsed">UPDATED REVIEW: After 90 hours of this game the only major problems are (1) Skyrim gives me </span><span class="blurb blurb_expanded">a hunger to leave  home and wander in some real mountains (2) Physical exhaustion from trying to get the most out of late night sessions, and still wake up for work the next day. This game can't be finished inside a month, don't kill yourself trying. Take your time, it will see you into the new year. IN SUMMARY: Skyrim is a huge game. Its a brilliantly realised world with AWESOME depths of atmosphere, and immersion. The game is brim-full with GEOLOGY. ECOLOGY, LORE, MAGIC, HISTORY & CHARACTER AND HILARITY. It is a masterpiece of world design. it is also the biggest and greatest western RPG yet made. Where else can you finish off an Eldar Dragon and moments later snatch a dragonfly from the air? Skyrim is big and contains a LOT of good. THE GOOD: Environmental design: best ever in a video game. Dungeon design. DITO. Weather effects. DITO. City design. DITO. Writing. Not best ever by a long way (Witcher 2 and Bioware games both better than this) but still GREAT. So many Stories. Individual stories are well written, the number of stories is flabbergasting. Its a big step up from Oblivion and on par with Morrowind.But they have to stop adding female characters that are nuts because their relatives abused them. Its a tired cliche. Art Design. Great. Perks visual Interface GREAT(VISUALLY, not for PC utility) Character progression system. GREAT (not perfect). We could get characteristics and even classes back PLEASE, but the trade offs are pretty balanced. Dumbed down? NO, but HOLLOWED. Humour. THIS GAME IS SO FACKING FUNNY. This is a point that people seem to miss in their reviews. What other game lets you put buckets on peoples heads and they act as if it wasn't there. Or throw food on the ground and people kill each other to get it. I've rarely laughed as much in any other game. Where else do you have to stop fighting and run for your life half way across the country when facing defeat at something to big and too mean? THE BAD: Size. The game is almost too big. Too many dungeons! Too many quests. This is bad! Well yes! Who has time to play this monster of a game! The number of quests can also ruin the rhythm of gameplay and the mood. Too much FETCHING.  BIG FLAW: U.I. On PC this interface is awful. Where the hell is mouse detection when you are trading goods or choosing speech options? It wouldn't be super bad in a 30 hour game but Bethesda this is a 300+ hour game! Its tedious! Patch this facking problem PLEASE! Animations. Better than before but still terrible. A.I. Its bad, but since it is mostly hilarious I'm not sure if its a problem. It never gets tired shooting people in the head with arrows from the shadows and then watch them turn around to go back to their seat and say "it must have been nothing" with AN ARROW IN THEIR HEAD. But it's irritating that NPC conversation options do not reflect changes of status. I understand that it would have been impossible to script everything, but basically a lot of scripting hasn't been done that SHOULD have. Monsters SHOULD seek out enemies when they have arrows in their heads. Also NPC go and lose themselves. My (female) character married one guy, but hasn't been able to locate the husband since. where the hell did he run off to? Give me a quest marker Bethesda I have about a million facking markers as it is, a HUSBAND locater would help! 'So much for starting a shop together darling!' Now who can i get to cook for me? The one absolute certainty about Skyrim, is that most of the reviews are premature. Who could give a true review of this game after 5 hours or even 50? No-one alive has yet seen all that there is to see in this game. Skyrim is an awesome game. Except for the UI even its flaws are endearing. This game is a masterpiece, and a labour of love. Thanks Bethesda for the integrity and the hard work. I don't know how the hell you managed to stick an entire glorious province into 5.8 GB of data. but this is THE game of the generation, THE game of the decade, and for those with the time and constituion to actually play it, an easy GOTY. Most of the negative reviews are nitpickings by gamers who are not ever satisfied with anything, and were probably among the 120,000 PC users proudly torrenting the game on release day! Yeah how disappointing guys! Still they complain, no pleasing folks with such a high sense of self-entitlement. Good luck to other developers hoping to top Skyrim with something better. If all game design had such integrity and persistence none of us would have any time to do anything but playtest works of genius. The bar has been raised. Let's hope Bioware and CD Projekt have got the balls and soul to TRY and beat Skyrim. A golden age of RPGs will ensue. Timothy Rawlins (orctowngrot) timtimjp@yahoo.com</span><span class="blurb_etc">&hellip;</span> <span class="full_review"><a rel="nofollow" class="full_review" href="/game/pc/the-elder-scrolls-v-skyrim/user-reviews?user_review_id=1896298#user_review_1896298">Read More &raquo;</a></span></span>                                                                        </div>
+                    <div class="review_helpful">
+                        <span class="count">69</span> users found this review helpful.
+                    </div>
+                    <div class="review_average brief_userscore">
+                        <div class="review_avg_wrap review_avg_game">
+                            <div class="std_score">
+    <div class="score_wrap">
+        <span class="label"><strong>Average User Score</strong> for this Game: </span>
+        <span class="data avguserscore avguserscore_favorable">8.4</span>
+    </div>
+</div>
+                        </div>
+                    </div>
+                </div></div></div>
+            </div>
+        </div>
+    </div>
+
+
+
+<div class="module list_trailers">
+    <div class="head head_type_2"><div class="head_wrap"><h2 class="module_title">People Are Watching</h2><div class="more"><span class="more_item"><a href="/browse/movies/trailers/date">See all &raquo;</a></span></div></div></div>    <div class="body">
+                <ul class="trailers">
+                                            <li class="trailer">
+                    <div class="trailer_wrap">
+                        <div class="trailer_title">
+                            <h3 class="trailer_title"><a href="/movie/the-artist/trailers/2865889">THE ARTIST</a></h3>
+                                                            <div class="trailer_product_type">in Movies</div>
+                                                    </div>
+                        <div class="details">
+                            <div class="thumb video_thumb">
+                                <a href="/movie/the-artist/trailers/2865889" rel="nofollow">
+                                    <span class="play_button">Play Video</span>                                    <img src="http://content.internetvideoarchive.com/content/photos/7290/981742122.jpg" alt="THE ARTIST" />
+                                </a>
+                            </div>
+                            <div class="trailer_stats">
+                                <ul class="trailer_stats">
+                                    <li class="trailer_stat duration">2:30</li>                                    <li class="trailer_stat count views">(375 views)</li>
+                                                                    </ul>
+                            </div>
+                            <div class="trailer_actions">
+                                <div class="action">
+                                                                            <span class="play_action"><span><a href="/movie/the-artist/trailers/2865889">play now</a></span></span>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                                                            <li class="trailer alt">
+                    <div class="trailer_wrap">
+                        <div class="trailer_title">
+                            <h3 class="trailer_title"><a href="/movie/hugo/trailers/2559905">HUGO</a></h3>
+                                                            <div class="trailer_product_type">in Movies</div>
+                                                    </div>
+                        <div class="details">
+                            <div class="thumb video_thumb">
+                                <a href="/movie/hugo/trailers/2559905" rel="nofollow">
+                                    <span class="play_button">Play Video</span>                                    <img src="http://content.internetvideoarchive.com/content/photos/7490/00000082_3.jpg" alt="HUGO" />
+                                </a>
+                            </div>
+                            <div class="trailer_stats">
+                                <ul class="trailer_stats">
+                                    <li class="trailer_stat duration">1:58</li>                                    <li class="trailer_stat count views">(278 views)</li>
+                                                                    </ul>
+                            </div>
+                            <div class="trailer_actions">
+                                <div class="action">
+                                                                            <span class="play_action"><span><a href="/movie/hugo/trailers/2559905">play now</a></span></span>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                                                            <li class="trailer">
+                    <div class="trailer_wrap">
+                        <div class="trailer_title">
+                            <h3 class="trailer_title"><a href="/movie/shame/trailers/3186636">SHAME</a></h3>
+                                                            <div class="trailer_product_type">in Movies</div>
+                                                    </div>
+                        <div class="details">
+                            <div class="thumb video_thumb">
+                                <a href="/movie/shame/trailers/3186636" rel="nofollow">
+                                    <span class="play_button">Play Video</span>                                    <img src="http://content.internetvideoarchive.com/content/photos/7537/168085_068_1.jpg" alt="SHAME" />
+                                </a>
+                            </div>
+                            <div class="trailer_stats">
+                                <ul class="trailer_stats">
+                                    <li class="trailer_stat duration">1:34</li>                                    <li class="trailer_stat count views">(276 views)</li>
+                                                                    </ul>
+                            </div>
+                            <div class="trailer_actions">
+                                <div class="action">
+                                                                            <span class="play_action"><span><a href="/movie/shame/trailers/3186636">play now</a></span></span>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                                                            <li class="trailer alt">
+                    <div class="trailer_wrap">
+                        <div class="trailer_title">
+                            <h3 class="trailer_title"><a href="/movie/sleeping-beauty/trailers/2953996">SLEEPING BEAUTY</a></h3>
+                                                            <div class="trailer_product_type">in Movies</div>
+                                                    </div>
+                        <div class="details">
+                            <div class="thumb video_thumb">
+                                <a href="/movie/sleeping-beauty/trailers/2953996" rel="nofollow">
+                                    <span class="play_button">Play Video</span>                                    <img src="http://content.internetvideoarchive.com/content/photos/7512/243919_041.jpg" alt="SLEEPING BEAUTY" />
+                                </a>
+                            </div>
+                            <div class="trailer_stats">
+                                <ul class="trailer_stats">
+                                    <li class="trailer_stat duration">1:30</li>                                    <li class="trailer_stat count views">(270 views)</li>
+                                                                    </ul>
+                            </div>
+                            <div class="trailer_actions">
+                                <div class="action">
+                                                                            <span class="play_action"><span><a href="/movie/sleeping-beauty/trailers/2953996">play now</a></span></span>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                                                            <li class="trailer">
+                    <div class="trailer_wrap">
+                        <div class="trailer_title">
+                            <h3 class="trailer_title"><a href="/movie/melancholia/trailers/2865735">MELANCHOLIA</a></h3>
+                                                            <div class="trailer_product_type">in Movies</div>
+                                                    </div>
+                        <div class="details">
+                            <div class="thumb video_thumb">
+                                <a href="/movie/melancholia/trailers/2865735" rel="nofollow">
+                                    <span class="play_button">Play Video</span>                                    <img src="http://content.internetvideoarchive.com/content/photos/6876/51626051.jpg" alt="MELANCHOLIA" />
+                                </a>
+                            </div>
+                            <div class="trailer_stats">
+                                <ul class="trailer_stats">
+                                    <li class="trailer_stat duration">2:13</li>                                    <li class="trailer_stat count views">(179 views)</li>
+                                                                    </ul>
+                            </div>
+                            <div class="trailer_actions">
+                                <div class="action">
+                                                                            <span class="play_action"><span><a href="/movie/melancholia/trailers/2865735">play now</a></span></span>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                                    </ul>
+    </div>
+	    <div class="foot">
+        <div class="foot_wrap">
+                    <div class="more">
+                <span class="more_item"><a href="/browse/movies/trailers/date">See all trailers &raquo;</a></span>
+            </div>
+                </div>
+    </div>
+</div>
+                </div>
+                    </div>
+    </div>
+        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>    <div id="mastfoot">
+        <div id="site_footer" class="mastfoot_section">
+    <div class="mastfoot_wrap">
+		    <div class="links about_metacritic_nav">
+                                                                                    <ul class="links about_metacritic_nav">
+                                                    <li class="link_item link_help first_link">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a rel="popup:custhelp" class="help" href="https://metacritic.custhelp.com ">
+                                <span class="link_text">Help</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_terms_of_use">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="terms_of_use" href="http://cbsitou.custhelp.com/app/answers/detail/a_id/1320/ ">
+                                <span class="link_text">Terms of Use</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_about_metacritic">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="about_metacritic" href="/about-metacritic">
+                                <span class="link_text">About</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_advertise_on_metacritic last_link">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="advertise_on_metacritic" href="http://www.cbsinteractive.com/brand_pdfs/Metacritic_brand-one-sheet.pdf?tag=brands_list;brand_metacritic">
+                                <span class="link_text">Advertise on Metacritic</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                            </ul>
+                        </div>
+				
+		<div id="providers">
+	<a href="http://www.allmusic.com">Music title data, credits, and images provided by <span>AMG</span></a>  
+	|  <a href="http://www.imdb.com">Movie title data, credits, and poster art provided by <span>IMDb</span></a> 
+	|  <a href="http://www.internetvideoarchive.com">Video and Images provided by <span>IVA</span></a>
+</div>
+		<div class="soc_med_gms">
+		<div class="page_title"><h1>Metacritic - Movie Reviews, TV Reviews, Game Reviews, and Music Reviews</h1></div>
+		
+		    <div class="links gms_sites_nav">
+                                                                                                                    <div class="link_item link_gamespot">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="gamespot" href="http://www.gamespot.com">
+                                <span class="link_text">GameSpot.com</span>
+                            </a>
+                                            </span>
+                </span>
+            </div>
+                        </div>
+		    <div class="links social_media_nav">
+        <div class="links_label">Metacritic on:</div>                                                                            <ul class="links social_media_nav">
+                                                    <li class="link_item link_twitter first_link">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="twitter" href="http://twitter.com/metacritic">
+                                <span class="link_text">Twitter</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_facebook last_link">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="facebook" href="http://www.facebook.com/Metacritic">
+                                <span class="link_text">Facebook</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                            </ul>
+                        </div>
+		</div>
+		
+		    <div class="links site_nav">
+                                                                                    <ul class="links site_nav">
+                                                    <li class="link_item link_movies first_link">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="movies" href="/movies">
+                                <span class="link_text">Movies</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_tv">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="tv" href="/tv-shows">
+                                <span class="link_text">TV</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_music">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="music" href="/albums">
+                                <span class="link_text">Music</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_ps3">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="ps3" href="/games/playstation-3">
+                                <span class="link_text">PS3</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_xbox360">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="xbox360" href="/games/xbox-360">
+                                <span class="link_text">Xbox360</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_wii">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="wii" href="/games/wii">
+                                <span class="link_text">Wii</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_ds">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="ds" href="/games/ds">
+                                <span class="link_text">DS</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_3ds">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="3ds" href="/games/3ds">
+                                <span class="link_text">3DS</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_psp">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="psp" href="/games/psp">
+                                <span class="link_text">PSP</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_pc">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="pc" href="/games/pc">
+                                <span class="link_text">PC</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_ios">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="ios" href="/games/ios">
+                                <span class="link_text">iOS</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_features">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="features" href="http://features.metacritic.com/features">
+                                <span class="link_text">Reports</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_rss_feeds last_link">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="rss_feeds" href="/rss">
+                                <span class="link_text">RSS Feeds</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                            </ul>
+                        </div>
+    </div>
+</div>        <div id="corporate_footer" class="mastfoot_section">
+    <div class="mastfoot_wrap">
+                    <div id="cbs_related_sites" class="related_sites">
+                <div class="label">Visit other CBS Interactive Sites</div>
+                <ul class="related_sites">
+                                            <li class="related_site first_related_site"><a href="http://www.bnet.com">BNET</a></li>
+                                            <li class="related_site"><a href="http://www.cbscares.com">CBS Cares</a></li>
+                                            <li class="related_site"><a href="http://www.cbssports.com/cbscollegesports/">CBS College Sports</a></li>
+                                            <li class="related_site"><a href="http://www.cbsfilms.com">CBS Films</a></li>
+                                            <li class="related_site"><a href="http://www.cbsradio.com/streaming/index.html">CBS Radio</a></li>
+                                            <li class="related_site"><a href="http://www.cbs.com">CBS.com</a></li>
+                                            <li class="related_site"><a href="http://www.cbsinteractive.com">CBSInteractive</a></li>
+                                            <li class="related_site"><a href="http://www.cbsnews.com">CBSNews.com</a></li>
+                                            <li class="related_site"><a href="http://www.cbssports.com">CBSSports.com</a></li>
+                                            <li class="related_site"><a href="http://www.chow.com">CHOW</a></li>
+                                            <li class="related_site"><a href="http://www.cnet.com">CNET</a></li>
+                                            <li class="related_site"><a href="http://findarticles.com">Find Articles</a></li>
+                                            <li class="related_site"><a href="http://www.gamespot.com">GameSpot</a></li>
+                                            <li class="related_site"><a href="http://www.help.com">Help.com</a></li>
+                                            <li class="related_site"><a href="http://www.last.fm">Last.fm</a></li>
+                                            <li class="related_site"><a href="http://www.maxpreps.com">MaxPreps</a></li>
+                                            <li class="related_site"><a href="http://www.metacritic.com">Metacritic.com</a></li>
+                                            <li class="related_site"><a href="http://moneywatch.bnet.com">Moneywatch</a></li>
+                                            <li class="related_site"><a href="http://www.movietome.com">MovieTome</a></li>
+                                            <li class="related_site"><a href="http://www.mp3.com">MP3.com</a></li>
+                                            <li class="related_site"><a href="http://www.mysimon.com">mySimon</a></li>
+                                            <li class="related_site"><a href="http://www.ncaa.com">NCAA</a></li>
+                                            <li class="related_site"><a href="http://www.radio.com">Radio.com</a></li>
+                                            <li class="related_site"><a href="http://www.search.com">Search.com</a></li>
+                                            <li class="related_site"><a href="http://www.shopper.com">Shopper.com</a></li>
+                                            <li class="related_site"><a href="http://www.sho.com">Showtime</a></li>
+                                            <li class="related_site"><a href="http://www.smartplanet.com">SmartPlanet</a></li>
+                                            <li class="related_site"><a href="http://www.techrepublic.com">TechRepublic</a></li>
+                                            <li class="related_site"><a href="http://www.theinsider.com">The Insider</a></li>
+                                            <li class="related_site"><a href="http://www.tv.com">TV.com</a></li>
+                                            <li class="related_site"><a href="http://www.urbanbaby.com">UrbanBaby.com</a></li>
+                                            <li class="related_site last_related_site"><a href="http://www.zdnet.com">ZDNet</a></li>
+                                    </ul>
+            </div>
+            <form id="cbs_related_sites_form" class="related_sites off" action="">
+                <fieldset>
+                    <legend>Other CBS Interactive Sites</legend>
+                    <label for="cbsi_footer_menu">Visit other CBS Interactive Sites</label>
+                    <select id="cbsi_footer_menu">
+                        <option value="">Select Site</option>
+                                                    <option value="http://www.bnet.com">BNET</option>
+                                                    <option value="http://www.cbscares.com">CBS Cares</option>
+                                                    <option value="http://www.cbssports.com/cbscollegesports/">CBS College Sports</option>
+                                                    <option value="http://www.cbsfilms.com">CBS Films</option>
+                                                    <option value="http://www.cbsradio.com/streaming/index.html">CBS Radio</option>
+                                                    <option value="http://www.cbs.com">CBS.com</option>
+                                                    <option value="http://www.cbsinteractive.com">CBSInteractive</option>
+                                                    <option value="http://www.cbsnews.com">CBSNews.com</option>
+                                                    <option value="http://www.cbssports.com">CBSSports.com</option>
+                                                    <option value="http://www.chow.com">CHOW</option>
+                                                    <option value="http://www.cnet.com">CNET</option>
+                                                    <option value="http://findarticles.com">Find Articles</option>
+                                                    <option value="http://www.gamespot.com">GameSpot</option>
+                                                    <option value="http://www.help.com">Help.com</option>
+                                                    <option value="http://www.last.fm">Last.fm</option>
+                                                    <option value="http://www.maxpreps.com">MaxPreps</option>
+                                                    <option value="http://www.metacritic.com">Metacritic.com</option>
+                                                    <option value="http://moneywatch.bnet.com">Moneywatch</option>
+                                                    <option value="http://www.movietome.com">MovieTome</option>
+                                                    <option value="http://www.mp3.com">MP3.com</option>
+                                                    <option value="http://www.mysimon.com">mySimon</option>
+                                                    <option value="http://www.ncaa.com">NCAA</option>
+                                                    <option value="http://www.radio.com">Radio.com</option>
+                                                    <option value="http://www.search.com">Search.com</option>
+                                                    <option value="http://www.shopper.com">Shopper.com</option>
+                                                    <option value="http://www.sho.com">Showtime</option>
+                                                    <option value="http://www.smartplanet.com">SmartPlanet</option>
+                                                    <option value="http://www.techrepublic.com">TechRepublic</option>
+                                                    <option value="http://www.theinsider.com">The Insider</option>
+                                                    <option value="http://www.tv.com">TV.com</option>
+                                                    <option value="http://www.urbanbaby.com">UrbanBaby.com</option>
+                                                    <option value="http://www.zdnet.com">ZDNet</option>
+                                            </select>
+                    <input type="button" value="Go" />
+                </fieldset>
+            </form>
+            <script type="text/javascript">
+                $('cbs_related_sites').addClass('off');
+                $('cbs_related_sites_form').removeClass('off');
+            </script>
+                <div class="about_cbs">
+            <p>
+                <a class="first" href="http://www.cbsinteractive.com">About CBS Interactive</a>
+                | <a href="http://www.cbsinteractive.com/careers/">Jobs</a>
+                | <a href="http://www.cbsinteractive.com/advertise/">Advertise</a>
+            </p>
+            <p>
+                &copy; 2011 CBS Interactive Inc. All rights reserved.
+                | <a href="http://legalterms.cbsinteractive.com/privacy">Privacy Policy (UPDATED)</a>
+                | <a href="http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1272/">Ad Choice</a>
+                | <a href="http://www.cbsinteractive.com/terms_of_use.php">Terms of Use</a>
+            </p>
+        </div>
+    </div>
+</div>    </div>
+</div>
+
+
+<div id="site_scripts" class="dw_tracking">
+    <script type="text/javascript">
+    //<!--
+        Asset.javascripts(["http:\/\/img2.gamespotcdn.com\/metacritic\/public\/www\/js\/global\/init.min.js?1291857691","http:\/\/img1.gamespotcdn.com\/metacritic\/public\/www\/js\/frontdoor\/carousel.min.js?1300828079"]);
+        Asset.javascript('http://dw.com.com/js/dw.js', {
+            onload: function() {
+                DW.pageParams = siteDW.pageParams;
+                DW.regSilo = siteDW.regSilo;
+                DW.clear();
+            }
+        });
+                                            var cbsiAdGlobal = {'SITE' : '50','NCAT' : '1:','PTYPE' : '2000'};
+        Asset.javascript('http://i.i.com.com/cnwk.1d/Ads/common/manta/adFunctionsD-metacritic.js', {
+            onLoad: function() {
+                cbsiRegisterAdGlobals(cbsiAdGlobal);
+                cbsiAdBehavioralSetup();
+                cbsiAdBehavioral();
+
+            }
+        });
+        var cbsiApexGlobal = {'SITE': '50','NODE': '1','PTYPE': '2000'};
+        Asset.javascript('http://i.i.com.com/cnwk.1d/Aud/javascript/apex.js', {
+            onLoad: function() {
+                cbsiLoadOffer(cbsiApexGlobal,1000);
+            }
+        });
+    //-->
+    </script>
+
+    </div>
+
+</body>
+</html>

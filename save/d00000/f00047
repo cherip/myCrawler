@@ -1,0 +1,1779 @@
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>经理人网 — CEO、总裁阶层的企业管理资讯首选平台，《经理人》杂志官方网站</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="为CEO、经理人和老板，介绍企业管理、领导力和人力资源等内容。致力于引导CEO和经理人实现卓越管理，是企业管理者掌握最新管理思想、经验和相互交流的有益平台。"/>
+    <meta name="Keywords" content="CEO,经理人,管理"/>
+    <link href="css/global1.css" rel="stylesheet" type="text/css" />
+    <link href="css/index.css" rel="stylesheet" type="text/css" />
+    <link href="css/jscss.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="js/lab.js" >
+    </script>
+         <script type="text/javascript" language="javascript">
+             function divonmouseover(a) {
+                 if (a == 1) {
+                     document.getElementById("zxhy").style.display = "block";
+                     document.getElementById("zxzh").style.display = "none";
+                     document.getElementById("zxpx").style.display = "none";
+                     document.getElementById("zxhydiv").className = "text";
+                     document.getElementById("zxzhdiv").className = "text2";
+                     document.getElementById("zxpxdiv").className = "text2";
+                 }
+                 else if (a == 2) {
+                     document.getElementById("zxhy").style.display = "none";
+                     document.getElementById("zxzh").style.display = "block";
+                     document.getElementById("zxpx").style.display = "none";
+                     document.getElementById("zxhydiv").className = "text2";
+                     document.getElementById("zxzhdiv").className = "text";
+                     document.getElementById("zxpxdiv").className = "text2";
+                 }
+                 else if (a == 3) {
+                     document.getElementById("zxhy").style.display = "none";
+                     document.getElementById("zxzh").style.display = "none";
+                     document.getElementById("zxpx").style.display = "block";
+                     document.getElementById("zxhydiv").className = "text2";
+                     document.getElementById("zxzhdiv").className = "text2";
+                     document.getElementById("zxpxdiv").className = "text";
+                 }
+
+             }
+             function hidead() {
+                 document.getElementById("divMenu").style.display = "none";
+             }
+    </script>
+     <script type="text/javascript" language="javascript">
+     function qk() {
+         var txt = document.getElementById('TextBox1').value;
+     if (txt == "请输入电子邮箱") {
+         document.getElementById('TextBox1').value = "";
+     }
+
+ }
+ </script>
+     <script type="text/javascript" language="javascript">
+         function Load() {
+             var url = "";
+             url = top.window.location.href.toLowerCase();
+             var str1 = new Array("dy.sino-manager.com",
+                "ukp.sino-manager.com",
+                "bossway.sino-manager.com",
+                "www.gsjr.net",
+                "www.sino-manager.com/u/langxianping",
+                "www.jlrhd.com",
+                "www.jlrhd.net",
+                "www.jlrhd.cn",
+                "www.活动频道.com",
+                "www.woohd.com",
+                "www.woohd.net",
+                "www.woohd.cn",
+                "neikan.sino-manager.com");
+             var str2 = new Array("http://www.sino-manager.com/order/order_1.aspx",
+              "http://www.sino-manager.com/business/ukp/",
+              "http://www.sino-manager.com/bossway/",
+              "http://www.sino-manager.com/business/financial/",
+              "http://www.sino-manager.com/u/langxianping.html",
+              "http://www.jlrhd.com",
+              "http://www.jlrhd.net",
+              "http://www.jlrhd.cn",
+              "http://www.活动频道.com",
+              "http://www.woohd.com",
+              "http://www.woohd.net",
+              "http://www.woohd.cn",
+              "http://www.sino-manager.com/business/neikan/");
+             for (var i = 0; i < str1.length; i++) {
+                 if (url == str1[i].toLowerCase() + "/" || url == "http://" + str1[i].toLowerCase() + "/") {
+                     this.location = str2[i].toLowerCase();
+                     this.location.search;
+                 }
+             }
+            
+//             GetCookie();
+//             var id = "1"
+             var tmp = GetCookie('key1');
+             if (tmp) {
+                 var Panel = document.getElementById("Panel1");
+                 Panel.style.display = "none";
+             }
+             else {
+                 var id = "1"
+//                 var str = "key1=" + escape(id);
+//                 var dd = new Date();
+//                 dd.setDate(dd.getDate() + 1); //获取明天 
+//                 var y = dd.getYear();
+//                 var m = dd.getMonth() + 1; //获取当前月份的日期
+//                 var d = dd.getDate();
+//                 date = new Date(y + '-' + m + '-' + d + ' 00:00:00');
+//                 date.setTime(date.getTime()); //明天的0:00:00
+//                 str += ";expires=" + date.toGMTString();
+//                 alert(str);
+                 document.cookie = "key1=" + escape(id);
+
+             }
+
+         }
+         
+         function GetCookie(Name) {
+             var search = Name + "="
+             var Cookie = document.cookie;
+             if (Cookie.length <= 0 || Cookie.indexOf(search) == -1) return 0;
+             else {
+                 var tmp = Cookie.split(search)[1].split(";")[0]
+                 return unescape(tmp)
+             }
+         }
+
+
+
+         window.onload = Load; 
+    </script>
+
+</head>
+<body>
+    
+    <form name="Form1" method="post" action="Default.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQzMDg1MzQ2N2RkFSOPdLlxDjMaAIwBmNrVWKWhROE=" />
+
+   
+    <!--浮动图片-->
+    <!--右边浮动图片-->
+	
+    
+
+    <!--浮动图片结束-->
+    <!--头部-->
+    <div id="content">
+        <!--顶部广告-->
+        <!--******************nav*****************************-->
+        
+<!--头部--><DIV id=content>
+            
+        <!--顶部广告-->
+        <div class="ad">
+            <a href="http://www.vipabc.com/count.asp?code=cfOqnY3IHL" target="_blank"><img src="/Uploads/201111076265.gif" width="965" border="0" /></a></div>
+        <!--******************nav*****************************-->
+        <div id="nav">
+            <div class="logo">
+                <a href="http://www.sino-manager.com/">
+                    <img src='/Images/logo.gif' width="150" height="68" border="0" alt="经理人网" /></a></div>
+            <div class="menu" style="margin-left:10px; width:780px;">
+                <div class="M-title">
+              <a href="http://www.sino-manager.com/" target="_blank">资讯</a></div>
+                <div class="M-list" style="width:214px;">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td width="" align="left">
+                                <a href="http://www.sino-manager.com/qygl/" target="_blank">企业战略</a>                            </td>
+                            <td align="left" valign="middle">
+                                <img src='/Images/menu_line.gif' />
+                          </td>
+                            <td width="" align="left" style="padding-left:10px;">
+                                <a href="http://www.sino-manager.com/ldl/" target="_blank">
+                              领 导 力</a>                            </td>
+                            <td align="left">
+                                <img src='/Images/menu_line.gif' />
+                          </td>
+                            <td align="left" style="padding-left:10px;">
+                                <a href="http://www.sino-manager.com/rlzy/" target="_blank">人力资源</a>                             </td>
+                        </tr>
+                        <tr>
+                            <td align="left">
+                                <a href="http://www.sino-manager.com/yxsc/" target="_blank">市场营销</a></td>
+                            <td align="left" valign="middle">
+                                <img src='/Images/menu_line.gif' />
+                          </td>
+                            <td align="left" style="padding-left:10px;">
+                                <a href="http://www.sino-manager.com/rzzc/" target="_blank">
+                              职场管理</a>                            </td>
+                            <td align="left">
+                                <img src='/Images/menu_line.gif' />
+                          </td>
+                            <td align="left" style="padding-left:10px;">
+                                <a href="http://www.sino-manager.com/tab_162.html" target="_blank">
+                                尚品生活</a>                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left">
+                                <a href="http://www.sino-manager.com/lxrw/" target="_blank">CEO阅读</a>                            </td>
+                            <td align="left" valign="middle">
+                                <img src='/Images/menu_line.gif' />
+                          </td>
+                            <td align="left" style="padding-left:10px;">
+                                <a href="http://www.sino-manager.com/txzk/" target="_blank">
+                              天下智库</a>                            </td>
+                            <td align="left">
+                                <img src='/Images/menu_line.gif' />
+                          </td>
+                            <td align="left" style="padding-left:10px;">
+                                <a href="http://www.sino-manager.com/tab_387.html" target="_blank">
+                                公司金融</a>                            </td>
+                        </tr>
+                    </table>
+              </div>
+                <div class="M-title">
+                    <a href="http://www.woohd.com/" target="_blank">活动</a></div>
+                <div class="M-list" style="width:150px;">
+					  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td align="left"><a href="http://www.woohd.com/meeting" target="_blank">最新会议</a></td>
+                          <td width="2" align="left"><img src='/Images/menu_line.gif' /></td>
+                          <td align="left" style="padding-left:10px;"><a href="http://www.woohd.com/Infolist.aspx?tid=69" target="_blank">活动新闻</a></td>
+                        </tr>
+                        <tr>
+                          <td align="left"><a href="http://www.woohd.com/exhibition" target="_blank">最新展会</a></td>
+                          <td align="left"><img src='/Images/menu_line.gif' /></td>
+                          <td align="left" style="padding-left:10px;"><a href="http://www.woohd.com/Infolist.aspx?tid=113" target="_blank">精彩视频</a></td>
+                        </tr>
+                        <tr>
+                          <td align="left"><a href="http://www.woohd.com/training" target="_blank">培训课程</a></td>
+                          <td align="left"><img src='/Images/menu_line.gif' /></td>
+                          <td align="left" style="padding-left:10px;"><a href="http://www.woohd.com/shhd" target="_blank">休闲活动</a></td>
+                        </tr>
+                      </table>
+			    </div>
+                   <div class="M-title">系列</div>
+                <div class="M-list" style="width:190px;">
+					  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td align="left"><a href="http://www.sino-manager.com/Pages/Interface/Synchronization.aspx" title="《经理人》杂志"  target="_blank" style="color:#b00;">
+                                    <strong>电子杂志</strong></a></td>
+                          <td align="left"><img src='/Images/menu_line.gif' /></td>
+                          <td align="left" style="padding-left:10px;"><a href="http://www.sino-manager.com/Pages/Interactive/suoyue.aspx" title="免费索阅" target = _blank>
+                                        免费索阅</a></td>
+                        </tr>
+                        <tr>
+                          <td align="left"><a href="http://www.sino-manager.com/business/financial/default.aspx" title="《公司金融》杂志" target = _blank>
+                                        《公司金融》</a></td>
+                          <td align="left"><img src='/Images/menu_line.gif' /></td>
+                          <td align="left" style="padding-left:10px;"><a href="http://www.sino-manager.com/business/neikan/" title="企业服务中心" target = _blank>
+                                        企业服务中心</a></td>
+                        </tr>
+                        <tr>
+                          <td align="left"><a href="http://www.sino-manager.com/bossway/ceoforums.aspx" title="中国CEO年会" target = _blank>
+                                        中国CEO年会</a></td>
+                          <td align="left"><img src='/Images/menu_line.gif' /></td>
+                          <td align="left" style="padding-left:10px;"><a href="http://www.mfceo.com/" title="经理人行知格" target = _blank>经理人行知格</a></td>
+                        </tr>
+                      </table>
+				  </div>
+                  <div class="M-list" style="width:130px;">
+					  <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                        <tr>
+                          <td colspan="3" align="center" bgcolor="#ececec"><a href="http://www.sino-manager.com/member/center/" target="_blank" style="color:#b00;"><strong>会员专区</strong></a></td>
+                        </tr>
+                        <tr>
+                          <td align="center"><a href="http://www.sino-manager.com/member/center/" target="_blank">会员中心</a></td>
+                          <td align="center"><img src='/Images/menu_line.gif' /></td>
+                          <td align="center"><a href="http://www.sino-manager.com/member/center/dzkan.aspx" target="_blank">订阅E刊</a></td>
+                        </tr>
+                        <tr>
+                          <td align="center"><a href="http://www.woohd.com" target="_blank">参与活动</a></td>
+                          <td align="center"><img src='/Images/menu_line.gif' /></td>
+                          <td align="center"><a href="http://www.sino-manager.com/member/center/Exchange.aspx" target="_blank">兑换礼品</a></td>
+                        </tr>
+                      </table>
+				  </div>
+            </div>
+        </div>
+        <!--头部结束-->
+    <link rel="alternate" type="application/rss+xml" title="每日最新" href="http://Sino-manager.feedsportal.com/c/33821/f/608928/index.rss"/>
+    <link rel="alternate" type="application/rss+xml" title="最新活动" href="http://Sino-manager.feedsportal.com/c/33821/f/608929/index.rss"/>
+    <link rel="alternate" type="application/rss+xml" title="企业管理" href="http://Sino-manager.feedsportal.com/c/33821/f/608930/index.rss"/>
+    <link rel="alternate" type="application/rss+xml" title="领导力"   href="http://Sino-manager.feedsportal.com/c/33821/f/608931/index.rss"/>
+    <link rel="alternate" type="application/rss+xml" title="市场营销" href="http://Sino-manager.feedsportal.com/c/33821/f/608932/index.rss"/>
+    <link rel="alternate" type="application/rss+xml" title="人力资源" href="http://Sino-manager.feedsportal.com/c/33821/f/608933/index.rss"/>
+    <link rel="alternate" type="application/rss+xml" title="人在职场" href="http://Sino-manager.feedsportal.com/c/33821/f/608934/index.rss"/>
+    <link rel="alternate" type="application/rss+xml" title="尚品生活" href="http://Sino-manager.feedsportal.com/c/33821/f/608935/index.rss"/>
+    <link rel="alternate" type="application/rss+xml" title="领袖人物" href="http://Sino-manager.feedsportal.com/c/33821/f/608936/index.rss"/>
+    <link rel="alternate" type="application/rss+xml" title="商业观察" href="http://Sino-manager.feedsportal.com/c/33821/f/608937/index.rss"/>
+    <link rel="alternate" type="application/rss+xml" title="专栏作家" href="http://Sino-manager.feedsportal.com/c/33821/f/608938/index.rss"/>
+        <!--头部结束-->
+        <!--搜索-->
+  <div class="search">
+            <div class="search_right">
+            </div>
+            <div class="search_left">
+            </div>
+            <div  class="login"><iframe src="IfLogin.aspx" allowtransparency="true" style="background-color:transparent" frameborder="0" scrolling="no" width="500px" height="27px"></iframe></div>
+            <div class="search_con">
+                全站搜索
+                <input name="txtKeywords" type="text" maxlength="50" id="txtKeywords" size="35" onkeydown="if ((event.which &amp;&amp; event.which == 13) || (event.keyCode &amp;&amp; event.keyCode == 13)) {document.forms[0].elements['btnSearch'].click();return false;} else return true; " style="height: 16px; border: 1px solid #ccc;" />
+                <input type="submit" name="btnSearch" value="搜 索" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;btnSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="btnSearch" class="login_btn" /><a href="http://www.sino-manager.com/rss.aspx"><img src="Images/rss_icon5.gif" width="45" height="18" align="absmiddle" /></a>
+            </div>
+      </div>
+        <div id="bodyContent" style="position: relative">
+            <!--搜索--->
+            <div class="clearkuang">
+                <div class="leftkuang">
+                    <div class="topnews_top">
+                        <img src="/images/topNews_top.gif" /></div>
+                    <div class="topnews_con">
+                        <div class="toppics">
+                            
+                            
+            <TABLE cellSpacing=0 cellPadding=0 width=310 align=left border=0>
+			 <TBODY>
+              <TR>
+                <TD width=310>
+                  <div id=fc style="FILTER: progid:DXImageTransform.Microsoft.Fade ( duration=0.5,overlap=1.0 ); WIDTH: 310px; HEIGHT: 190px">
+                    <div styl classe="DISPLAY: block"><!-- 图1 -->
+				    <a href='/20111130_28484.html' target=_blank>
+				      <IMG onmouseover=clearAuto(); 
+				      style="BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid" 
+                      onmouseout=setAuto() height=190 src="/Uploads/201111304918.jpg" width=310 border=0></A></DIV>
+                      <DIV style="DISPLAY: none"><!-- 图2 -->
+				      <A href='/20111122_28249.html' target=_blank>
+				      <IMG onmouseover=clearAuto(); 
+				      style="BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid" 
+                      onmouseout=setAuto() height=190 src='/Uploads/201111225195.jpg' width=310 border=0></A></DIV>
+                  <DIV style="DISPLAY: none"><!-- 图3 -->
+				      <A href='http://www.sino-manager.com/20111118_28165.html' target=_blank>
+				      <IMG onmouseover=clearAuto(); 
+				      style="BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid" 
+                      onmouseout=setAuto() height=190 src='/Uploads/201111185896.jpg' width=310 border=0></A></DIV>
+                      <DIV style="DISPLAY: none"><!-- 图4 -->
+				      <A href='http://www.sino-manager.com/20111111_27916.html' target=_blank>
+				      <IMG onmouseover=clearAuto(); 
+                      style="BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid" 
+                      onmouseout=setAuto() height=190 src='/Uploads/201111116418.jpg' width=310 border=0></A></DIV>
+                      <DIV style="DISPLAY: none"><!-- 图5 -->
+				      <A href='http://www.sino-manager.com/zt/2011EMBA/' target=_blank>
+				      <IMG onmouseover=clearAuto(); 
+                      style="BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid" 
+                      onmouseout=setAuto() height=190 src='/Uploads/201110264099.jpg' width=310 border=0></A></DIV>
+                      <DIV style="DISPLAY: none"><!-- 图6 -->
+				      <A href='/20111025_27409.html' target=_blank>
+				      <IMG onmouseover=clearAuto(); 
+                      style="BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid" 
+                      onmouseout=setAuto() height=190 src='/Uploads/201110269621.jpg' width=310 border=0></A></DIV>
+				  </DIV>
+				</TD>
+			  </TR>
+              <TR>
+                <TD height=26>
+                  <TABLE cellSpacing=0 cellPadding=0 width=310 align=center 
+                  border=0>
+                    <TBODY>
+                    <TR>
+                      <TD onmouseover=clearAuto(); onmouseout=setAuto() align=middle width="227">
+                        <DIV id="con" class="indexImageShow">
+							<DIV style="DISPLAY: block"><!-- 图1 -->
+							<A style="FONT-SIZE: 14px" href='/20111130_28484.html' target="_blank">2011年12月号《经理人》杂志预告</A>
+							</DIV>
+							<DIV style="DISPLAY: none"><!-- 图2 -->
+							<A style="FONT-SIZE: 14px" href='/20111122_28249.html' target=_blank>揭秘中国最高级别的人才计划</A>
+							</DIV>
+							<DIV style="DISPLAY: none"><!-- 图3 -->
+							<A style="FONT-SIZE: 14px" href='http://www.sino-manager.com/20111118_28165.html' target=_blank>刀锋战士 线条犀利车型盘点</A>
+							</DIV>
+							<DIV style="DISPLAY: none"><!-- 图4 -->
+							<A style="FONT-SIZE: 14px" href='http://www.sino-manager.com/20111111_27916.html' target=_blank>北欧风尚——帆船蓝血人</A>
+							</DIV>
+							
+						</DIV>
+					  </TD>
+                      <TD width="83">
+                        <TABLE class=lhn id=num cellSpacing=3 cellPadding=0 align=right border=0>
+                          <TBODY>
+                          <TR>
+                            <TD class=bigon onmouseover=clearAuto(); style="CURSOR: pointer" onclick=Mea(0); 
+                            onmouseout=setAuto() align=middle width=15 background="" height=15>1</TD>
+                            <TD class=bigoff onmouseover=clearAuto(); style="CURSOR: pointer" onclick=Mea(1); 
+                            onmouseout=setAuto() align=middle width=15 background="">2</TD>
+                            <TD class=bigoff onmouseover=clearAuto(); style="CURSOR: pointer" onclick=Mea(2); 
+                            onmouseout=setAuto() align=middle width=15 background="">3</TD>
+                            <TD class=bigoff onmouseover=clearAuto(); style="CURSOR: pointer" onclick=Mea(3); 
+                            onmouseout=setAuto() align=middle width=15 background="">4</TD>
+                            
+						 </TR>
+						 </TBODY>
+					  </TABLE>
+					 </TD>
+					</TR>
+				</TBODY>
+				</TABLE>
+				</TD>
+				</TR>
+				</TBODY>
+				</TABLE>
+<SCRIPT> 
+var n=0;
+var showNum = document.getElementById("num");
+function Mea(value){
+	n=value;
+	setBg(value);
+	plays(value);
+	cons(value);
+	}
+function setBg(value){
+	for(var i=0;i<4;i++)
+   if(value==i){
+		showNum.getElementsByTagName("td")[i].className='bigon';
+		} 
+	else{	
+		showNum.getElementsByTagName("td")[i].className='bigoff';
+		}  
+	} 
+function plays(value){
+	try
+	{
+		with (fc)
+		{
+			filters[0].Apply();
+			for(i=0;i<4;i++)i==value?children[i].style.display="block":children[i].style.display="none"; 
+			filters[0].play(); 
+		}
+	}
+	catch(e)
+	{
+		var divlist = document.getElementById("fc").getElementsByTagName("div");
+		for(i=0;i<4;i++)
+		{
+			i==value?divlist[i].style.display="block":divlist[i].style.display="none";
+		}
+	}
+
+	
+}
+function cons(value){
+	try
+	{
+		with (con)
+		{
+				for(i=0;i<4;i++)i==value?children[i].style.display="block":children[i].style.display="none"; 		
+		}
+	}
+	catch(e)
+	{
+		var divlist = document.getElementById("con").getElementsByTagName("div");
+		for(i=0;i<4;i++)
+		{
+			i==value?divlist[i].style.display="block":divlist[i].style.display="none";
+		}		
+	}
+}
+
+function clearAuto(){clearInterval(autoStart)}
+function setAuto(){autoStart=setInterval("auto(n)", 5000)}
+function auto(){
+	n++;
+	if(n>3)n=0;
+	Mea(n);
+} 
+function sub(){
+	n--;
+	if(n<0)n=1;
+	Mea(n);
+} 
+setAuto(); 
+
+</SCRIPT>
+
+                            <br class="clear" />
+                            <div class="tonews"><a href="http://www.sino-manager.com:8080/magazine/" target="_blank"><strong>
+                                电子杂志</strong></a> <strong><a href="http://www.woohd.com/ActiveList.aspx?tid=0&key=&indu=0&city=0&date=2&cost=0" target="_blank">本周活动</a></strong> <strong><a href="http://www.sino-manager.com/tab_484.html" target="_blank">经理人手机报</a></strong></div> 
+                        </div>
+                        <div class="topnews_right">
+                            <div class="topnews">
+                            
+                            <div class='title' style="margin: 5px 0 10px 0;">
+                            <a href='http://www.sino-manager.com/2011121_28527.html'
+                                    style='' title='“铁娘子”默克尔：学术性管理风格' target="_blank">
+                                    “铁娘子”默克尔：学术性管理风格</a>
+                              </div><div class='con'>
+                                    不同于那些高调、富有煽动性并喜欢操控政治气候的政治家，默克尔不喜欢也不善于施展权术，她看上去更喜欢用学术讨论的方法对待政治。
+
+                            </div>
+                            
+                            </div>
+                            <div class="line">
+                            </div>
+                            <div class="topnews_list">
+                            <ul>
+                                 
+                                <li><a style="color:#b00; text-decoration:underline;" href='http://www.woohd.com/Pages/Survey/SurveyDetail.aspx?Wid=431&aid=8426' title='你看好马云杀入社交网络吗？'  target="_blank">
+                                    你看好马云杀入社交网络吗？</a></li>
+                                
+                                <li><a style="color:#b00; text-decoration:underline;" href='http://www.sinodm.cn/nyss11021/default.aspx' title='免费领补水套装和化妆包啦'  target="_blank">
+                                    <span class="font5">免费领补水套装和化妆包啦</span></a></li>
+                                
+                              </ul>
+                                <ul>
+                                 
+                                        <li><a href='http://www.sino-manager.com/2011122_28583.html'
+                                                style='' title='十件小事让你长寿又年轻' target="_blank">
+                                                十件小事让你长寿又年轻</a></li>
+                                        
+                                        <li><a href='http://www.sino-manager.com/2011122_28576.html'
+                                                style='' title='3个诀窍5点前离开办公室' target="_blank">
+                                                3个诀窍5点前离开办公室</a></li>
+                                        
+                                        <li><a href='http://www.sino-manager.com/2011121_28544.html'
+                                                style='color:red' title='一年76次收入，你一定不想错过' target="_blank">
+                                                一年76次收入，你一定不想</a></li>
+                                        
+                                        <li><a href='http://www.sino-manager.com/2011121_28533.html'
+                                                style='' title='黄铁鹰：我选总经理的八道题 ' target="_blank">
+                                                黄铁鹰：我选总经理的八道题</a></li>
+                                        
+                                        <li><a href='http://www.sino-manager.com/20111124_28342.html'
+                                                style='' title='洞悉领导的15种表情' target="_blank">
+                                                洞悉领导的15种表情</a></li>
+                                        
+                                        <li><a href='http://www.sino-manager.com/20111124_28338.html'
+                                                style='' title='最实用营销技巧70条' target="_blank">
+                                                最实用营销技巧70条</a></li>
+                                        
+                                        <li><a href='http://www.sino-manager.com/20111124_28332.html'
+                                                style='' title='团队活动如何玩的开心' target="_blank">
+                                                团队活动如何玩的开心</a></li>
+                                        
+                                        <li><a href='http://www.sino-manager.com/20111124_28330.html'
+                                                style='' title='古驰危机公关启示录' target="_blank">
+                                                古驰危机公关启示录</a></li>
+                                        
+                                </ul>
+                                
+                            </div>
+                    </div>
+                    </div>
+                    <div class="topnews_bottom">
+                        <img src="images/topNews_bottom.gif" width="758" height="4" /></div>
+                   
+                    <div class="tab left">
+                        <div class="tab_title">
+                            <div class="right">
+                            </div>
+                            <div class="text">
+                                <a href="http://www.sino-manager.com/lxrw/" target="_blank">
+                                  <img src="images/ceoyd.gif" width="64" height="16" alt="CEO阅读" /></a></div>
+                            <div class="text_right">
+                            </div>
+                            <div class="tab_keyword">
+                                <div id="PrepareSearchKeyWordsNew7_Panel1" class="tab_keywords">
+	
+    <a href='/search.aspx?keywords=%e5%b7%b4%e8%8f%b2%e7%89%b9' target="_blank">巴菲特</a><a href='/search.aspx?keywords=%e9%a9%ac%e5%88%a9%e5%85%8b' target="_blank">马利克</a><a href='/search.aspx?keywords=%e9%99%88%e6%99%93' target="_blank">陈晓</a><a href='/search.aspx?keywords=%e6%80%bb%e8%a3%81' target="_blank">总裁</a><a href='/search.aspx?keywords=CEO' target="_blank">CEO</a>
+
+</div>
+</div>
+                        </div>
+                        <div class="tab_border" style="height: 210px;">
+                                        
+                                        <div class="tab_topnews">
+			                            <span class="title"><a href='http://www.sino-manager.com/2011122_28597.html'
+                                                style='' title='李书福新思维：全球化下的企业道德' target="_blank">
+                            李书福新思维：全球化下的企业道德</a></span>
+                                                其实经济学家周其仁还是很懂李书福的，他知道李的语言系统中的一个关键词：全球化。
+
+                                        </div>
+                                        
+                                    <div class="newslist">
+			                            <ul>
+                                    
+                                        <li><a href="http://www.sino-manager.com/tabs_411.html"  target="_blank">CEO人物</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011122_28575.html'
+                                                style='' title='郭台铭：明年不裁员还要继续扩招' target="_blank">
+                                          郭台铭：明年不裁员还要继续扩招</a><img align="absmiddle" src="Images/icon_news.gif" /></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_156.html"  target="_blank">CEO阅读</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011122_28574.html'
+                                                style='' title='方舟子：李开复和唐骏性质不一样' target="_blank">
+                                          方舟子：李开复和唐骏性质不一样</a><img align="absmiddle" src="Images/icon_news.gif" /></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_411.html"  target="_blank">CEO人物</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011121_28539.html'
+                                                style='' title='李东生：中国企业需持续创新并国际化' target="_blank">
+                                          李东生：中国企业需持续创新并国际化</a></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_411.html"  target="_blank">CEO人物</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011121_28528.html'
+                                                style='' title='黄鸣：老一代民族资本家为什么能发家' target="_blank">
+                                          黄鸣：老一代民族资本家为什么能发家</a></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_411.html"  target="_blank">CEO人物</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011121_28520.html'
+                                                style='' title='任志强：市场化才能创造公平价格' target="_blank">
+                                          任志强：市场化才能创造公平价格</a></li>
+                                        
+                                        </ul></div>
+                        </div>
+                    </div>
+                   
+                      <div class="tab right">
+                       <div class="tab_title">
+                            <div class="right">
+                            </div>
+                            <div class="text" id="zxhydiv" ><a href="http://www.woohd.com/meeting" target="_blank"><img src="images/zxhy.gif" alt="最新会议" onmousemove="divonmouseover(1)"/></a></div>
+                            <div class="text2" id="zxzhdiv" ><a href="http://www.woohd.com/exhibition" target="_blank"><img src="images/zxzh.gif" alt="最新展会" onmousemove="divonmouseover(2)"/></a></div>
+                            <div class="text2" id="zxpxdiv" ><a href="http://www.woohd.com/training" target="_blank"><img src="images/zxpx.gif" alt="最新培训" onmousemove="divonmouseover(3)"/></a></div>
+                            
+                    </div>
+                        <div class="tab_border" style="height: 210px;" id="zxhy">                         
+                             
+                                <div class="tab_topnews" style="margin-bottom:5px;"><img src='http://www.woohd.com/Uploads/201110175890.gif' alt=""  target="_blank"/> <span class="title"><a href='http://www.woohd.com/20111017_8034.html' title='2011（第九届）中国互联网经济论坛' target="_blank">2011（第九届）中国互联网经济论坛</a>
+                                </span>
+                                本次大会将以"中国·英雄"为主线，突出互联网的中国机遇、CEO…<br />北京 2011-12-08
+                                </div>
+                              
+                                    <div class="newslist">
+			                            <ul>
+                                    
+                                <li><a href='http://www.woohd.com/20111124_8344.html' title='2011投资者论坛——寻找共识 '  target="_blank">北京 
+                                    | 2011投资者论坛——寻找共识  
+                                    | 12.09</a></li>
+                                
+                                <li><a href='http://www.woohd.com/20111124_8343.html' title='百年基业第六届领导力发展最佳实践分享年会'  target="_blank">北京 
+                                    | 百年基业第六届领导力发展最佳实践 
+                                    | 12.09</a></li>
+                                
+                                <li><a href='http://www.woohd.com/20111123_8326.html' title='第二届奢侈品创新峰会'  target="_blank">上海 
+                                    | 第二届奢侈品创新峰会 
+                                    | 01.11</a></li>
+                                
+                                <li><a href='http://www.woohd.com/20111118_8297.html' title='第三届中国(北京)人力资源博览会'  target="_blank">北京 
+                                    | 第三届中国(北京)人力资源博览会 
+                                    | 12.17</a></li>
+                                
+                                <li><a href='http://www.woohd.com/2011119_8213.html' title='清科第十一届股权投资论坛'  target="_blank">北京 
+                                    | 清科第十一届股权投资论坛 
+                                    | 12.07</a></li>
+                                
+                                        </ul>
+                          </div>
+                        </div>
+                        <div class="tab_border" style="height: 210px; display:none" id="zxzh">                           
+                             
+                                <div class="tab_topnews" style="margin-bottom:5px;"><img src='http://www.woohd.com/Uploads/201112023314.gif' alt=""  target="_blank"/> <span class="title"><a href='http://www.woohd.com/20111123_8337.html' title='第二十届中国（深圳）国际礼品、工艺品、钟表及家庭用品展览会' target="_blank">第二十届中国（深圳）国际礼品、工艺品</a>
+                                </span>
+                                中国礼品家居第一展对广大礼品、家庭用品、工艺品、玩具、箱包、…<br />深圳 2012-04-25
+                                </div>
+                              
+                                    <div class="newslist">
+			                            <ul>
+                                    
+                                <li><a href='http://www.woohd.com/20111123_8338.html' title='中国（深圳）孕婴童用品展览会'  target="_blank">深圳 
+                                    | 中国（深圳）孕婴童用品展览会 
+                                    | 09.21</a></li>
+                                
+                                <li><a href='http://www.woohd.com/20111123_8332.html' title='中国（上海）国际尚品家居及室内装饰展览会'  target="_blank">上海 
+                                    | 中国（上海）国际尚品家居及室内装 
+                                    | 06.13</a></li>
+                                
+                                <li><a href='http://www.woohd.com/20111123_8327.html' title=' 2012成都家居、休闲用品及礼品展览会'  target="_blank">成都 
+                                    |  2012成都家居、休闲用品及礼 
+                                    | 06.15</a></li>
+                                
+                                <li><a href='http://www.woohd.com/20111111_8247.html' title='第三届中国（北京）人力资源博览会'  target="_blank">北京 
+                                    | 第三届中国（北京）人力资源博览会 
+                                    | 12.17</a></li>
+                                
+                                <li><a href='http://www.woohd.com/20111029_8099.html' title='2012年中国(义乌)珠宝首饰及奢侈品展览会'  target="_blank">浙江 
+                                    | 2012年中国(义乌)珠宝首饰及 
+                                    | 01.01</a></li>
+                                
+                                        </ul>
+                          </div>
+                        </div>
+                                       
+                            <div class="tab_border" style="height: 210px; display:none" id="zxpx" >                            
+                             
+                                <div class="tab_topnews" style="margin-bottom:5px;"><img src='http://www.woohd.com/Uploads/201108172584.jpg' alt=""  target="_blank"/><span class="title"><a href='http://www.woohd.com/2011817_7448.html' title='2011“HRA Awards”人力资源评奖活动' target="_blank">2011“HRA Awards”人力</a>
+                                </span>
+                                为提升HR影响力，增加专业实践分享，对为人力资源行业发展做…<br />北京 2011-08-18
+                                </div>
+                              
+                                    <div class="newslist">
+			                            <ul>
+                                    
+                                <li><a href='http://www.woohd.com/20111124_8346.html' title='清华大学投融资与资本运作高级研修班'  target="_blank">北京 
+                                    | 清华大学投融资与资本运作高级研修 
+                                    | 12.23</a></li>
+                                
+                                <li><a href='http://www.woohd.com/20111117_8291.html' title='供应链管理与流程优化'  target="_blank">深圳 
+                                    | 供应链管理与流程优化 
+                                    | 12.15</a></li>
+                                
+                                <li><a href='http://www.woohd.com/20111110_8242.html' title='第21届全球领导力美国标杆学习之旅'  target="_blank">国外 
+                                    | 第21届全球领导力美国标杆学习之 
+                                    | 01.01</a></li>
+                                
+                                <li><a href='http://www.woohd.com/20111110_8239.html' title='卓越运营与原则评估'  target="_blank">上海 
+                                    | 卓越运营与原则评估 
+                                    | 12.07</a></li>
+                                
+                                <li><a href='http://www.woohd.com/2011115_8189.html' title='店长如何成为“二老板”特训营（第37－39期）'  target="_blank">上海 
+                                    | 店长如何成为“二老板”特训营（第 
+                                    | 12.08</a></li>
+                                
+                                        </ul>
+                              </div>
+                        </div>
+                    </div>
+                    
+                      
+                        
+                   <div class="left">
+                    
+                    <div class="tab">
+                        <div class="tab_title">
+                            <div class="right">
+                            </div>
+                            <div class="text">
+                                <a href="http://www.sino-manager.com/sygc/" target="_blank">
+                                  <img src="images/sygc.gif" width="64" height="16" alt="商业观察" /></a></div>
+                            <div class="text_right">
+                            </div>
+                            <div class="tab_keyword" style="text-align:right;">
+                                <a href="http://www.focussend.com">许可式邮件服务商focussend</a></div>
+                        </div>
+                        <div class="tab_border" style="height:190px;">
+                        <div id="focusPic3">  
+                                                           
+                                        <div class="tab_topnews">
+			                            <span class="title"><a href='http://www.sino-manager.com/2011121_28541.html'
+                                                style='' title='凡客创业元老离职背后：谜底到底是什么？' target="_blank">
+            凡客创业元老离职背后：谜底到底是什么？</a></span>
+                                                摆在凡客面前最大的难题是什么？扩张过快带来的成本压力？入不敷出导致的裁员隐忧？
+
+
+                                        </div>
+                                        
+                                    <div class="newslist">
+			                            <ul>
+                                    
+                                        <li><a href="http://www.sino-manager.com/tabs_371.html"  target="_blank">公司动态</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011122_28585.html'
+                                                style='' title='冰岛买地遭拒续：北欧三国向其推介土地' target="_blank">
+                                          冰岛买地遭拒续：北欧三国向其推介土地</a><img align="absmiddle" src="Images/icon_news.gif" /></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_359.html"  target="_blank">政策解读</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011122_28581.html'
+                                                style='' title='中国新商业文化形成关键：讲规则而非关系' target="_blank">
+                                          中国新商业文化形成关键：讲规则而非关系</a><img align="absmiddle" src="Images/icon_news.gif" /></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_141.html"  target="_blank">商业观察</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011121_28542.html'
+                                                style='' title='中国富豪们为什么要移民' target="_blank">
+                                          中国富豪们为什么要移民</a></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_371.html"  target="_blank">公司动态</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011121_28540.html'
+                                                style='' title='HTC困局：反击苹果未成 被专利“重创”' target="_blank">
+                                          HTC困局：反击苹果未成 被专利“重创”</a></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_141.html"  target="_blank">商业观察</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011121_28524.html'
+                                                style='' title='投资商铺小心“馅饼”变“陷阱”' target="_blank">
+                                          投资商铺小心“馅饼”变“陷阱”</a></li>
+                                        
+                                        </ul></div></div>
+                                            
+                        </div>
+                    </div>
+                    
+                    <div class="ad_a2 left"><a href="http://www.gupiaofenxi.com.cn/76pay-sino-manager/?AFFID=sino-manager" target="_blank"><img src="/Uploads/201111237181.gif" width="373" border="0" /></a></div> 
+                  </div>
+                    <div class="tab right">
+                        <div class="tab_title">
+                        <div class="right">
+                          </div>
+                            <div class="text">
+                            <a href="http://www.woohd.com/Infolist.aspx?tid=113"  target="_blank"><img src="images/jcsp.gif" alt="精彩视频" /></a>
+                    </div>
+                    <div class="text_right">
+                          </div>
+                    </div>
+                    
+                    <div class="tab_border" style="height:300px;">      
+                         <div class="list4">   
+                         <ul>
+                        
+                  <li class="floatl"><a href='http://www.woohd.com/content2011122_8852.html' title='白岩松在理想国文化沙龙上的精彩演讲'  target="_blank">
+                  <div class="vpic"><img src='http://www.woohd.com/Uploads/201112022412.jpg' alt="白岩松在理想国文化沙龙上的精彩演讲"  width="131" height="76" target="_blank"/></div>
+                  白岩松在理想国文化沙龙上的精彩演讲</a> </li>
+                
+                  <li class="floatl"><a href='http://www.woohd.com/content2011121_8837.html' title='维多利亚的秘密2011年终性感大秀全记录'  target="_blank">
+                  <div class="vpic"><img src='http://www.woohd.com/Uploads/201112015799.jpg' alt="维多利亚的秘密2011年终性感大秀全记录"  width="131" height="76" target="_blank"/></div>
+                  维多利亚的秘密2011年终性感大秀全记录</a> </li>
+                
+                  <li class="floatl"><a href='http://www.woohd.com/content20111130_8812.html' title='郎咸平炮轰中电联 反垄断大幕拉开 '  target="_blank">
+                  <div class="vpic"><img src='http://www.woohd.com/Uploads/201111306383.jpg' alt="郎咸平炮轰中电联 反垄断大幕拉开 "  width="131" height="76" target="_blank"/></div>
+                  郎咸平炮轰中电联 反垄断大幕拉开 </a> </li>
+                
+                  <li class="floatl"><a href='http://www.woohd.com/content20111129_8795.html' title='让孩子的校车，享更多“特权”'  target="_blank">
+                  <div class="vpic"><img src='http://www.woohd.com/Uploads/201111292201.jpg' alt="让孩子的校车，享更多“特权”"  width="131" height="76" target="_blank"/></div>
+                  让孩子的校车，享更多“特权”</a> </li>
+                
+                        
+          </ul>
+          <div class="clear"></div>
+        </div>
+      </div>
+                    </div>
+                    <div class="clear"></div>
+					
+					<!--<div class="ad_a2 left"><a href="http://www.griconference.com/CN/" target="_blank"><img src="/Uploads/201111104583.gif" width="373" border="0" /></a></div>-->
+                    <div class="clear"></div>
+                    <div class="tab left">
+                        <div class="tab_title">
+                            <div class="right">
+                            </div>
+                            <div class="text">
+                                <a href="http://www.sino-manager.com/u/" target="_blank">
+                      <img src="images/zlzj.gif" alt="专栏作家" /></a></div>
+                            <div class="text_right">
+                            </div>
+                            <div class="tab_keyword" style="width:215px;">
+                            <span><a href="http://www.sino-manager.com/u/Columns_apply.aspx">申请专栏</a></span>
+                            <span><a href="http://www.sino-manager.com/tab_435.html">杂志刊登名单</a></span>
+                          </div>
+                        </div>
+                        <div class="tab_border" style="height: 310px;">
+                        
+                                        <div class="tab_topnews">
+			                            <span class="title"><a href='http://www.sino-manager.com/u/20111121_28228.html'
+                                                style='' title='管理淡季——淡季不淡' target="_blank">
+                                                
+                                                管理淡季——淡季不淡</a> &nbsp;&nbsp;<a style="color:#990000; font-size:12px;" href='http://www.sino-manager.com/u/shiguangqi.html'>[史光起]</a></span>
+                                                那么在行业市场步入淡季时，如何经营淡季，才能使企业淡季不淡，依然有丰厚的收益，至少可以让企业顺利地度过淡季的严
+                                        </div>
+                          
+                                    <div class="newslist" style="line-height:24px;">
+			                            <ul>
+                                        
+                                        <li style="height:24px;"><a href='http://www.sino-manager.com/u/2011122_28580.html'
+                                                style='' title='如何回答“为何离开老东家”' target="_blank">
+                                                如何回答“为何离开老东家”</a>&nbsp;&nbsp;<a style="color:#990000; font-size:12px;" href='http://www.sino-manager.com/u/jingsuqi.html'>[景素奇]</a><img align="absmiddle" src="Images/icon_news.gif" /></li>
+                                       
+                                        <li style="height:24px;"><a href='http://www.sino-manager.com/u/2011122_28572.html'
+                                                style='' title='生存在未来的企业——进化型组织 ' target="_blank">
+                                                生存在未来的企业——进化型组织 </a>&nbsp;&nbsp;<a style="color:#990000; font-size:12px;" href='http://www.sino-manager.com/u/shiguangqi.html'>[史光起]</a><img align="absmiddle" src="Images/icon_news.gif" /></li>
+                                       
+                                        <li style="height:24px;"><a href='http://www.sino-manager.com/u/2011121_28569.html'
+                                                style='' title='寇北辰：劳资关系是目前企业的核心矛盾  ' target="_blank">
+                                                寇北辰：劳资关系是目前企业的核心矛盾  </a>&nbsp;&nbsp;<a style="color:#990000; font-size:12px;" href='http://www.sino-manager.com/u/koubeichen.html'>[寇北辰]</a></li>
+                                       
+                                        <li style="height:24px;"><a href='http://www.sino-manager.com/u/2011121_28537.html'
+                                                style='' title='乔布斯的初学者心态' target="_blank">
+                                                乔布斯的初学者心态</a>&nbsp;&nbsp;<a style="color:#990000; font-size:12px;" href='http://www.sino-manager.com/u/wangyukun'>[王育琨]</a></li>
+                                       
+                                        <li style="height:24px;"><a href='http://www.sino-manager.com/u/2011121_28534.html'
+                                                style='' title='你越吝啬，你就越贫穷，是真的吗？' target="_blank">
+                                                你越吝啬，你就越贫穷，是真的吗？</a>&nbsp;&nbsp;<a style="color:#990000; font-size:12px;" href='http://www.sino-manager.com/u/yaren81.html'>[杨毅]</a></li>
+                                       
+                                        <li style="height:24px;"><a href='http://www.sino-manager.com/u/20111130_28514.html'
+                                                style='' title='寇北辰：论强国之道  ' target="_blank">
+                                                寇北辰：论强国之道  </a>&nbsp;&nbsp;<a style="color:#990000; font-size:12px;" href='http://www.sino-manager.com/u/koubeichen.html'>[寇北辰]</a></li>
+                                       
+                                        <li style="height:24px;"><a href='http://www.sino-manager.com/u/20111130_28512.html'
+                                                style='' title='中国和俄罗斯跨国公司公共危机之差异' target="_blank">
+                                                中国和俄罗斯跨国公司公共危机之差异</a>&nbsp;&nbsp;<a style="color:#990000; font-size:12px;" href='http://www.sino-manager.com/u/007lichs.html'>[黎冲森]</a></li>
+                                       
+                                        <li style="height:24px;"><a href='http://www.sino-manager.com/u/20111130_28508.html'
+                                                style='' title='新加坡未来5年将成亚洲金融中心' target="_blank">
+                                                新加坡未来5年将成亚洲金融中心</a>&nbsp;&nbsp;<a style="color:#990000; font-size:12px;" href='http://www.sino-manager.com/u/007lichs.html'>[黎冲森]</a></li>
+                                       
+                                        <li style="height:24px;"><a href='http://www.sino-manager.com/u/20111130_28486.html'
+                                                style='' title='《周易》蕴含的管理哲理：同人卦第十三' target="_blank">
+                                                《周易》蕴含的管理哲理：同人卦第十三</a>&nbsp;&nbsp;<a style="color:#990000; font-size:12px;" href='http://www.sino-manager.com/u/liwenwu.html'>[李文武]</a></li>
+                                       
+                                        <li style="height:24px;"><a href='http://www.sino-manager.com/u/20111130_28485.html'
+                                                style='' title='《道德经》中的管理之学：知人者智' target="_blank">
+                                                《道德经》中的管理之学：知人者智</a>&nbsp;&nbsp;<a style="color:#990000; font-size:12px;" href='http://www.sino-manager.com/u/liwenwu.html'>[李文武]</a></li>
+                                       
+                                    
+                                     
+                                        </ul></div>
+                      </div>
+                    </div>
+                    <div class="tab right">
+                        <div class="tab_title">
+                            <div class="right">
+                            </div>
+                            <div class="text">
+                                <a href="http://www.woohd.com/Infolist.aspx?tid=69" target="_blank">
+                                    <img src="http://www.sino-manager.com/images/hdhg.png" alt="活动新闻" /></a></div>
+                            <div class="text_right">
+                            </div>
+                    </div>
+                        <div class="tab_border" style="height: 310px;">
+          <div id="focusPic2">
+                                
+                                        <div class="tab_topnews">
+			                            <span class="title"><a href='http://www.woohd.com/content2011122_8838.html' title='中国行业收入差距达4.2比1 金融业工资最高'  target="_blank">
+                                                中国行业收入差距达4.2比1 金融业工资最高</a></span>
+                                                12月1日，第四届中国劳动论坛在京举办。此次论坛由人力资源和社会保障部主办，以构建和谐劳动关系为主题，从劳动关
+                                        </div>
+                                        
+                                    <div class="newslist">
+			                            <ul>
+                                   
+                                        <li><a href='http://www.woohd.com/content2011122_8854.html' title='V咨询 引领中小企业发展新时代 '  target="_blank">
+                                                V咨询 引领中小企业发展新时代 </a><img align="absmiddle" src="images/icon_news.gif" /></li>
+                                        
+                                        <li><a href='http://www.woohd.com/content2011122_8848.html' title='阿里巴巴牵头发起对雅虎的250亿美元并购'  target="_blank">
+                                                阿里巴巴牵头发起对雅虎的250亿美元并购</a><img align="absmiddle" src="images/icon_news.gif" /></li>
+                                        
+                                        <li><a href='http://www.woohd.com/content2011122_8846.html' title='卫视黄金档将禁播三类剧 涉案穿越宫斗题材受限'  target="_blank">
+                                                卫视黄金档将禁播三类剧 涉案穿越宫斗题材受限</a><img align="absmiddle" src="images/icon_news.gif" /></li>
+                                        
+                                        <li><a href='http://www.woohd.com/content2011122_8845.html' title='中国城市细颗粒物污染严重 长期危害甚于核辐射'  target="_blank">
+                                                中国城市细颗粒物污染严重 长期危害甚于核辐射</a><img align="absmiddle" src="images/icon_news.gif" /></li>
+                                        
+                                        <li><a href='http://www.woohd.com/content2011122_8844.html' title='郭树清：低收入人群不宜进股市 向内幕交易宣战'  target="_blank">
+                                                郭树清：低收入人群不宜进股市 向内幕交易宣战</a><img align="absmiddle" src="images/icon_news.gif" /></li>
+                                        
+                                        <li><a href='http://www.woohd.com/content2011122_8843.html' title='百城住宅均价连续3月下降 10大城市房价下跌'  target="_blank">
+                                                百城住宅均价连续3月下降 10大城市房价下跌</a><img align="absmiddle" src="images/icon_news.gif" /></li>
+                                        
+                                        <li><a href='http://www.woohd.com/content2011122_8842.html' title='京沪高铁54列动车因质量问题召回后全部复出 '  target="_blank">
+                                                京沪高铁54列动车因质量问题召回后全部复出 </a><img align="absmiddle" src="images/icon_news.gif" /></li>
+                                        
+                                        <li><a href='http://www.woohd.com/content2011122_8840.html' title='800公里以上国内航线燃油附加费将上调10元'  target="_blank">
+                                                800公里以上国内航线燃油附加费将上调10元</a><img align="absmiddle" src="images/icon_news.gif" /></li>
+                                        
+                                        <li><a href='http://www.woohd.com/content2011122_8839.html' title='全球清廉指数排名中国上升三位'  target="_blank">
+                                                全球清廉指数排名中国上升三位</a><img align="absmiddle" src="images/icon_news.gif" /></li>
+                                        
+                                        <li><a href='http://www.woohd.com/content2011121_8830.html' title='全球城市生活质量排名出炉 维也纳荣登榜首'  target="_blank">
+                                                全球城市生活质量排名出炉 维也纳荣登榜首</a></li>
+                                        
+                                        </ul></div></div>
+                      </div>
+                    </div>
+                    <div class="tab left">
+                        <div class="tab_title">
+                            <div class="right">
+                            </div>
+                            <div class="text">
+                             <a href="tab_140.html" target="_blank"><img src="images/zxtg.gif" width="64" height="16" alt="在线投搞" /></a></div>
+                            <div class="text_right">
+                            </div>
+                            <div class="tab_keyword">
+                                <span><a href="http://www.sino-manager.com/pages/interactive/tougao.aspx">我要投稿</a></span></div>
+                        </div>
+                        <div class="tab_border" style="height:190px;" >
+                              
+                                        <div class="tab_topnews">
+			                            <span class="title"><a href='http://www.sino-manager.com/2011122_28595.html'
+                                                style='' title='异业整合与跨界营销' target="_blank">
+                  异业整合与跨界营销</a>[ 谭小芳]</span>
+                                                跨界(CROSSOVER)，正成为当今世界传媒的热词反复被提及，在不同的行业间被不断实践，同时也日益成为全球化
+                                        </div>
+                                
+                                    <div class="newslist">
+			                            <ul>
+                                    
+                                        <li><a href='http://www.sino-manager.com/2011122_28592.html'
+                                                style='' title='员工激励管理全攻略！' target="_blank">
+                                        员工激励管理全攻略！</a><span class="font5 f-12">[ 谭小芳]<img align="absmiddle" src="Images/icon_news.gif" /></span></li>
+                                      
+                                        <li><a href='http://www.sino-manager.com/2011122_28571.html'
+                                                style='' title='曾水良谈中国式“严打”管理' target="_blank">
+                                        曾水良谈中国式“严打”管理</a><span class="font5 f-12">[ 曾水良]<img align="absmiddle" src="Images/icon_news.gif" /></span></li>
+                                      
+                                        <li><a href='http://www.sino-manager.com/2011122_28570.html'
+                                                style='' title='“潜规则”盛行缘于权力垄段' target="_blank">
+                                        “潜规则”盛行缘于权力垄段</a><span class="font5 f-12">[ 曾水良]<img align="absmiddle" src="Images/icon_news.gif" /></span></li>
+                                      
+                                        <li><a href='http://www.sino-manager.com/2011121_28516.html'
+                                                style='' title='公关营销：决胜营销的第三把利器（一）' target="_blank">
+                                        公关营销：决胜营销的第三把利器（一）</a><span class="font5 f-12">[ 许良]</span></li>
+                                      
+                                        <li><a href='http://www.sino-manager.com/20111130_28501.html'
+                                                style='' title='艳照门院长：给退休干部敲响了警钟！' target="_blank">
+                                        艳照门院长：给退休干部敲响了警钟！</a><span class="font5 f-12">[ 谭小芳]</span></li>
+                                      
+                                        </ul></div>
+                    </div>
+                    </div>
+                    <div class="tab right">
+                        <div class="tab_title">
+                            <div class="right">
+                            </div>
+                            <div class="text">
+                                <a href="http://www.sino-manager.com/txzk/" target="_blank">
+                                  <img src="images/txzk.gif" width="64" height="16" alt="天下智库" /></a></div>
+                            <div class="text_right">
+                            </div>
+                        </div>
+                        <div class="tab_border" style="height:190px;">
+                        <div id="Div1">  
+                                                           
+                                        <div class="tab_topnews">
+			                            <span class="title"><a href='http://www.sino-manager.com/20111116_28067.html'
+                                                style='' title='创新者的DNA' target="_blank">
+            创新者的DNA</a></span>
+                                                创新和创意是企业成长的关键动能。最近的一项重大研究显示，最具创意的企业家均具备五种“发现技能”。
+
+
+                                        </div>
+                                        
+                                    <div class="newslist">
+			                            <ul>
+                                    
+                                        <li><a href="http://www.sino-manager.com/tabs_503.html"  target="_blank">新思维</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011122_28573.html'
+                                                style='' title='生意模式的抉择' target="_blank">
+                                          生意模式的抉择</a><img align="absmiddle" src="Images/icon_news.gif" /></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_501.html"  target="_blank">全球视野</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011121_28536.html'
+                                                style='' title='“奇幻”的营销世界 ' target="_blank">
+                                          “奇幻”的营销世界 </a></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_503.html"  target="_blank">新思维</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111124_28339.html'
+                                                style='' title='后危机时代的中国品牌战略 ' target="_blank">
+                                          后危机时代的中国品牌战略 </a></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_503.html"  target="_blank">新思维</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111114_27966.html'
+                                                style='' title='管理跨国虚拟团队的技巧' target="_blank">
+                                          管理跨国虚拟团队的技巧</a></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_501.html"  target="_blank">全球视野</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011119_27801.html'
+                                                style='' title='盖茨和乔布斯真正的遗产：舒适着装' target="_blank">
+                                          盖茨和乔布斯真正的遗产：舒适着装</a></li>
+                                        
+                                        </ul></div></div>
+                                            
+                        </div>
+              </div><div class="clear"></div>
+              <div class="ad_a2 right"><a href="http://www.griconference.com/CN/" target="_blank"><img src="/Uploads/201111104583.gif" width="373" border="0" /></a></div>
+              <div class="ad_a2 left"><a href="http://www.goldenfinance.com.cn/summit-2559.htm" target="_blank"><img src="/Uploads/201111036170.jpg" width="373" border="0" /></a></div>
+					<div class="clear"></div>
+                    <div class="tab left">
+                        <div class="tab_title">
+                            <div class="right">
+                            </div>
+                            <div class="text">
+                                <a href="http://www.sino-manager.com/qygl/" target="_blank">
+                                    <img src="images/qyzl.gif" width="64" height="17" alt="企业战略" /></a></div>
+                            <div class="text_right">
+                            </div>
+                            <div class="tab_keyword">
+                            </div>
+                        </div>
+                        <div class="tab_border" style="height: 189px;">
+                                                           
+                                        <div class="tab_topnews">
+			                            <span class="title"><a href='http://www.sino-manager.com/20111128_28411.html'
+                                                style='' title='苹果的创新能力居然一文不值' target="_blank">
+            苹果的创新能力居然一文不值</a></span>
+                                                持有苹果股票,即意味着要依托于iPod、iPhone或iPad的销售增长。
+                                        </div>
+                                        
+                                    <div class="newslist">
+			                            <ul>
+                                    
+                                        <li><a href="http://www.sino-manager.com/tabs_383.html"  target="_blank">运营管理</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011122_28582.html'
+                                                style='' title='为什么巴萨与苹果成功有共同的秘密' target="_blank">
+                                          为什么巴萨与苹果成功有共同的秘密</a><img align="absmiddle" src="Images/icon_news.gif" /></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_346.html"  target="_blank">创业管理</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011121_28531.html'
+                                                style='' title='罗永浩：终于赚到了干净钱' target="_blank">
+                                          罗永浩：终于赚到了干净钱</a></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_383.html"  target="_blank">运营管理</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011121_28517.html'
+                                                style='' title='日本餐饮业赚钱大王：背道而驰的经营术 ' target="_blank">
+                                          日本餐饮业赚钱大王：背道而驰的经营术 </a></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_344.html"  target="_blank">品牌管理</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111129_28457.html'
+                                                style='' title='自主品牌的“产品力之惑” ' target="_blank">
+                                          自主品牌的“产品力之惑” </a></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_346.html"  target="_blank">创业管理</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111129_28455.html'
+                                                style='' title='华人创业的成功基因：低调坚韧务实' target="_blank">
+                                          华人创业的成功基因：低调坚韧务实</a></li>
+                                        
+                                        </ul></div>
+                        </div>
+                    </div>
+                    <div class="tab right">
+                        <div class="tab_title">
+                            <div class="right">
+                            </div>
+                            <div class="text">
+                                <a href="http://www.sino-manager.com/ldl/" target="_blank">
+                                    <img src="images/ldl.gif" width="65" height="16" alt="领导力" /></a></div>
+                            <div class="text_right">
+                            </div>
+                            <div class="tab_keyword">
+                                <div id="PrepareSearchKeyWordsNew3_Panel1" class="tab_keywords">
+	
+    <a href='/search.aspx?keywords=%e8%80%81%e6%9d%bf' target="_blank">老板</a><a href='/search.aspx?keywords=%e9%a2%86%e5%af%bc' target="_blank">领导</a><a href='/search.aspx?keywords=%e5%9b%a2%e9%98%9f' target="_blank">团队</a><a href='/search.aspx?keywords=%e6%89%a7%e8%a1%8c%e5%8a%9b' target="_blank">执行力</a><a href='/search.aspx?keywords=%e7%ae%a1%e7%90%86%e8%80%85' target="_blank">管理者</a>
+
+</div>
+</div>
+                        </div>
+                        <div class="tab_border" style="height: 189px;">
+                                                           
+                                        <div class="tab_topnews">
+			                            <span class="title"><a href='http://www.sino-manager.com/20111124_28332.html'
+                                                style='' title='团队活动如何玩的开心' target="_blank">
+            团队活动如何玩的开心</a></span>
+                                                有职场必有团队，有团队必有团队活动。很多企业会以团队活动的方式来鼓励团队成员，增加团队的凝聚力。
+                                        </div>
+                                        
+                                    <div class="newslist">
+			                            <ul>
+                                    
+                                        <li><a href="http://www.sino-manager.com/tabs_8.html"  target="_blank">领导力</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011121_28530.html'
+                                                style='' title='咨询公司大多是骗子？ ' target="_blank">
+                                          咨询公司大多是骗子？ </a></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_352.html"  target="_blank">领导艺术</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011121_28527.html'
+                                                style='' title='“铁娘子”默克尔：学术性管理风格' target="_blank">
+                                          “铁娘子”默克尔：学术性管理风格</a></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_352.html"  target="_blank">领导艺术</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111129_28456.html'
+                                                style='' title='打造中西融汇的领导力 ' target="_blank">
+                                          打造中西融汇的领导力 </a></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_352.html"  target="_blank">领导艺术</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111128_28424.html'
+                                                style='' title='为什么没有人喜欢控制型的老板' target="_blank">
+                                          为什么没有人喜欢控制型的老板</a></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_8.html"  target="_blank">领导力</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111122_28254.html'
+                                                style='' title='领导力从哪里来？' target="_blank">
+                                          领导力从哪里来？</a></li>
+                                        
+                                        </ul></div>
+                        </div>
+                    </div>
+                    <div class="tab left">
+                        <div class="tab_title">
+                            <div class="right">
+                            </div>
+                            <div class="text">
+                                <a href="http://www.sino-manager.com/yxsc/" target="_blank">
+                                    <img src="images/scyyx.gif" width="81" height="16" alt="销售与市场" /></a></div>
+                            <div class="text_right">
+                            </div>
+                            <div class="tab_keyword">
+                                <div id="PrepareSearchKeyWordsNew6_Panel1" class="tab_keywords">
+	
+    <a href='/search.aspx?keywords=%e5%b8%82%e5%9c%ba' target="_blank">市场</a><a href='/search.aspx?keywords=%e8%90%a5%e9%94%80' target="_blank">营销</a><a href='/search.aspx?keywords=%e9%94%80%e5%94%ae' target="_blank">销售</a><a href='/search.aspx?keywords=%e6%b8%a0%e9%81%93' target="_blank">渠道</a>
+
+</div>
+</div>
+                        </div>
+                        <div class="tab_border" style="height: 189px;">
+                                                          
+                                        <div class="tab_topnews">
+			                            <span class="title"><a href='http://www.sino-manager.com/20111117_28087.html'
+                                                style='' title='营销就是和消费者谈恋爱 ' target="_blank">
+            营销就是和消费者谈恋爱 </a></span>
+                                                世界上第一个推销员是谁？是伊甸园里的那条蛇。它完成了不可能的任务：将违禁品——苹果推销给了本无消费需求的夏娃。
+                                        </div>
+                                        
+                                    <div class="newslist">
+			                            <ul>
+                                    
+                                        <li><a href="http://www.sino-manager.com/tabs_361.html"  target="_blank">销售管理</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011121_28515.html'
+                                                style='' title='姚明为何选择投资葡萄酒 ' target="_blank">
+                                        姚明为何选择投资葡萄酒 </a></li>
+                                      
+                                        <li><a href="http://www.sino-manager.com/tabs_360.html"  target="_blank">营销管理</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111124_28338.html'
+                                                style='' title='最实用营销技巧70条' target="_blank">
+                                        最实用营销技巧70条</a></li>
+                                      
+                                        <li><a href="http://www.sino-manager.com/tabs_361.html"  target="_blank">销售管理</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111124_28328.html'
+                                                style='' title='互联网如何改变销售？' target="_blank">
+                                        互联网如何改变销售？</a></li>
+                                      
+                                        <li><a href="http://www.sino-manager.com/tabs_360.html"  target="_blank">营销管理</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111124_28323.html'
+                                                style='' title='为何有些企业不适合微博搞营销' target="_blank">
+                                        为何有些企业不适合微博搞营销</a></li>
+                                      
+                                        <li><a href="http://www.sino-manager.com/tabs_360.html"  target="_blank">营销管理</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111122_28239.html'
+                                                style='' title='广告创意人的“技术活儿”' target="_blank">
+                                        广告创意人的“技术活儿”</a></li>
+                                      
+                                        </ul></div>
+                        </div>
+                    </div>
+                    <div class="tab right">
+                        <div class="tab_title">
+                            <div class="right">
+                            </div>
+                            <div class="text">
+                                <a href="http://www.sino-manager.com/rlzy/" target="_blank">
+                                    <img src="images/rlzy.gif" width="65" height="16" alt="人力资源" /></a></div>
+                            <div class="text_right">
+                            </div>
+                            <div class="tab_keyword">
+                                <div id="PrepareSearchKeyWordsNew4_Panel1" class="tab_keywords">
+	
+    <a href='/search.aspx?keywords=%e8%a3%81%e5%91%98' target="_blank">裁员</a><a href='/search.aspx?keywords=%e5%91%98%e5%b7%a5' target="_blank">员工</a><a href='/search.aspx?keywords=HR' target="_blank">HR</a><a href='/search.aspx?keywords=%e8%96%aa%e9%85%ac' target="_blank">薪酬</a>
+
+</div>
+</div>
+                        </div>
+                        <div class="tab_border" style="height: 188px;">
+                               
+                                        <div class="tab_topnews">
+			                            <span class="title"><a href='http://www.sino-manager.com/2011111_27578.html'
+                                                style='' title='杰克-韦尔奇的用人术' target="_blank">
+            杰克-韦尔奇的用人术</a></span>
+                                                 韦尔奇所创立的神奇的人力资源管理体系，使得通用电器公司成为一个名副其实的“造人工厂”，成为全球企业界的藏龙卧
+                                        </div>
+                                        
+                                    <div class="newslist">
+			                            <ul>
+                                    
+                                        <li><a href="http://www.sino-manager.com/tabs_368.html"  target="_blank">人才战略</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011121_28533.html'
+                                                style='' title='黄铁鹰：我选总经理的八道题 ' target="_blank">
+                                          黄铁鹰：我选总经理的八道题 </a></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_368.html"  target="_blank">人才战略</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011121_28523.html'
+                                                style='' title='曹操：用人枭雄 管理能臣' target="_blank">
+                                          曹操：用人枭雄 管理能臣</a></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_363.html"  target="_blank">员工管理</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111125_28358.html'
+                                                style='' title='员工为什么会造反？' target="_blank">
+                                          员工为什么会造反？</a></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_367.html"  target="_blank">薪酬管理</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111124_28334.html'
+                                                style='' title='六大秘籍跳槽获得更高薪资' target="_blank">
+                                          六大秘籍跳槽获得更高薪资</a></li>
+                                        
+                                        <li><a href="http://www.sino-manager.com/tabs_368.html"  target="_blank">人才战略</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111124_28333.html'
+                                                style='' title='是老板就要明白的人力资源管理' target="_blank">
+                                          是老板就要明白的人力资源管理</a></li>
+                                        
+                                        </ul></div>
+                        </div>
+                    </div>
+                    <div class="ad" style="clear:both;"><a href="http://www.chtf.com/" target="_blank"><img src="/Uploads/201110197647.jpg" width="758" border="0" /></a></div>
+                    <div class="tab left">
+                 <div class="tab_title">
+				<div class="right"></div>
+              <div class="text"><a href="http://www.sino-manager.com/rzzc/" target="_blank"><img src="images/zcgl.gif" width="65" height="16" alt="职场管理" /></a></div>
+              <div class="text_right"></div>
+				<div class="tab_keyword">
+				  <div id="PrepareSearchKeyWordsNew8_Panel1" class="tab_keywords">
+	
+    <a href='/search.aspx?keywords=%e5%8a%9e%e5%85%ac%e5%ae%a4' target="_blank">办公室</a><a href='/search.aspx?keywords=%e7%99%bd%e9%a2%86' target="_blank">白领</a><a href='/search.aspx?keywords=%e8%81%8c%e5%9c%ba' target="_blank">职场</a>
+
+</div>
+
+		   </div>
+                      </div>
+			
+                        <div class="tab_border" style="height:435px;">
+                                 
+                                        <div class="tab_topnews">
+			                            <span class="title"><a href='http://www.sino-manager.com/20111128_28414.html'
+                                                style='' title='投资自己的职场成功路径' target="_blank">
+            投资自己的职场成功路径</a></span>
+                                                如何提升自己的能力，才能在激烈的职场竞争中处于不败的地位？于是，如何投资自我、提升内涵等话题开始出现在职场人士
+                                        </div>
+                                   
+                                    <div class="newslist">
+			                            <ul>
+                                    
+                                        <li><a href="http://www.sino-manager.com/tabs_24.html"  target="_blank">职场管理</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011122_28584.html'
+                                                style='' title='职场女性：研究表明雄心下降' target="_blank">
+                                        职场女性：研究表明雄心下降</a><img align="absmiddle" src="Images/icon_news.gif" /></li>
+                                      
+                                        <li><a href="http://www.sino-manager.com/tabs_373.html"  target="_blank">求职晋升</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011122_28576.html'
+                                                style='' title='3个诀窍5点前离开办公室' target="_blank">
+                                        3个诀窍5点前离开办公室</a><img align="absmiddle" src="Images/icon_news.gif" /></li>
+                                      
+                                        <li><a href="http://www.sino-manager.com/tabs_24.html"  target="_blank">职场管理</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011121_28543.html'
+                                                style='' title='激励技巧：让员工激情工作' target="_blank">
+                                        激励技巧：让员工激情工作</a></li>
+                                      
+                                        <li><a href="http://www.sino-manager.com/tabs_372.html"  target="_blank">职业规划</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011121_28526.html'
+                                                style='' title='涨薪比龟爬还慢的十大职业 ' target="_blank">
+                                        涨薪比龟爬还慢的十大职业 </a></li>
+                                      
+                                        <li><a href="http://www.sino-manager.com/tabs_373.html"  target="_blank">求职晋升</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/2011121_28525.html'
+                                                style='' title='女金领生存法则' target="_blank">
+                                        女金领生存法则</a></li>
+                                      
+                                        <li><a href="http://www.sino-manager.com/tabs_373.html"  target="_blank">求职晋升</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111128_28421.html'
+                                                style='' title='7个步骤在工作中成为成年人 ' target="_blank">
+                                        7个步骤在工作中成为成年人 </a></li>
+                                      
+                                        <li><a href="http://www.sino-manager.com/tabs_372.html"  target="_blank">职业规划</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111128_28415.html'
+                                                style='' title='想要职场成功？努力工作还不够' target="_blank">
+                                        想要职场成功？努力工作还不够</a></li>
+                                      
+                                        <li><a href="http://www.sino-manager.com/tabs_372.html"  target="_blank">职业规划</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111125_28361.html'
+                                                style='' title='年薪20万美元的矿工' target="_blank">
+                                        年薪20万美元的矿工</a></li>
+                                      
+                                        <li><a href="http://www.sino-manager.com/tabs_373.html"  target="_blank">求职晋升</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111124_28343.html'
+                                                style='' title='36招教你克服职场倦怠' target="_blank">
+                                        36招教你克服职场倦怠</a></li>
+                                      
+                                        <li><a href="http://www.sino-manager.com/tabs_373.html"  target="_blank">求职晋升</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111124_28342.html'
+                                                style='' title='洞悉领导的15种表情' target="_blank">
+                                        洞悉领导的15种表情</a></li>
+                                      
+                                        <li><a href="http://www.sino-manager.com/tabs_373.html"  target="_blank">求职晋升</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111124_28331.html'
+                                                style='' title='调整职场心态，需要不在乎' target="_blank">
+                                        调整职场心态，需要不在乎</a></li>
+                                      
+                                        <li><a href="http://www.sino-manager.com/tabs_372.html"  target="_blank">职业规划</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111124_28321.html'
+                                                style='' title='开心职场 被迫加班有快乐高招' target="_blank">
+                                        开心职场 被迫加班有快乐高招</a></li>
+                                      
+                                        <li><a href="http://www.sino-manager.com/tabs_374.html"  target="_blank">人际关系</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111122_28262.html'
+                                                style='' title='为何你没有得到高端职位' target="_blank">
+                                        为何你没有得到高端职位</a></li>
+                                      
+                                        <li><a href="http://www.sino-manager.com/tabs_373.html"  target="_blank">求职晋升</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111122_28255.html'
+                                                style='' title='5步成为求职信高手' target="_blank">
+                                        5步成为求职信高手</a></li>
+                                      
+                                        <li><a href="http://www.sino-manager.com/tabs_372.html"  target="_blank">职业规划</a>&nbsp;|&nbsp;<a href='http://www.sino-manager.com/20111122_28237.html'
+                                                style='' title='普通职员与经理差别在哪？' target="_blank">
+                                        普通职员与经理差别在哪？</a></li>
+                                      
+                                        </ul></div>
+                        </div>
+						
+						
+                    </div>
+              <div class="tab right">
+                        <div class="tab_title">
+                            <div class="right">
+                            </div>
+                            <div class="text">
+                                    <a href="http://www.woohd.com/Infolist.aspx?tid=115" target="_blank"><img src="images/spsh.gif" alt="休闲娱乐" /></a></div>
+                            <div class="text_right">
+                            </div>
+                    </div>
+                        <div class="tab_border" style="height: 215px;">
+                            <div id="focusPic1">                             
+                             
+                                <div class="tab_topnews" style="margin-bottom:5px;"><a href='http://www.woohd.com/content2011121_8831.html' title='2012将消失的品牌'  target="_blank"><img src='http://www.woohd.com/Uploads/201112019489.jpg' alt=""  target="_blank"/>2012将消失的品牌</a><br />
+                      很多国际品牌有种悠久的历史，经历了几十年的考验。然而近日，《华尔街日报》评选出…</div>
+                              
+                                    <div class="newslist">
+			                            <ul>
+                                    
+                                <li><a href='http://www.woohd.com/content2011122_8853.html' title='葛优签约英皇 杨受成率群星迎接影帝'  target="_blank">葛优签约英皇 杨受成率群星迎接影</a><img align="absmiddle" src="images/icon_news.gif" /></li>
+                                
+                                <li><a href='http://www.woohd.com/content2011122_8851.html' title='《鸿门宴》教你如何混职场'  target="_blank">《鸿门宴》教你如何混职场</a><img align="absmiddle" src="images/icon_news.gif" /></li>
+                                
+                                <li><a href='http://www.woohd.com/content2011122_8850.html' title='揭秘2011年影视行业“八大怪”'  target="_blank">揭秘2011年影视行业“八大怪”</a><img align="absmiddle" src="images/icon_news.gif" /></li>
+                                
+                                <li><a href='http://www.woohd.com/content2011122_8849.html' title='盘点全球10大机场免税店 游客血拼最佳场所'  target="_blank">盘点全球10大机场免税店 游客血</a><img align="absmiddle" src="images/icon_news.gif" /></li>
+                                
+                                <li><a href='http://www.woohd.com/content2011122_8847.html' title='中国亲戚关系图走红 被赞“回家过年必备” '  target="_blank">中国亲戚关系图走红 被赞“回家过</a><img align="absmiddle" src="images/icon_news.gif" /></li>
+                                
+                                        </ul>
+                              </div></div>
+                            
+                        </div>
+                  </div>
+                    
+                  <div class="tab right" style="border-top:1px #d1d1d1 solid;">
+                        
+                        <div class="tab_border" style="height:195px;">
+                                                           
+                                        <div class="tab_topnews">
+			                            <span class="title"><a href='http://www.sino-manager.com/2011122_28583.html'
+                                                style='' title='十件小事让你长寿又年轻' target="_blank">
+                  十件小事让你长寿又年轻</a></span>
+                                                我们不能保证这些令人愉悦的活动能够将你变回少年，但是它们已被证实能够增进健康。
+                                        </div>
+                                        
+                                    <div class="newslist">
+			                            <ul>
+                                    
+                                        <li><a href='http://www.sino-manager.com/20111130_28478.html'
+                                                style='' title='芝华士18年薇薇安•威斯特伍德限量版新装' target="_blank">
+                                        芝华士18年薇薇安•威斯特伍德限量版新装</a></li>
+                                      
+                                        <li><a href='http://www.sino-manager.com/20111124_28325.html'
+                                                style='' title='在中国开餐馆的年轻美籍华人 ' target="_blank">
+                                        在中国开餐馆的年轻美籍华人 </a></li>
+                                      
+                                        <li><a href='http://www.sino-manager.com/20111121_28233.html'
+                                                style='' title='2011冬季避寒最佳阳光海岛' target="_blank">
+                                        2011冬季避寒最佳阳光海岛</a></li>
+                                      
+                                        <li><a href='http://www.sino-manager.com/20111121_28231.html'
+                                                style='' title='性感神秘的通体镂空蕾丝女装' target="_blank">
+                                        性感神秘的通体镂空蕾丝女装</a></li>
+                                      
+                                        <li><a href='http://www.sino-manager.com/20111121_28229.html'
+                                                style='' title='路易十四给康熙的一封信' target="_blank">
+                                        路易十四给康熙的一封信</a></li>
+                                      
+                                        </ul></div>
+                        </div>
+                  </div>
+                  
+                     
+                  <!--<div class="ad"><a href="http://www.asia-rich.com/huiyi/" target="_blank"><img src="/Uploads/201011113810.jpg" width="758" border="0" /></a></div>-->
+                </div>
+                <!--快速订阅-->
+                <div class="ritkuang">
+                <div class="ad_b1"><a href="http://www.sino-manager.com/order/order_1.aspx" target="_blank"><img src="/Uploads/201112025263.gif" width="194" border="0" /></a></div>
+                        <div class="rightcon">
+                        <div class="right_border">
+                            <div class="right_title">
+                                免费订阅电子刊</div>
+                            <div class="right_newlist" align="center"><input name="TextBox1" type="text" id="TextBox1" value="请输入电子邮箱" onfocus="qk()" />
+                    <div align="center" style="margin-top:6px;">(每月两期)<input type="submit" name="Button1" value=" 订 阅 " onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;Button1&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="Button1" class="hdsearch" /></div>
+                     &nbsp;
+                        &nbsp;
+                        </div>
+                        </div>
+                  </div>
+
+
+
+                  <div class="ad_b1"><a href="http://tinyurl.com/88tjbe7" target="_blank"><img src="/Uploads/201111104054.jpg" width="194" border="0" /></a></div>
+                    <!--广告-->  
+                  <!--滚动新闻-->
+                  <div class="rightcon" style="margin-bottom:5px;">
+                        <div class="right_border">
+                            <div class="right_title">
+                            <a href="http://www.sino-manager.com/rollnews/" target="_blank">即时财经报道</a></div>
+                            <div class="right_newlist" id="demo" style="overflow:hidden; height:130px; width:185px; margin:5px 0;">
+                            <div id="demo1">
+                            	<ul>
+                            	<li><a href="http://www.sino-manager.com/2011121_28544.html" title='一年76次收入，你一定不想错过' target="_blank" >一年76次收入，你一定不</a></li><li><a href="http://www.sino-manager.com/2011121_28538.html" title='卫生部称乳品标准绝不可能被企业绑架' target="_blank" >卫生部称乳品标准绝不可能</a></li><li><a href="http://www.sino-manager.com/2011121_28521.html" title='全球六大央行罕见联手救市 ' target="_blank" >全球六大央行罕见联手救市</a></li><li><a href="http://www.sino-manager.com/20111130_28480.html" title='今晚冷空气夜袭广东 冬天终于要来了' target="_blank" >今晚冷空气夜袭广东 冬天</a></li><li><a href="http://www.sino-manager.com/20111130_28471.html" title='牙膏含三氯生致癌？ 专家称按国标生产是安全的' target="_blank" >牙膏含三氯生致癌？ 专家</a></li><li><a href="http://www.sino-manager.com/20111129_28458.html" title='达芬奇和李开复谁真冤？' target="_blank" >达芬奇和李开复谁真冤？</a></li><li><a href="http://www.sino-manager.com/20111129_28451.html" title='“决策大师智慧论坛”圆满举行' target="_blank" >“决策大师智慧论坛”圆满</a></li><li><a href="http://www.sino-manager.com/20111129_28448.html" title='民企比国企更会赚钱 专家呼吁政府松绑' target="_blank" >民企比国企更会赚钱 专家</a></li><li><a href="http://www.sino-manager.com/20111128_28425.html" title='广电总局：每集电视剧不得以任何形式插播广告' target="_blank" >广电总局：每集电视剧不得</a></li><li><a href="http://www.sino-manager.com/20111128_28420.html" title='叶檀：浑水做空不可能击垮好公司 ' target="_blank" >叶檀：浑水做空不可能击垮</a></li>
+                                </ul>
+                              </div>
+                                <div id="demo2"></div>
+                            </div>
+                            <script>
+                                var speed = 400
+                                var demo = document.getElementById("demo");
+                                var demo2 = document.getElementById("demo2");
+                                var demo1 = document.getElementById("demo1");
+                                demo2.innerHTML = demo1.innerHTML
+                                function Marquee() {
+                                    if (demo2.offsetTop - demo.scrollTop <= 0)
+                                        demo.scrollTop -= demo1.offsetHeight
+                                    else {
+                                        demo.scrollTop++
+                                    }
+                                }
+                                var MyMar = setInterval(Marquee, speed)
+                                demo.onmouseover = function() { clearInterval(MyMar) }
+                                demo.onmouseout = function() { MyMar = setInterval(Marquee, speed) } 
+</script> 
+                    </div>
+                  </div>
+                    <!--快速订阅-->
+                    
+                 <!-- <div class="ad_b1"><a href=" http://www.vancl.com/WebSource/WebSource.aspx?source=sinomanager&url=http://www.vancl.com/" target="_blank"><img src=" http://union.vancl.com/adpic.aspx?w=200&h=200" border="0" width="194px" /></a></div> -->
+                   
+          <!--独家企划-->
+          <!--<div class="rightcon">
+                        <div class="right_border">
+                          <div class="right_title">
+                                经理人传媒系列业务</div>
+                            <div class="right_newlist">
+                                <ul class="huiyi">
+								<li><a href="http://www.sino-manager.com/zt/" title="《经理人》杂志" target = _blank>
+                                    《经理人》杂志</a></li>
+									<li><a href="http://www.sino-manager.com/business/financial/default.aspx" title="《公司金融》杂志" target = _blank>
+                                        《公司金融》杂志</a></li>
+									<li><a href="http://www.sino-manager.com/bossway/ceoforums.aspx" title="中国CEO年会" target = _blank>
+                                        中国CEO年会</a></li>
+									<li><a href="http://www.sino-manager.com/bossway/index.aspx" title="经理人博思会" target = _blank>
+                                        经理人博思会</a></li>
+									<li><a href="http://www.managerschool.cn/default.asp" title="经理人商学院" target = _blank>
+                                        经理人商学院</a></li>
+                                    <li><a href="http://www.mfceo.com/" title="经理人行知格" target = _blank>经理人行知格</a></li>
+							  </ul>
+                          </div>
+                        </div>
+                  </div>-->
+                    <div class="rightcon">
+                        <div class="right_border">
+                            <div class="right_title">
+                                <a href="http://www.sino-manager.com:8080/magazine/" target="_blank">《经理人》本期杂志</a></div>
+                            <div class="pic"><a href="http://www.sino-manager.com:8080/magazine/" target="_blank"><img src="http://www.sino-manager.com/Images/Magazine/1111.jpg" border="0" />
+							  <strong>均衡增长</strong></a><br/>
+								2011年11月号 
+								  <br />
+				          第 208 期</div>
+                            <div class="right_newlist">
+                                <ul class="huiyi">
+								
+                                       <li><a href='http://www.sino-manager.com/20111121_28206.html' title='美邦剥离电商：“最后一公里”的痛' target="_blank">
+                                          美邦剥离电商：“最后一公里</a></li>
+                                        
+                                       <li><a href='http://www.sino-manager.com/20111114_27955.html' title='如家战略：三部曲的完美上演' target="_blank">
+                                          如家战略：三部曲的完美上演</a></li>
+                                        
+                                       <li><a href='http://www.sino-manager.com/2011117_27734.html' title='正兴汽车上市：“慢走”怪圈的背后' target="_blank">
+                                          正兴汽车上市：“慢走”怪圈</a></li>
+                                        
+                                       <li><a href='http://www.sino-manager.com/20111031_27542.html' title='方太：“厨房专家”的品牌路' target="_blank">
+                                          方太：“厨房专家”的品牌路</a></li>
+                                        
+                                       <li><a href='http://www.sino-manager.com/20111024_27341.html' title='飞鹤：受困“对赌”协议' target="_blank">
+                                          飞鹤：受困“对赌”协议</a></li>
+                                        
+                                       <li><a href='http://www.sino-manager.com/20111021_27324.html' title='马文德：新增长来源将押宝中国' target="_blank">
+                                          马文德：新增长来源将押宝中</a></li>
+                                        
+							  </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="rightcon">
+                        <div class="right_border">
+                          <div class="right_title">
+                            <a href="http://www.sino-manager.com/tab_387.html" target="_blank">《公司金融》</a></div>
+                            <div class="pic">
+                            
+                            <a href='http://www.sino-manager.com/2010916_19161.html' title='中华房屋的纳斯达克之旅' target="_blank">
+                            <img src='Uploads/201009281609.JPG' border="0" />
+								<strong>中华房屋的纳</strong></a><br/>
+								融资无门难道仅仅是一个“体制内”
+							
+                            </div>
+                            <div class="right_newlist">
+                                <ul class="huiyi">
+								 
+                                        <li><a href='http://www.sino-manager.com/2010919_19228.html' title='苏州大方：面对资本骇客..' target="_blank">
+                                          苏州大方：面对资本骇客..</a></li>
+                                        
+                                        <li><a href='http://www.sino-manager.com/2010915_19117.html' title='红筹架构回归A股系列三：海联讯' target="_blank">
+                                          红筹架构回归A股系列三：海</a></li>
+                                        
+                                        <li><a href='http://www.sino-manager.com/2010914_19083.html' title='去除“一股独大”的上市“减分”因素' target="_blank">
+                                          去除“一股独大”的上市“减</a></li>
+                                        
+                                        <li><a href='http://www.sino-manager.com/2010913_19054.html' title='民营资本传承的安全通道' target="_blank">
+                                          民营资本传承的安全通道</a></li>
+                                        
+                                        <li><a href='http://www.sino-manager.com/201096_18853.html' title='帝亚吉欧猎食水井坊' target="_blank">
+                                          帝亚吉欧猎食水井坊</a></li>
+                                        
+							  </ul>
+                          </div>
+                        </div>
+                </div>
+                    
+                    <!--名人专栏-->
+                    <div class="rightcon">
+                        <div class="right_border">
+                          <div class="right_title">名人专栏</div>
+                         	 <div class="ceo">
+                                <ul>
+                                    <li class="img"><a href="http://www.sino-manager.com/u/langxianping.html" target="_blank"><img src="http://www.sino-manager.com//UserFiles/lang.jpg" /></a></li>
+                                    <li><a href="http://www.sino-manager.com/u/langxianping.html" class="text" target="_blank">
+                                        郎咸平</a>
+                                    
+                                            ▪ <a class="list" href='http://www.sino-manager.com/u/20111124_28344.html'
+                                                style='' title='郎咸平：我眼中的奥巴马 ' target="_blank">
+                                                郎咸平：我眼中的奥</a><br />
+                                        
+                                            ▪ <a class="list" href='http://www.sino-manager.com/u/20111114_27960.html'
+                                                style='' title='郎咸平：“柴油荒”的背后是“制度荒”' target="_blank">
+                                                郎咸平：“柴油荒”</a><br />
+                                        
+                                </ul>
+                                <ul>
+                              <li class="img"><a href="http://www.sino-manager.com/u/wangyukun.html" target="_blank"><img src="http://www.sino-manager.com/Uploads/201009272352.jpg" /></a></li>
+                                  <li><a href="http://www.sino-manager.com/u/wangyukun.html" class="text" target="_blank">
+                                      王育琨</a>
+                                   
+                                            ▪ <a class="list" href='http://www.sino-manager.com/u/2011121_28537.html'
+                                                style='' title='乔布斯的初学者心态' target="_blank">
+                                                乔布斯的初学者心态</a><br />
+                                        
+                                            ▪ <a class="list" href='http://www.sino-manager.com/u/20111123_28285.html'
+                                                style='' title='乔布斯的“妙有”价值' target="_blank">
+                                                乔布斯的“妙有”价</a><br />
+                                        
+                                </ul>
+                              <ul>
+                              <li class="img"><a href="http://www.sino-manager.com/u/xiezuchi.html" target="_blank"><img src="http://www.sino-manager.com/UserFiles/xie.jpg" /></a></li>
+                              <li><a href="http://www.sino-manager.com/u/xiezuchi.html" class="text" target="_blank">
+                                  谢祖墀</a>
+                                  
+                                            ▪ <a class="list" href='http://www.sino-manager.com/u/20111122_28252.html'
+                                                style='' title='争夺全球中产阶级市场' target="_blank">
+                                                争夺全球中产阶级市</a><br />
+                                        
+                                            ▪ <a class="list" href='http://www.sino-manager.com/u/2011113_27649.html'
+                                                style='' title='中国MBA教育恰逢其时' target="_blank">
+                                                中国MBA教育恰逢</a><br />
+                                        
+                               </ul>
+                              
+                          </div>
+                        </div>
+                  </div>
+                    <!--广告-->
+               <div class="ad_b1"><a href="http://www.sino-manager.com/business/neikan/" target="_blank"><img src="/Uploads/201106167733.jpg" width="194" border="0" /></a></div>
+               
+              <div class="rightcon">
+                        <div class="right_border">
+                          <div class="right_title"><span class="left">《经理人》明星记者</span><span class="right f-12"><a href="http://www.sino-manager.com/u/Default.aspx?t=3" style="font-weight:normal;" target="_blank">更多</a>&nbsp;</span></div>
+                         	 <div class="ceo">
+                                <ul>
+                                    <li class="img"><a href="http://www.sino-manager.com/u/chenzy.html" target="_blank"><img src="http://www.sino-manager.com/Uploads/201003263621.gif" /></a></li>
+                                    <li><a href="http://www.sino-manager.com/u/chenzy.html" class="text" target="_blank">
+                                        陈振烨</a>
+                                     
+                                            ▪<a href='http://www.sino-manager.com/u/20111018_27256.html'
+                                                 title='马云：只要没搞死我，我会越战越强' target="_blank" class="list">
+                                          马云：只要没搞死我</a><br />
+                                        
+                                            ▪<a href='http://www.sino-manager.com/u/2011829_26292.html'
+                                                 title='有关执行力的两则故事' target="_blank" class="list">
+                                          有关执行力的两则故</a><br />
+                                        </li>
+                                </ul>
+                              <ul>
+                              <li class="img"><a href="http://www.sino-manager.com/u/007lichs.html" target="_blank"><img src="http://www.sino-manager.com/Uploads/201006273022.jpg" /></a></li>
+                                    <li ><a href="http://www.sino-manager.com/u/007lichs.html" class="text" target="_blank">
+                                        黎冲森</a>
+                                    
+                                            ▪<a href='http://www.sino-manager.com/u/20111130_28512.html'
+                                                title='中国和俄罗斯跨国公司公共危机之差异' target="_blank" class="list">
+                                          中国和俄罗斯跨国公</a><br />
+                                        
+                                            ▪<a href='http://www.sino-manager.com/u/20111130_28508.html'
+                                                title='新加坡未来5年将成亚洲金融中心' target="_blank" class="list">
+                                          新加坡未来5年将成</a><br />
+                                        </li>
+                               </ul>
+                               <ul>
+                              <li class="img"><a href="http://www.sino-manager.com/u/davidshen.html" target="_blank"><img src="http://www.sino-manager.com/Uploads/201006212188.jpg" /></a></li>
+                                    <li ><a href="http://www.sino-manager.com/u/davidshen.html" class="text" target="_blank">
+                                        沈伟民</a>
+                                    
+                                            ▪<a href='http://www.sino-manager.com/u/20111129_28440.html'
+                                                title='上海家化本土国际战略第七程' target="_blank" class="list">
+                                          上海家化本土国际战</a><br />
+                                        
+                                            ▪<a href='http://www.sino-manager.com/u/20111123_28293.html'
+                                                title='苏宁，模糊的天际线' target="_blank" class="list">
+                                          苏宁，模糊的天际线</a><br />
+                                        </li>
+                               </ul>
+                               <ul>
+                              <li class="img"><a href="http://www.sino-manager.com/u/sulongfei.html" target="_blank"><img src="http://www.sino-manager.com/Uploads/201008049325.jpg" /></a></li>
+                                    <li ><a href="http://www.sino-manager.com/u/sulongfei.html" class="text" target="_blank">
+                                        苏龙飞</a>
+                                    
+                                            ▪<a href='http://www.sino-manager.com/u/2011628_24889.html'
+                                                title='胜利管道改制历程' target="_blank" class="list">
+                                          胜利管道改制历程</a><br />
+                                        
+                                            ▪<a href='http://www.sino-manager.com/u/2011518_24025.html'
+                                                title='A股的年报何时能写得人性化一点？' target="_blank" class="list">
+                                          A股的年报何时能写</a><br />
+                                        </li>
+                               </ul>
+                          </div>
+                        </div>
+                  </div>
+               
+               <!--广告-->
+                <div class="ad_b1"><a href="http://www.roadoor.com" target="_blank"><img src="/Uploads/201107153323.jpg" width="194" border="0" /></a></div>
+                
+                    <div class="rightcon">
+                        <div class="right_border">
+                            <div class="right_title">
+                                <a href="http://www.sino-manager.com/tab_21.html" target="_blank">商业广告</a></div>
+                            <div class="right_newlist"><ul class="huiyi"><li ><span class="span1"></span><a  href="http://www.sino-manager.com/20111118_28170.html" title="巴博斯跑车助阵BILS 2011 展览会" target = _blank><span style="">巴博斯跑车助阵BILS 2</span></a></li><li ><span class="span1"></span><a  href="http://www.sino-manager.com/20111117_28092.html" title="奥特美思“OTMESSI工厂店”升级版启动" target = _blank><span style="">奥特美思“OTMESSI工</span></a></li><li ><span class="span1"></span><a  href="http://www.bnet.com.cn/2011/1020/2062122.shtml" title="IT女性智慧演绎魅力人生" target = _blank><span style="">IT女性智慧演绎魅力人生</span></a></li><li ><span class="span1"></span><a  href="http://www.sino-manager.com/20111027_27467.html" title="第七届上海国际黄金珠宝玉石展览会日本展团特集" target = _blank><span style="">第七届上海国际黄金珠宝玉石</span></a></li><li ><span class="span1"></span><a  href="http://www.sino-manager.com/20111024_27360.html" title="竞逐摩根大通企业竞跑赛 同助儿童慈善公益" target = _blank><span style="">竞逐摩根大通企业竞跑赛 同</span></a></li><li ><span class="span1"></span><a  href="http://www.sino-manager.com/20111018_27257.html" title="首届瑞尔杯慈善高尔夫赛第二站深圳赛区圆满落幕" target = _blank><span style="">首届瑞尔杯慈善高尔夫赛第二</span></a></li><li ><span class="span1"></span><a  href="http://www.sino-manager.com/20111017_27238.html" title="2011水星家纺秋冬营销峰会盛大启幕" target = _blank><span style="">2011水星家纺秋冬营销峰</span></a></li><li ><span class="span1"></span><a  href="http://www.sino-manager.com/2011929_26970.html" title="甘肃卫视《投资论道》节目10月10日开播" target = _blank><span style="">甘肃卫视《投资论道》节目1</span></a></li><li ><span class="span1"></span><a  href="http://www.sino-manager.com/2011929_26969.html" title="对外经贸大学六十周年校庆企业家论坛" target = _blank><span style="">对外经贸大学六十周年校庆企</span></a></li><li ><span class="span1"></span><a  href="http://www.sino-manager.com/2011920_26716.html" title="SAP芮祥麟先生荣膺年度“白玉兰纪念奖”" target = _blank><span style="">SAP芮祥麟先生荣膺年度“</span></a></li></ul></div>
+                        </div>
+                    </div>
+                    
+                    <!--广告-->
+              <!--<div class="ad_b1"><a href="http://www.sino-manager.com/zt/Rguanli/index.html" target="_blank"><img src="/Uploads/201009012312.jpg" width="194" border="0" /></a></div>-->
+              </div>
+            </div>
+        </div>
+        <!--尾部-->
+        
+<!--尾部-->
+<!--尾部-->
+<div id="foot">
+<div>
+<div class="dlink">
+<ul></ul><div class="clear"></div>
+</div>
+<div class="wz" style="text-align:left;">
+<a href='http://www.p5w.net/' Target='_blank' ToolTip='全景网'>全景网</a>|<a href='http://www.bnet.com.cn/' Target='_blank' ToolTip='商业英才网'>商业英才网</a>|<a href='http://finance.cn.yahoo.com/index.html' Target='_blank' ToolTip='雅虎财经'>雅虎财经</a>|<a href='http://finance.qq.com/' Target='_blank' ToolTip='腾讯财经'>腾讯财经</a>|<a href='http://www.hr.com.cn/' Target='_blank' ToolTip='中国人力资源网'>中国人力资源网</a>|<a href='http://www.nbd.com.cn/' Target='_blank' ToolTip='每日经济新闻'>每日经济新闻</a>|<a href='http://www.caijing.com.cn' Target='_blank' ToolTip='财经网'>财经网</a>|<a href='http://www.ibtimes.com.cn/' Target='_blank' ToolTip='国际财经时报'>国际财经时报</a>|<a href='http://www.allpku.com' Target='_blank' ToolTip='北大纵横'>北大纵横</a>|<a href='http://www.21cbh.com' Target='_blank' ToolTip='21世纪网'>21世纪网</a>|<a href='http://www.qgwk.net' Target='_blank' ToolTip='威客网'>威客网</a>|<a href='http://www.bankhr.com' Target='_blank' ToolTip='金融英才网'>金融英才网</a>|<a href='http://www.caing.com' Target='_blank' ToolTip='财新网'>财新网</a>|<a href='http://finance.huanqiu.com' Target='_blank' ToolTip='环球网财经'>环球网财经</a>|<a href='http://www.alibado.com' Target='_blank' ToolTip='阿里巴巴学院'>阿里巴巴学院</a>|<a href='http://www.chinaspeech.com' Target='_blank' ToolTip='中国名人演讲网'>中国名人演讲网</a>|<a href='http://www.ttcf.com/' Target='_blank' ToolTip='天天财富网'>天天财富网</a>|<a href='http://cn.msn.com/' Target='_blank' ToolTip='MSN中文网'>MSN中文网</a>|<a href='http://np.zgjrw.com/' Target='_blank' ToolTip='国家摄影'>国家摄影</a>|<a href='http://www.mypm.net/default.asp' Target='_blank' ToolTip='项目管理者联盟'>项目管理者联盟</a>|<a href='http://www.lietou.com/' Target='_blank' ToolTip='猎头网'>猎头网</a>|<a href='http://www.chinaluxus.com/' Target='_blank' ToolTip='中奢网'>中奢网</a>|<a href='http://www.zjjbh.cn' Target='_blank' ToolTip='浙江金博会'>浙江金博会</a>|<a href='http://gz.soufun.com/ ' Target='_blank' ToolTip='搜房网'>搜房网</a>|<a href='http://www.ciotimes.com/' Target='_blank' ToolTip='CIO时代网'>CIO时代网</a>|<a href='http://www.adfaith.com/' Target='_blank' ToolTip='正略钧策管理咨询'>正略钧策管理咨询</a>|<a href='http://www.cmmo.cn/' Target='_blank' ToolTip='第一营销网'>第一营销网</a>|<a href='http://www.woohr.com' Target='_blank' ToolTip='金鼎人才网'>金鼎人才网</a>|<a href='http://www.mbarich.com/' Target='_blank' ToolTip='MBA'>MBA</a>|<a href='http://zq.job1001.com/' Target='_blank' ToolTip='证券英才网'>证券英才网</a>|<a href='http://sh.loanchina.com' Target='_blank' ToolTip='易贷中国贷款'>易贷中国贷款</a>|<a href='http://www.metalnews.cn/' Target='_blank' ToolTip='中国金属新闻网'>中国金属新闻网</a>|<a href='http://www.job1001.com' Target='_blank' ToolTip='一览英才网'>一览英才网</a>|<a href='http://www.topfo.com' Target='_blank' ToolTip='中国招商投资网'>中国招商投资网</a>|<a href='http://www.cye.com.cn/' Target='_blank' ToolTip='创业网'>创业网</a>|<a href='http://www.fecn.net' Target='_blank' ToolTip='中国财经网'>中国财经网</a>|<a href='http://www.cebnet.com.cn' Target='_blank' ToolTip='中国电子银行网'>中国电子银行网</a>|<a href='http://www.cf69.com' Target='_blank' ToolTip='金牛网'>金牛网</a>|<a href='http://www.afinance.cn' Target='_blank' ToolTip='第一金融网'>第一金融网</a>|<a href='http://focussend.com' Target='_blank' ToolTip='FocusSend营销'>FocusSend营销</a>|<a href='http://www.pedaily.cn/' Target='_blank' ToolTip='投资界'>投资界</a>|<a href='http://www.shichangbu.com/' Target='_blank' ToolTip='市场部'>市场部</a>|<a href='http://sh.focus.cn' Target='_blank' ToolTip='上海房地产'>上海房地产</a>|<a href='http://e.gensee.com' Target='_blank' ToolTip='Gensee云会议'>Gensee云会议</a>|<a href='http://www.paidai.com/' Target='_blank' ToolTip='派代网'>派代网</a>|<a href='http://www.tuniu.com' Target='_blank' ToolTip='途牛旅游网'>途牛旅游网</a>
+</div>
+</div>
+    <div class="table" align="center">
+        <a href='http://www.sino-manager.com/about/about.aspx' target="_blank">关于我们</a> | <a href='http://www.sino-manager.com/pages/interactive/tougao.aspx'
+            target="_blank">网上投稿</a> | <a href='http://www.sino-manager.com/about/guanggao.aspx' target="_blank">广告联系</a> | <a href='http://www.sino-manager.com/about/contact.aspx' target="_blank">联系我们</a> | <a href='http://www.sino-manager.com/Pages/Interactive/mail.aspx' target="_blank">主编信箱</a> | <a href='http://www.sino-manager.com/about/links.aspx' target="_blank">友情链接</a> | <a href='http://oa.sino-manager.com:999' target="_blank">OA</a> | <a href='http://www.sino-manager.com/about/hr.aspx'  style="color:#f00;" target="_blank">招聘信息</a>
+    </div>
+	<div class="wz">
+		<a href="http://www.woohd.com/" target="_blank"><strong>活动频道</strong></a>|<a href="http://www.sino-manager.com/" target="_blank">经理人</a>|<a href="http://www.sino-manager.com/zt/2010mba/" target="_blank">MBA排行榜</a>|<a href="http://www.sino-manager.com/zt/2010top30/index.html" target="_blank">创新力排行榜</a>|<a href="http://www.sino-manager.com/" target="_blank">CEO</a>|<a href="http://www.sino-manager.com/" target="_blank">管理</a>|<a href="http://www.sino-manager.com/bossway/ceoforums.aspx" target="_blank">中国CEO年会</a>|<a href="http://www.sino-manager.com/zt/default.aspx" target="_blank">经理人杂志</a>|<a href="http://www.sino-manager.com/rss.aspx">新闻聚合器<img src='/Images/rss_icon5.gif' width="45" height="18" align="absmiddle" /></a>
+        
+	</div>
+    <div class="wz">
+        经理人网 版权所有 未经本站同意或授权不得转载网站的内容。如果转载，需要完整保留以下信息：“经理人网” 和“经理人网LOGO”，<br />
+        否则， 经理人杂志社将保留起诉权！订阅热线：0755-82537167-300 传真：0755-82537114-300 邮箱：<img src='/Images/mail.gif'
+            align="absmiddle" /><br />
+    地址：中国．深圳市福田区竹子林紫竹七道中国经贸大厦9楼I-J <a href="http://www.miibeian.gov.cn" target="_blank">粤ICP备08025118</a></div>
+    <div style="text-align:center"><a href="http://www.sznet110.gov.cn/webrecord/innernet/Welcome.jsp?bano=4403101920838"><img width="36px" src="/Images/sznet110wangan.gif" /></a><a href="http://www.sznet110.gov.cn"><img width="36px" src="/Images/sznet110gangting.gif" /></a><a href="http://www.sznet110.gov.cn"><img width="36px" src="/Images/sznet110jingjing.gif" /></a><a href="http://www.sznet110.gov.cn"><img width="36px" src="/Images/sznet110chacha.gif" /></a></div>
+</div>
+<!--尾部结束-->
+<!--统计代码-->
+
+<!--内部统计控件开始-->
+
+<FONT  id="FONT1"></FONT>
+
+<!--内部统计控件结束-->
+
+<div style="display: none">
+
+    <script language="javascript" type="text/javascript" src="http://js.users.51.la/2321426.js"></script>
+
+    <noscript>
+        <a href="http://www.51.la/?2321426" target="_blank">
+            <img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/2321426.asp"
+                style="border: none; display: none;" />
+        </a>
+    </noscript>
+</div>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10257768-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<!-- START ChinaRank SiteCensus V5.3 -->
+<!-- COPYRIGHT 2007 ChinaRank -->
+<script type="text/javascript">
+ var _rsCI="cn-bpaww";
+ var _rsCG="0";
+ var _rsDN="//secure-cn.imrworldwide.com/";
+ var _rsSE=1;
+ var _rsSM=1.0;
+ var _rsSS=1500;
+ var _rsTC=500;
+ var _rsCL=1;
+</script>
+<script type="text/javascript" src="//secure-cn.imrworldwide.com/v53.js"></script>
+<noscript>
+ <div><img src="//secure-cn.imrworldwide.com/cgi-bin/m?ci=cn-bpaww&amp;cg=0&amp;cc=1" alt=""/></div>
+</noscript>
+<!-- END ChinaRank SiteCensus V5.3 -->
+
+
+
+        &nbsp;<!--尾部结束--></div>
+    </form>
+    <!--对联广告开始-->
+
+<!--宽通广告代码-->
+<!--SmartMedia Begin:-->
+<div id="Panel1">
+<script type="text/javascript" src="http://smjs.allyes.com/sm.js"></script>
+<script type="text/javascript" src="http://smjs.allyes.com/manager++inpage++sm++show.js"></script>
+</div>
+<!--SmartMedia End-->
+<!--宽通广告代码结束-->
+
+</body>
+</html>

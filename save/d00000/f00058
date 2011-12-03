@@ -1,0 +1,508 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="title" content="" />
+	<meta name="description" content="" />
+	<link rel="image_src" href="http://www.cbsinteractive.com/images/logo.gif" />
+	
+	<!--[if lte IE 6]>
+		<script type="text/javascript" language="javascript" src="js/pngfix.js"></script>
+	<![endif]-->
+	
+	<link rel="stylesheet" type="text/css" href="/_css/master.css" />
+	
+			<link rel="stylesheet" type="text/css" href="/_css/master.css" />
+		<link rel="stylesheet" type="text/css" href="/_css/home.css" />
+		<script src="http://yui.yahooapis.com/2.3.1/build/yahoo-dom-event/yahoo-dom-event.js" ></script>
+		<script src="http://yui.yahooapis.com/2.3.1/build/connection/connection-min.js"></script> 
+		<script type="text/javascript" src="http://yui.yahooapis.com/2.3.1/build/container/container-min.js"></script> 
+		<script src="http://yui.yahooapis.com/2.5.1/build/animation/animation-min.js" type="text/javascript"></script>
+		<script type="text/javascript" src="js/thumbscroller.js"></script>
+
+		<script type="text/javascript">
+	  
+		var currentPosition = 1;
+		
+		YAHOO.util.Event.on('body', 'load', function() {
+			var fromVal = (currentPosition-1)*(-175);
+			currentPosition++;
+			var toVal = (currentPosition-1)*(-175);
+			var attributes = { left: { from: fromVal, to: toVal, unit: 'px' }};
+			var myAnim = new YAHOO.util.Anim('tab_scoot', attributes, 0.5, YAHOO.util.Easing.easeBoth);
+			myAnim.animate();
+		});	
+	
+		YAHOO.util.Event.on('scrollLeft', 'click', function() {
+			var fromVal = (currentPosition-1)*(-175);
+			currentPosition++;
+			var toVal = (currentPosition-1)*(-175);
+			var attributes = { left: { from: fromVal, to: toVal, unit: 'px' }};
+			var myAnim = new YAHOO.util.Anim('tab_scoot', attributes, 0.5, YAHOO.util.Easing.easeBoth);
+			myAnim.animate();
+		});		
+		
+		YAHOO.util.Event.on('scrollRight', 'click', function() {
+		   if(currentPosition > 1){
+				var fromVal = (currentPosition-1)*(-175);
+				currentPosition--;
+				var toVal = (currentPosition-1)*(-175);
+				var attributes = {left: { from: fromVal, to: toVal, unit: 'px' }};
+				var myAnim = new YAHOO.util.Anim('tab_scoot', attributes, .5, YAHOO.util.Easing.easeBoth);
+				myAnim.animate();
+			}
+		});		
+
+		</script>
+		    	<script type="text/javascript">
+		var services = new Array();
+		services[0] = "chow"; 
+		services[1] = "gamespot"; 
+		services[2] = "tv.com"; 
+		services[3] = "cbssports"; 
+		services[4] = "the insider"; 
+		services[5] = "cnet"; 
+		services[6] = "last.fm"; 
+		services[7] = "cbs"; 
+				
+		var fullServiceNames = ['CHOW', 'Gamespot', 'tv.com', 'CBS Sports', 'the Insider', 'cnet', 'last.fm', 'CBS'];
+		
+		</script>
+		
+		<!-- Homepage Flash -->
+
+<script language="JavaScript" type="text/javascript">
+<!--
+//v1.7
+// Flash Player Version Detection
+// Detect Client Browser type
+// Copyright 2005-2008 Adobe Systems Incorporated.  All rights reserved.
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+function ControlVersion()
+{
+	var version;
+	var axo;
+	var e;
+	// NOTE : new ActiveXObject(strFoo) throws an exception if strFoo isn't in the registry
+	try {
+		// version will be set for 7.X or greater players
+		axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");
+		version = axo.GetVariable("$version");
+	} catch (e) {
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 6.X players only
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");
+			
+			// installed player is some revision of 6.0
+			// GetVariable("$version") crashes for versions 6.0.22 through 6.0.29,
+			// so we have to be careful. 
+			
+			// default to the first public version
+			version = "WIN 6,0,21,0";
+			// throws if AllowScripAccess does not exist (introduced in 6.0r47)		
+			axo.AllowScriptAccess = "always";
+			// safe to call for 6.0r47 or greater
+			version = axo.GetVariable("$version");
+		} catch (e) {
+		}
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 4.X or 5.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+			version = axo.GetVariable("$version");
+		} catch (e) {
+		}
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 3.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+			version = "WIN 3,0,18,0";
+		} catch (e) {
+		}
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 2.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
+			version = "WIN 2,0,0,11";
+		} catch (e) {
+			version = -1;
+		}
+	}
+	
+	return version;
+}
+// JavaScript helper required to detect Flash Player PlugIn version information
+function GetSwfVer(){
+	// NS/Opera version >= 3 check for Flash plugin in plugin array
+	var flashVer = -1;
+	
+	if (navigator.plugins != null && navigator.plugins.length > 0) {
+		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+			var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+			var descArray = flashDescription.split(" ");
+			var tempArrayMajor = descArray[2].split(".");			
+			var versionMajor = tempArrayMajor[0];
+			var versionMinor = tempArrayMajor[1];
+			var versionRevision = descArray[3];
+			if (versionRevision == "") {
+				versionRevision = descArray[4];
+			}
+			if (versionRevision[0] == "d") {
+				versionRevision = versionRevision.substring(1);
+			} else if (versionRevision[0] == "r") {
+				versionRevision = versionRevision.substring(1);
+				if (versionRevision.indexOf("d") > 0) {
+					versionRevision = versionRevision.substring(0, versionRevision.indexOf("d"));
+				}
+			}
+			var flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+		}
+	}
+	// MSN/WebTV 2.6 supports Flash 4
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+	// WebTV 2.5 supports Flash 3
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+	// older WebTV supports Flash 2
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+	else if ( isIE && isWin && !isOpera ) {
+		flashVer = ControlVersion();
+	}	
+	return flashVer;
+}
+// When called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
+{
+	versionStr = GetSwfVer();
+	if (versionStr == -1 ) {
+		return false;
+	} else if (versionStr != 0) {
+		if(isIE && isWin && !isOpera) {
+			// Given "WIN 2,0,0,11"
+			tempArray         = versionStr.split(" "); 	// ["WIN", "2,0,0,11"]
+			tempString        = tempArray[1];			// "2,0,0,11"
+			versionArray      = tempString.split(",");	// ['2', '0', '0', '11']
+		} else {
+			versionArray      = versionStr.split(".");
+		}
+		var versionMajor      = versionArray[0];
+		var versionMinor      = versionArray[1];
+		var versionRevision   = versionArray[2];
+        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
+		if (versionMajor > parseFloat(reqMajorVer)) {
+			return true;
+		} else if (versionMajor == parseFloat(reqMajorVer)) {
+			if (versionMinor > parseFloat(reqMinorVer))
+				return true;
+			else if (versionMinor == parseFloat(reqMinorVer)) {
+				if (versionRevision >= parseFloat(reqRevision))
+					return true;
+			}
+		}
+		return false;
+	}
+}
+function AC_AddExtension(src, ext)
+{
+  if (src.indexOf('?') != -1)
+    return src.replace(/\?/, ext+'?'); 
+  else
+    return src + ext;
+}
+function AC_Generateobj(objAttrs, params, embedAttrs) 
+{ 
+  var str = '';
+  if (isIE && isWin && !isOpera)
+  {
+    str += '<object ';
+    for (var i in objAttrs)
+    {
+      str += i + '="' + objAttrs[i] + '" ';
+    }
+    str += '>';
+    for (var i in params)
+    {
+      str += '<param name="' + i + '" value="' + params[i] + '" /> ';
+    }
+    str += '</object>';
+  }
+  else
+  {
+    str += '<embed ';
+    for (var i in embedAttrs)
+    {
+      str += i + '="' + embedAttrs[i] + '" ';
+    }
+    str += '> </embed>';
+  }
+  document.write(str);
+}
+function AC_FL_RunContent(){
+  var ret = 
+    AC_GetArgs
+    (  arguments, ".swf", "movie", "clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+     , "application/x-shockwave-flash"
+    );
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+}
+function AC_SW_RunContent(){
+  var ret = 
+    AC_GetArgs
+    (  arguments, ".dcr", "src", "clsid:166B1BCA-3F9C-11CF-8075-444553540000"
+     , null
+    );
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+}
+function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
+  var ret = new Object();
+  ret.embedAttrs = new Object();
+  ret.params = new Object();
+  ret.objAttrs = new Object();
+  for (var i=0; i < args.length; i=i+2){
+    var currArg = args[i].toLowerCase();    
+    switch (currArg){	
+      case "classid":
+        break;
+      case "pluginspage":
+        ret.embedAttrs[args[i]] = args[i+1];
+        break;
+      case "src":
+      case "movie":	
+        args[i+1] = AC_AddExtension(args[i+1], ext);
+        ret.embedAttrs["src"] = args[i+1];
+        ret.params[srcParamName] = args[i+1];
+        break;
+      case "onafterupdate":
+      case "onbeforeupdate":
+      case "onblur":
+      case "oncellchange":
+      case "onclick":
+      case "ondblclick":
+      case "ondrag":
+      case "ondragend":
+      case "ondragenter":
+      case "ondragleave":
+      case "ondragover":
+      case "ondrop":
+      case "onfinish":
+      case "onfocus":
+      case "onhelp":
+      case "onmousedown":
+      case "onmouseup":
+      case "onmouseover":
+      case "onmousemove":
+      case "onmouseout":
+      case "onkeypress":
+      case "onkeydown":
+      case "onkeyup":
+      case "onload":
+      case "onlosecapture":
+      case "onpropertychange":
+      case "onreadystatechange":
+      case "onrowsdelete":
+      case "onrowenter":
+      case "onrowexit":
+      case "onrowsinserted":
+      case "onstart":
+      case "onscroll":
+      case "onbeforeeditfocus":
+      case "onactivate":
+      case "onbeforedeactivate":
+      case "ondeactivate":
+      case "type":
+      case "codebase":
+      case "id":
+        ret.objAttrs[args[i]] = args[i+1];
+        break;
+      case "width":
+      case "height":
+      case "align":
+      case "vspace": 
+      case "hspace":
+      case "class":
+      case "title":
+      case "accesskey":
+      case "name":
+      case "tabindex":
+        ret.embedAttrs[args[i]] = ret.objAttrs[args[i]] = args[i+1];
+        break;
+      default:
+        ret.embedAttrs[args[i]] = ret.params[args[i]] = args[i+1];
+    }
+  }
+  ret.objAttrs["classid"] = classid;
+  if (mimeType) ret.embedAttrs["type"] = mimeType;
+  return ret;
+}
+// -->
+</script>
+
+		<!-- end Homepage Flash -->
+
+		
+	<title>CBS Interactive</title>
+    
+	</head>
+	
+	
+	<body id="body">
+	
+	  <div id="main">
+	     <div id="main_wrap">
+	   
+	      <div id="top">
+	         
+	         <div id="logo">
+	           <a href="/index.php"><h1>CBS Interactive</h1></a>
+	         </div>
+	         
+	      </div>
+	  
+	      
+	      <div id="mainnav">
+	         <ul>
+	           <li><a href="/company_info.php">Company Info</a></li>
+	           <li><a href="/our_brands.php">Our Brands</a></li>
+	           <li><a href="/advertise/">Advertise</a></li>
+	           <li><a href="/contacts.php">Contacts</a></li>
+	           <li><a href="/resources.php">Resources</a></li>
+	         </ul>
+	      </div>	      
+	      <div id="rotator"><img src="images/rotator2.jpg" alt="pic" /></div>
+	      
+	      <div id="logo_bar">
+	      <!-- Logo Bar Flash -->
+	      	<script language="JavaScript" type="text/javascript">
+				AC_FL_RunContent(
+				'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0',
+				'width', '981',
+				'height', '38',
+				'src', 'flash/logo_scroller',
+				'quality', 'high',
+				'pluginspage', 'http://www.adobe.com/go/getflashplayer',
+				'align', 'middle',
+				'play', 'true',
+				'loop', 'true',
+				'scale', 'showall',
+				'wmode', 'window',
+				'devicefont', 'false',
+				'id', 'logo_scroller',
+				'bgcolor', '#ffffff',
+				'name', 'logo_scroller',
+				'menu', 'true',
+				'allowFullScreen', 'false',
+				'allowScriptAccess','sameDomain',
+				'movie', 'flash/logo_scroller',
+				'salign', ''
+				); //end AC code
+
+			</script>
+			<noscript>
+				<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="981" height="38" id="logo_scroller" align="middle">
+				<param name="allowScriptAccess" value="sameDomain" />
+				<param name="allowFullScreen" value="false" />
+				<param name="movie" value="flash/logo_scroller.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" />	<embed src="flash/logo_scroller.swf" quality="high" bgcolor="#ffffff" width="981" height="38" name="logo_scroller" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" />
+				</object>
+			</noscript>
+			<!-- end Logo Bar Flash -->
+		  </div>
+	      
+	      
+	      <div id="content">
+	         <h1>Welcome to CBS Interactive</h1>
+
+<p>CBS Interactive is the premier online content network for information and entertainment. Our brands dive deep into the things people care most about across news, sports, entertainment, technology and business.<br /><br />
+
+With hundreds of millions of unique visitors from around the world each month, CBS Interactive is a global top 10 web property and the largest premium content network online. </p>
+	      
+	      </div>
+          <div id="sidebar">
+          	<h2>Featured</h2>
+          	<ul>
+            	<li><a href="/advertise/ad_specs.php">Advertising Specs</a></li>
+            	<li><a href="careers.php">Careers</a></li>
+                <li><a href="http://cbsinteractive.torque360.net">Self-Service Ad Buying</a></li>
+            </ul>
+            
+            <div id="adDiv" style="width:300px; height:250px; margin:20px 0 0 0; border:0px solid red;"></div>
+           <script language="JavaScript" type="text/javascript" src="/js/swfobject10.js"></script>
+           <script language="JavaScript" type="text/javascript">
+                var so = new SWFObject("/ads/cbscorp_gen_300x250_50k.swf", "ad", "300", "250", "8", "#ffffff");
+                so.addVariable("clickTag", "http://cbsinteractive.com/our_brands.php");
+                so.write("adDiv");
+            </script>
+			<img src="http://media.fastclick.net/w/tre?ad_id=22933;evt=15719;cat1=18811;cat2=18813" width="1" height="1" border="0">
+            
+          </div>
+<div class="clear"></div>
+          <div id="footer">
+          	<div id="footer_nav">
+                <ul>
+					<li class="first-clear"><a href="/index.php">Home</a></li>
+                    <li><a href="http://www.cbspressexpress.com/cbs-interactive/" target="_blank">Press</a></li>
+                    <li><a href="http://investors.cbscorporation.com/phoenix.zhtml?c=99462&p=irol-irhome" target="_blank">Investor FAQs</a></li>
+                    <li><a href="/sitemap.php">Sitemap</a></li>
+				
+                    <li class="first-clear"><a href="http://www.cnetnetworks.com/?tag=footer;link">About CBS Interactive</a></li>
+                    <li><a href="http://www.cnetnetworks.com/careers/?tag=footer;link">Jobs</a></li>
+                    <li><a href="http://www.cnetnetworks.com/advertise/?tag=footer;link">Advertise</a></li>
+				
+					
+					 <li class="first-clear">&copy; 2011 CBS Interactive Inc.  All rights reserved.</li>
+					 <li><a href="http://legalterms.cbsinteractive.com/privacy"><strong>Privacy Policy</strong></a></li>
+					 <li><a href="http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1272/">Ad Choice</a></li>
+					 <li><a href="http://legalterms.cbsinteractive.com/terms-of-use"><strong>Terms of Use</strong></a></li>
+				
+				</ul>
+				
+            </div>
+			
+            <div id="footer_search">
+                 <form>
+				 
+				 
+				 
+				 
+<script language="javascript">
+document.write('<div><label for="cbsi_footer_menu">Visit other CBS Interactive Sites</label><br /><select name="cbsi_footer_menu" id="cbsi_footer_menu"><option value="">Select Site</option><option value="http://www.cbscares.com">CBS Cares</option><option value="http://www.cbsfilms.com">CBS Films</option><option value="http://www.cbsradio.com/streaming/index.html">CBS Radio</option><option value="http://www.cbs.com">CBS.com</option><option value="http://www.cbsinteractive.com">CBSInteractive</option><option value="http://www.cbsnews.com">CBSNews.com</option><option value="http://www.cbssports.com">CBSSports.com</option><option value="http://www.chow.com">CHOW</option><option value="http://www.clicker.com">Clicker</option><option value="http://www.cnet.com">CNET</option><option value="http://collegenetwork.cbssports.com">College Network</option><option value="http://findarticles.com">Find Articles</option><option value="http://www.gamespot.com">GameSpot</option><option value="http://www.help.com">Help.com</option><option value="http://www.last.fm">Last.fm</option><option value="http://www.maxpreps.com">MaxPreps</option><option value="http://www.metacritic.com">Metacritic.com</option><option value="http://moneywatch.bnet.com">Moneywatch</option><option value="http://www.mysimon.com">mySimon</option><option value="http://www.radio.com">Radio.com</option><option value="http://www.search.com">Search.com</option><option value="http://www.shopper.com">Shopper.com</option><option value="http://www.sho.com">Showtime</option><option value="http://www.smartplanet.com">SmartPlanet</option><option value="http://www.techrepublic.com">TechRepublic</option><option value="http://www.theinsider.com">The Insider</option><option value="http://www.tv.com">TV.com</option><option value="http://www.urbanbaby.com">UrbanBaby.com</option><option value="http://www.zdnet.com">ZDNet</option></select><input style="margin-left:5px;" type=\"button\" id=\"submit\" value=\"Go\" onClick=\"window.location=document.getElementById(\'cbsi_footer_menu\').options[document.getElementById(\'cbsi_footer_menu\').selectedIndex].value;\" /></div>');
+</script>
+</form>
+  <noscript>
+  <div>
+	<a href="http://www.cbscares.com">CBS Cares</a>  | <a href="http://www.cbsfilms.com">CBS Films</a>  | <a href="http://www.cbsradio.com/streaming/index.html">CBS Radio</a>  | <a href="http://www.cbs.com">CBS.com</a>  | <a href="http://www.cbsinteractive.com">CBSInteractive</a>  | <a href="http://www.cbsnews.com">CBSNews.com</a>  | <a href="http://www.cbssports.com">CBSSports.com</a>  | <a href="http://www.chow.com">CHOW</a>  | <a href="http://www.clicker.com">Clicker</a>  | <a href="http://www.cnet.com">CNET</a>  | <a href="http://collegenetwork.cbssports.com">College Network</a>  | <a href="http://findarticles.com">Find Articles</a>  | <a href="http://www.gamespot.com">GameSpot</a>  | <a href="http://www.help.com">Help.com</a>  | <a href="http://www.last.fm">Last.fm</a>  | <a href="http://www.maxpreps.com">MaxPreps</a>  | <a href="http://www.metacritic.com">Metacritic.com</a>  | <a href="http://moneywatch.bnet.com">Moneywatch</a>  | <a href="http://www.mysimon.com">mySimon</a>  | <a href="http://www.radio.com">Radio.com</a>  | <a href="http://www.search.com">Search.com</a>  | <a href="http://www.shopper.com">Shopper.com</a>  | <a href="http://www.sho.com">Showtime</a>  | <a href="http://www.smartplanet.com">SmartPlanet</a>  | <a href="http://www.techrepublic.com">TechRepublic</a>  | <a href="http://www.theinsider.com">The Insider</a>  | <a href="http://www.tv.com">TV.com</a>  | <a href="http://www.urbanbaby.com">UrbanBaby.com</a>  | <a href="http://www.zdnet.com">ZDNet</a> 
+  </div>
+  </noscript>
+            </div>
+            <div class="clear"></div>
+          </div>
+	  
+	    </div><!-- /main_wrap -->
+	  </div><!-- /main -->
+	  
+	  <script src="http://dw.com.com/js/dw.js"></script>
+	  <script>
+		DW.pageParams = {
+        siteid: '113',
+        ptid: '2001',
+        onid: '13336',
+        ctype: 'corpSitePaths',
+        cval: 'index'
+	    };
+	    DW.clear();
+	    DW.trackClicks();
+	  </script>
+	
+	
+	</body>
+</html>

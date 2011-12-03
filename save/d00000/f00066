@@ -1,0 +1,1471 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>中国娱乐网 www.yule.com.cn - 中娱网 - 伴您娱乐生活每一天</title>
+<meta name="description" content="中国娱乐网成立于2003年，以报道内地、港台、日韩、欧美娱乐新闻为主，涵盖音乐、电影、电视、游戏、视频、演艺、明星、图片、论坛等众多娱乐相关领域，中娱网是最全面最专业的娱乐资讯平台。我们以“快”、“新”、“实”为基点，为广大网民第一时间报道娱乐动态。" />
+<meta name="keywords" content="中国娱乐网,中娱网,娱乐网站,娱乐门户网站,独家娱乐新闻,明星八卦,中娱榜,星语录,娱乐星事件,娱乐新视野,娱乐关键词,娱乐头条,明星生日,娱乐专题。" />
+<link rel="shortcut icon" href="favicon.ico" />
+<style type="text/css">
+/*全局*/
+body{margin:0 auto;padding:0;background:#D1D1D3;color:#666;font:12px '宋体';text-align:center;}
+body div{margin:0px auto;text-align:left;} 
+div,form,ul,ol,li,span,p,dl,dt,dd,img{margin:0;padding:0;border:0;}
+h1,h2,h3,h4,h5,h6{margin:0;padding:0;font-size:12px;font-weight:normal;}
+ul,ol,li{list-style:none;}
+table,td,input,textarea{font-size:12px;}
+.clear{height:0;clear:both;font-size:0;line-height:0;overflow:hidden;}
+.button {background-image: url(images/mainBFocus_News_Top.gif);margin:0 7px;border-width:0px; height:21px;color:#FFF;line-height:21px;font-size:12px;}
+.buttonB {margin:0 7px;border-width:0px;height:21px;color:#FFF;line-height:21px;font-size:12px;background-color: #000000;font-weight: bold;}
+.texttxtR{border: #ffffff 0px solid;font-size: 12px;border-bottom: #c36 1px solid;background-color: #ffffff;height: 18px;position: relative;top: 0px; line-height:18px;}
+.buttonBlue { width:55px; background:url(images/oneimg.gif) no-repeat 0px -79px; height:28px; line-height:28px; color:#3a5e04; font-weight:bold;border-width:0px;}
+.texttxtBlue{border:#376121 1px solid; line-height:26px; padding:0px 3px; width:180px; background:#deebf5; color:#a4a4a4; height:26px;}
+
+body{margin:0px auto;padding:0;background:#000; background-image:url(http://img2.lnok.net/yule/bd/jay2011.jpg); background-position: top; background-repeat:no-repeat;color:#666;font:12px '宋体';text-align:center;}
+#bdAd { position:relative; height:520px;margin:0px auto 0; width:950px;}
+#bdAd #LogoLink{position:absolute;left:0px;top:365px;width:950px;height:155px;z-index:101;}
+#bdAd #FCBtn{position:absolute;left:301px;top:312px;width:117px;height:43px;z-index:101;}
+#bdAd #FCNum{position:absolute;left:52px;top:349px;width:102px;height:25px;font-family:"微软雅黑";font-size:20px;font-weight:bold; color:#FEA912;z-index:101; text-align:center;}
+
+
+/* 链接颜色 */
+a{color:#333;text-decoration:none;}
+a:hover{color:#C00;text-decoration:underline;}
+.FCBlue {color:#06c}
+.FCBlue a{color:#06c;text-decoration:none;}
+.FCBlue a:hover{color:#C00;text-decoration:underline;}
+.FCRed {color:#C00;}
+.FCRed a{color:#C00;text-decoration:none;}
+.FCRed a:hover{color:#C00;text-decoration:underline;}
+.FCBlack {color:#000;}
+.FCBlack a{color:#000;text-decoration:none;}
+.FCBlack a:hover{color:#000;text-decoration:underline;}
+.FCGray {color:#666;}
+.FCGray a{color:#666;text-decoration:none;}
+.FCGray a:hover{color:#C00;text-decoration:underline;}
+/* 字号大小*/
+.FS12 {font-size:12px;}
+.FS14 {font-size:14px;}
+.FS15 {font-size:15px;}
+.FS17 {font-size:17px;}
+.FS18 {font-size:18px;}
+.FS20 {font-size:20px;}
+/* 字体*/
+.FFSong {font-family:'宋体';}
+.FFBlack {font-family:'黑体';}
+.FFEn {font-family: Verdana, Arial, Helvetica, sans-serif;}
+/* 字体加粗*/
+.FW {font-weight:normal;}
+.FWB {font-weight: bold;}
+.FWBer {font-weight: bolder;}
+/* 字体对齐*/
+.FAL { text-align:left;}
+.FAR { text-align:right;}
+.FAC { text-align:center;}
+.FAJ { text-align:justify;}
+.FAI { text-align:inherit;}
+/*背景色*/
+.BGDe { background-color:#D1D1D3!important;}
+.BG6 { background-color:#666!important;}
+.BG0 { background-color:#000!important;}
+.BGF { background-color:#FFF!important;}
+/*高度*/
+.AH12 {height:12px;}
+.AH10 {height:10px;overflow:hidden;}
+.AH8 {height:8px;}
+.AH4 {height:4px;overflow:hidden;}
+.AH2 {height:2px;overflow:hidden;}
+.AH1 {height:1px;overflow:hidden;}
+.AH0 {height:0px; overflow:hidden;}
+
+list img, .listImg{border:1px #CCC solid;padding:1px;}
+list img a:hover img, a:hover .listImg{border:1px #C00 solid;}
+
+
+.magrtop20 {margin-top:20px;}
+/*区块设置 */
+
+.area{margin:0px auto 0; width:950px;background-color:#FFFFFF;}
+.area .areaL{width:300px;float:left;background-color:#FFFFFF;}
+.area .areaLM{width:670px;float:left;background-color:#FFFFFF}
+.area .areaM{width:370px;float:left;background-color:#FFFFFF;}
+.area .areaR{width:280px;float:left;background-color:#FFFFFF;}
+.area .areaMR{width:650px;float:left;background-color:#FFFFFF;}
+.area .areaMR_M{width:470px;float:left;background-color:#FFFFFF;}
+.area .areaMR_R{width:180px;float:left;background-color:#FFFFFF;}
+
+/*页面顶部*/
+#mainTop {height:30px;position:relative;}
+#mainTop div{height:30px;padding-right:24px;line-height:30px;text-align:right;background-image:url(images/top_swsy.jpg);background-repeat: no-repeat;background-position: right top;}
+#mainTop span{position:absolute;left: 249px;top: 9px;}
+/*logo Div*/
+#mainLogo {overflow:hidden;font-size: 14px;line-height: 25px;}
+#mainLogo #logo{width:175px;float:left;}
+#mainLogo #logo_Search{width:615px;float:left;}
+#mainLogo #logo_Search #logo_SearchL {background-image: url(images/logo_Search_Left.jpg);background-position: left center;height: 50px;background-repeat: no-repeat;}
+#mainLogo #logo_Search #logo_SearchR {height: 50px;background-image: url(images/logo_Search_Right.jpg);background-repeat: no-repeat;background-position: right center;}
+#mainLogo #logo_Search #logo_SearchM {background-image: url(images/logo_Search_Mid.jpg);background-repeat: repeat-x;height: 50px;margin-left: 54px;margin-right: 54px;font-size: 12px;line-height: 20px;color: #333333;font-weight: normal;position: relative;}
+#mainLogo #logo_Search #logo_SearchM .buttonSearch {background-image: url(images/logo_Search_Button.jpg);height: 25px;width: 81px;margin: 0px;padding: 0px;border-top-style: none;border-right-style: none;border-bottom-style: none;border-left-style: none;}
+#mainLogo #logo_Search #logo_SearchL #logo_SearchR #logo_SearchM .texttxtSearch {background-image: url(images/logo_Search_text.jpg);border: none;margin: 0px;padding: 0px;height: 27px;width: 268px;position: absolute;top: 13px;left: 23px;line-height: 27px;padding-left: 10px;}
+#mainLogo #logo_Search #logo_SearchM div {height: 27px;margin-top: 15px;float:right;}
+#mainLogo #logo_Search #logo_SearchM div {position: absolute;right: 13px;top: 1px;}
+#mainLogo #logo_AD{width:160px;float:left;}
+/*Nav Div*/
+#mainNav{height:36px;line-height:36px;font-size:14px;font-weight:bold;background:#bc3224 url(images/mainNav_bg.gif) left top repeat-x;}
+#mainNav .rl{background:url(images/mainNav_lbg.gif) left top no-repeat;}
+#mainNav .rr{background:url(images/mainNav_rbg.gif) right top no-repeat;height:36px;}
+#mainNav li{float:left;padding-left:21px;margin-right:21px;background:url(images/mainNav_sp.gif) left top no-repeat;}
+#mainNav li .home{background:none;}
+#mainNav li a{color:#fff;}
+#mainNav li a:hover{color:#ffc7c7;}
+/*mainBFocus Dic*/
+#mainBFocus {height:710px;text-align: left;background-color:#e1e1e1;}
+/*main幻灯片*/
+#imgnavall {border: 4px solid #000000;width: 292px;}
+#imgnav a img{ border:none;}
+.imgnav{ height:428px; background:#000; width:288px; overflow:hidden; border:2px solid #F69; position:relative; border-bottom-width:0px;}
+#imgnav #img{ z-index:10;width:288px; height:400px;overflow:hidden;}
+#imgnav #img img{ width:288px; height:400px; display:none;overflow:hidden;}
+#imgnav .ctrl{ position:absolute; z-index:100; bottom:0px; left:0px; right:0px; height:28px; overflow:hidden;background:#000;}
+#imgnav .ctrl span{float:left; width:20px; height:20px; line-height:20px; cursor:pointer; margin-top:4px; margin-right:3px; background:#303030; text-align:center;color:#999; font-size:12px;}
+#imgnav .ctrl span.hov{ background:#C60; color:#FFFFFF;}
+#imgnav .ctrl div{ float:right; width:115px;}
+#imgnav_AD {background-image: url(images/imgnav_sp.png);height: 106px;width: 292px;}
+/*活动*/
+#mainBFocus .Activity{width:298px;border:1px solid #e3e3e3;background:url(images/mainBFocus_Activity_title.gif) left top repeat-x;clear:both; text-align:left;}
+#mainBFocus .Activity h3{height:30px;font-size:14px;padding-left:24px;line-height:30px;background:url(images/mainBFocus_Activity_dot.gif) 12px 7px no-repeat;position:relative;}
+#mainBFocus .Activity h3 span{position:absolute;right:10px;top:0;font-weight:normal;font-size:12px;}
+#mainBFocus .Activity div.con{padding:5px;}
+#mainBFocus .Activity ul{}
+#mainBFocus .Activity li{line-height:30px;border-bottom:1px solid #efefef;position:relative;zoom:1;text-align:left;}
+#mainBFocus .Activity li.on *{color:#e10601;}
+#mainBFocus .Activity li.on span{font-weight:bold;}
+#mainBFocus .Activity li.last{border-bottom:none;}
+#mainBFocus .Activity li strong{color:#666;margin:0 8px 0 5px;}
+#mainBFocus .Activity li span{position:absolute;left:224px;top:0;color:#777;}
+/*焦点新闻*/
+#mainBFocus #newsFocus {background-image: url(images/mainBFocus_News_hot.gif);background-repeat: no-repeat;background-position: right top;line-height:16px;padding-left: 20px;}
+#mainBFocus #newsFocus h1 {font-family: "黑体";font-size: 18px;font-style: normal;line-height: 35px;font-weight: normal;}
+#mainBFocus #newsFocus div{line-height:20px;}
+#mainBFocus #newsFocusTitleImg {text-align:left;padding-top: 12px;padding-right: 12px;padding-bottom: 12px;padding-left: 0px;}
+#mainBFocus .areaM #newsExclusive{height:135px; margin-bottom:6px;}
+#mainBFocus .areaM #newsExclusive #listhome { margin-top:8px;}
+#mainBFocus .areaM #newsExclusive #listhome li{float:left;width:70px;height:32px;font-size: 14px;line-height: 32px;font-family: Verdana, Arial, Helvetica, sans-serif;font-weight: bold;}
+#mainBFocus .areaM #newsExclusive #listhome .home {margin-left:25px; padding-left:16px;background-image: url(images/mainBFocus_News_Exclusive.gif);background-repeat: no-repeat; color:#FFFFFF}
+#mainBFocus ul.pic_news{border-bottom:1px solid #e5e5e5;height:100px;overflow:hidden;margin-bottom:1px;margin-top:1px;}
+#mainBFocus ul.pic_news li{width:110px;float:left;text-align:center;margin-left:0px;}
+#mainBFocus ul.pic_news li.home{margin-left:25px;}
+#mainBFocus ul.pic_news li img{width:95px;height:70px;display:block;}
+#mainBFocus ul.pic_news li a{line-height:32px;}
+#mainBFocus .areaM #newsVote #newsVotePart {font-weight:normal;font-weight:normal;font-family: "宋体";text-align: right;width: 320px;margin:auto;height:45px;position:relative;font-size:16px;line-height: 25px;}
+#mainBFocus .areaM #newsVote #newsVotePart #dc{position:absolute;right:170px;top:20px;height:25px;width:130px;color: #FFFFFF;background-color: #690;padding-right: 20px;}
+#mainBFocus .areaM #newsVote #newsVotePart #other{position:absolute;right:0px;top:20px;height:25px;width:151px;text-align: right;padding-right: 20px;color: #FFFFFF;background-color: #CCCCCC;}
+#mainBFocus .areaM #newsVote #newsVotePart #Figure{position:absolute;right:262px;top:5px;height:41px;width:39px;background-image: url(images/mainBFocus_News_VotePart_Figure.gif);background-repeat: no-repeat;}
+#mainBFocus .areaM #newsVote #newsVoteCon {margin-top:6px;}
+#mainBFocus .areaM #newsVote #newsVoteCon #title {font-family: "宋体";font-size: 14px;line-height: 20px; color:#06c; text-align:center; }
+#mainBFocus .areaM #newsVote #newsVoteCon #title a{color:#06c;}
+#mainBFocus .areaM #newsVote #newsVoteCon #title a:hover{color:#C00;text-decoration:underline;}
+#mainBFocus #newsVote #newsVotePart #other {font-size: 12px;}
+#mainBFocus .areaM #newsVote #newsVoteCon #content {padding-top: 5px;padding-right: 15px;padding-bottom: 5px;padding-left: 15px; line-height:18px;}
+#mainBFocus .areaM #newsVote #newsVoteCon #content a{color:#C00;}
+#mainBFocus .areaM #newsVote #newsVoteCon #content a:hover{color:#C00;text-decoration:underline;}
+#mainBFocus .areaM #newsVote #newsVoteDetail {height: 64px;position:relative;}
+#mainBFocus .areaM #newsVote #newsVoteDetail span{position:absolute;}
+#newsVote #newsVoteDetail #VoteID { display:none;}
+#mainBFocus .areaM #newsVote #newsVoteDetail #SupportButton{position:absolute;left: 25px;top:15px;width:60px;height:27px;}
+#mainBFocus .areaM #newsVote #newsVoteDetail #OppositionButton{position:absolute;top:15px;width:60px;height:27px;right: 25px;}
+#mainBFocus .areaM #newsVote #newsVoteDetail #Support{position:absolute;left: 25px;top:15px;width:60px;height:27px;background-image: url(images/mainBFocus_News_Vote_Support.gif);background-repeat: no-repeat;background-position: 40px center;}
+#mainBFocus .areaM #newsVote #newsVoteDetail #Opposition{position:absolute;top:15px;width:60px;height:27px;background-image: url(images/mainBFocus_News_Vote_Opposition.gif);background-repeat: no-repeat;background-position: 8px center;right: 25px;font-family: "宋体";font-size: 12px;}
+#mainBFocus .areaM #newsVote #newsVoteDetail #SupportBar{position:absolute;left:95px;top: 20px;width:85px;height:18px;background-image: url(images/mainBFocus_News_Vote_SupportBar.gif);background-repeat: repeat-x;text-align:center;font-family: "宋体";font-size: 10px;line-height: 20px;color: #FFFFFF;}
+#mainBFocus .areaM #newsVote #newsVoteDetail #OppositionBar{position:absolute;top:20px;width:85px;height:20px;background-image: url(images/mainBFocus_News_Vote_OppositionBar.gif);background-repeat: repeat-x;background-position: 8px center;text-align:center;font-family: "宋体";font-size: 10px;line-height: 20px;right: 95px; color:#FFFFFF;}
+#mainBFocus #mainBFR {height: 710px;border-left-width: 1px;border-left-style: solid;border-left-color: #CCCCCC;background-color: #F1f1f1;}
+#mainBFocus #mainBFR h3{height:30px;font-size:14px;padding-left:24px;line-height:30px;background:url(images/mainBFocus_Activity_dot.gif) 12px 7px no-repeat;font-family: arial, "宋体";font-weight: bold;color: #CC0000;position:relative;}
+#mainBFocus #mainBFR h3 span{position:absolute;right:10px;top:0;font-weight:normal;font-size:12px;font-family:'宋体';}
+#mainBFocus #mainBFR #Keyword {height: 100px;border:1px solid #e3e3e3;background:url(images/mainBFocus_Activity_title.gif) left top repeat-x;clear:both;}
+#mainBFocus #mainBFR #Keyword #KeywordLink {padding-top: 8px;padding-left:14px;padding-bottom: 8px;}
+#mainBFocus #mainBFR #Keyword #KeywordLink a {font-family: "宋体";font-size: 14px;font-style: normal;font-weight: normal;margin: 5px;padding: 5px;line-height: 20px;margin-top:30px; color:#333333;}
+#mainBFocus #mainBFR #Topics {height: 140px;border:1px solid #e3e3e3;background:url(images/mainBFocus_Activity_title.gif) left top repeat-x;clear:both;}
+#mainBFocus #mainBFR #Topics h3{height:30px;font-size:14px;padding-left:24px;line-height:30px;position:relative;font-family: arial, "宋体";font-weight: bold;color: #CC0000;margin-bottom:10px;background:url(images/mainBFocus_Activity_dot.gif) 12px 7px no-repeat;}
+/*排行榜*/
+#mainBFocus #mainBFR #Top {border:1px solid #e3e3e3;background:url(images/mainBFocus_Activity_title.gif) left top repeat-x;clear:both;text-align:left;}
+#mainBFocus #mainBFR #Top h3{height:30px;font-size:14px;padding-left:24px;line-height:30px;position:relative;font-family: arial, "宋体";font-weight: bold;color: #CC0000;background:url(images/mainBFocus_Activity_dot.gif) 12px 7px no-repeat;}
+#mainBFocus #mainBFR #Top h3 span{position:absolute;right:10px;top:0;font-weight:normal;font-size:12px;font-family:'宋体';}
+#mainBFocus #mainBFR #Top li{margin-right:17px;line-height:16px; padding:5px 0px 5px 20px;text-align:left;}
+#mainBFocus #mainBFR #Top li img{padding:2px 2px 13px;border:0;background:url(images/mainBFocus_News_Top_Video.gif);}
+#mainBFocus #mainBFR #Top li a:hover img{border:0;}
+#mainBFocus #mainBFR #Top li div {font-family: tahoma;font-size: 10px;line-height: 13px;background-image: url(images/mainBFocus_News_Top.gif);background-position: 0px -190px;text-align: center;width: 16px;margin-right: 12px;height: 13px;color: #FFFFFF;overflow: hidden;float:left;}
+#mainBFocus #mainBFR #Top .snred {background-image: url(images/mainBFocus_News_Top.gif);background-position: -20px -190px;}
+#mainBFocus #mainBFR #Top .home {position: relative; height:90px;}
+#mainBFocus #mainBFR #Top .home span {position: absolute;left: 156px;top: 8px;width: 105px;height: 82px;}
+#mainBFocus #mainBFR #Top .home div {position: absolute;left: 21px;top: 39px;width: 16px;height: 13px;}
+#mainBFocus #mainBFR #Top .home img {position: absolute;left: 52px;top: 7px;width: 95px;height: 70px;}
+/*投票调查*/
+#Vote {background-color: #F1F1F1;width: 300px;height:290px;position: relative;font-size: 12px;}
+#Vote h3 {font-family: "宋体";font-size: 14px;color: #CC0000;line-height: 20px;padding-left: 17px;padding-top: 24px;font-weight: bold;}
+#Vote #pic {position: absolute;left: 17px;top: 54px;height: 76px;width: 100px;}
+#Vote #title {position: absolute;left: 122px;top: 50px;height: 20px;width: 159px;text-indent: 12px;font-weight: bold;color: #333333;line-height: 20px;}
+#Vote #con {position: absolute;left: 122px;top: 72px;height: 58px;width: 159px;text-indent: 12px;color: #333333;line-height: 18px;}
+#Vote #Options {position: absolute;left: 19px;top: 140px;height: 91px;width: 256px;text-indent: 0px;color: #333333;line-height: 25px;}
+#Vote #Buttons {position: absolute;left: 67px;top: 255px;height: 19px;width: 154px;text-indent: 12px;color: #333333;line-height: 18px;}
+/*新闻列表*/
+.area .areaL #newsTopicPic {margin-top: 20px;}
+.area .areaL #newsTopicPicB {margin-top: 0px;}
+.newsListTitleTypeA {height: 30px;background-color:#E3E3E3;line-height:30px;}
+.newsListTitleTypeA #title {background-color: #D94275;background-image:url(images/newsListTitleTypeA.gif);background-position: right center;background-repeat: no-repeat;float: left;width: 670px;position:relative;}
+.newsListTitleTypeA #title h3 {height:30px;line-height:30px;font-size:14px;font-weight:bold;color:#fff;margin-left:35px;}
+.newsListTitleTypeA #title h3 a{height:30px;line-height:30px;font-size:16px;font-weight:bold;color:#fff;}
+.newsListTitleTypeA #title h3 a:hover{height:30px;line-height:30px;font-size:16px;font-weight:bold;color:#fff;}
+.newsListTitleTypeA #title span {height:32px;line-height:30px;font-size:14px;font-weight:bold;color:#fff;position:absolute;left: 359px;top: -3px;width: 306px;}
+.newsListTitleTypeA #link {text-align: right;padding-right: 18px;}
+
+.newsListTitleTypeB {background-color: #000000;height: 57px;background-image: url(images/newsListTitleTypeB_Mid.jpg);background-repeat: repeat-x;}
+.newsListTitleTypeB .l {background-image: url(images/newsListTitleTypeB_Left.jpg);background-repeat: no-repeat;background-position: left;height: 57px;}
+.newsListTitleTypeB .l .r {background-image: url(images/newsListTitleTypeB_Right.jpg);background-repeat: no-repeat;background-position: right;height: 57px;}
+.newsListTitleTypeB .l .r .title {font-family: "宋体";font-size: 30px;line-height: 57px;font-weight: bold;color: #FFFFFF;text-indent: 15px;}
+
+.newsListTitleTypeC {line-height: 35px;height: 35px;background-color:#5f5f5f;}
+.newsListTitleTypeD { background-image:url(images/index/newsListTitleTypeD_title_bg.gif); background-repeat:repeat-x; background-color:#D1D1D3; height:105px;}
+.newsListTitleTypeD #title h3 { height:70px; width:140px; margin:0px auto;}
+
+/*列表*/
+#newsListTitle3 .areaM { height:22px; font:12px '宋体'; text-align:left; line-height:22px; padding-top:13px;background-color:#D1D1D3;}
+#newsListTitle3 .areaM div { padding:0px 18px;}
+#newsListTitle3 .areaM div a { padding:0px 18px;}
+#newsListTitle3 .areaR { height:35px;background-color:#D1D1D3;}
+
+.area .newsListClassDetail h2 {font-family: "宋体";font-size: 12px;line-height: 30px;color: #333;text-align: right;height: 30px;font-weight: normal;padding-top: 0px;padding-right: 38px;padding-bottom: 0px;padding-left: 28px; }
+.area .newsListClassDetail span {font-size: 14px;color: #C00;float: left;font-weight: bold;}
+.area .newsListClassDetail span a {color: #C00;}
+.area .newsListClassDetail span a:hover {color: #C00;}
+.area .newsListClassDetail span#FCBlack {font-size: 14px;color: #000;float: left;font-weight: bold;}
+.area .newsListClassDetail span#FCBlack a {color: #000;}
+.area .newsListClassDetail span#FCBlack a:hover {color: #000;}
+.area .newsListClassDetail li {font-size: 14px;line-height: 16px;padding-top: 6px;padding-right: 0px;padding-bottom: 6px;padding-left: 0px; text-align:left;}
+.area .newsListClassDetail {padding-left: 12px;text-align:left; }
+.area .areaR #news1 {height: 568px;}
+.area .areaR .Gray {border-left-width: 1px;border-left-style: solid;border-left-color:#CCCCCC;background-color: #F1F1F1;}
+.area .areaR #news2 {height: 523px;}
+.area .areaR .Blue {background-color: #2378B9;background-image: url(images/BlueBG.gif);background-position: center top;background-repeat: no-repeat; color:#d3e4f1; padding-left:15px; overflow:hidden; width:265px; line-height:21px;}
+
+
+/*Music*/
+.area #MusicTop {font-family: "宋体";font-size: 12px;height: 392px;position: relative;}
+.area #MusicTop .MusicImg {position: absolute;left: 6px;top: 6px;}
+.area #MusicTop .MusicTitle {position: absolute;left: 160px;top: 14px;width: 500px;font-size: 18px;line-height: 22px;font-weight: bold;color: #000000;}
+.area #MusicTop .MusicIntroduction {position: absolute;left: 160px;top: 42px;width: 500px;height: 35px;line-height: 16px;}
+.area #MusicTop .MusicIntroduction a{color:#C00;}
+.area #MusicTop .MusicIntroduction a:hover{color:#C00;text-decoration:underline;}
+.area #MusicTop .MusicList {position: absolute;left: 209px;top: 87px;width: 452px;height: 56px;line-height: 18px;}
+.area #MusicTop .MusicTitle span {font-size: 14px;line-height: 20px;}
+.area #MusicTop .MusicListImg {position: absolute;line-height: 55px;top: 92px;bottom: 5px;left: 159px;}
+
+.area #MusicTop .MusicList li{float: left;width: 33%;overflow: hidden;}
+.area #MusicTop #RecommendedSongs {position: absolute;left: 7px;top: 150px;border-top-width: 3px;border-top-style: solid;border-top-color: #000000;height: 238px;overflow: hidden;background-color: #000000;width: 295px;}
+.area #MusicTop #RecommendedMV {position: absolute;left: 300px;top: 150px;border-top-width: 3px;border-top-style: solid;border-top-color: #000000;height: 240px;}
+#RecommendedSongsTemp {position: absolute;padding-top:4px;z-index: 100;width: 132px;height:74px;background:#CC0000 url(images/RecommendedSongsTemp.gif) left top repeat-x;text-align: center; display:none; overflow:visible; line-height:20px;}
+#RecommendedSongsTemp a{color:#FFFFFF;}
+#RecommendedSongsTemp a:hover{color:#FFFFFF;}
+
+.area #MusicTop #RecommendedSongs li {float: left;padding-top: 3px;padding-right: 5px;padding-bottom: 0px;padding-left: 5px;height: 74px;width: 124px; line-height:20px; color:#FFFFFF; overflow:hidden;}
+.area #MusicTop #RecommendedSongs li a{color:#FFFFFF;}
+.area #MusicTop #RecommendedSongs li a:hover{color:#FFFFFF;}
+.area #MusicTop #RecommendedSongs ul {margin-left: 15px;margin-top: 0px;}
+.area #MusicNews {border-left-width: 3px;border-left-style: solid;border-left-color: #000000;}
+.area #MusicTop #RecommendedMV #title {font-family: "黑体";font-size: 18px;line-height: 30px;color: #000000;text-indent: 30px;font-weight: normal;}
+.area #MusicTop #RecommendedMV #mv {height: 180px;text-align: center;padding-top: 5px;}
+
+/*友情链接*/
+#FriendLinkTitle #title {font-family: "宋体";font-size: 16px;vertical-align: bottom;font-weight: bold;color: #333333;line-height: 35px;background-image: url(images/friendlink.jpg);background-repeat: no-repeat;background-position: left;margin-left: 30px;width: 100px;height: 35px;}
+#flinkurl {font-family: "宋体";font-size: 12px;line-height: 20px;border-right-width: 2px;border-bottom-width: 2px;border-left-width: 2px;border-right-style: solid;border-bottom-style: solid;border-left-style: solid;border-right-color: #5F5F5F;border-bottom-color: #5F5F5F;border-left-color: #5F5F5F;padding-top: 12px;padding-right: 30px;padding-bottom: 24px;padding-left: 30px;}
+#FriendLink  #footer {text-align: center;}
+#footer {text-align: center;margin-top: 20px;}
+#FooterChannel {margin: 20px 10px 0px 10px;border: 1px solid #CCCCCC;text-align: center;line-height: 30px;height: 30px;background-image: url(images/yule_bg_32.gif);background-color: #CCCCCC;}
+#FooterChannel a{color:#666;}
+#FooterChannel a:hover{color:#C00;}
+.area .newsTop {height: 36px;width: 100%;border-bottom-width: 2px;border-bottom-style: solid;border-bottom-color: #336699;overflow: hidden;}
+.area .areaL .leftNewsTopPadding {margin-top: 1px;margin-left: 20px;height: 34px;}
+.area .areaL .ImgList li {width: 240px;font-size: 14px;line-height: 18px;text-align: center;margin-top: 5px;margin-right: auto;margin-bottom: 5px;margin-left: 25px;}
+.area .areaL .ImgList ul {width: 240px;}
+.area .areaL .ImgList {width: 296px;border-right-width: 4px;border-right-style: solid;border-right-color: #CC0000;overflow: hidden;height: 485px;}
+
+
+
+#right1 {height: 568px;width: 279px;}
+#StarCommunity #title {position:relative;}
+#StarCommunity #title h2 {font-family: "宋体";font-size: 12px;line-height: 30px;color: #333;text-align: right;height: 30px;font-weight: normal;padding-top: 10px;padding-right: 38px;padding-bottom: 4px;padding-left: 16px; }
+#StarCommunity #title span {font-size: 14px;color: #C00;float: left;font-weight: bold;}
+#StarCommunity #newslist{line-height:16px;text-align:left;position:relative;}
+#StarCommunity li{line-height:14px; padding:5px 15px 5px 10px;text-align:left;}
+#StarCommunity li.home{line-height:16px;padding:5px 1px 5px 20px;text-align:left;position:relative;height: 75px;}
+#StarCommunity #newslist .home #Img {position: absolute;left: 15px; height:70px; width:95px}
+#StarCommunity #newslist .home #Img .listImg {}
+#StarCommunity #newslist .home #Link {position: absolute;left: 119px;top: 9px;width: 150px;}
+#StarCommunity #newslist .home #Link a{color:#CC0000;font-weight:bold;}
+#StarCommunity #newslist .home #Con {position: absolute;left: 120px;top: 31px;width: 148px;}
+
+#BulletinBoard {margin-top: 10px;border-top-width: 1px;border-top-style: solid;border-top-color: #C0C0C0;}
+#BulletinBoard h2{font-family: "宋体";font-size: 12px;line-height: 30px;color: #333;text-align: right;height: 30px;font-weight: normal;padding-top: 10px;padding-right: 38px;padding-bottom: 4px;padding-left: 16px; }
+#BulletinBoard h2 span {font-size: 14px;color: #C00;float: left;font-weight: bold;padding-bottom: 2px;}
+#BulletinBoard #newslist{line-height:16px;text-align:left;position:relative;}
+#BulletinBoard .nofocus{margin-right:0px;line-height:16px;padding:0px;text-align:left;position:relative;height: 21px;border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #FFFFFF;overflow: hidden;margin-bottom: 0px;margin-top: 0px;}
+#BulletinBoard #newslist .nofocus #Img .listImg {position: absolute;left: 52px;width: 47px;height: 48px;top: 14px;display:none;}
+#BulletinBoard #newslist .nofocus #Link {position: absolute;left: 62px;top: 5px;width: 198px;}
+#BulletinBoard #newslist .nofocus #Link a{}
+#BulletinBoard #newslist .nofocus #Con {position: absolute;left: 118px;top: 31px;display:none;}
+#BulletinBoard #newslist .nofocus #fbg {position: absolute;height: 74px;width: 37px;left: 0px;top: 0px;display:none;}
+#BulletinBoard #newslist .nofocus #nobg {position: absolute;height: 26px;width: 39px;left: 0px;top: 0px; overflow:hidden;}
+#BulletinBoard .focus{margin-right:0px;line-height:16px;padding:0px 0px 0px 0px;text-align:left;position:relative;height: 70px;border-top-width: 1px;border-bottom-width: 1px;border-top-style: solid;border-bottom-style: solid;border-top-color: #CC0000;border-bottom-color: #CC0000;overflow: hidden;}
+#BulletinBoard #newslist .focus #Img .listImg {position: absolute;left: 52px;width: 54px;height: 54px;top: 6px;}
+#BulletinBoard #newslist .focus #Link {position: absolute;left: 119px;top: 9px; display:none;}
+#BulletinBoard #newslist .focus #Link a{color:#CC0000;font-weight:bold;}
+#BulletinBoard #newslist .focus #Con {position: absolute;left: 114px;top: 8px;height: 53px;width: 154px; line-height:18px;}
+#BulletinBoard #newslist .focus #fbg {position: absolute;height: 74px;width: 37px;left: 0px;top: 0px;}
+#BulletinBoard #newslist .focus #nobg {position: absolute;height: 26px;width: 39px;left: 0px;top: 0px;display:none;}
+
+
+
+.area .areaR #moveSearch {padding: 15px 0px 15px 5px;}
+.Blue h3 {font-size: 14px;line-height: 22px;color: #fff;float: left;padding-top: 0px;padding-right: 10px;padding-bottom: 5px;padding-left: 15px;position:relative;width: 240px;font-weight: bold;border-bottom:#679ccd 1px dashed;clear: both;}
+.Blue h3 a{font-size: 12px;line-height: 22px;color: #fff;float:right;position:absolute;left: 195px;top: 2px; font-weight:100;}
+.Blue strong {width: 250px;clear: both;float: none;}
+.Blue h4 {text-align: left;line-height:21px;font-weight:bold;display: inline;padding:6px 0px 0px 15px;margin:6px 0px 0px 0px;margin-top: 10px;}
+.Blue h5 {font-size: 14px;line-height: 22px;color: #fff;float: left;padding-top: 0px;padding-right: 10px;padding-bottom: 5px;padding-left: 15px;width: 230px;font-weight: bold;border-bottom:#679ccd 1px dashed;clear: both;position:relative;}
+.Blue h5 a{font-size: 14px;line-height: 22px;color: #fff;font-weight:bold;}
+.Blue h5 span {position:absolute;left: 191px;top: 2px;width: 35px;height: 28px;}
+.Blue h5 span a{font-size: 12px;line-height: 22px;color: #fff;float:right; font-weight:100;}
+.Blue a {color:#d3e4f1;text-align: left; line-height:21px;text-decoration:none;}
+.Blue a:hover {color:#d3e4f1;text-align: left; line-height:21px;text-decoration:underline;}
+.Blue #Img .home { width: 130px;float: left;}
+.Blue #Img ul {width: 278px;clear: both;}
+.Blue #Img ul li{width: 110px; text-align:center;}
+.area .googleAD_728_90 {float: left;width: 728px;}
+.area .ad_222 {float: left;width: 222px;}
+
+#HighDefinitionContent {background-color: #F1F1F1;}
+#HighDefinitionLeftContent .content {height: 256px; padding-top:14px;}
+.area .areaL #HighDefinitionLeftContent .content #title {font-family: "宋体";font-size: 14px;line-height: 23px; height: 25px;font-weight: bold;color: #000000;cursor:pointer; overflow:hidden;}
+.area .areaL #HighDefinitionLeftContent .content #title span { float:left;}
+.area .areaL #HighDefinitionLeftContent .content #title li { padding:0px 12px; float:left;}
+.area .areaL #HighDefinitionLeftContent .content #title li.red { color:#CC0000; background-color:#E9E9E9;}
+.area .areaL #HighDefinitionLeftContent .content #picTitleContent{position: relative; height:100px;}
+.area .areaL #HighDefinitionLeftContent .content #picTitleContent li{position: absolute;}
+.area .areaL #HighDefinitionLeftContent .content #picTitleContent li.pic {left: 14px;top: 14px;width: 97px;}
+.area .areaL #HighDefinitionLeftContent .content #picTitleContent li.pic a img{border: 1px solid #CCCCCC; padding:1px;}
+.area .areaL #HighDefinitionLeftContent .content #picTitleContent li.pic a:hover img{border: 1px solid #CC0000;}
+.area .areaL #HighDefinitionLeftContent .content #picTitleContent li.title {left: 130px;top: 14px;width: 160px; font-size:12px; font-weight: bold; line-height:22px; height:22px;}
+.area .areaL #HighDefinitionLeftContent .content #picTitleContent li.con {left: 130px;top: 44px;width: 160px;}
+.area .areaL #HighDefinitionLeftContent .content #list {font-size:12px; line-height:24px; padding-left:14px;}
+.area .areaMR .areaMR_M .adv {height: 100px; background-color:#FFFFFF; padding:10px 0px 0px 20px; }
+.area .areaMR .areaMR_M .list {height:312px;}
+.area .areaMR .areaMR_M .list .listPicTitle .title {padding-top:10px;}
+.area .areaMR .areaMR_M .list{ padding-left:10px;padding-top:10px;}
+.area .areaMR .areaMR_M .list .listPicTitle {height: 135px;width: 132px; float:left; padding:10px;}
+.area .areaMR .areaMR_M .list .listPicTitle .title {padding-top:10px;}
+#v_movie.tx { font:12px '宋体'; text-align:left;border:#bcbcbc 1px solid; margin-right:3px;color:#bbb; line-height:26px;height:22px; width:190px;}
+#v_searchBtn.btn {background: url(images/index/newsListTitleTypeD_search_btn.gif) no-repeat;border:#CC0000 2px solid;color:#fff;line-height:25px;width:61px;height:25px;font-size:14px;background-position:0px 0px;}
+
+</style>
+
+<!--[if IE 6]>
+<style type="text/css">
+#mainBFocus .Activity li{line-height:32px;border-bottom:1px solid #efefef;position:relative;zoom:1;text-align:left;}
+#mainBFocus ul.pic_news li.home{margin-left:5px;}
+#BulletinBoard .nofocus{margin-right:0px;line-height:16px;padding:0px 0px 0px 0px;text-align:left;position:relative;height: 21px;border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #FFFFFF;overflow: hidden;}
+#BulletinBoard {margin-top: 8px;border-top-width: 1px;border-top-style: solid;border-top-color: #C0C0C0;}
+
+</style>
+<![endif]-->
+<!--[if IE 8]>
+<style type="text/css">
+
+#BulletinBoard .nofocus{margin-right:0px;line-height:16px;padding:0px 0px 0px 0px;text-align:left;position:relative;height: 26px;border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #FFFFFF;overflow: hidden;}
+</style>
+<![endif]-->
+<!--[if !IE]>
+
+<style type="text/css">
+#BulletinBoard .nofocus{height: 26px !important;}
+</style>
+<![endif]-->
+
+<script src="js/jquery.pack.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+document.domain = 'yule.com.cn'
+
+$(document).ready(function(){	
+// 幻灯片var t=false;
+	var j=0;	
+	$("#imgnav #btn").find("span").each(function(i){
+		$("#imgnav #btn").find("span").eq(i).mouseover( 
+			function(){
+				var cur=$("#imgnav #img").find("img:visible").parent().prevAll().length;
+				//alert(cur);
+				if(i!==cur){
+					j=i;
+					$(this).addClass("hov").siblings().removeClass("hov");
+					$("#imgnav #img").find("img:visible").fadeOut(200,
+						function(){
+							$("#imgnav #img").find("img").eq(i).fadeIn(300,function(){
+								$("#imgnav #msg").find("li:visible").hide();
+								$("#imgnav #msg").find("li").eq(i).show();					
+							});			
+						}
+					);	
+				}
+			}		
+		);
+	});
+	var $func_play=function(){			
+		$("#imgnav #btn").find("span").eq(j).mouseover()
+		j++;
+		if(j==5){j=0;}		
+	}
+	t=setInterval($func_play,4000);
+	$("#imgnav").hover(function(){
+			clearInterval(t);
+			//j=$("#img").find("img:visible").parent().prevAll().length+1;
+			return j;
+		},function(){
+			t=setInterval($func_play,4000);
+	});
+//幻灯片结束
+//电子公告牌开始
+var jc=-1;
+	$("#BulletinBoard #newslist li").hover(function(){
+			$("#BulletinBoard #newslist li.focus").addClass("nofocus");
+			$("#BulletinBoard #newslist li.focus").removeClass("focus");
+			$(this).removeClass("nofocus");
+			$(this).addClass("focus");
+			},function(){
+	});
+//电子公告牌结束
+//排行榜开始
+	$("#Top").find(".snred").each(function(i){
+		var obj = $(this);
+		var temp = $(this).html();
+		if (parseInt(temp)>3){
+			obj.removeClass("snred");
+		}
+		if (temp.length==1){
+			$(this).html("0" + $(this).html());
+		}
+	});
+//排行榜结束
+//调查开始
+var supportNum, oppositionNum, newsVote, total;
+newsVote = 0;
+	newsVoteID = $("#newsVote #newsVoteDetail #VoteID").html();
+	$.get("ajaxvote.asp", {Action:"get",ID:newsVoteID}, function (data, textStatus){
+	
+		
+		this; 
+		//alert(data);
+		temp = data.split("|");
+		support = (parseInt(temp[0])/parseInt(temp[2]))*100+35;
+		opposition = (parseInt(temp[1])/parseInt(temp[2]))*100+35;
+		supportNum = parseInt(temp[0]);
+		oppositionNum = parseInt(temp[1]);
+		total = parseInt(temp[2]);
+		$("#newsVote #newsVoteDetail #SupportBar").css("width",support);
+		$("#newsVote #newsVoteDetail #OppositionBar").css("width",opposition);
+		$("#newsVote #newsVoteDetail #SupportBar").html(parseInt(temp[0]));
+		$("#newsVote #newsVoteDetail #OppositionBar").html(parseInt(temp[1]));
+		//alert(temp[1]);
+	});
+	
+	
+	
+	$("#newsVote #newsVoteDetail #Support").click(function(){
+		if(newsVote == 0) {
+			newsVoteID = $("#newsVote  #newsVoteDetail #VoteID").html()
+;
+			$.get("ajaxvote.asp", {Action:"voteSave",ID:newsVoteID,voteOpt:"0"}, function (data, textStatus){
+				total = total + 1;
+				supportNum = supportNum +1;
+				newsVote = 1;
+				$("#newsVote #newsVoteDetail #SupportBar").css("width",supportNum/total*100+35);
+				$("#newsVote #newsVoteDetail #OppositionBar").css("width",oppositionNum/total*100+35);
+				$("#newsVote #newsVoteDetail #SupportBar").html(parseInt(supportNum));
+				$("#newsVote #newsVoteDetail #OppositionBar").html(parseInt(oppositionNum));
+			});
+		} else {
+			alert("您已投过票了。")
+		}
+	});
+
+	$("#newsVote #newsVoteDetail #Opposition").click(function(){
+		if(newsVote == 0) {
+			newsVoteID = $("#newsVote  #newsVoteDetail #VoteID").html()
+;
+			$.get("ajaxvote.asp", {Action:"voteSave",ID:newsVoteID,voteOpt:"1"}, function (data, textStatus){
+				total = total + 1;
+				oppositionNum = oppositionNum +1;
+				newsVote = 1;
+				$("#newsVote #newsVoteDetail #SupportBar").css("width",supportNum/total*100+35);
+				$("#newsVote #newsVoteDetail #OppositionBar").css("width",oppositionNum/total*100+35);
+				$("#newsVote #newsVoteDetail #SupportBar").html(parseInt(supportNum));
+				$("#newsVote #newsVoteDetail #OppositionBar").html(parseInt(oppositionNum));
+			});
+		} else {
+			alert("您已投过票了。")
+		}
+	});
+//调查结束
+
+//临时 周杰伦新专辑《惊叹号》？调查开始
+var Temp_zjl_supportNum, Temp_zjl_newsVote, Temp_zjl_newsVoteID;
+Temp_zjl_newsVote = 0;
+	Temp_zjl_newsVoteID = 17;
+	$.get("ajaxvote.asp", {Action:"get",ID:Temp_zjl_newsVoteID}, function (data, textStatus){
+		this; 
+		//alert(data);
+		temp = data.split("|");
+		Temp_zjl_supportNum = parseInt(temp[0]);
+		$("#bdAd #FCNum").html(parseInt(temp[0]));
+		//alert(temp[0]);
+	});
+	
+	
+	
+	$("#bdAd #FCBtn").click(function(){
+		if(newsVote == 0) {
+			Temp_zjl_newsVoteID = 17;
+;
+			$.get("ajaxvote.asp", {Action:"voteSave",ID:Temp_zjl_newsVoteID,voteOpt:"0"}, function (data, textStatus){
+				total = total + 1;
+				Temp_zjl_supportNum = Temp_zjl_supportNum +1;
+				newsVote = 1;
+				$("#bdAd #FCNum").html(parseInt(Temp_zjl_supportNum));
+			});
+		} else {
+			alert("您已投过票了。")
+		}
+	});
+
+//临时 周杰伦新专辑《惊叹号》？调查结束
+
+
+//音乐图片列表开始
+	$("#RecommendedSongs li").hover(function(){
+		$("#RecommendedSongsTemp").html($(this).html());
+		$("#RecommendedSongsTemp").css({"position":"absolute", "padding-top":"4px", "z-index":"100", "width":"132px", "height":"74px", "background":"#CC0000 url(images/RecommendedSongsTemp.gif) left top repeat-x", "text-align":"center", "display":"none", "overflow":"visible", "line-height":"20px"});
+		$("#RecommendedSongsTemp").css("top", $(this).offset().top);
+		$("#RecommendedSongsTemp").css("left", $(this).offset().left);
+		$("#RecommendedSongsTemp").stop();
+		$("#RecommendedSongsTemp").show("fast");
+		$("#RecommendedSongsTemp").animate({"opacity": "true","height": 95},600,function(){});
+	},function(){
+	});
+	$("#RecommendedSongsTemp").hover(function(){
+	},function(){
+		$("#RecommendedSongsTemp").stop();
+		$("#RecommendedSongsTemp").animate({"height": 75},600,function(){$("#RecommendedSongsTemp").hide("fast");});
+	});
+//音乐图片列表结束
+//搜索框开始
+	var searchTextTempStr = "";
+	$(".SearchText").hover(function(){
+		if($(this).val().substr(0,3)=="请输入") {
+			searchTextTempStr = $(this).val();
+			$(this).val("");
+		}
+	},function(){
+		if($(this).val()==""||$(this).val().substr(0,3)=="请输入") {
+			$(this).val(searchTextTempStr);
+			searchTextTempStr = "";
+		}
+	});
+
+//搜索框结束
+//影评与观影团开始
+	$("#Critics").css("display", "none");
+	$("#ViewingGroup #FCBlack").hover(function(){
+		$("#ViewingGroup").css("display", "none");
+		$("#Critics").css("display", "");
+	},function(){
+	});
+	$("#Critics #FCBlack").hover(function(){
+		$("#ViewingGroup").css("display", "");
+		$("#Critics").css("display", "none");
+	},function(){
+	});
+//影评与观影团结束
+
+//高清视频开始
+	$("#v_movie.tx").hover(function(){
+		if($(this).val()=="方大同") {
+			searchTextTempStr = $(this).val();
+			$(this).val("");
+		}
+	}, function(){
+		if($(this).val()=="") {
+			$(this).val("方大同");
+		}
+
+	});
+
+	$("#HighDefinitionLeftContent .HDLC_2").css("display", "none");
+	$("#HighDefinitionLeftContent .HDLC_3").css("display", "none");
+	$("#HighDefinitionLeftContent .HDLC_li_1").hover(function(){
+		$("#HighDefinitionLeftContent .HDLC_1").css("display", "");
+		$("#HighDefinitionLeftContent .HDLC_2").css("display", "none");
+		$("#HighDefinitionLeftContent .HDLC_3").css("display", "none");
+	},function(){
+	});
+	$("#HighDefinitionLeftContent .HDLC_li_2").hover(function(){
+		$("#HighDefinitionLeftContent .HDLC_1").css("display", "none");
+		$("#HighDefinitionLeftContent .HDLC_2").css("display", "");
+		$("#HighDefinitionLeftContent .HDLC_3").css("display", "none");
+	},function(){
+	});
+	$("#HighDefinitionLeftContent .HDLC_li_3").hover(function(){
+		$("#HighDefinitionLeftContent .HDLC_1").css("display", "none");
+		$("#HighDefinitionLeftContent .HDLC_2").css("display", "none");
+		$("#HighDefinitionLeftContent .HDLC_3").css("display", "");
+	},function(){
+	});
+//高清视频结束
+
+});
+</script>
+</head>
+
+<body>
+<div id="bdAd" >
+	<a id="LogoLink" target="_blank" href="http://zt.yule.com.cn/jingtanhao/"></a>
+	<a id="FCBtn" href="#"></a>
+	<div id="FCNum"></div>
+</div>
+<div id="mainTop" class="area FS12 FAR FW">
+	<table width="950" height="32" border="0" cellpadding="0" cellspacing="0" background="images/yule_bg_32.gif" class="p133" style="font-size: 13px; font-family: 宋体; line-height: 20px">
+	  <tr>
+		<td width="472" align="left" valign="baseline">
+		<table width="459" border="0" cellpadding="0" cellspacing="0" class="p131" style="font-size: 13px; font-family: 宋体; line-height: 13pt">
+		  <form action="http://bbs.yule.com.cn/login.php?" method=post name="formbbs"  target="_blank">
+		<tr>
+			<td valign="middle" height="19" width="312">
+						&nbsp;<a href="http://bbs.yule.com.cn" target="_blank"><font color="#999999">娱乐社区</font></a> 用户名 
+						  <input name="pwuser" type="text" id="pwuser" style="width:70px; height:13px; font-family:Verdana; font-size:13px;" size="10">  
+						密码 
+				        <input name="pwpwd" type="password" id="pwpwd" style="width:70px; height:13px; font-family:Verdana; font-size:13px;" size="10"><input type="hidden" value="" name="forward" />
+	<input type="hidden" value="http://bbs.yule.com.cn/" name="jumpurl" />
+	<input type="hidden" value="2" name="step" />	 </td>
+			<td width="147" height="30" valign="middle" background="images/yule_bg_32.gif" class="p131">  <input name="image" type="image" src="/images/zj_login.gif" alt="登陆">
+			  <a target="_blank" href="http://bbs.yule.com.cn/register.php"> <img src="/images/zj_zhuce.gif" border="0"></a></td>
+		</tr></form>
+	</table></td>
+		<td width="338" align="center">每日一贴：</td>
+		<td width="140" align="center" valign="middle"><A onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.yule.com.cn');"  target="_top" href="#" BEHAVIOR:>
+		<font color="#999999">设为首页</font></A> <font color="#999999">|</font> <A href="javascript:window.external.AddFavorite(location.href,document.title)" title="将本站加入到你的收藏夹"  target="_top"> 
+		<font color="#999999">加入收藏夹</font></A></td>
+	  </tr>
+  </table>
+</div>
+<div class="area AH0 BGDe"></div>
+<div id="mainLogo" class="area">
+	<table width="950" height="60" border="0" cellpadding="0" cellspacing="0">
+	  <tr>
+		<td width="
+
+
+
+
+
+
+
+5"><a href="http://www.yule.com.cn" target="_blank"><img src="http://www.yule.com.cn/images/yule_logo_175_50.gif" alt="中国娱乐网" width="175" height="50" border="0" /></a></td>
+		<td width="615" align="center"><iframe id="baiduframe" marginwidth="0" marginheight="0" scrolling="no"
+  framespacing="0" vspace="0" hspace="0" frameborder="0" width="430" height="30" 
+  src="http://unstat.baidu.com/bdun.bsc?tn=cnyule&cv=1&cid=125732&csid=541&bgcr=ffffff&urlcr=0000ff&tbsz=330&sropls=2,99&insiteurl=www.yule.com.cn&defid=2&kwgp=0">
+</iframe>
+</td>
+		<td width="160"><a href="http://zt.yule.com.cn/bigstar/ljj/" target="_blank"><img src="http://img2.lnok.net/yule/home/ylzdx.jpg" alt="娱乐主打星" border="0" /></a></td>
+	  </tr>
+  </table>
+</div>
+<div class="area AH2 BGDe"></div>
+
+<div id="mainNav" class="area">
+	<div class="rl">
+		<div class="rr">
+			<ul>
+				<li class="home"><a href="http://www.yule.com.cn/" target="_blank">首页</a></li>
+				<li><a href="http://news.yule.com.cn/" target="_blank">娱乐新闻</a></li>
+				<li><a href="http://star.yule.com.cn/" target="_blank">明星</a></li>
+				<li><a href="http://pic.yule.com.cn/" target="_blank">图片</a></li>
+				<li><a href="http://baike.yule.com.cn/" target="_blank">娱乐百科</a></li>
+				<li><a href="http://yanyi.yule.com.cn/" target="_blank">演艺</a></li>
+				<li><a href="http://zt.yule.com.cn/" target="_blank">专题</a></li>
+				<li><a href="http://so.yule.com.cn/" target="_blank">搜索</a></li>
+				<li><a href="http://v.yule.com.cn/" target="_blank">视频</a></li>
+				<li><a href="http://t.yule.com.cn/" target="_blank">微博</a></li>
+				<li><a href="http://vote.yule.com.cn/" target="_blank">投票</a></li>
+				<li><a href="http://bbs.yule.com.cn/" target="_blank">论坛</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="area AH2 BGDe"></div>
+<div class="area BGDe"><script src="js/index_1pingad.js" type="text/javascript"></script>
+</div>
+<div class="area AH12 BGDe"></div>
+
+<div id="mainBFocus" class="area">
+	<div class="areaL">
+		<div id="imgnavall">
+			<div class="imgnav" id="imgnav"> 
+				<div id="ctrl" class="ctrl">
+					<div id="btn"><span class="hov">1</span><span>2</span><span>3</span><span>4</span><span>5</span></div> 
+				</div>
+				<div id="img">
+				<a href="http://news.yule.com.cn/html/201112/101074.html" target="_blank"><img style="display:block;" src="http://img2.lnok.net/yule/home/top/201112/0202.jpg" alt="李敏镐沪上举行粉丝见面会 人气爆棚首站告捷" /></a> <a href="http://news.yule.com.cn/html/201112/101081.html" target="_blank"><img style="" src="http://img2.lnok.net/yule/home/top/201112/0204.jpg" alt="萧亚轩为《我爱你》砸400万 新专辑造型分两版" /></a> <a href="http://news.yule.com.cn/html/201112/101100.html" target="_blank"><img style="" src="http://img2.lnok.net/yule/home/top/201112/0201.jpg" alt="林俊杰雪山拍《学不会》MV险失踪 忆初恋崩溃大哭" /></a> <a href="http://news.yule.com.cn/html/201112/101075_2.html" target="_blank"><img style="" src="http://img2.lnok.net/yule/home/top/201112/0203.jpg" alt="李连杰：我一直头脑清醒" /></a> <a href="http://news.yule.com.cn/html/201112/101092.html" target="_blank"><img style="" src="http://img2.lnok.net/yule/home/top/201112/0205.jpg" alt="组图：少女时代Jessica叼玫瑰拍写真 称不讨厌冰山公主称号" /></a> 
+				</div>
+			</div>
+			<div id="imgnav_AD">
+				<script src="js/index_ImgnavAD.js" type="text/javascript"></script>
+			</div>
+		</div>
+		<div class="Activity">
+			<h3>最新活动</h3>
+			<div class="con">
+				<ul>
+<li class="on"><strong>08.16</strong><a href="http://event.weibo.com/190618" target="_blank">“i唱i音乐”城市歌会抢票</a><span>进行中</span></li>
+<li class="on"><strong>08.18</strong><a href="http://zt.yule.com.cn/shuihu/" target="_blank">新水浒微博群英会明星访谈</a><span>进行中</span></li>
+<li class="on"><strong>07.27</strong><a href="http://zt.yule.com.cn/fensiji/" target="_blank">中国娱乐网第一届粉丝季</a><span>进行中</span></li>
+<li><strong>12.10</strong><a href="http://bbs.yule.com.cn/read-htm-tid-89760.html" target="_blank">东方神起“仙后”全国招募令</a><span>已结束</span></li>
+
+							
+				</ul>
+		  </div>
+		</div>
+	</div>
+	<div class="areaM">
+		<div id="newsFocus" class="FS18 FCRed FW FAL FFEn">
+			<div id="newsFocusTitleImg"><img src="images/todayfocus.jpg" /></div>
+			<h1> <a href="http://news.yule.com.cn/html/201112/101091.html" target="_blank">卫视黄金档将禁播宫斗涉案穿越剧三类戏</a> </h1>
+			<div class="FS12 FCGray FAL FFSong FW">
+			[ <a href="http://news.yule.com.cn/html/201112/101090.html" target="_blank">明年10月份前拒此类戏立项</a> ] [ <a href="http://news.yule.com.cn/html/201111/100727.html" target="_blank">广电限娱令后再推限广令</a> ]<br />[ <a href="http://news.yule.com.cn/html/201111/100894.html" target="_blank">广电发明文电视剧禁插广告</a> ] [ <a href="http://news.yule.com.cn/html/201111/100518.html" target="_blank">各类宫斗剧hold住大荧幕</a> ]
+			</div>
+			<h1> <a href="http://news.yule.com.cn/html/201112/101072.html" target="_blank">第54届格莱美奖提名公布 坎耶Adele领跑</a> </h1>
+			<div class="FS12 FCGray FAL FFSong FW">
+			[ <a href="http://news.yule.com.cn/html/201112/101070.html" target="_blank">阿黛尔六项提名领跑格莱美</a> ] [ <a href="http://news.yule.com.cn/html/201111/99969.html" target="_blank">坎耶意外示意年度大碟</a> ]<br />[ <a href="http://news.yule.com.cn/html/201112/101060.html" target="_blank">乡村不再热门 流行竞争惨烈</a> ] [ <a href="http://news.yule.com.cn/html/201107/93219.html" target="_blank">众歌手不满格莱美奖改革</a> ]
+			</div>
+			<h1> <a href="http://news.yule.com.cn/html/201112/101073.html" target="_blank">葛优签英皇五年 获五亿投资出演三部电影</a> </h1>
+			<div class="FS12 FCGray FAL FFSong FW">
+			[ <a href="http://news.yule.com.cn/html/201112/101097.html" target="_blank">葛优夸口5亿投资能赚50亿</a> ] [ <a href="http://news.yule.com.cn/html/201111/100345.html" target="_blank">葛优获中国最美50人称号</a> ]<br />[ <a href="http://news.yule.com.cn/html/201111/100077.html" target="_blank">王珞丹遭调侃与葛优“撞脸”</a> ] [ <a href="http://news.yule.com.cn/html/201110/98074.html" target="_blank">葛优低调为好友婚礼站台</a> ]
+			</div>
+			<h1> <a href="http://news.yule.com.cn/html/201112/101086.html" target="_blank">TVB台庆被爆已内定 郑嘉颖胡杏儿封帝后</a> </h1>
+		  <div class="FS12 FCGray FAL FFSong FW">
+			[ <a href="http://news.yule.com.cn/html/201111/100103.html" target="_blank">郑嘉颖拍戏尴尬被趴露内裤</a> ] [ <a href="http://news.yule.com.cn/html/201111/100502.html" target="_blank">胡杏儿称若封后感谢黄宗泽</a> ]			</div>
+			<h1> <a href="http://news.yule.com.cn/html/201112/101080.html" target="_blank">昆凌开周杰伦跑车龟速上路 与周董住临街</a> </h1>
+		  <div class="FS12 FCGray FAL FFSong FW">
+			[ <a href="http://news.yule.com.cn/html/201112/101084.html" target="_blank">周杰伦三怕：怕水怕幽闭怕老</a> ] [ <a href="http://news.yule.com.cn/html/201112/101085.html" target="_blank">昆凌暗示与周董齐过圣诞</a> ]
+		  </div>
+		</div>
+		<div class="clear"></div>
+		<div id="newsExclusive">
+			<div id="listhome">
+				<li class="home">独家</li>
+				<li><a href="http://news.yule.com.cn/" target="_blank">新闻</a></li>
+				<li><a href="http://pic.yule.com.cn/xianchang/" target="_blank">图片</a></li>
+				<li><a href="http://v.yule.com.cn" target="_blank">视频</a></li>
+			</div>
+			<div class="clear"></div>
+			<div class="clear"></div>
+			<div class="clear"></div>
+			<div id="listpic">
+				<ul class="pic_news">
+				    <li class="home"><a href="http://news.yule.com.cn/html/201111/99839.html" target="_blank"><img src="http://img2.lnok.net/yule/home/dj01.jpg" alt="" class="listImg" /></a><a href="http://news.yule.com.cn/html/201111/99839.html" target="_blank">文章白百何暧昧</a></li>
+					<li><a href="http://news.yule.com.cn/html/201111/100044.html" target="_blank"><img src="http://img2.lnok.net/yule/home/dj02.jpg" alt="" class="listImg" /></a><a href="http://news.yule.com.cn/html/201111/100044.html" target="_blank">《大魔术师》抵沪</a></li>
+					<li><a href="http://news.yule.com.cn/html/201111/100360.html" target="_blank"><img src="http://img2.lnok.net/yule/home/dj03.jpg" alt="" class="listImg" /></a><a href="http://news.yule.com.cn/html/201111/100360.html"  target="_blank">谢安琪亮相派对</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="newsVote">
+			<div id="newsVotePart">
+				<span id="dc">娱乐调查</span>
+				<span id="other"><a href="http://vote.yule.com.cn/" target="_blank">查看往期>></a></span>
+				<span id="Figure"></span>
+			</div>
+			<div id="newsVoteCon">
+				<li id="title"><a href="http://vote.yule.com.cn/result/13/" target="_blank">柳岩频频爆乳亮相 否认“卖胸”</a></li>
+				<li id="content">近日，柳岩接受访问，并不忌讳地谈自己的魔鬼身材，为胸大自豪，但并不认为自己靠“脱”成名。[<a href="http://vote.yule.com.cn/result/13/" target="_blank">详细</a>]</li>
+			</div>
+			<div id="newsVoteDetail">
+				<span id="VoteID">13</span>
+				<span id="SupportButton"><img src="images/mainBFocus_News_Vote_SupportButton.jpg" width="60" height="27" /></span>
+				<span id="OppositionButton"><img src="images/mainBFocus_News_Vote_OppositionButton.jpg" width="60" height="27" /></span>
+				<span id="Support"></span>
+				<span id="Opposition"></span>
+				<span id="SupportBar">0</span>
+				<span id="OppositionBar">0</span>
+			</div>
+	  </div>
+	</div>
+	<div class="areaR">
+		<div id="mainBFR" class="">
+		  <div id="Keyword">
+				<h3>娱乐关键词<span><a href="http://www.yule.com.cn/">更多>></a></span></h3>
+				<div id="KeywordLink"> <a href="http://news.yule.com.cn/html/201112/101028.html" target="_blank">冯绍峰杨幂暧昧</a>  <a href="http://news.yule.com.cn/html/201112/101128.html" target="_blank">赵本山弃用小沈阳</a>  <br />  <a href="http://news.yule.com.cn/html/201112/101012.html" target="_blank">阮经天求婚被拒</a>  <a href="http://news.yule.com.cn/html/201112/101126.html" target="_blank">彭佳慧产后大出血</a>  <br />  <a href="http://news.yule.com.cn/html/201109/97730.html" target="_blank">姜虎东正式告别</a>  <a href="http://news.yule.com.cn/html/201112/101008.html" target="_blank">齐秦伤愈提前复出</a>  <br /> </div>
+		  </div>
+			<div id="Topics">
+				<h3>热点专题<span><a href="http://zt.yule.com.cn/" target="_blank">更多>></a></span></h3>
+				<div id="listpic">
+					<ul class="pic_news">
+						<li class="home"><a href="http://zt.yule.com.cn/7/" target="_blank"><img src="http://img2.lnok.net/yule/home/zt01.jpg" alt="" class="listImg" /></a><a href="http://zt.yule.com.cn/7/" target="_blank">中国娱乐网7周年</a></li>
+						<li><a href="http://zt.yule.com.cn/jinma47/" target="_blank"><img src="http://img2.lnok.net/yule/home/zt02.jpg" alt="" class="listImg" /></a><a href="http://zt.yule.com.cn/jinma47/" target="_blank">47届台湾金马奖</a></li>
+					</ul>
+				</div>
+			</div>
+			<div id="AD">
+				<center>
+					<a href="http://zt.yule.com.cn/xfactor/" target="_blank"><img src="http://img2.lnok.net/yule/home/tuan8.jpg" border="0"/></a>
+				</center>
+			</div>
+			<div id="Top">
+				<h3>排行榜</h3>
+			  <!--<li class="home"><div class="snred">01</div>
+		      <span><a class="" href="http://www.yule.com.cn/" target=_blank>贾静雯孙志浩正式</a><br /> 
+		      <p>刘欢病情稳定漂亮女儿光……<a href="http://v.sohu.com/s2010/baguanews/" target="_blank">[详细]</a></p>
+		      </span>
+		     
+		      <a href="http://www.yule.com.cn/"><img src="http://i1.itc.cn/20100709/2d5_602ce010_4581_401e_9f04_5db140257c8c_0.jpg" alt="" width="95" height="70" class="listImg" /></a></li>-->
+				 <li><div class="snred">1</div> <span><a class="" href="http://news.yule.com.cn/html/201112/101068.html" target=_blank title="乐基儿为负面报道狂喊减压 黎明暗示老婆已怀孕">乐基儿为负面报道狂喊减压 黎明</a></span></li>  <li><div class="snred">2</div> <span><a class="" href="http://news.yule.com.cn/html/201112/101015.html" target=_blank title="Ella上《康熙》曝恋爱过程：认识3年没感觉 摸腿才来电">Ella上《康熙》曝恋爱过程：</a></span></li>  <li><div class="snred">3</div> <span><a class="" href="http://news.yule.com.cn/html/201112/101014.html" target=_blank title="陈嘉桓戏里戏外皆“哑巴” 不提陈浩民拒认炒作">陈嘉桓戏里戏外皆“哑巴” 不提</a></span></li>  <li><div class="snred">4</div> <span><a class="" href="http://news.yule.com.cn/html/201112/101012.html" target=_blank title="阮经天饭桌上向女友求婚被拒 疑因开房事件影响">阮经天饭桌上向女友求婚被拒 疑</a></span></li>  <li><div class="snred">5</div> <span><a class="" href="http://news.yule.com.cn/html/201112/101009.html" target=_blank title="陈浩民获女儿取名陈雅薷 看生产过程夫妻同哭">陈浩民获女儿取名陈雅薷 看生产</a></span></li>  <li><div class="snred">6</div> <span><a class="" href="http://news.yule.com.cn/html/201112/101007.html" target=_blank title="安妮·海瑟薇和未婚夫公园热吻 大秀“鸽子蛋”">安妮·海瑟薇和未婚夫公园热吻 </a></span></li>  <li><div class="snred">7</div> <span><a class="" href="http://news.yule.com.cn/html/201112/101005.html" target=_blank title="《金陵十三钗》14”妓女”角色集体曝光 玉墨居中">《金陵十三钗》14”妓女”角色</a></span></li>  <li><div class="snred">8</div> <span><a class="" href="http://news.yule.com.cn/html/201111/100970.html" target=_blank title="蓝正龙金马奖失言拖60小时道歉 132万人直击丢脸">蓝正龙金马奖失言拖60小时道歉</a></span></li>  <li><div class="snred">9</div> <span><a class="" href="http://news.yule.com.cn/html/201111/100967.html" target=_blank title="谢霆锋拍《逆战》飞车捱撞 旧患复发瘫足3分钟">谢霆锋拍《逆战》飞车捱撞 旧患</a></span></li>  <li><div class="snred">10</div> <span><a class="" href="http://news.yule.com.cn/html/201111/100963.html" target=_blank title="萧亚轩尴尬谈前男友恋上同门杨丞琳 自嘲这是圣诞礼物">萧亚轩尴尬谈前男友恋上同门杨丞</a></span></li> 
+			</div>
+		</div>
+	</div>
+</div>
+<div class="area AH12 BGDe"></div>
+<div class="area BGDe"><script src="js/index_ad1.js" type="text/javascript"></script></div>
+<div class="area AH12 BGDe"></div>
+<div id="newsListTitle1" class="area newsListTitleTypeA">
+	<div id="title">
+		<h3><a href="http://news.yule.com.cn/" target="_blank">娱乐新闻</a><span>
+				<form name="newsSearch" target="_blank" action="http://so.yule.com.cn/sonews.asp" method="get" >
+				<input type="text" name="keyword" class="texttxtR" />
+				<input type="submit" id="button" value="搜索" class="buttonB" />
+				</form>
+		  </span>	  </h3>
+	</div>
+	<div id="link"><a href="http://news.yule.com.cn/neidi/" target="_blank">内地</a> ｜<a href="http://news.yule.com.cn/gangtai/" target="_blank">港台</a> ｜ <a href="http://news.yule.com.cn/riben/" target="_blank">日本</a> ｜ <a href="http://news.yule.com.cn/hanguo/" target="_blank">韩国</a> ｜ <a href="http://news.yule.com.cn/oumei/" target="_blank">欧美</a> ｜<a href="http://news.yule.com.cn/pinglun/" target="_blank">娱评</a></div>
+</div>
+<div class="area AH0 BGDe"></div>
+<div class="area">
+	<div class="areaL">
+		<div id="newsTopicPic"><a href="http://news.yule.com.cn/html/201111/100444.html" target="_blank"><img src="http://img2.lnok.net/yule/home/topnews.jpg" width="300" height="258" alt=""/></a></div>
+		<div id="Vote">
+			<h3>娱乐调查局</h3>
+			<div id="pic">
+				<img src="http://img2.lnok.net/yule/home/diaocha.jpg" alt="" border="0" class="listImg" />			</div>
+			<div id="title">
+				限娱令出台 你怎么看
+			</div>
+			<div id="con">
+广电总局“限娱令”近日正式下发，规定娱乐节目每周不得超过两档、限制选秀节目。
+			</div>
+			<form action="http://vote.yule.com.cn/vote.asp?action=voteSave" method="post" target="_blank">
+				<input type="hidden" name="ID" value="10" />
+				<div id="Options">
+				  <label><input name="voteOpt" type="radio" value="0" />赞成，电视节目不该过度娱乐化</label><br />
+				  <label><input name="voteOpt" type="radio" value="1" />反对，没有了娱乐节目电视乐趣大减</label><br />
+				  <label><input name="voteOpt" type="radio" value="2" />不看电视，不关心</label><br />
+				  <label><input name="voteOpt" type="radio" value="3" />说不清</label><br />
+				</div>
+				<div id="Buttons">
+					<input type="submit" id="button" value="投票" class="button" />
+					<input type="button" id="button" value="查看结果" class="button" onclick="javascript:win=window.open('http://vote.yule.com.cn/result/10/','vote')" />
+				</div>
+				<input type="hidden" name="Action" value="Vote" />
+			</form>
+		</div>
+	</div>
+	<div class="areaM">
+		<div class="magrtop20"></div>
+		<div class="newsListClassDetail ">
+			<h2><span><a href="http://news.yule.com.cn/" target=_blank>明星新闻</a></span><a href="http://news.yule.com.cn/" target=_blank>更多&gt;&gt;</a></h2>
+			<div>
+				<ul>
+					 <li>·<a href='http://news.yule.com.cn/html/201112/101128.html' title="赵本山龙年春晚弃用小沈阳 刘晓庆或唱流行歌曲" target='_blank'>赵本山龙年春晚弃用小沈阳 刘晓庆或唱流行歌曲</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101106.html' title="杜海涛告别“快乐大本营” 另谋出路告别湖南台" target='_blank'>杜海涛告别“快乐大本营” 另谋出路告别湖南台</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101103.html' title="少女时代讲述机场造型秘密 上飞机换运动服" target='_blank'>少女时代讲述机场造型秘密 上飞机换运动服</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101102.html' title="视频：袁莉被曝嫁80后老外  相识五个月玩闪婚" target='_blank'>视频：袁莉被曝嫁80后老外  相识五个月玩闪婚</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101089.html' title="高龄朱丽倩“搏命”生子 刘德华雇半打保镖24小时护驾" target='_blank'>高龄朱丽倩“搏命”生子 刘德华雇半打保镖24小</a></li> 
+				</ul>
+			</div>
+		</div>
+		<div class="newsListClassDetail">
+			<h2><span><a href="http://news.yule.com.cn/yingshi/" target=_blank>影视新闻</a></span><a href="http://news.yule.com.cn/yingshi/" target=_blank>更多&gt;&gt;</a></h2>
+			<div>
+				<ul>
+					 <li>·<a href='http://news.yule.com.cn/html/201112/101115.html' title="《十三钗》编剧详解幕后故事：跨越五年的苦旅" target='_blank'>《十三钗》编剧详解幕后故事：跨越五年的苦旅</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101114.html' title="《翻滚吧！阿信》9日映 彭于晏被刘璇赞专业" target='_blank'>《翻滚吧！阿信》9日映 彭于晏被刘璇赞专业</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101071.html' title="《魔法奇幻秀》公映 德普率群星对决魔幻人生" target='_blank'>《魔法奇幻秀》公映 德普率群星对决魔幻人生</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101056.html' title="“哈利-波特”丹尼尔将出演同性恋诗人艾伦-金斯堡" target='_blank'>“哈利-波特”丹尼尔将出演同性恋诗人艾伦-金斯</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101054.html' title="《那些年一起追的女孩》确定引进 明年1月上映" target='_blank'>《那些年一起追的女孩》确定引进 明年1月上映</a></li> 
+				</ul>
+			</div>
+		</div>
+		<div class="newsListClassDetail">
+			<h2><span><a href="http://news.yule.com.cn/music/" target=_blank>音乐新闻</a></span><a href="http://news.yule.com.cn/music/" target=_blank>更多&gt;&gt;</a></h2>
+			<div>
+				<ul>
+					 <li>·<a href='http://news.yule.com.cn/html/201112/101127.html' title="贾斯汀比伯新专辑换风格 应对青春期变生声尴尬期" target='_blank'>贾斯汀比伯新专辑换风格 应对青春期变生声尴尬期</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101018.html' title="2pm 东方神起 tara kara公信榜排行大曝光" target='_blank'>2pm 东方神起 tara kara公信榜排行</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101003.html' title="周笔畅称《黑择明》背部全裸绝非玩噱头：欲回到原始一面" target='_blank'>周笔畅称《黑择明》背部全裸绝非玩噱头：欲回到原</a></li>  <li>·<a href='http://news.yule.com.cn/html/201111/100986.html' title="小野丽莎上海开唱 中文翻唱《夜来香》" target='_blank'>小野丽莎上海开唱 中文翻唱《夜来香》</a></li>  <li>·<a href='http://news.yule.com.cn/html/201111/100984.html' title="刘心2011创作EP首唱会在京举办 怂孩子的第一次约会唱响生活" target='_blank'>刘心2011创作EP首唱会在京举办 怂孩子的第</a></li>  <li>·<a href='http://news.yule.com.cn/html/201111/100901.html' title="kara公信榜夺冠 与少女时代首登红白歌会" target='_blank'>kara公信榜夺冠 与少女时代首登红白歌会</a></li> 
+				</ul>
+			</div>
+		</div>
+		<div class="AH10"></div>
+	</div>
+	<div class="areaR">
+		<div id="news1" class="Gray">
+		<div id="right1">
+			<div id="StarCommunity">
+				<div id="title">
+					<h2><span>星语录</span></h2>
+				</div>
+				<div id="newslist">
+					<ul>
+						<li class="home">
+							<div id="Img"><a href="http://news.yule.com.cn/html/201110/98520.html" target="_blank"><img src="http://img2.lnok.net/yule/home/xingyulu.jpg" alt="星语录" class="listImg" /></a></div>
+							<div id="Link"><a href="http://news.yule.com.cn/html/201110/98520.html" target=_blank>邓建国：我没有家属</a></div>
+							<div id="Con">邓建国欠债不还在机场被捕，其存款只有1万8千元，并要求法官不要告知媒体。</div>
+						</li>
+						<li>·<a class="" href="http://news.yule.com.cn/html/201110/98534.html" target=_blank>庾澄庆：张惠妹的事不劳您费心了</a></li>
+						<li>·<a class="" href="http://news.yule.com.cn/html/201110/98533.html" target=_blank>林志玲：没人送我无上限信用卡</a></li>
+						<li>·<a class="" href="hhttp://news.yule.com.cn/html/201110/98240.html" target=_blank>柳岩：胸不用隆挤就好，我要母乳喂养</a></li>
+						<li>·<a class="" href="http://news.yule.com.cn/html/201110/98629.html" target=_blank>郭德纲：有些同行净干些太监骂青楼的事</a></li>
+					</ul>
+				</div>
+			</div>
+			<div id="BulletinBoard">
+				<div id="title">
+					<h2><span>娱乐星事件</span></h2>
+				</div>
+				<div id="newslist">
+					<ul>
+						<li class="focus">
+							<div id="fbg"><img src="images/e01.jpg" alt=""/></div>
+							<div id="nobg"><img src="images/b01.jpg" alt=""/></div>
+							<div id="Img"><a href="http://news.yule.com.cn/html/201107/93065.html" target="_blank"><img src="http://img2.lnok.net/yule/home/xsj01.jpg" alt="" width="51" class="listImg" /></a></div>
+							<div id="Link"><a href="http://news.yule.com.cn/html/201107/93065.html" target=_blank>7月1日第10届纽约亚洲电影节开幕</a></div>
+							<div id="Con">7月1日第10届纽约亚洲电影节开幕，徐克获终身成就奖...[<a href="http://news.yule.com.cn/html/201107/93065.html" target="_blank">详细</a>] </div>
+						</li>
+						<li class="nofocus">
+							<div id="fbg"><img src="images/e02.jpg" alt=""/></div>
+							<div id="nobg"><img src="images/b02.jpg" alt=""/></div>
+							<div id="Img"><a href="http://news.yule.com.cn/html/201106/92879.html" target="_blank"><img src="http://img2.lnok.net/yule/home/xsj02.jpg" alt="" width="51" class="listImg" /></a></div>
+							<div id="Link"><a href="http://news.yule.com.cn/html/201106/92879.html" target=_blank>7月4日电影《武侠》全国上映</a></div>
+							<div id="Con">陈可辛执导、甄子丹、金城武主演的年度功夫巨制《武侠》公映...[<a href="http://news.yule.com.cn/html/201106/92879.html" target="_blank">详细</a>] </div>
+						</li>
+						<li class="nofocus">
+							<div id="fbg"><img src="images/e03.jpg" alt=""/></div>
+							<div id="nobg"><img src="images/b03.jpg" alt=""/></div>
+<div id="Img"><a href="http://news.yule.com.cn/html/201107/93066.html" target="_blank"><img src="http://img2.lnok.net/yule/home/xsj03.jpg" alt="" width="51" class="listImg" /></a></div>
+							<div id="Link"><a href="http://news.yule.com.cn/html/201107/93066.html" target=_blank>7月8日台北电影奖颁奖典礼</a></div>
+							<div id="Con">7月8日台北电影奖颁奖典礼举行，陶晶莹阿KEN联袂主持...[<a href="http://news.yule.com.cn/html/201107/93066.html" target="_blank">详细</a>] </div>
+						</li>
+						<li class="nofocus">
+							<div id="fbg"><img src="images/e04.jpg" alt=""/></div>
+							<div id="nobg"><img src="images/b04.jpg" alt=""/></div>
+							<div id="Img"><a href="http://news.yule.com.cn/html/201107/93060.html" target="_blank"><img src="http://img2.lnok.net/yule/home/xsj04.jpg" alt="" width="51" class="listImg" /></a></div>
+							<div id="Link"><a href="http://news.yule.com.cn/html/201107/93060.html" target=_blank>7月10日中国达人秀总决赛</a></div>
+							<div id="Con">7月10日中国达人秀总决赛将在上海八万人体育馆举行...[<a href="http://news.yule.com.cn/html/201107/93060.html" target="_blank">详细</a>] </div>
+						</li>
+						<li class="nofocus">
+							<div id="fbg"><img src="images/e05.jpg" alt=""/></div>
+							<div id="nobg"><img src="images/b05.jpg" alt=""/></div>
+							<div id="Img"><a href="http://news.yule.com.cn/html/201107/93067.html" target="_blank"><img src="http://img2.lnok.net/yule/home/xsj05.jpg" alt="" width="51" class="listImg" /></a></div>
+							<div id="Link"><a href="http://news.yule.com.cn/html/201107/93067.html" target=_blank>7月10日华语音乐传媒大奖颁奖</a></div>
+							<div id="Con">第11届华语音乐传媒大奖海报曝光 7月10日颁奖...[<a href="http://news.yule.com.cn/html/201107/93067.html" target="_blank">详细</a>] </div>
+						</li>
+						<li class="nofocus">
+							<div id="fbg"><img src="images/e06.jpg" alt=""/></div>
+							<div id="nobg"><img src="images/b06.jpg" alt=""/></div>
+							<div id="Img"><a href="http://news.yule.com.cn/html/201106/92669.html" target="_blank"><img src="http://img2.lnok.net/yule/home/xsj06.jpg" alt="" width="51" class="listImg" /></a></div>
+							<div id="Link"><a href="http://news.yule.com.cn/html/201106/92669.html" target=_blank>7月15日快乐女声总决赛上星播出</a></div>
+							<div id="Con">2011快乐女声全国13强已经选出，总决赛将在15日开始上星播出...[<a href="http://news.yule.com.cn/html/201106/92669.html" target="_blank">详细</a>] </div>
+						</li>
+						<li class="nofocus">
+							<div id="fbg"><img src="images/e07.jpg" alt=""/></div>
+							<div id="nobg"><img src="images/b07.jpg" alt=""/></div>
+							<div id="Img"><a href="http://news.yule.com.cn/html/201106/92547.html" target="_blank"><img src="http://img2.lnok.net/yule/home/xsj07.jpg" alt="" width="51" class="listImg" /></a></div>
+							<div id="Link"><a href="http://news.yule.com.cn/html/201106/92547.html" target=_blank>7月16日萧亚轩北京演唱会</a></div>
+							<div id="Con">萧亚轩与四大女星同天开唱，比拼盘演唱会更值得期待...[<a href="http://news.yule.com.cn/html/201106/92547.html" target="_blank">详细</a>] </div>
+						</li>
+						<li class="nofocus">
+							<div id="fbg"><img src="images/e08.jpg" alt=""/></div>
+							<div id="nobg"><img src="images/b08.jpg" alt=""/></div>
+							<div id="Img"><a href="http://news.yule.com.cn/html/201107/93068.html" target="_blank"><img src="http://img2.lnok.net/yule/home/xsj08.jpg" alt="" width="51" class="listImg" /></a></div>
+							<div id="Link"><a href="http://news.yule.com.cn/html/201107/93068.html" target=_blank>7月16日《新还珠格格》首播</a></div>
+							<div id="Con">芒果台新《还珠》终于要在7月面世了，老版《还珠》的“杀伤力”还在...[<a href="http://news.yule.com.cn/html/201107/93068.html" target="_blank">详细</a>] </div>
+						</li>
+						<li class="nofocus">
+							<div id="fbg"><img src="images/e09.jpg" alt=""/></div>
+							<div id="nobg"><img src="images/b09.jpg" alt=""/></div>
+							<div id="Img"><a href="http://news.yule.com.cn/html/201106/92840.html" target="_blank"><img src="http://img2.lnok.net/yule/home/xsj09.jpg" alt="" width="51" class="listImg" /></a></div>
+							<div id="Link"><a href="http://news.yule.com.cn/html/201106/92840.html" target=_blank>7月21日《变形金刚3》震撼来袭</a></div>
+							<div id="Con">《变形金刚3：月黑之时》：7大悬念一触即发...[<a href="http://news.yule.com.cn/html/201106/92840.html" target="_blank">详细</a>] </div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	  </div>
+	</div>
+</div>
+<div class=" clear"></div>
+<div class="area AH12 BGDe"></div>
+<div class="area AH12 BGDe"></div>
+<div id="newsListTitle3" class="area newsListTitleTypeD">
+	<div id="title">
+	  <h3><a href="http://v.yule.com.cn" target="_blank"><img src="images/index/newsListTitleTypeD_title.gif" border="0" /></a></h3>
+	</div>
+	<div class="areaL">
+	  <h3><img src="images/index/HighDefinition_title_bg.jpg" /></h3>
+	</div>
+	<div class="areaM">
+		<div><a href="http://v.yule.com.cn/ent/" target=_blank>娱乐视频</a>|<a href="http://v.yule.com.cn/mv/" target=_blank>高清MV</a>|<a href="http://v.yule.com.cn/movie/" target=_blank>高清电影</a>|<a href="http://movie.yule.com.cn/" target=_blank>云视频</a></div>
+	</div>
+	<div class="areaR">
+		<form action="http://v.yule.com.cn/index.php/search" accept-charset="utf-8" onsubmit="document.charset='utf-8';" method="post" target="_blank">
+			<input type="hidden" name="key" value="title" />
+			<input class="tx" id="v_movie" name="keyword" type="text" value="方大同"/>
+			<input name="提交" type="submit" class="btn" id="v_searchBtn" onclick="" value="找视频"/>
+		</form>
+	</div>
+</div>
+<div class="area AH0 BGDe"></div>
+<div class="area" style="height:470px;">
+	<div class="areaL" id="HighDefinitionContent">
+		<div id="newsTopicPicB"><a href="http://www.yule.com.cn/guanying/201111/" target="_blank"><img src="http://img2.lnok.net/yule/home/hdnews.jpg" alt="" width="300" height="200" border="0"/></a></div>
+		<div id="HighDefinitionLeftContent">
+			<div class="HDLC_1 content">
+				<div id="title">
+						<li class="HDLC_li_1 red">明星视频</li>
+						<li>|</li>
+						<li class="HDLC_li_2">高清MV</li>
+						<li>|</li>
+						<li class="HDLC_li_3">大银幕</li>
+			  </div>
+				<div id="picTitleContent">
+					<li class="pic"><a href="http://v.yule.com.cn/ent/64.html" target="_blank"><img src="http://img2.lnok.net/yule/home/hdpic01.jpg" alt="" width="97" height="72" border="0"/></a></li>
+					<li class="title"><a href="http://v.yule.com.cn/ent/64.html" target="_blank">何润东日本演唱会取消</a></li>
+					<li class="con">何润东演唱会因地震取消 安全返港担心粉丝安危</li>
+				</div>
+				<div id="list">
+					<li><a href="http://v.yule.com.cn/ent/55.html" target="_blank">朱孝天返台接拍新戏 回应林熙蕾闪婚言语直率</a></li>
+					<li class="red"><a href="http://v.yule.com.cn/ent/56.html" target="_blank">成龙章子怡担任北京电影季大使 要互相传绯闻</a></li>
+					<li class="red"><a href="http://v.yule.com.cn/ent/49.html" target="_blank">Lady Gaga义卖支援日本灾区 将开赈灾演唱会</a></li>
+					<li><a href="http://v.yule.com.cn/ent/47.html" target="_blank">刘德华《建党伟业》戏份全留 配音普通话超烂</a></li>
+				</div>
+			</div>
+			<div class="HDLC_2 content"  style="display:none;">
+				<div id="title">
+					<li class="HDLC_li_1">明星视频</li>
+					<li>|</li>
+					<li class="HDLC_li_2 red">高清MV</li>
+					<li>|</li>
+					<li class="HDLC_li_3">大银幕</li>
+				</div>
+				<div id="picTitleContent">
+					<li class="pic"><a href="http://v.yule.com.cn/mv/53.html" target="_blank"><img src="http://img2.lnok.net/yule/home/hdpic02.jpg" width="97" height="72" alt=""/></a></li>
+					<li class="title"><a href="http://v.yule.com.cn/mv/53.html" target="_blank">《会跳舞的文艺青年》</a></li>
+					<li class="con">李宇春《会跳舞的文艺青年》MV中着白色裙装淡雅出镜</li>
+				</div>
+				<div id="list">
+					<li><a href="http://v.yule.com.cn/mv/52.html" target="_blank">孙燕姿《当冬夜渐暖》高清MV完整版</a></li>
+					<li class="red"><a href="http://v.yule.com.cn/mv/29.html" target="_blank">方大同回归乐坛首支歌曲《因为你》高清MV</a></li>
+					<li class="red"><a href="http://v.yule.com.cn/mv/15.html" target="_blank">飞轮海侯佩岑演绎《心疼你的心疼》高清MV</a></li>
+					<li class="red"><a href="http://v.yule.com.cn/mv/13.html" target="_blank">刘德华翻唱经典广东潮歌《人办》高清MV</a></li>
+				</div>
+			</div>
+			<div class="HDLC_3 content"  style="display:none;">
+				<div id="title">
+						<li class="HDLC_li_1">明星视频</li>
+						<li>|</li>
+						<li class="HDLC_li_2">高清MV</li>
+						<li>|</li>
+						<li class="HDLC_li_3 red">大银幕</li>
+			  </div>
+				<div id="picTitleContent">
+					<li class="pic"><a href="http://v.yule.com.cn/trailer/28.html" target="_blank"><img src="http://img2.lnok.net/yule/home/hdpic03.jpg" width="97" height="72" alt=""/></a></li>
+					<li class="title"><a href="http://v.yule.com.cn/trailer/28.html" target="_blank">最期待大片《兰戈》</a></li>
+					<li class="con">《兰戈》(Rango)这部影片为2011年备受期待的电影之一</li>
+				</div>
+				<div id="list">
+					<li><a href="http://v.yule.com.cn/trailer/30.html" target="_blank">《加勒比海盗4：陌生的潮汐》高清预告片</a></li>
+					<li class="red"><a href="http://v.yule.com.cn/trailer/11.html" target="_blank">2011好莱坞大片《X战警：初级》高清预告片</a></li>
+					<li class="red"><a href="http://v.yule.com.cn/trailer/43.html" target="_blank">国产古装大片《战国》高清终极预告片</a></li>
+					<li class="red"><a href="http://v.yule.com.cn/trailer/35.html" target="_blank">美国科幻大片《洛杉矶之战》高清预告片</a></li>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="areaMR">
+		<div class="areaMR_M">
+			<div class="list">
+				<div class="listPicTitle">
+					<div class="pic"><a href="http://v.yule.com.cn/index.php/video/index/1646/series/1/plid/16" target="_blank"><img src="http://img2.lnok.net/yule/article/ylsp82.jpg" alt="" width="130" height="106" border="0"/></a></div>
+					<div class="title"><a href="http://v.yule.com.cn/index.php/video/index/1646/series/1/plid/16" target="_blank">Twins为葛爷当群众演员</a></div>
+				</div>
+				<div class="listPicTitle">
+					<div class="pic"><a href="http://v.yule.com.cn/index.php/video/index/1643/series/1/plid/16" target="_blank"><img src="http://img2.lnok.net/yule/article/ylsp83.jpg" width="130" height="106" alt=""/></a></div>
+					<div class="title"><a href="http://v.yule.com.cn/index.php/video/index/1643/series/1/plid/16" target="_blank">李敏镐上海巡演现场曝光</a></div>
+				</div>
+				<div class="listPicTitle">
+					<div class="pic"><a href="http://v.yule.com.cn/index.php/video/index/1644/series/1/plid/16" target="_blank"><img src="http://img2.lnok.net/yule/article/ylsp84.jpg" width="130" height="106" alt=""/></a></div>
+					<div class="title"><a href="http://v.yule.com.cn/index.php/video/index/1644/series/1/plid/16" target="_blank">《金枝欲孽2》或将开拍</a></div>
+				</div>
+				<div class="listPicTitle">
+					<div class="pic"><a href="http://v.yule.com.cn/index.php/video/index/1648/series/1/plid/16" target="_blank"><img src="http://img2.lnok.net/yule/article/ylsp86.jpg" alt="" width="130" height="106" border="0"/></a></div>
+					<div class="title"><a href="http://v.yule.com.cn/index.php/video/index/1648/series/1/plid/16" target="_blank">演员片场坠马或将瘫痪</a></div>
+				</div>
+				<div class="listPicTitle">
+					<div class="pic"><a href="http://v.yule.com.cn/index.php/video/index/1651/series/1/plid/16" target="_blank"><img src="http://img2.lnok.net/yule/article/ylsp85.jpg" width="130" height="106" alt=""/></a></div>
+					<div class="title"><a href="http://v.yule.com.cn/index.php/video/index/1651/series/1/plid/16" target="_blank">同龄明星惊天相貌大比拼</a></div>
+				</div>
+				<div class="listPicTitle">
+					<div class="pic"><a href="http://v.yule.com.cn/index.php/video/index/1649/series/1/plid/16" target="_blank"><img src="http://img2.lnok.net/yule/article/ylsp87.jpg" width="130" height="106" alt=""/></a></div>
+					<div class="title"><a href="http://v.yule.com.cn/index.php/video/index/1649/series/1/plid/16" target="_blank">胡歌杨幂片场大跳艳舞</a></div>
+				</div>
+			</div>
+			<div class="adv"><a href="http://v.yule.com.cn" target="_blank"><img src="http://img2.lnok.net/yule/home/test.jpg" border="0" /></a></div>
+		</div>
+		<div class="areaMR_R" style=" background-color: #D1D1D3; height:470px;">
+			<div style=" float:right;height:450px; width:157px;background-color: #FFFFFF; padding:10px 7px;"><iframe id="baiduSpFrame" border="0" vspace="0" hspace="0" marginWidth="0" marginHeight="0" frameSpacing="0" frameBorder="0" scrolling="no" width="157" height="450" src="http://spcode.baidu.com/spcode/spstyle/style1304.jsp?tn=cnyule_sp&ctn=0&styleid=1304"></iframe></div>
+		</div>
+	</div>
+</div>
+<div class="area AH12 BGDe"></div>
+<div class="area BGDe"><script src="js/index_ad2.js" type="text/javascript"></script></div>
+<div class="area AH12 BGDe"></div>
+
+<div class="area BGDe"><script src="js/index_ad3.js" type="text/javascript"></script></div>
+<div class="area AH12 BGDe"></div>
+<div class="area">
+	<div class="areaL">
+		<div class="newsTop">
+			<div class="leftNewsTopPadding"><a href="http://www.yule.com.cn/"><img src="images/010.jpg"/></a></div>
+		</div>
+		<div class="ImgList">
+			<ul>
+				<li><a href="http://v.yule.com.cn/movie/843.html" target="_blank"><img src="http://img2.lnok.net/yule/home/yingshi01.jpg" width="240" height="135"/></a><br /><a href="http://v.yule.com.cn/movie/843.html" target="_blank">电视剧《男人帮》高清预告片</a></li>
+			  <li><a href="http://v.yule.com.cn/trailer/693.html" target="_blank"><img src="http://img2.lnok.net/yule/home/yingshi02.jpg" width="240" height="135" border="0"/></a><br /><a href="http://v.yule.com.cn/trailer/693.html" target="_blank">3D武侠《龙门飞甲》高清预告片</a></li>
+			  <li><a href="http://bbs.yule.com.cn/thread-htm-fid-96.html" target="_blank"><img src="http://img2.lnok.net/yule/home/yingshi03.jpg" width="240" height="135"/></a><br /><a href="http://bbs.yule.com.cn/thread-htm-fid-96.html" target="_blank">中国娱乐网观影团合影</a></li>
+			</ul>
+	  </div>
+	</div>
+	<div class="areaM">
+		<div class="newsTop"></div>
+		<div class="newsListClassDetail">
+			<h2><span><a href="http://news.yule.com.cn/yingshi/" target=_blank>影视新闻</a></span><a href="http://news.yule.com.cn/yingshi/" target=_blank>更多&gt;&gt;</a></h2>
+			<div>
+				<ul>
+					 
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101116.html' title="广电总局协调影市利益分配：片方院线 对半分账" target='_blank'>广电总局协调影市利益分配：片方院线 对半分账</a></li>  
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101115.html' title="《十三钗》编剧详解幕后故事：跨越五年的苦旅" target='_blank'>《十三钗》编剧详解幕后故事：跨越五年的苦旅</a></li>  
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101114.html' title="《翻滚吧！阿信》9日映 彭于晏被刘璇赞专业" target='_blank'>《翻滚吧！阿信》9日映 彭于晏被刘璇赞专业</a></li>  
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101113.html' title="《失恋33天》票房破三亿 肖飞客串相亲8分钟" target='_blank'>《失恋33天》票房破三亿 肖飞客串相亲8分钟</a></li>  
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101098.html' title="调查《铜雀台》演员坠马事件 微博爆料纯属造谣" target='_blank'>调查《铜雀台》演员坠马事件 微博爆料纯属造谣</a></li>  
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101091.html' title="卫视黄金档将禁播穿越等三类戏 明年10月拒立项" target='_blank'>卫视黄金档将禁播穿越等三类戏 明年10月拒立项</a></li>  
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101090.html' title="广电总局欲出新限令 宫廷剧穿越剧禁上黄金档" target='_blank'>广电总局欲出新限令 宫廷剧穿越剧禁上黄金档</a></li>  
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101077.html' title="视频：《唐宫美人天下》第18集预告：淑妃设计陷害武媚娘" target='_blank'>视频：《唐宫美人天下》第18集预告：淑妃设计陷</a></li>  
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101076.html' title="视频：《唐宫美人天下》第17集预告片" target='_blank'>视频：《唐宫美人天下》第17集预告片</a></li>  
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101071.html' title="《魔法奇幻秀》公映 德普率群星对决魔幻人生" target='_blank'>《魔法奇幻秀》公映 德普率群星对决魔幻人生</a></li> 
+				</ul>
+			</div>
+		</div>
+		<div id="ViewingGroup" class="newsListClassDetail">
+			<h2><span>观影团</span><span id="FCBlack">　|　影评</span><a href="http://bbs.yule.com.cn/thread-htm-fid-96.html" target=_blank>更多&gt;&gt;</a></h2>
+			<div>
+				<ul>
+					<li>·<a href="http://bbs.yule.com.cn/read-htm-tid-83267.html" target="_blank">中国娱乐网观影团《我的雷人男友》观影报告：68分</a></li>
+					<li>·<a href="http://bbs.yule.com.cn/read-htm-tid-79935.html" target="_blank">中国娱乐网观影团《摇摆de婚约》观影报告:91分 </a></li>
+					<li>·<a href="http://bbs.yule.com.cn/read-htm-tid-79594.html" target="_blank">中国娱乐网观影团《异度公寓》观影报告:53分 </a></li>
+					<li>·<a href="http://bbs.yule.com.cn/read-htm-tid-78189.html" target="_blank">中国娱乐网观影团《三笑之才子佳人》观影报告:86分 </a></li>
+					<li>·<a href="http://bbs.yule.com.cn/read-htm-tid-76174.html" target="_blank">中国娱乐网沈阳观影团2010盛大招募！！！</a></li>
+				</ul>
+		 	</div>
+		</div>
+		<div id="Critics" class="newsListClassDetail" style="display:none;">
+			<h2><span id="FCBlack">观影团　|</span><span>　影评</span><a href="http://bbs.yule.com.cn/thread-htm-fid-96.html" target=_blank>更多&gt;&gt;</a></h2>
+			<div>
+				<ul>
+					<li>·<a href="http://bbs.yule.com.cn/read-htm-tid-96746.html" target="_blank">《速度与激情5》影评：不只是男人们的热爱</a></li>
+					<li>·<a href="http://bbs.yule.com.cn/read-htm-tid-96591.html" target="_blank">《《功夫熊猫2》首映：中国元素 美国品牌</a></li>
+					<li>·<a href="http://bbs.yule.com.cn/read-htm-tid-95921.html" target="_blank">《最爱》：绝望之中的爱情反而是最纯粹的</a></li>
+					<li>·<a href="http://bbs.yule.com.cn/read-htm-tid-80845.html" target="_blank">《枪王之王》VS《枪王》观后感</a></li>
+					<li>·<a href="http://bbs.yule.com.cn/read-htm-tid-81184.html" target="_blank">《玩具总动员3》：希望明天可以再遇到你</a></li>
+				</ul>
+		 	</div>
+		</div>
+		<div class="AH4"></div>
+		<div class="AH1"></div>
+	</div>
+  <div class="areaR">
+		<div id="news2" class="Blue">
+			<div id="moveSearch">
+				<form name="yishiSearch" target="_blank" accept-charset="utf-8" onsubmit="document.charset='utf-8';" action="http://baike.yule.com.cn/search-default.html" method="post" >
+				<input type="text" name="searchtext" class="texttxtBlue SearchText" value="请输入电影名字" />
+				<input type="submit" id="button" value="找一下" class="buttonBlue" />
+				</form>
+			</div>
+			<div id="moveArar">
+				<h3>2011年9月影讯<a href="http://bbs.yule.com.cn/read-htm-tid-101039.html" target="_blank">更多></a></h3>
+				<div class="clear"></div>
+				<div class="AH4"></div>
+				<h4>　</h4>
+			</div>
+			<div id="moveHot">
+				<h3>正在上映<a href="http://bbs.yule.com.cn/read-htm-tid-101039.html" target="_blank">更多></a></h3>
+				<div class="clear"></div>
+				<div class="clear"></div>
+				<div class="clear"></div>
+				<div class="AH4"></div>
+				<div id="Img">
+					<ul>
+						<li class="home"><a href="http://so.yule.com.cn/sonews.asp?keyword=源代码" target="_blank"><img src="http://img2.lnok.net/yule/home/show01.jpg" alt="" width="98" height="105" class="listImg" /></a><br /><a href="http://so.yule.com.cn/sonews.asp?keyword=源代码" target="_blank">源代码</a></li>
+						<li class="home"><a href="http://so.yule.com.cn/sonews.asp?keyword=窃听风云2" target="_blank"><img src="http://img2.lnok.net/yule/home/show02.jpg" alt="" width="98" height="105" class="listImg" /></a><br /><a href="http://so.yule.com.cn/sonews.asp?keyword=窃听风云2" target="_blank">窃听风云2</a></li>
+					</ul>
+				</div>
+				<div class="clear"></div>
+				<div class="clear"></div>
+				<div class="AH4"></div>
+				<ul>
+				    <li><a href="http://so.yule.com.cn/sonews.asp?keyword=源代码" target="_blank">2011-08-30 《源代码》科幻大片再度来袭</a></li>
+					<li><a href="http://so.yule.com.cn/sonews.asp?keyword=赛车总动员2" target="_blank">2011-08-24 《赛车总动员2》皮克斯新片</a></li>
+					<li><a href="http://so.yule.com.cn/sonews.asp?keyword=窃听风云2" target="_blank">2011-08-18 《窃听风云2》古天乐VS吴彦祖</a></li>
+					<li><a href="http://v.yule.com.cn/trailer/73.html" target="_blank">2011-08-10 《蓝精灵》寻找童年的快乐</a></li>
+				</ul>
+				<h4>　</h4>
+			</div>
+			<div id="moveHot">
+				<h3>即将上映<a href="http://bbs.yule.com.cn/read-htm-tid-101039.html" target="_blank">更多></a></h3>
+				<div class="clear"></div>
+				<div class="clear"></div>
+				<div class="AH4"></div>
+				<div class="clear"></div>
+				<ul>
+					<li><a href="http://v.yule.com.cn/trailer/215.html" target="_blank">2011-09-09 《大武生》韩庚吴尊拼人气</a></li>
+					<li><a href="http://v.yule.com.cn/trailer/397.html" target="_blank">2011-09-15 《狂暴飞车》尼古拉斯凯奇新片</a></li>
+					<li><a href="http://so.yule.com.cn/sonews.asp?keyword=辛亥革命" target="_blank">2011-09-23 《辛亥革命》成龙第100部电影</a></li>
+					<li><a href="http://so.yule.com.cn/sonews.asp?keyword=白蛇传说" target="_blank">2011-09-29 《白蛇传说》国产魔幻巨制</a></li>
+				</ul>
+			</div>
+		</div>
+  </div>
+</div>
+<div class=" clear"></div>
+<div class="area AH12 BGDe"></div>
+<div class=" clear"></div>
+<div class="area">
+	<div class="googleAD_728_90">
+		<script type="text/javascript"><!--
+		google_ad_client = "pub-5026403725092065";
+		/* 728x90, 创建于 08-11-7 */
+		google_ad_slot = "0984376634";
+		google_ad_width = 728;
+		google_ad_height = 90;
+		//-->
+		</script>
+		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+	</div>
+	<div class="ad_222">
+		<script src="js/index_ad4.js" type="text/javascript"></script>
+	</div>
+</div>
+<div class=" clear"></div>
+<div class="area AH12 BGDe"></div>
+<div id="newsListTitle2" class="area newsListTitleTypeB">
+	<div class="l"><div class="r"><div class="title"><div class="leftNewsTopPadding"><a href="http://news.yule.com.cn/music/" target="_blank"><img src="images/011.png"/></a></div></div></div></div>
+</div>
+<div class="clear"></div>
+<div id="RecommendedSongsTemp"></div>
+<div class="area">
+	<div id="MusicTop" class="areaLM">
+	<div class="MusicImg"><a href="http://v.yule.com.cn/mv/index.html" target="_blank"><img src="http://img2.lnok.net/yule/home/zhuanji.jpg" width="138" height="138" border="0" /></a></div>
+	<div class="MusicTitle">《庚心》  <span>韩庚单飞后首张专辑</span></div>
+	<div class="MusicIntroduction">7月27日，韩庚首张个人专辑《庚心》全亚洲同步发行。这张斥巨资打造的国语大碟，无论从音乐还是画面品质上都堪称大手笔。专辑的用心可见韩庚全新起航的信心与决心<a href="http://news.yule.com.cn/html/201007/76035.html" target="_blank">［详细］</a></div>
+	<div class="MusicListImg"><img src="images/MusicTopCD.jpg" width="40" height="40" /></div>
+	<div class="MusicList">
+		<li><a href="http://news.yule.com.cn/html/201007/76035.html" target="_blank">《飞蛾扑火》</a></li>
+		<li><a href="http://news.yule.com.cn/html/201007/76035.html" target="_blank">《女皇》</a></li>
+		<li><a href="http://news.yule.com.cn/html/201007/76035.html" target="_blank">《撑伞》</a></li>
+		<li><a href="http://news.yule.com.cn/html/201007/76035.html" target="_blank">《给陌生人的情书》</a></li>
+		<li><a href="http://news.yule.com.cn/html/201007/76035.html" target="_blank">《say no》</a></li>
+		<li><a href="http://news.yule.com.cn/html/201007/76035.html" target="_blank">《因为梦》</a></li>
+		<li><a href="http://news.yule.com.cn/html/201007/76035.html" target="_blank">《简单的人》</a></li>
+		<li><a href="http://news.yule.com.cn/html/201007/76035.html" target="_blank">《心疼 笔记本》</a></li>
+		<li><a href="http://news.yule.com.cn/html/201007/76035.html" target="_blank">《爱的翅膀》</a></li>
+	</div>
+	<div id="RecommendedSongs" class="areaL">
+		<ul>
+			<li><a href="http://v.yule.com.cn/mv/53.html" target="_blank"><img src="http://img2.lnok.net/yule/home/music01.jpg" class="MusicRecommendedSongsImg" /></a><a href="http://v.yule.com.cn/mv/53.html" target="_blank">《会跳舞的文艺青年》</a></li>
+			<li><a href="http://v.yule.com.cn/mv/52.html" target="_blank"><img src="http://img2.lnok.net/yule/home/music02.jpg" class="MusicRecommendedSongsImg" /></a><a href="http://v.yule.com.cn/mv/52.html" target="_blank"> 孙燕姿《当冬夜渐暖》</a></li>
+			<li><a href="http://v.yule.com.cn/mv/29.html" target="_blank"><img src="http://img2.lnok.net/yule/home/music03.jpg" class="MusicRecommendedSongsImg" /></a><a href="http://v.yule.com.cn/mv/29.html" target="_blank"> 方大同《因为爱》MV</a></li>
+			<li><a href="http://v.yule.com.cn/mv/9.html" target="_blank"><img src="http://img2.lnok.net/yule/home/music04.jpg" class="MusicRecommendedSongsImg" /></a><a href="http://v.yule.com.cn/mv/9.html" target="_blank"> 黄英《大太阳》高清MV</a></li>
+			<li><a href="http://v.yule.com.cn/mv/8.html" target="_blank"><img src="http://img2.lnok.net/yule/home/music05.jpg" class="MusicRecommendedSongsImg" /></a><a href="http://v.yule.com.cn/mv/8.html" target="_blank"> 蔡依林《黑发尤物》MV</a></li>
+			<li><a href="http://v.yule.com.cn/mv/10.html" target="_blank"><img src="http://img2.lnok.net/yule/home/music06.jpg" class="MusicRecommendedSongsImg" /></a><a href="http://v.yule.com.cn/mv/10.html" target="_blank"> 许飞《你如今好吗》MV</a></li>
+		</ul>
+	</div>
+	<div id="RecommendedMV" class="areaM">
+		<div id="title"><a href="http://v.yule.com.cn/mv/index.html" target="_blank">高清MV</a>推荐：<a href="http://v.yule.com.cn/mv/137.html" target="_blank">至上励合《Lucky Boys》</a></div>
+		<div id="mv">
+			<object id="player" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" name="player" width="345" height="200">
+			<param name="movie" value="http://img2.lnok.net/yule/play/player.swf" />
+			<param name="allowfullscreen" value="true" />
+			<param name="allowscriptaccess" value="always" />
+			<param name="flashvars" value="file=http://img2.lnok.net/yule/mv/luckyboys.flv&image=http://img2.lnok.net/yule/mv/luckyboys.jpg" />
+			<embeb flashvars="file=http://img2.lnok.net/yule/mv/luckyboys.flv&image=http://img2.lnok.net/yule/mv/luckyboys.jpg" />
+			<embed type="application/x-shockwave-flash" id="player2" name="player" src="http://img2.lnok.net/yule/play/player.swf" width="345" height="200">	
+			</object>
+		</div>
+	
+	</div>
+	</div>
+	<div class="areaR">
+		<div id="MusicNews" class="newsListClassDetail">
+			<h2><span><a href="http://news.yule.com.cn/music/" target=_blank>音乐新闻</a></span><a href="http://news.yule.com.cn/music/" target=_blank>更多&gt;&gt;</a></h2>
+			<div>
+				<ul>
+					 <li>·<a href='http://news.yule.com.cn/html/201112/101127.html' title="贾斯汀比伯新专辑换风格 应对青春期变生声尴尬期" target='_blank'>贾斯汀比伯新专辑换风格 应对青春期</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101126.html' title="彭佳慧产后大出血 输血3000cc救性命" target='_blank'>彭佳慧产后大出血 输血3000cc</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101119.html' title="jyj金在中狂飞国外申请明年入伍 朴有天气喘或免服役" target='_blank'>jyj金在中狂飞国外申请明年入伍 </a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101118.html' title="视频：葛优签约英皇众星捧场 葛大爷：对酬劳相当满意" target='_blank'>视频：葛优签约英皇众星捧场 葛大爷</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101105.html' title="Se7en公开与2ne1孔敏智dara合影 为YG演唱会彩排" target='_blank'>Se7en公开与2ne1孔敏智da</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101100.html' title="林俊杰雪山拍《学不会》MV险失踪 忆初恋崩溃大哭" target='_blank'>林俊杰雪山拍《学不会》MV险失踪 </a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101081.html' title="萧亚轩为《我爱你》砸400万 新专辑造型分两版" target='_blank'>萧亚轩为《我爱你》砸400万 新专</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101072.html' title="第54届格莱美奖提名公布 坎耶领跑Adele获六项" target='_blank'>第54届格莱美奖提名公布 坎耶领跑</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101070.html' title="Adele领跑格莱美 最佳歌手奖男女1:4" target='_blank'>Adele领跑格莱美 最佳歌手奖男</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101066.html' title="Kanye West获54届格莱美7项提名 意外失意年度大碟" target='_blank'>Kanye West获54届格莱美</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101062.html' title="FTIsland和cnblue经纪公司打造M signal 1日发迷你专辑" target='_blank'>FTIsland和cnblue经纪</a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101060.html' title="第54届格莱美提名：乡村不再热门 流行竞争惨烈" target='_blank'>第54届格莱美提名：乡村不再热门 </a></li>  <li>·<a href='http://news.yule.com.cn/html/201112/101033.html' title="视频：tara《Lovey-Dovey》MV预告 延续《Cry Cry》故事" target='_blank'>视频：tara《Lovey-Dov</a></li> 
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="clear"></div>
+<div class="area AH12 BGDe"></div>
+<div class="area">
+	<div class="areaL">
+			<div class="newsTop">
+			<div class="leftNewsTopPadding"><a href="http://www.yule.com.cn/"><img src="images/011.jpg"/></a></div>
+		</div>
+		<div class="ImgList">
+			<ul>
+			  <li><a href="http://bbs.yule.com.cn/read-htm-tid-65871.html" target="_blank"><img src="http://img2.lnok.net/yule/home/bagua01.jpg" width="240" height="135"/></a><br /><a href="http://bbs.yule.com.cn/read-htm-tid-65871.html" target="_blank">lady gaga太敢穿，雷人造型大盘点</a></li>
+			  <li><a href="http://zt.yule.com.cn/worldcup2010/" target="_blank"><img src="http://img2.lnok.net/yule/home/bagua02.jpg" width="240" height="135"/></a><br />
+				<a href="http://zt.yule.com.cn/worldcup2010/" target="_blank">为世界杯宽衣解带的性感女星</a></li>
+				<li><a href="http://bbs.yule.com.cn/read-htm-tid-82109.html" target="_blank"><img src="http://img2.lnok.net/yule/home/bagua03.jpg" width="240" height="135"/></a><br /><a href="http://bbs.yule.com.cn/read-htm-tid-82109.html" target="_blank">娱乐圈女星沐浴戏香艳大比拼</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="areaM">
+		<div class="newsTop"></div>
+		<div class="newsListClassDetail">
+			<h2><span><a href="http://news.yule.com.cn/bagua/" target=_blank>明星八卦</a></span><a href="http://news.yule.com.cn/bagua/" target=_blank>更多&gt;&gt;</a></h2>
+			<div>
+				<ul>
+					 
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101123.html' title="宋新妮：上辈子我出身青楼，吴宗宪为我赎身" target='_blank'>宋新妮：上辈子我出身青楼，吴宗宪为我赎身</a></li>  
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101108.html' title="视频：同龄明星大比拼 林志颖PK郭德纲 刘德华打败范伟" target='_blank'>视频：同龄明星大比拼 林志颖PK郭德纲 刘德华</a></li>  
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101085.html' title="周杰伦与女友过圣诞节 昆凌不介意被周杰伦粉丝骂" target='_blank'>周杰伦与女友过圣诞节 昆凌不介意被周杰伦粉丝骂</a></li>  
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101083.html' title="孔孝真与2ne1孔敏智撞衫 风格各异彰显魅力" target='_blank'>孔孝真与2ne1孔敏智撞衫 风格各异彰显魅力</a></li>  
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101082.html' title="昆凌开周杰伦跑车龟速上路 与周董临街买新居" target='_blank'>昆凌开周杰伦跑车龟速上路 与周董临街买新居</a></li>  
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101080.html' title="昆凌与周杰伦住临街 驾周杰伦跑车龟速上路" target='_blank'>昆凌与周杰伦住临街 驾周杰伦跑车龟速上路</a></li>  
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101079.html' title="李民浩沪上举行粉丝见面会 人气爆棚首站告捷" target='_blank'>李民浩沪上举行粉丝见面会 人气爆棚首站告捷</a></li>  
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101069.html' title="黎明恭喜刘德华当爹 暗示乐基儿已怀孕" target='_blank'>黎明恭喜刘德华当爹 暗示乐基儿已怀孕</a></li>  
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101039.html' title="冯绍峰为杨幂戴钻戒 旁若无人暧昧显甜蜜" target='_blank'>冯绍峰为杨幂戴钻戒 旁若无人暧昧显甜蜜</a></li>  
+					  <li>·<a href='http://news.yule.com.cn/html/201112/101037.html' title="曾志伟开玩笑 引刘德华自曝夫妻隐私" target='_blank'>曾志伟开玩笑 引刘德华自曝夫妻隐私</a></li> 
+				</ul>
+			</div>
+		</div>
+		<div class="newsListClassDetail">
+			<h2><span><a href="http://bbs.yule.com.cn/" target=_blank>论坛互动</a></span><a href="http://bbs.yule.com.cn/" target=_blank>更多&gt;&gt;</a></h2>
+			<div>
+				<ul>
+					<li>·<a title="香港四大天王风雨十六年 纪念我们终将逝去的青春" href="http://bbs.yule.com.cn/read-htm-tid-37517.html" target="_blank">香港四大天王风雨十六年 纪念我们终将逝去的青春</a></li>
+					<li>·<a title="传《美人天下》主演为代言争风吃醋 杨幂或将胜出" href="http://news.yule.com.cn/html/201112/101095.html" target="_blank">传《美人天下》主演为代言争风吃醋 杨幂或将胜出</a></li>
+					<li>·<a title="盘点日本12位高人气80后女优" href="http://pic.yule.com.cn/900/" target="_blank">盘点日本12位高人气80后女优</a></li>
+					<li>·<a title="影后李冰冰——成功女人背后的付出" href="http://bbs.yule.com.cn/read-htm-tid-60241.html" target="_blank">影后李冰冰——成功女人付出的背后</a></li>
+					<li>·<a title="中国娱乐网论坛版主大招募" href="http://bbs.yule.com.cn/read-htm-tid-2490.html" target="_blank">2010中国娱乐网论坛版主大招募——让娱乐如影随形</a></li>
+				</ul>
+	 	  </div>
+		</div>
+		<div class="AH4"></div>
+		<div class="AH1"></div>
+	</div>
+	<div class="areaR">
+		<div id="news2" class="Blue">
+			<div id="moveSearch">
+				<form name="yishiSearch" target="_blank" action="http://so.yule.com.cn/sostar.asp" method="get" >
+				<input type="text" name="keyword" class="texttxtBlue SearchText" value="请输入明星名字" />
+				<input type="submit" id="button" value="找一下" class="buttonBlue" />
+				</form>
+			</div>
+			<div id="">
+				<h5><a href="http://star.yule.com.cn/zhoujielun/" target="_blank">周杰伦</a> <a href="http://star.yule.com.cn/liyuchun/" target="_blank">李宇春</a> <a href="http://star.yule.com.cn/linjunjie/" target="_blank">林俊杰</a> <span><a href="http://star.yule.com.cn" target="_blank">更多></a></span></h5>
+				<div class="clear"></div>
+				<div class="AH4"></div>
+				<h4>　</h4>
+			</div>
+			<div id="moveHot">
+				<h3>今天过生日明星
+				<script type="text/javascript">
+				var today=new Date();
+				var monstr=(today.getMonth()+1);
+				var daystr=today.getDate();
+				document.write("<a href=/"http:\/\/so.yule.com.cn\/sostar.asp?star_moon="+monstr+"&star_day="+daystr+"\" target=\"_blank\">更多></a>")
+				</script>
+				</h3>
+				<div class="clear"></div>
+				<div class="AH8"></div>
+				<div class="clear"></div>
+				<div id="Img">
+					<ul>
+						 
+						<li class="home"><a href="http://star.yule.com.cn/zhangjiahui" title="张家辉" target="_blank"><img src="http://star.yule.com.cn/zhangjiahui/1.jpg" alt="" width="110" height="138" class="listImg" /></a><br /><a href="http://star.yule.com.cn/zhangjiahui" title="张家辉" target="_blank">张家辉</a></li>  
+						<li class="home"><a href="http://star.yule.com.cn/shilanya" title="史兰芽" target="_blank"><img src="http://star.yule.com.cn/shilanya/1.jpg" alt="" width="110" height="138" class="listImg" /></a><br /><a href="http://star.yule.com.cn/shilanya" title="史兰芽" target="_blank">史兰芽</a></li> 
+					</ul>
+				</div>
+				<h4>　</h4>
+				<div class="clear"></div>
+				<div class="clear"></div>
+			</div>
+			<div id="moveHot">
+				<h3>娱乐问问</h3>
+				<div class="clear"></div>
+				<div class="clear"></div>
+				<div class="clear"></div>
+				<div class="AH4"></div>
+				<ul>
+					<li><span class="FCBlack FWB FS15">Q</span><span class="FCBlack FW FS12">：刘若英现在签约哪家公司？</span></li>
+					<li><span class="FCRed FWB FS15">A：</span><span>刘若英于今年3月12日刚刚签约相信音乐，成为梁静茹、五月天的同门师姐。</span></li>
+					<li><span class="FCBlack FWB FS15">Q</span><span class="FCBlack FW FS12">：少女时代的腿怎么这么细？</span></li>
+					<li><span class="FCRed FWB FS15">A：</span><span>除了饮食结构、多做运动以外，她们的腿在拍照的时候也是经过了化妆处理。</span></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="clear"></div>
+<div class="area AH12 BGDe"></div>
+<div id="FriendLinkTitle" class="area newsListTitleTypeC">
+	<div id="title"></div>
+</div>
+<div id="FriendLink "class="area">
+	<div id="flinkurl">
+		<a href="http://www.yule.com.cn" target="_blank">中国娱乐网</a> | <a href="http://yule.sohu.com/" target="_blank">搜狐娱乐</a> | <a href="http://yule.baidu.com" target="_blank">百度娱乐</a> | <a href="http://ent.qq.com/" target="_blank">腾讯娱乐</a> | <a href="http://www.xinhuanet.com/ent/" target="_blank">新华网娱乐</a> | <a href="http://ent.cn.yahoo.com/" target="_blank">雅虎娱乐</a> | <a href="http://bbs.163.com" target="_blank">网易论坛</a> | <a href="http://www.setv.com.cn/" target="_blank">东南卫视</a> | <a href="http://www.jia123.com" target="_blank">网址之家</a> | <a href="http://www.sg.com.cn" target="_blank">精品网</a> | <a href="http://www.voc.com.cn/" target="_blank">华声在线</a> | <a href="http://www.letv.com/" target="_blank">乐视网</a> | <a href="http://www.kugou.com/" target="_blank">酷狗网</a> | <a href="http://www.daqi.com/" target="_blank">大旗网</a> <a href="http://q.sohu.com" target="_blank">搜狐圈子</a> | <a href="http://www.xxsy.net/" target="_blank">潇湘小说</a> | <a href="http://www.stnn.cc/" target="_blank">星岛环球网</a> | <a href="http://www.fbook.net/" target="_blank">天下书盟小说</a> | <a href="http://cn.msn.com/" target="_blank">MSN中文网</a> | <a href="http://www.ea3w.com/" target="_blank">万维家电网</a> | <a href="http://www.youth.cn/" target="_blank">中国青年网</a> | <a href="http://www.yx007.com/" target="_blank">007小游戏</a> | <a href="http://t.yule.com.cn/" target="_blank">明星微博</a> | <a href="http://www.131.com/" target="_blank">131游戏网</a> | <a href="http://www.2u.com.cn/" target="_blank">兔友游戏网</a> | <a href="http://www.tiexue.net/" target="_blank">铁血军事</a> | <a href="http://www.xbsb.com.cn/" target="_blank">西部商报</a> | <a href="http://www.yaofangwang.com/" target="_blank">药房网</a> |  <a href="http://www.onlylady.com/" target="_blank">女人志</a> | <a href="http://www.07073.com/" target="_blank">07073网页游戏</a> | <a href="http://gb.cri.cn/ent/" target="_blank">国际在线娱乐</a> | <a href="http://www.chinasspp.com/" target="_blank">中国时尚品牌网</a> | <a href="http://www.lady8844.com/" target="_blank">爱美网</a> | <a href="http://www.bandao.cn/" target="_blank">半岛网</a> | <a href="http://www.yule.com.cn/link" target="_blank">更多</a>
+	</div>
+	<div id="FooterChannel">
+	  <a href="http://www.yule.com.cn/" target="_top">娱乐首页</a> | <a href="http://news.yule.com.cn/" target="_blank">娱乐新闻</a> | <a href="http://yanyi.yule.com.cn/" target="_blank">演艺经纪</a> | <a href="http://baike.yule.com.cn/" target="_blank">娱乐百科</a> | <a href="http://zt.yule.com.cn/" target="_blank">专题</a> | <a href="http://pic.yule.com.cn/" target="_blank">图片</a> | <a href="http://star.yule.com.cn/" target="_blank">明星</a> | <a href="http://vote.yule.com.cn/" target="_blank">投票</a> | <a href="http://lady.yule.com.cn/" target="_blank">女性</a> | <a href="http://campus.yule.com.cn/" target="_blank">校园</a> | <a href="http://love.yule.com.cn/" target="_blank">恋爱</a> | <a href="http://life.yule.com.cn/" target="_blank">生活</a> | <a href="http://game.yule.com.cn/" target="_blank">游戏</a> | <a href="http://joke.yule.com.cn/" target="_blank">笑话</a> | <a href="http://miyu.yule.com.cn/" target="_blank">谜语</a> | <a href="http://astro.yule.com.cn/" target="_blank">星座</a> | <a href="http://ceshi.yule.com.cn/" target="_blank">测试</a> | <a href="http://so.yule.com.cn/" target="_blank">搜索</a> | <a href="http://bbs.yule.com.cn/" target="_blank">论坛</a>
+	</div>
+	<div id="footer">
+              本网内容来源于网友及媒体投稿、媒体合作等，其不代表本网观点，若涉及侵权请立即联系我们删除或断开链接，同时欢迎投稿与合作。<br />
+              <br />
+              <a href="http://www.yule.com.cn/about/contact.htm" target="_blank">网站介绍</a> | <a href="http://www.yule.com.cn/about/contact.htm" target="_blank">联系我们</a> | <a href="http://www.yule.com.cn/about/zhaopin.htm" target="_blank">企业招聘</a> | <a href="http://www.yule.com.cn/media/" target="_blank">媒体合作</a> | <a href="http://www.yule.com.cn/link" target="_blank">友情链接</a> | <a href="http://tougao.yule.com.cn" target="_blank">投稿中心</a> | <a href="http://www.yule.com.cn/about/contact.htm" target="_blank">隐私条款</a> | <a href="http://www.yule.com.cn/copyright.html" target="_blank">版权与免责</a> | <a href="http://www.yule.com.cn/logo" target="_blank">网站logo</a> | <br />
+              <br />
+              <table align="center">
+      <tr><td><a href="http://ulic.baidu.com/client/clientDetailCerInfo.do?id=1304" target="_blank"><img border="0" src="http://eiv.baidu.com/unlic/11448_green.gif" /></a></td><td>辽ICP备030255号 Copyright &copy;  2003-2010 Yule.com.cn All Rights Reserved <a href="http://www.yule.com.cn" target="_blank">中国娱乐网</a> 版权所有<br />本站法律顾问：辽宁申扬律师事务所 曲柏杰 <a href="tencent://message/?uin=838516324&amp;Site=中国娱乐网&amp;Menu=yes" target="blank"><img border="0" alt="点击这里给我发消息" src="http://wpa.qq.com/pa?p=1:838516324:8" /></a> <a title="站长统计" href="http://www.cnzz.com/stat/website.php?web_id=553278" target="_blank"><img border="0" hspace="0" src="http://icon.cnzz.com/pic.gif" /></a><img border="0" src="http://zs5.cnzz.com/stat.htm?id=553278&amp;r=&amp;lg=zh-cn&amp;ntime=0.96370000 1279529678&amp;repeatip=0&amp;rtime=0&amp;cnzz_eid=95335456-1279529678-&amp;showp=1440x900&amp;st=1279531721&amp;sin=&amp;res=0" width="0" height="0" /><script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fa09763650b0cf0d176db4dbc59a24a44' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</td></tr></table>
+    </div>
+</div>
+<script type="text/javascript">//<![CDATA[
+ac_as_id = 69772;
+ac_click_track_url = "";ac_format = 0;ac_mode = 1;
+ac_width = 280;ac_height = 210;
+//]]></script>
+<script type="text/javascript" src="http://static.acs86.com/g.js"></script>
+</body>
+</html>
+?屏中路障 -->
+<script type="text/javascript" >BAIDU_CLB_SLOT_ID = "259054";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script>
+</body>
+</html>
+

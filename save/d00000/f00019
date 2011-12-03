@@ -1,0 +1,2557 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+            "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<title>Solidot: 奇客的资讯，重要的东西</title>
+
+
+<link rel="alternate" type="application/rss+xml" title="Solidot RSS 2.0" href="http://feeds2.feedburner.com/solidot">
+
+<link rel="stylesheet" type="text/css" media="screen, projection" href="//solidot.org/base.css?T_2_5_0_112">
+<link rel="stylesheet" type="text/css" media="screen, projection" href="//solidot.org/slashcode.css?T_2_5_0_112">
+<link rel="stylesheet" type="text/css" media="print" href="//solidot.org/print.css?T_2_5_0_112">
+
+<!-- start template: ID 383, ssihead;misc;default -->
+
+
+
+<!-- start template: ID 311, header;misc;default -->
+
+<link rel="top"       title="奇客的资讯，重要的东西" href="//solidot.org/" >
+<link rel="search"    title="Search Solidot" href="//solidot.org/search.pl">
+<link rel="alternate" title="Solidot RSS" href="//solidot.org/index.rss" type="application/rss+xml"> 
+ <script language="javascript" src="http://www.solidot.org/admanage/admanage.js"></script> 
+</head>
+<body>
+
+<div id="jump">
+	<a href="#main-articles">文章</a>
+	<br>
+	<a href="#blocks">Slash Boxes</a>
+	<br>
+	<a href="#acomments">评论</a>
+</div>
+
+<div id="frame"> 
+ 
+ 	<div id="topnav">
+		<div id="logo">
+			<h1>
+				<a href="//solidot.org">Solidot</a>
+			</h1>
+                        <div id="index-textlink"><script>textlink_inner()</script></div>
+                       
+		</div>
+		
+		<ul id="index-adbanner">
+			<!-- start template: ID 379, setrectop_img;misc;default -->
+
+<li>
+	<a href="//solidot.org/search.pl?tid=17"><img src="//solidot.org/images/topics/topicinternet.gif" width="70" height="73" alt="互联网" title="互联网" ></a>
+</li>
+
+<!-- end template: ID 379, setrectop_img;misc;default -->
+
+
+
+<!-- start template: ID 379, setrectop_img;misc;default -->
+
+<li>
+	<a href="//solidot.org/search.pl?tid=89"><img src="//solidot.org/images/topics/topicmusic.gif" width="60" height="49" alt="音乐" title="音乐" ></a>
+</li>
+
+<!-- end template: ID 379, setrectop_img;misc;default -->
+
+
+
+<!-- start template: ID 379, setrectop_img;misc;default -->
+
+<li>
+	<a href="//solidot.org/search.pl?tid=48"><img src="//solidot.org/images/topics/topicannouncements.gif" width="67" height="51" alt="通知" title="通知" ></a>
+</li>
+
+<!-- end template: ID 379, setrectop_img;misc;default -->
+
+
+
+<!-- start template: ID 379, setrectop_img;misc;default -->
+
+<li>
+	<a href="//solidot.org/search.pl?tid=86"><img src="//solidot.org/images/topics/topicmars.gif" width="46" height="51" alt="火星" title="火星" ></a>
+</li>
+
+<!-- end template: ID 379, setrectop_img;misc;default -->
+
+
+
+<!-- start template: ID 379, setrectop_img;misc;default -->
+
+<li>
+	<a href="//solidot.org/search.pl?tid=58"><img src="//solidot.org/images/topics/topiccommunications.gif" width="96" height="62" alt="通讯" title="通讯" ></a>
+</li>
+
+<!-- end template: ID 379, setrectop_img;misc;default -->
+		</ul>
+<script>index_adbanner_inner()</script>
+		
+		</div>
+		<!--
+		<div id="slogan">
+		<h2>
+			奇客的资讯，重要的东西
+		</h2>
+		</div>
+		-->
+		<div id="links">
+			
+				
+
+<!-- start template: ID 374, sidebox;misc;default -->
+
+<div class="block">
+	<div class="title" id="sitebox-title">
+		<h4>
+			分类
+		</h4>
+	</div>
+	<div class="content" id="sitebox-content">
+		<ul>
+<li><a href="//solidot.org/">首页</a></li>
+<li><a href="//it.solidot.org/">IT</a></li>
+<li><a href="//linux.solidot.org">Linux</a></li>
+<li><a href="//opensource.solidot.org">开源</a></li>
+<li><a href="//books.solidot.org/">书籍</li>
+<li><a href="//developers.solidot.org/">开发者</a></li>
+<li><a href="//apple.solidot.org/">苹果</a></li>
+<li><a href="//games.solidot.org/">游戏</a></li>
+<li><a href="//hardware.solidot.org/">硬件</a></li>
+<li><a href="//software.solidot.org/">软件</a></li>
+<li><a href="//interviews.solidot.org/">采访</a></li>
+<li><a href="//internet.solidot.org/">互联网</a></li>
+<li><a href="//ask.solidot.org/">询问Solidot</a></li>
+<li><a href="//science.solidot.org/">科学</a></li>
+<li><a href="//society.solidot.org/">社会</a></li>
+<li><a href="//idle.solidot.org/">Idle</a></li>
+</ul>
+	</div>
+        </div>
+
+<!-- end template: ID 374, sidebox;misc;default -->
+
+ 
+				<!-- start template: ID 374, sidebox;misc;default -->
+
+<div class="block">
+	<div class="title" id="stories-title">
+		<h4>
+			文章
+		</h4>
+	</div>
+
+  <div class="content" id="navigation-content">
+   <ul>
+    <li><a href="//solidot.org/submit.pl">提交文章</a></li> 
+	<li><a href="//solidot.org/search.pl">往日文章</a></li>
+	<li><a href="//solidot.org/pollBooth.pl">过去的投票</a></li> 
+	<li><a href="//solidot.org/hof.shtml">名人堂</a></li>
+    <li><a href="//solidot.org/topics.pl">主题</a></li> 
+	<li><a href="//solidot.org/bookmark.pl">书签</a></li>
+   </ul>
+  </div>
+</div>
+
+<!-- end template: ID 374, sidebox;misc;default --> 
+
+				
+
+<!-- start template: ID 374, sidebox;misc;default -->
+
+<div class="block">
+	<div class="title" id="navigation-title">
+		<h4>
+			导航
+		</h4>
+	</div>
+	<div class="content" id="navigation-content">
+		<ul>	
+	<li>
+		<a href="//solidot.org/faq/">常见问题</a>
+	</li>
+	<li>
+		<a href="//solidot.org/authors.pl">编辑介绍</a>
+	</li>
+	<li>
+		<a href="//solidot.org/about.shtml">关于</a>
+	</li> 
+	<li>
+        <a href="http://mail.solidot.org/" target="_blank">邮箱</a> 
+    </li>
+	<li>
+		<a href="//solidot.org/comments.pl">讨论</a>
+	</li>
+	<li>
+		<a href="//solidot.org/journal.pl">日志</a>
+	</li>
+	<li>
+		<a href="//solidot.org/messages.pl">消息</a>
+	</li>  
+  		
+		<li>
+			<a href="//solidot.org/my/">注册/登录</a>
+		</li>
+		
+	</ul>
+	</div>
+        </div>
+
+<!-- end template: ID 374, sidebox;misc;default -->
+
+ 
+				<!-- start template: ID 374, sidebox;misc;default -->
+
+<div class="block">
+	<div class="title" id="aboutbox-title">
+		<h4>
+			关于
+		</h4>
+	</div>
+	<div class="content" id="aboutbox-content">
+
+		<ul>
+<li><a href="//slash.solidot.org/" target="_blank" title="Slash 开源项目中文版">Slash 中文版</a></li> 
+<li><a href="http://lists.solidot.org/" target="_blank">邮件列表</a></li>
+<li><a href="//solidot.org/supporters.shtml" title="Solidot 支持者">支持者</a></li>
+<li><a href="//solidot.org/prettypictures.shtml" title="Solidot 图标图片">图标</a></li> 
+<li><a href="http://home.solidot.org/old/" target="_blank">老站</a></li>
+<li><a href="http://solidot.org.feedsportal.com/c/33236/f/556826/index.rss" title="订阅 Solidot RSS" target="_blank">RSS</a></li>
+<li>RSS读者<br>
+<a href="http://solidot.org.feedsportal.com/c/33236/f/556826/index.rss" title="Solidot RSS 订阅者" target="_blank"><img src="http://feeds.feedburner.com/~fc/solidot?bg=EEEEEE&fg=006666&anim=0" border="0" alt="Solidot RSS 读者"></a>
+</li>
+</ul>
+	</div>
+</div>
+
+
+<div class="block">
+	<div class="title" id="linkbox-title">
+		<h4>
+			链接
+		</h4>
+	</div>
+	<div class="content" id="linkbox-content">
+
+		<ul>
+
+<li><a href="http://www.mangbar.com" target="_blank"><img src="http://www.mangbar.com/img/mangbar88x31.gif" border="0" /></a></li>
+<li><a href="http://www.zdnet.com.cn" target="_blank" title="至顶网">至顶网</a></li> 
+<li><a href="http://gezhi.org" target="_blank">格致</a></li>
+<li><a href="http://zishuo.com/" target="_blank">子说</a></li>
+<li><a href="http://digitalnomadsproject.org/" target="_blank">数字游牧</a></li>
+<li><a href="https://desaigongyuan.appspot.com/"  target="_blank">德赛公园</a></li> 
+ <li><a href="http://jandan.net/" title="煎蛋 | 地球上没有新鲜事" target="_blank">煎蛋</a></li>
+<li><a href="http://www.appinn.com/" target="_blank">小众软件</a></li> 
+<li><a href="http://www.ifanr.com/" target="_blank">爱范儿</a></li> 
+<li><a href="http://www.google.org.cn/" target="_blank">谷奥</a></li> 
+<li><a href="http://www.kenengba.com/" target="_blank">可能吧 </a></li> 
+<li><a href="http://riku.me/" target="_blank">关注新网络</a></li> 
+<li><a href="http://songshuhui.net/" target="_blank">科学松鼠会 </a></li> 
+<li><a href="http://wo.zdnet.com.cn/" target="_blank">探客网 </a></li> 
+ <br>
+<li><a href="//solidot.org/service/index.html">加入链接</a></li> 
+</ul>
+	</div>
+</div>
+
+<!-- end template: ID 374, sidebox;misc;default -->
+			
+		</div>
+		<div id="contents">
+
+<!-- end template: ID 311, header;misc;default -->
+
+
+
+<div id="index">
+
+<!-- end template: ID 383, ssihead;misc;default -->
+
+
+
+<!-- start template: ID 316, index;index;default -->
+
+<a name="blocks"></a>
+	<div id="slashboxes">
+	
+		
+
+<!-- start template: ID 374, sidebox;misc;default -->
+
+<div class="block">
+	<div class="title" id="solidotann-title">
+		<h4>
+			Solidot 公告
+		</h4>
+	</div>
+	<div class="content" id="solidotann-content">
+		<div class="content" id="solidotann-content">
+<b>文章提交注意事项：</b><br>
+请在发布文章时用HTML代码加上至少一条新闻来源的链接；原创性消息，可加入相关信息（如涉及公司的网址）的链接。有任何问题，<b>邮件至：he.fang#zdnet.com.cn<br>
+ken：feigaobox@gmail.com<br></b>
+<br>
+
+
+
+
+<b>注意：收到邮件乱码的用户请修改客户端的默认字体编码，从“简体中文（GB2312）”修改为“Unicode（UTF-8）”。</b><br><br>
+
+
+
+
+
+
+
+</div>
+	</div>
+        </div>
+
+<!-- end template: ID 374, sidebox;misc;default -->
+
+
+
+<!-- start template: ID 374, sidebox;misc;default -->
+
+<div class="block">
+	<div class="title" id="login-title">
+		<h4>
+			登录
+		</h4>
+	</div>
+	<div class="content" id="login-content">
+		<form action="//solidot.org/login.pl" method="post">
+<fieldset>
+	<legend>登录</legend>
+	<label>
+		用户名
+	</label>
+	<input type="text" name="unickname" size="20" value="">
+	<label>
+		密码
+	</label>
+	<input type="hidden" name="returnto" value="//solidot.org/">
+	<input type="hidden" name="op" value="userlogin">
+	<input type="password" name="upasswd" size="20">
+	<label class="checkbox">
+		<input type="checkbox" name="login_temp" value="yes">
+		公共终端
+	</label>
+	<input type="submit" name="userlogin" value="登录" class="button">
+	</fieldset>
+</form>
+<p>
+	[ <b>
+		<a href="//solidot.org/login.pl?op=newuserform">
+			创建一个新帐号
+		</a>
+	</b> ]
+</p>
+	</div>
+        </div>
+
+<!-- end template: ID 374, sidebox;misc;default -->
+
+
+
+<!-- start template: ID 374, sidebox;misc;default -->
+
+<div class="block">
+	<div class="title" id="poll-title">
+		<h4>
+			投票
+		</h4>
+	</div>
+	<div class="content" id="poll-content">
+		
+
+<!-- start template: ID 127, pollbooth;misc;default -->
+
+<form action="//solidot.org/pollBooth.pl" method="post">
+			<fieldset>
+				<legend>投票</legend>
+				<input type="hidden" name="qid" value="187">
+			
+				<input type="hidden" name="section" value="mainpage">
+			
+				<b>我们将进行改版，你想看到哪些方面的变化？</b>
+
+			
+				<br><input type="radio" name="aid" value="1">更快更多的信息分享
+			
+				<br><input type="radio" name="aid" value="2">简单有效的社交互动
+			
+				<br><input type="radio" name="aid" value="3">现有结构的富媒体化
+			
+				<br><input type="radio" name="aid" value="4">其它（请写在下面）
+			
+
+				<br><input type="submit" value="投票">
+				
+				[ <a href="//solidot.org/pollBooth.pl?qid=187&amp;aid=-1"><b>结果</b></a> |
+				<a href="//solidot.org/pollBooth.pl"><b>投票</b></a> ] <br>
+				评论:<b>7</b> | 得票数:<b>42</b>
+			</fieldset>
+		</form>
+	
+
+<iframe width="100%" height="450" class="share_self"  frameborder="0" scrolling="no" src="http://service.t.sina.com.cn/widget/WeiboShow.php?width=0&height=450&fansRow=1&ptype=0&speed=0&skin=-1&isTitle=1&noborder=1&isWeibo=1&isFans=1&uid=1686235170&verifier=388d5a80&colors=7C7C7C,ffffff,666666,0082cb"></iframe>
+
+<!-- end template: ID 127, pollbooth;misc;default -->
+
+
+	</div>
+        </div>
+
+<!-- end template: ID 374, sidebox;misc;default -->
+
+
+
+<!-- start template: ID 374, sidebox;misc;default -->
+
+<div class="block">
+	<div class="title" id="top10comments-title">
+		<h4>
+			热门评论
+		</h4>
+	</div>
+	<div class="content" id="top10comments-content">
+		<ul>
+<li> <b><a href="//solidot.org/comments.pl?sid=11/12/03/1212217&amp;cid=125537">中国也是这么认为的</a>
+	(1 points, 一般)
+	by cuthead</b>
+	on 2011年12月03日 20时33分 星期六
+	<small>attached to
+	<a href="//solidot.org/article.pl?sid=11/12/03/1212217">瑞士政府认为下载音乐电影是合法的</a></small></li>
+
+<li> <b><a href="//solidot.org/comments.pl?sid=11/12/02/0459259&amp;cid=125535">为什么在“US”的那个栏里</a>
+	(1 points, 一般)
+	by iluvwiki</b>
+	on 2011年12月03日 19时35分 星期六
+	<small>attached to
+	<a href="//solidot.org/article.pl?sid=11/12/02/0459259">WikiLeaks新文档称政府利用恶意程序监控</a></small></li>
+
+<li> <b><a href="//solidot.org/comments.pl?sid=11/12/03/028200&amp;cid=125533">Re:为啥fork了？</a>
+	(1 points, 一般)
+	by xuby</b>
+	on 2011年12月03日 18时47分 星期六
+	<small>attached to
+	<a href="//solidot.org/article.pl?sid=11/12/03/028200">淘宝开源Web服务器Tengine</a></small></li>
+
+<li> <b><a href="//solidot.org/comments.pl?sid=11/12/03/028200&amp;cid=125531">淘寶是佛心來的?</a>
+	(1 points, 一般)
+	by wtkao</b>
+	on 2011年12月03日 16时42分 星期六
+	<small>attached to
+	<a href="//solidot.org/article.pl?sid=11/12/03/028200">淘宝开源Web服务器Tengine</a></small></li>
+
+<li> <b><a href="//solidot.org/comments.pl?sid=11/12/03/0815222&amp;cid=125530">阴谋论</a>
+	(1 points, 一般)
+	by wxvp</b>
+	on 2011年12月03日 16时36分 星期六
+	<small>attached to
+	<a href="//solidot.org/article.pl?sid=11/12/03/0815222">ESA终止与俄火星探测器通信尝试</a></small></li>
+
+<li> <b><a href="//solidot.org/comments.pl?sid=11/12/03/028200&amp;cid=125529">为啥fork了？</a>
+	(1 points, 一般)
+	by navi</b>
+	on 2011年12月03日 15时43分 星期六
+	<small>attached to
+	<a href="//solidot.org/article.pl?sid=11/12/03/028200">淘宝开源Web服务器Tengine</a></small></li>
+
+<li> <b><a href="//solidot.org/comments.pl?sid=11/12/02/0647213&amp;cid=125528">如何惩罚最大的造谣者</a>
+	(1 points, 一般)
+	by firstrose</b>
+	on 2011年12月03日 12时12分 星期六
+	<small>attached to
+	<a href="//solidot.org/article.pl?sid=11/12/02/0647213">官媒再次呼吁严打网络造谣</a></small></li>
+
+<li> <b><a href="//solidot.org/comments.pl?sid=11/12/02/0647213&amp;cid=125527">Re:难到老美也就不用 twitter 胡乱说？</a>
+	(1 points, 一般)
+	by bingt</b>
+	on 2011年12月03日 11时58分 星期六
+	<small>attached to
+	<a href="//solidot.org/article.pl?sid=11/12/02/0647213">官媒再次呼吁严打网络造谣</a></small></li>
+
+<li> <b><a href="//solidot.org/comments.pl?sid=11/12/02/1057242&amp;cid=125526">Re:Gnome2 归来吧</a>
+	(1 points, 一般)
+	by delectate</b>
+	on 2011年12月03日 11时32分 星期六
+	<small>attached to
+	<a href="//solidot.org/article.pl?sid=11/12/02/1057242">GNOME发布Shell扩展网站</a></small></li>
+</ul>
+	</div>
+        </div>
+
+<!-- end template: ID 374, sidebox;misc;default -->
+
+
+
+<!-- start template: ID 374, sidebox;misc;default -->
+
+<div class="block">
+	<div class="title" id="olderstuff-title">
+		<h4>
+			往日文章
+		</h4>
+	</div>
+	<div class="content" id="olderstuff-content">
+		
+
+<!-- start template: ID 308, getOlderStories;misc;default -->
+
+<ul>
+	
+		
+		<li>
+			<br>
+			<a href="//solidot.org/index.pl?issue=20111202">			12月 </a>		<ul>
+	<li>
+		<a href="//internet.solidot.org/internet/11/12/02/0647213.shtml">官媒再次呼吁严打网络造谣</a>
+		<em>(14)</em>
+	</li>
+	
+
+	<li>
+		<a href="//science.solidot.org/science/11/12/02/0633228.shtml">航海家飞船不再受太阳干扰</a>
+		<em>(0)</em>
+	</li>
+	
+
+	<li>
+		<a href="//hardware.solidot.org/hardware/11/12/02/0545247.shtml">明年卫视黄金档或将禁播穿越剧</a>
+		<em>(2)</em>
+	</li>
+	
+
+	<li>
+		<a href="//linux.solidot.org/linux/11/12/02/0532245.shtml">2011 Linux圣临月历，Perl圣临月历</a>
+		<em>(0)</em>
+	</li>
+	
+
+	<li>
+		<a href="//society.solidot.org/society/11/12/02/0459259.shtml">WikiLeaks新文档称政府利用恶意程序监控</a>
+		<em>(1)</em>
+	</li>
+	
+
+	<li>
+		<a href="//games.solidot.org/games/11/12/02/0443254.shtml">Aleph One 1.0发布</a>
+		<em>(0)</em>
+	</li>
+	
+
+	<li>
+		<a href="//science.solidot.org/science/11/12/02/0315214.shtml">用反垃圾邮件技术研究艾滋病</a>
+		<em>(1)</em>
+	</li>
+	
+
+	<li>
+		<a href="//developers.solidot.org/developers/11/12/02/0238212.shtml">Arduino 1.0发布</a>
+		<em>(0)</em>
+	</li>
+	
+
+	<li>
+		<a href="//software.solidot.org/software/11/12/02/0219223.shtml">Chrome逼近Firefox，IE稳定</a>
+		<em>(2)</em>
+	</li>
+	
+
+	<li>
+		<a href="//developers.solidot.org/developers/11/12/02/0151248.shtml">LLVM 3.0发布</a>
+		<em>(0)</em>
+	</li>
+	
+
+	<li>
+		<a href="//software.solidot.org/software/11/12/02/0122222.shtml">Windows 8 Beta版将在明年2月发布</a>
+		<em>(1)</em>
+	</li>
+	
+
+	<li>
+		<a href="//it.solidot.org/it/11/12/02/010221.shtml">XDA成员开发出Carrier IQ检测程序</a>
+		<em>(0)</em>
+	</li>
+	
+
+	<li>
+		<a href="//linux.solidot.org/linux/11/12/02/0057217.shtml">Ubuntu 12.04发布首个测试版</a>
+		<em>(2)</em>
+	</li>
+	
+
+	<li>
+		<a href="//games.solidot.org/games/11/12/02/0031242.shtml">台年轻人不愿意和大陆作战</a>
+		<em>(18)</em>
+	</li>
+	
+
+		
+			</ul>
+		</li>
+		
+		<li>
+			<br>
+			<a href="//solidot.org/index.pl?issue=20111201">			12月 </a>		<ul>
+	<li>
+		<a href="//it.solidot.org/it/11/12/01/1359258.shtml">诺基亚的产品从未使用 Carrier IQ</a>
+		<em>(1)</em>
+	</li>
+	
+		</ul>
+	</li>
+</ul>
+<br>
+<div class="right">
+
+
+<b><a href="//solidot.org/search.pl?start=15">往日文章</a></b>
+
+
+
+<br><b><a href="//solidot.org/index.pl?issue=20111202">昨天的文章</a></b>
+</div>
+
+<!-- end template: ID 308, getOlderStories;misc;default -->
+
+
+	</div>
+        </div>
+
+<!-- end template: ID 374, sidebox;misc;default -->
+
+
+
+<!-- start template: ID 374, sidebox;misc;default -->
+
+<div class="block">
+	<div class="title" id="top10journals-title">
+		<h4>
+			<a href="http://solidot.org/journal.pl?op=top">最新日志文章</a>
+		</h4>
+	</div>
+	<div class="content" id="top10journals-content">
+		<ul>
+<li>
+	<a href="//solidot.org/~MontBlanc/journal/">
+		[MontBlanc] 西部数据泰国部分工厂已复产
+	</a>
+</li><li>
+	<a href="//solidot.org/~lot/journal/">
+		[lot] 楹
+	</a>
+</li><li>
+	<a href="//solidot.org/~xuduoduoxu/journal/">
+		[xuduoduoxu] 精油的功效
+	</a>
+</li><li>
+	<a href="//solidot.org/~aixilan/journal/">
+		[aixilan] 只能选一枝玫瑰
+	</a>
+</li><li>
+	<a href="//solidot.org/~phoenix24k/journal/">
+		[phoenix24k] Data dictionary和 Data directory的区别
+	</a>
+</li><li>
+	<a href="//solidot.org/~laogt/journal/">
+		[laogt] 1
+	</a>
+</li><li>
+	<a href="//solidot.org/~April_2011/journal/">
+		[April_2011] 写在第一天
+	</a>
+</li><li>
+	<a href="//solidot.org/~blackberry/journal/">
+		[blackberry] 俄罗斯冰球队坠机事故原因查明：飞行员操作失误
+	</a>
+</li><li>
+	<a href="//solidot.org/~hourglass/journal/">
+		[hourglass] 1.3.1
+	</a>
+</li><li>
+	<a href="//solidot.org/~konit/journal/">
+		[konit] [轉]乔布斯：初心与终点
+	</a>
+</li><li>
+	<a href="//solidot.org/~supernova/journal/">
+		[supernova] Is mental time travel what makes us human? (转)
+	</a>
+</li><li>
+	<a href="//solidot.org/~zryynx/journal/">
+		[zryynx] 北京代开发票13713824996钱先生
+	</a>
+</li><li>
+	<a href="//solidot.org/~zikoo/journal/">
+		[zikoo] 2011-2015年工业机器人行业竞争格局与投资战略研究咨询报告
+	</a>
+</li><li>
+	<a href="//solidot.org/~aishebei/journal/">
+		[aishebei] 关于建设反向链接的一些注意事项
+	</a>
+</li><li>
+	<a href="//solidot.org/~46661207/journal/">
+		[46661207] 呵呵  来次
+	</a>
+</li>
+</ul>
+	</div>
+        </div>
+
+<!-- end template: ID 374, sidebox;misc;default -->
+
+
+
+<!-- start template: ID 374, sidebox;misc;default -->
+
+<div class="block">
+	<div class="title" id="index_qlinks-title">
+		<h4>
+			快速链接
+		</h4>
+	</div>
+	<div class="content" id="index_qlinks-content">
+		<!-- begin quicklinks block -->
+Slashdot 本家<br>
+<a href="http://slashdot.org/" target="_blank"><img src="http://images.slashdot.org/banners/topicslashdot.gif" border="0"></a>
+<br>
+<a href="http://www.digbuz.com/" target="_blank">我挖</a><a href="http://www.molitalk.net/" target="_blank">网</a>
+<br> 
+<a href="http://www.herblab.org/" target="_blank">ANTICANCER HERB</a>
+<!-- end quicklinks block -->
+
+
+	</div>
+        </div>
+
+<!-- end template: ID 374, sidebox;misc;default -->
+
+
+		
+	
+	</div>
+	<div class="indexhead">
+
+
+
+
+	
+
+
+
+
+</div>
+	<a name="main-articles"></a>
+	<div id="articles">
+	
+
+<!-- start template: ID 283, dispStory;misc;default -->
+
+<div class="article">
+
+
+<div class="generaltitle">
+	<div class="title">
+		<h3>
+			<a href="//opensource.solidot.org/">开源</a>: QEMU 1.0发布
+			
+		</h3>
+	</div>
+</div>
+	<div class="details">
+		
+		<a href="">blackhat</a>  发表于 2011年12月03日 20时42分 星期六
+		 
+			&nbsp;&nbsp;<a href="//solidot.org/print.pl?sid=11/12/03/1243251"><img src="//solidot.org/images/print.gif" height="11" width="15" alt="Printer-friendly"></a>
+		
+		
+			&nbsp;&nbsp;<a href="//solidot.org/email.pl?sid=11/12/03/1243251"><img src="//solidot.org/images/email.gif" height="14" width="20" alt="Email story" ></a>
+		
+
+ <!--sina micblog update gao by 2011-02-12-->
+&nbsp;<script type="text/javascript" charset="utf-8">
+(function(){
+  var _w = 72 , _h = 16;
+  var param = {
+    url:location.href,
+    type:'3',
+    count:'1', /**是否显示转发数，1显示(可选)*/
+    appkey:'369239938', /**您申请的应用appkey,显示分享来源(可选)*/
+    title:'', /**转发的文字内容(可选，默认为所在页面的title)*/
+    pic:'', /**转发图片的路径(可选)*/
+    ralateUid:'1686235170', /**关联用户的UID，转发微博会@该用户(可选)*/
+    rnd:new Date().valueOf()
+  }
+  var temp = [];
+  for( var p in param ){
+    temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )
+  }
+  //高修改，只在特定位置显示
+    if(window.location.href.indexOf("11/") > 0){
+  	document.write('<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>')
+  }
+})()
+</script>
+<!--sina micblog end-->
+
+
+<br>
+		<strong>来自<b>动态模拟</b>部门</strong>
+	</div>
+	<div class="body">
+		 
+		<div class="topic">
+			
+			
+				<a href="//solidot.org/search.pl?tid=15">
+					<img src="//solidot.org/images/topics/topicsoftware.gif" width="65" height="65" alt="软件" title="软件" >
+				</a>
+			
+			
+		</div>
+		<div class="intro">
+			经过八年开发之后，模拟处理器的自由软件QEMU正式<a href="https://lwn.net/Articles/470341/">发布</a>了<a href="http://wiki.qemu.org/download/qemu-1.0.tar.gz">1.0版</a>。<i>
+八年前，Fabrice Bellard启动了QEMU项目，最初设想在非x86平台上运行x86 Linux二进制程序，随后转变成跨架构的全系统模拟器，能在不同主机平台模拟14种不同的目标架构，包括IA-32(x86) PC、x86-64 PC、MIPS R4000、Sun的SPARC sun4m和SPARC sun4u，ARM和PowerPC等等。它是Xen和KVM虚拟机的核心。</i>
+		</div>
+
+
+
+
+
+
+		
+	</div>
+</div>
+
+<!-- end template: ID 283, dispStory;misc;default -->
+
+
+
+<!-- start template: ID 385, storylink;index;default -->
+
+<div class="storylinks">
+	<div>
+	<ul>
+	
+	<li class="more">
+		<a href="//opensource.solidot.org/opensource/11/12/03/1243251.shtml"><b>阅读更多...</b></a>
+	</li>
+	
+	
+	<li class="commentSub">
+		<a href="/comments.pl?sid=28932&amp;op=reply&amp;threshold=1&amp;mode=thread&amp;commentsort=0"><b>发表评论</b></a>
+	</li>
+	
+	
+	<li class="section">
+		<a href="//opensource.solidot.org/">opensource.solidot.org</a>
+	</li>
+	
+	
+	</ul>
+	</div>
+</div>
+
+<!-- end template: ID 385, storylink;index;default -->
+
+
+
+<!-- start template: ID 283, dispStory;misc;default -->
+
+<div class="article">
+
+
+<div class="generaltitle">
+	<div class="title">
+		<h3>
+			<a href="//internet.solidot.org/">互联网</a>: 瑞士政府认为下载音乐电影是合法的
+			
+		</h3>
+	</div>
+</div>
+	<div class="details">
+		
+		<a href="">blackhat</a>  发表于 2011年12月03日 20时08分 星期六
+		 
+			&nbsp;&nbsp;<a href="//solidot.org/print.pl?sid=11/12/03/1212217"><img src="//solidot.org/images/print.gif" height="11" width="15" alt="Printer-friendly"></a>
+		
+		
+			&nbsp;&nbsp;<a href="//solidot.org/email.pl?sid=11/12/03/1212217"><img src="//solidot.org/images/email.gif" height="14" width="20" alt="Email story" ></a>
+		
+
+ <!--sina micblog update gao by 2011-02-12-->
+&nbsp;<script type="text/javascript" charset="utf-8">
+(function(){
+  var _w = 72 , _h = 16;
+  var param = {
+    url:location.href,
+    type:'3',
+    count:'1', /**是否显示转发数，1显示(可选)*/
+    appkey:'369239938', /**您申请的应用appkey,显示分享来源(可选)*/
+    title:'', /**转发的文字内容(可选，默认为所在页面的title)*/
+    pic:'', /**转发图片的路径(可选)*/
+    ralateUid:'1686235170', /**关联用户的UID，转发微博会@该用户(可选)*/
+    rnd:new Date().valueOf()
+  }
+  var temp = [];
+  for( var p in param ){
+    temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )
+  }
+  //高修改，只在特定位置显示
+    if(window.location.href.indexOf("11/") > 0){
+  	document.write('<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>')
+  }
+})()
+</script>
+<!--sina micblog end-->
+
+
+<br>
+		<strong>来自<b>试用</b>部门</strong>
+	</div>
+	<div class="body">
+		 
+		<div class="topic">
+			
+			
+				<a href="//solidot.org/search.pl?tid=17">
+					<img src="//solidot.org/images/topics/topicinternet.gif" width="70" height="73" alt="互联网" title="互联网" >
+				</a>
+			
+			
+		</div>
+		<div class="intro">
+			瑞士十五岁以上人有三分之一会从互联网上<a href="http://torrentfreak.com/swiss-govt-downloading-movies-and-music-will-stay-legal-111202/">下载</a>未经授权的音乐、电影和游戏。政府一直在考虑采取什么应对之策。他们刚刚公布了一项<a href="http://www.ejpd.admin.ch/content/ejpd/de/home/dokumentation/mi/2011/2011-11-30.html">研究结论</a>，决定不改变现行法律，下载音乐和电影供个人使用是合法的，版权拥有者不会受到损失，因为用户最终会为娱乐产品付钱。他们不会不少花钱，事实上用户在娱乐产品上的开支相当稳定。这意味着，下载是一种互补性商品。
+		</div>
+
+
+
+
+
+
+		
+	</div>
+</div>
+
+<!-- end template: ID 283, dispStory;misc;default -->
+
+
+
+<!-- start template: ID 385, storylink;index;default -->
+
+<div class="storylinks">
+	<div>
+	<ul>
+	
+	<li class="more">
+		<a href="//internet.solidot.org/internet/11/12/03/1212217.shtml"><b>阅读更多...</b></a>
+	</li>
+	
+	
+	<li class="commentSub">
+		<a href="/comments.pl?sid=28931&amp;op=reply&amp;threshold=1&amp;mode=thread&amp;commentsort=0"><b>发表评论</b></a>
+	</li>
+	
+	<li class="comments">
+<a href="//internet.solidot.org/article.pl?sid=11/12/03/1212217&amp;threshold=-1">1</a> 条评论</li>
+	
+	<li class="section">
+		<a href="//internet.solidot.org/">internet.solidot.org</a>
+	</li>
+	
+	
+	</ul>
+	</div>
+</div>
+
+<!-- end template: ID 385, storylink;index;default -->
+
+
+
+<!-- start template: ID 283, dispStory;misc;default -->
+
+<div class="article">
+
+
+<div class="generaltitle">
+	<div class="title">
+		<h3>
+			<a href="//internet.solidot.org/">互联网</a>: Napster即将关闭
+			
+		</h3>
+	</div>
+</div>
+	<div class="details">
+		
+		<a href="">blackhat</a>  发表于 2011年12月03日 18时54分 星期六
+		 
+			&nbsp;&nbsp;<a href="//solidot.org/print.pl?sid=11/12/03/1058242"><img src="//solidot.org/images/print.gif" height="11" width="15" alt="Printer-friendly"></a>
+		
+		
+			&nbsp;&nbsp;<a href="//solidot.org/email.pl?sid=11/12/03/1058242"><img src="//solidot.org/images/email.gif" height="14" width="20" alt="Email story" ></a>
+		
+
+ <!--sina micblog update gao by 2011-02-12-->
+&nbsp;<script type="text/javascript" charset="utf-8">
+(function(){
+  var _w = 72 , _h = 16;
+  var param = {
+    url:location.href,
+    type:'3',
+    count:'1', /**是否显示转发数，1显示(可选)*/
+    appkey:'369239938', /**您申请的应用appkey,显示分享来源(可选)*/
+    title:'', /**转发的文字内容(可选，默认为所在页面的title)*/
+    pic:'', /**转发图片的路径(可选)*/
+    ralateUid:'1686235170', /**关联用户的UID，转发微博会@该用户(可选)*/
+    rnd:new Date().valueOf()
+  }
+  var temp = [];
+  for( var p in param ){
+    temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )
+  }
+  //高修改，只在特定位置显示
+    if(window.location.href.indexOf("11/") > 0){
+  	document.write('<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>')
+  }
+})()
+</script>
+<!--sina micblog end-->
+
+
+<br>
+		<strong>来自<b>落幕</b>部门</strong>
+	</div>
+	<div class="body">
+		 
+		<div class="topic">
+			
+			
+				<a href="//solidot.org/search.pl?tid=89">
+					<img src="//solidot.org/images/topics/topicmusic.gif" width="60" height="49" alt="音乐" title="音乐" >
+				</a>
+			
+			
+		</div>
+		<div class="intro">
+			数字音乐先驱<a href="http://entertainment.slashdot.org/story/11/12/02/1624244/napster-being-shut-down">Napster即将关闭</a>，它将与美国最大音乐点播服务Rhapsody合并。<i>
+Napster由Shawn Fanning和Sean Parker创建于1999年，是最早的P2P音乐共享服务之一。它受到了版权拥有者的侵权指控，经历了漫长的法律战，之后转型为合法音乐下载网站。百思买在2008年以1.21亿美元价格收购了Napster，今年10月Rhapsody<a href="http://money.cnn.com/2011/11/30/technology/napster_rhapsody/">宣布</a>从百思买收购了Napster和其它资产，根据协议，百思买将拥有其少数股权，交易细节并没有披露。Napste将被关闭，它的用户将合并到Rhapsody。
+</i>
+		</div>
+
+
+
+
+
+
+		
+	</div>
+</div>
+
+<!-- end template: ID 283, dispStory;misc;default -->
+
+
+
+<!-- start template: ID 385, storylink;index;default -->
+
+<div class="storylinks">
+	<div>
+	<ul>
+	
+	<li class="more">
+		<a href="//internet.solidot.org/internet/11/12/03/1058242.shtml"><b>阅读更多...</b></a>
+	</li>
+	
+	
+	<li class="commentSub">
+		<a href="/comments.pl?sid=28930&amp;op=reply&amp;threshold=1&amp;mode=thread&amp;commentsort=0"><b>发表评论</b></a>
+	</li>
+	
+	
+	<li class="section">
+		<a href="//internet.solidot.org/">internet.solidot.org</a>
+	</li>
+	
+	
+	</ul>
+	</div>
+</div>
+
+<!-- end template: ID 385, storylink;index;default -->
+
+
+
+<!-- start template: ID 283, dispStory;misc;default -->
+
+<div class="article">
+
+
+<div class="generaltitle">
+	<div class="title">
+		<h3>
+			<a href="//society.solidot.org/">社会</a>: 北京市拒绝公民公开PM2.5数值申请
+			
+		</h3>
+	</div>
+</div>
+	<div class="details">
+		
+		<a href="">blackhat</a>  发表于 2011年12月03日 18时32分 星期六
+		 
+			&nbsp;&nbsp;<a href="//solidot.org/print.pl?sid=11/12/03/1023222"><img src="//solidot.org/images/print.gif" height="11" width="15" alt="Printer-friendly"></a>
+		
+		
+			&nbsp;&nbsp;<a href="//solidot.org/email.pl?sid=11/12/03/1023222"><img src="//solidot.org/images/email.gif" height="14" width="20" alt="Email story" ></a>
+		
+
+ <!--sina micblog update gao by 2011-02-12-->
+&nbsp;<script type="text/javascript" charset="utf-8">
+(function(){
+  var _w = 72 , _h = 16;
+  var param = {
+    url:location.href,
+    type:'3',
+    count:'1', /**是否显示转发数，1显示(可选)*/
+    appkey:'369239938', /**您申请的应用appkey,显示分享来源(可选)*/
+    title:'', /**转发的文字内容(可选，默认为所在页面的title)*/
+    pic:'', /**转发图片的路径(可选)*/
+    ralateUid:'1686235170', /**关联用户的UID，转发微博会@该用户(可选)*/
+    rnd:new Date().valueOf()
+  }
+  var temp = [];
+  for( var p in param ){
+    temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )
+  }
+  //高修改，只在特定位置显示
+    if(window.location.href.indexOf("11/") > 0){
+  	document.write('<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>')
+  }
+})()
+</script>
+<!--sina micblog end-->
+
+
+<br>
+		<strong>来自<b>机密数字</b>部门</strong>
+	</div>
+	<div class="body">
+		 
+		<div class="topic">
+			
+			
+				<a href="//solidot.org/search.pl?tid=48">
+					<img src="//solidot.org/images/topics/topicannouncements.gif" width="67" height="51" alt="通知" title="通知" >
+				</a>
+			
+			
+		</div>
+		<div class="intro">
+			真汉子wmr 写道<i> "北京人于平11月19日向北京市环保局书面申请北京PM 2.5数据信息，两天后被口头拒绝，在12月2日又收到了<a href="http://news.sina.com.cn/c/2011-12-03/092123568507.shtml">正式书面拒绝</a>。北京市环保局称PM2.5尚未列入中国《环境空气质量标准》、无法进行空气质量状况评价，因此对于平申请公开的信息“不予公开”。于平对记者表示他只是要数据，没有要环保局评价。一个月前北京环保局副局长<a href="http://www.china.com.cn/policy/txt/2011-11/01/content_23780679.htm">否认</a>国际卫生组织有PM2.5年平均浓度10μg/m^3的建议标准。"</i>
+		</div>
+
+
+
+
+
+
+		
+	</div>
+</div>
+
+<!-- end template: ID 283, dispStory;misc;default -->
+
+
+
+<!-- start template: ID 385, storylink;index;default -->
+
+<div class="storylinks">
+	<div>
+	<ul>
+	
+	<li class="more">
+		<a href="//society.solidot.org/society/11/12/03/1023222.shtml"><b>阅读更多...</b></a>
+	</li>
+	
+	
+	<li class="commentSub">
+		<a href="/comments.pl?sid=28929&amp;op=reply&amp;threshold=1&amp;mode=thread&amp;commentsort=0"><b>发表评论</b></a>
+	</li>
+	
+	<li class="comments">
+<a href="//society.solidot.org/society/11/12/03/1023222.shtml">0</a> / <a href="//society.solidot.org/article.pl?sid=11/12/03/1023222&amp;threshold=-1">1</a> 条评论</li>
+	
+	<li class="section">
+		<a href="//society.solidot.org/">society.solidot.org</a>
+	</li>
+	
+	
+	</ul>
+	</div>
+</div>
+
+<!-- end template: ID 385, storylink;index;default -->
+
+
+
+<!-- start template: ID 283, dispStory;misc;default -->
+
+<div class="article">
+
+
+<div class="generaltitle">
+	<div class="title">
+		<h3>
+			<a href="//science.solidot.org/">科学</a>: ESA终止与俄火星探测器通信尝试
+			
+		</h3>
+	</div>
+</div>
+	<div class="details">
+		
+		<a href="">blackhat</a>  发表于 2011年12月03日 16时15分 星期六
+		 
+			&nbsp;&nbsp;<a href="//solidot.org/print.pl?sid=11/12/03/0815222"><img src="//solidot.org/images/print.gif" height="11" width="15" alt="Printer-friendly"></a>
+		
+		
+			&nbsp;&nbsp;<a href="//solidot.org/email.pl?sid=11/12/03/0815222"><img src="//solidot.org/images/email.gif" height="14" width="20" alt="Email story" ></a>
+		
+
+ <!--sina micblog update gao by 2011-02-12-->
+&nbsp;<script type="text/javascript" charset="utf-8">
+(function(){
+  var _w = 72 , _h = 16;
+  var param = {
+    url:location.href,
+    type:'3',
+    count:'1', /**是否显示转发数，1显示(可选)*/
+    appkey:'369239938', /**您申请的应用appkey,显示分享来源(可选)*/
+    title:'', /**转发的文字内容(可选，默认为所在页面的title)*/
+    pic:'', /**转发图片的路径(可选)*/
+    ralateUid:'1686235170', /**关联用户的UID，转发微博会@该用户(可选)*/
+    rnd:new Date().valueOf()
+  }
+  var temp = [];
+  for( var p in param ){
+    temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )
+  }
+  //高修改，只在特定位置显示
+    if(window.location.href.indexOf("11/") > 0){
+  	document.write('<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>')
+  }
+})()
+</script>
+<!--sina micblog end-->
+
+
+<br>
+		<strong>来自<b>估计要回地球了</b>部门</strong>
+	</div>
+	<div class="body">
+		 
+		<div class="topic">
+			
+			
+				<a href="//solidot.org/search.pl?tid=86">
+					<img src="//solidot.org/images/topics/topicmars.gif" width="46" height="51" alt="火星" title="火星" >
+				</a>
+			
+			
+		</div>
+		<div class="intro">
+			搭载萤火一号的俄罗斯福布斯土壤火星探测器在11月9日发射后就一直停留在地球轨道上，与地面失去联系。上周二，欧洲航天局（ESA）位于澳大利亚珀斯的跟踪站首次与探测器<a href="//science.solidot.org/science/11/11/23/1113237.shtml?tid=86">建立了联系</a>。此后，ESA的跟踪站一直尝试与火星探测器<a href="http://www.russianspaceweb.com/phobos_grunt_launch.html#12_2">建立通信</a>，然后庞大的探测器至今没有回应，一直神秘的保持沉默。12月2日，ESA宣布<a href="http://science.slashdot.org/story/11/12/03/0252209/esa-ends-attempts-to-pick-up-phobos-grunt-signals">停止通信尝试</a>。
+		</div>
+
+
+
+
+
+
+		
+	</div>
+</div>
+
+<!-- end template: ID 283, dispStory;misc;default -->
+
+
+
+<!-- start template: ID 385, storylink;index;default -->
+
+<div class="storylinks">
+	<div>
+	<ul>
+	
+	<li class="more">
+		<a href="//science.solidot.org/science/11/12/03/0815222.shtml"><b>阅读更多...</b></a>
+	</li>
+	
+	
+	<li class="commentSub">
+		<a href="/comments.pl?sid=28928&amp;op=reply&amp;threshold=1&amp;mode=thread&amp;commentsort=0"><b>发表评论</b></a>
+	</li>
+	
+	<li class="comments">
+<a href="//science.solidot.org/article.pl?sid=11/12/03/0815222&amp;threshold=-1">1</a> 条评论</li>
+	
+	<li class="section">
+		<a href="//science.solidot.org/">science.solidot.org</a>
+	</li>
+	
+	
+	</ul>
+	</div>
+</div>
+
+<!-- end template: ID 385, storylink;index;default -->
+
+
+
+<!-- start template: ID 283, dispStory;misc;default -->
+
+<div class="article">
+
+
+<div class="generaltitle">
+	<div class="title">
+		<h3>
+			<a href="//internet.solidot.org/">互联网</a>: 中国光通信实现240Gbit/s实时传输
+			
+		</h3>
+	</div>
+</div>
+	<div class="details">
+		
+		<a href="">blackhat</a>  发表于 2011年12月03日 16时00分 星期六
+		 
+			&nbsp;&nbsp;<a href="//solidot.org/print.pl?sid=11/12/03/085225"><img src="//solidot.org/images/print.gif" height="11" width="15" alt="Printer-friendly"></a>
+		
+		
+			&nbsp;&nbsp;<a href="//solidot.org/email.pl?sid=11/12/03/085225"><img src="//solidot.org/images/email.gif" height="14" width="20" alt="Email story" ></a>
+		
+
+ <!--sina micblog update gao by 2011-02-12-->
+&nbsp;<script type="text/javascript" charset="utf-8">
+(function(){
+  var _w = 72 , _h = 16;
+  var param = {
+    url:location.href,
+    type:'3',
+    count:'1', /**是否显示转发数，1显示(可选)*/
+    appkey:'369239938', /**您申请的应用appkey,显示分享来源(可选)*/
+    title:'', /**转发的文字内容(可选，默认为所在页面的title)*/
+    pic:'', /**转发图片的路径(可选)*/
+    ralateUid:'1686235170', /**关联用户的UID，转发微博会@该用户(可选)*/
+    rnd:new Date().valueOf()
+  }
+  var temp = [];
+  for( var p in param ){
+    temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )
+  }
+  //高修改，只在特定位置显示
+    if(window.location.href.indexOf("11/") > 0){
+  	document.write('<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>')
+  }
+})()
+</script>
+<!--sina micblog end-->
+
+
+<br>
+		<strong>来自<b>听起来很强</b>部门</strong>
+	</div>
+	<div class="body">
+		 
+		<div class="topic">
+			
+			
+				<a href="//solidot.org/search.pl?tid=58">
+					<img src="//solidot.org/images/topics/topiccommunications.gif" width="96" height="62" alt="通讯" title="通讯" >
+				</a>
+			
+			
+		</div>
+		<div class="intro">
+			<a href="http://www.hermesbirkin-handbags.org/">Hermes Birkin 35</a> 写道 "<a href="http://www.wri.com.cn/#">武汉邮电科学院</a>对外<a href="http://news.xinhuanet.com/tech/2011-12/03/c_122371090.htm">发布</a>，该院承担的国家973计划项目“超高速超大容量超长距离光传输基础研究”成功实现240Gbit/s实时传输，容量指标处于国际领先水平。<i>
+据国家973项目首席科学家、武汉邮科院余少华博士介绍，目前国际上超高速超大容量光纤通信的前沿探索有两个方式，一是通过离线研究不断刷新容量记录，另一种是通过在线实时研究向大容量商用化迈进。武汉邮电科学研究院等联合承担的国家973计划项目，采取离线研究方式，今年7月完成多光源 30.7Tb/s传80公里处理，相当于在一对光纤上可以实现2.75亿对人同时通话，是目前国际上C波段传输实验的最高水平。今年11月，他们用在线实时处理方式，向数字信号处理难度更大、技术要求更高的目标冲刺，成功实现240Gbit/s相干光正交频分复用（OFDM）信号在普通单模光纤上无误码实时传输48公里。"</i>
+		</div>
+
+
+
+
+
+
+		
+	</div>
+</div>
+
+<!-- end template: ID 283, dispStory;misc;default -->
+
+
+
+<!-- start template: ID 385, storylink;index;default -->
+
+<div class="storylinks">
+	<div>
+	<ul>
+	
+	<li class="more">
+		<a href="//internet.solidot.org/internet/11/12/03/085225.shtml"><b>阅读更多...</b></a>
+	</li>
+	
+	
+	<li class="commentSub">
+		<a href="/comments.pl?sid=28927&amp;op=reply&amp;threshold=1&amp;mode=thread&amp;commentsort=0"><b>发表评论</b></a>
+	</li>
+	
+	
+	<li class="section">
+		<a href="//internet.solidot.org/">internet.solidot.org</a>
+	</li>
+	
+	
+	</ul>
+	</div>
+</div>
+
+<!-- end template: ID 385, storylink;index;default -->
+
+
+
+<!-- start template: ID 283, dispStory;misc;default -->
+
+<div class="article">
+
+
+<div class="generaltitle">
+	<div class="title">
+		<h3>
+			<a href="//software.solidot.org/">软件</a>: 淘宝开源Web服务器Tengine
+			
+		</h3>
+	</div>
+</div>
+	<div class="details">
+		
+		<a href="">blackhat</a>  发表于 2011年12月03日 10时00分 星期六
+		 
+			&nbsp;&nbsp;<a href="//solidot.org/print.pl?sid=11/12/03/028200"><img src="//solidot.org/images/print.gif" height="11" width="15" alt="Printer-friendly"></a>
+		
+		
+			&nbsp;&nbsp;<a href="//solidot.org/email.pl?sid=11/12/03/028200"><img src="//solidot.org/images/email.gif" height="14" width="20" alt="Email story" ></a>
+		
+
+ <!--sina micblog update gao by 2011-02-12-->
+&nbsp;<script type="text/javascript" charset="utf-8">
+(function(){
+  var _w = 72 , _h = 16;
+  var param = {
+    url:location.href,
+    type:'3',
+    count:'1', /**是否显示转发数，1显示(可选)*/
+    appkey:'369239938', /**您申请的应用appkey,显示分享来源(可选)*/
+    title:'', /**转发的文字内容(可选，默认为所在页面的title)*/
+    pic:'', /**转发图片的路径(可选)*/
+    ralateUid:'1686235170', /**关联用户的UID，转发微博会@该用户(可选)*/
+    rnd:new Date().valueOf()
+  }
+  var temp = [];
+  for( var p in param ){
+    temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )
+  }
+  //高修改，只在特定位置显示
+    if(window.location.href.indexOf("11/") > 0){
+  	document.write('<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>')
+  }
+})()
+</script>
+<!--sina micblog end-->
+
+
+<br>
+		<strong>来自<b>apache太慢</b>部门</strong>
+	</div>
+	<div class="body">
+		 
+		<div class="topic">
+			
+			
+				<a href="//solidot.org/search.pl?tid=15">
+					<img src="//solidot.org/images/topics/topicsoftware.gif" width="65" height="65" alt="软件" title="软件" >
+				</a>
+			
+			
+		</div>
+		<div class="intro">
+			<a href="http://www.hermesbirkin-handbags.org/">Hermes Birkin</a> 写道 <i>"由淘宝网核心系统部开发的<a href="http://tengine.taobao.org/index_cn.html">Tengine服务器</a>正式开源。淘宝网是亚洲最大的电子商务网站，每天PV超过了几十亿。大压力的访问，对淘宝网的Web服务器提出了严苛的要求。经过一系列的对比，选择了Nginx作为Web服务器，因为它性能高，又非常节省资源（CPU和内存），并且有足够的灵活性。随着对Nginx的越来越了解，开发者开始对Nginx核心进行定制和开发。Tengine基于最新的Nginx稳定版（Nginx-1.0.10），在它的基础上开发了一些功能和做了一些bug修复，比如：组合多个CSS、JavaScript文件的访问请求变成一个请求；支持管道和syslog形式的日志和抽样；自动根据CPU数目设置亲缘性；监控系统的负载和资源占用从而对系统进行保护；显示对运维人员更友好的出错信息，便于定位出错机器...基本上，Tengine可以被看作是Nginx的超集。</i> <a href="http://tengine.taobao.org/download/tengine-1.2.0.tar.gz">下载</a>，可能采用了<a href="http://code.taobao.org/about/license/">GPLv2许可</a>，点击源码树中的<a href="http://code.taobao.org/p/tengine/src/trunk/LICENSE">LICENSE</a>会出现访问拒绝。"
+		</div>
+
+
+
+
+
+
+		
+	</div>
+</div>
+
+<!-- end template: ID 283, dispStory;misc;default -->
+
+
+
+<!-- start template: ID 385, storylink;index;default -->
+
+<div class="storylinks">
+	<div>
+	<ul>
+	
+	<li class="more">
+		<a href="//software.solidot.org/software/11/12/03/028200.shtml"><b>阅读更多...</b></a>
+	</li>
+	
+	
+	<li class="commentSub">
+		<a href="/comments.pl?sid=28926&amp;op=reply&amp;threshold=1&amp;mode=thread&amp;commentsort=0"><b>发表评论</b></a>
+	</li>
+	
+	<li class="comments">
+<a href="//software.solidot.org/article.pl?sid=11/12/03/028200&amp;threshold=-1">6</a> 条评论</li>
+	
+	<li class="section">
+		<a href="//software.solidot.org/">software.solidot.org</a>
+	</li>
+	
+	
+	</ul>
+	</div>
+</div>
+
+<!-- end template: ID 385, storylink;index;default -->
+
+
+
+<!-- start template: ID 283, dispStory;misc;default -->
+
+<div class="article">
+
+
+<div class="generaltitle">
+	<div class="title">
+		<h3>
+			<a href="//linux.solidot.org/">Linux</a>: GNOME发布Shell扩展网站
+			
+		</h3>
+	</div>
+</div>
+	<div class="details">
+		
+		<a href="">blackhat</a>  发表于 2011年12月02日 18时54分 星期五
+		 
+			&nbsp;&nbsp;<a href="//solidot.org/print.pl?sid=11/12/02/1057242"><img src="//solidot.org/images/print.gif" height="11" width="15" alt="Printer-friendly"></a>
+		
+		
+			&nbsp;&nbsp;<a href="//solidot.org/email.pl?sid=11/12/02/1057242"><img src="//solidot.org/images/email.gif" height="14" width="20" alt="Email story" ></a>
+		
+
+ <!--sina micblog update gao by 2011-02-12-->
+&nbsp;<script type="text/javascript" charset="utf-8">
+(function(){
+  var _w = 72 , _h = 16;
+  var param = {
+    url:location.href,
+    type:'3',
+    count:'1', /**是否显示转发数，1显示(可选)*/
+    appkey:'369239938', /**您申请的应用appkey,显示分享来源(可选)*/
+    title:'', /**转发的文字内容(可选，默认为所在页面的title)*/
+    pic:'', /**转发图片的路径(可选)*/
+    ralateUid:'1686235170', /**关联用户的UID，转发微博会@该用户(可选)*/
+    rnd:new Date().valueOf()
+  }
+  var temp = [];
+  for( var p in param ){
+    temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )
+  }
+  //高修改，只在特定位置显示
+    if(window.location.href.indexOf("11/") > 0){
+  	document.write('<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>')
+  }
+})()
+</script>
+<!--sina micblog end-->
+
+
+<br>
+		<strong>来自<b>一步一个脚印</b>部门</strong>
+	</div>
+	<div class="body">
+		 
+		<div class="topic">
+			
+			
+				<a href="//solidot.org/search.pl?tid=74">
+					<img src="//solidot.org/images/topics/topicgnome.gif" width="64" height="80" alt="GNOME" title="GNOME" >
+				</a>
+			
+			
+		</div>
+		<div class="intro">
+			GNOME推出了<a href="https://extensions.gnome.org/">Gnome Extensions网站</a>，允许GNOME Shell 3.2用户通过浏览器<a href="https://lwn.net/Articles/470263/#Comments">安装Shell的扩展</a>。目前只支持Firefox。Linus Torvalds<a href="https://plus.google.com/102150693225130002912/posts/WTLyn7dqYoR">认为</a>，gnome-3.2正开始变得具有少许可用性。此前，由于变化太大，用户体验太差，“太凌乱”，Linux创始人抛弃了GNOME 3，<a href="//linux.solidot.org/linux/11/08/04/020249.shtml?tid=74">改用了Xfce</a>。
+		</div>
+
+
+
+
+
+
+		
+	</div>
+</div>
+
+<!-- end template: ID 283, dispStory;misc;default -->
+
+
+
+<!-- start template: ID 385, storylink;index;default -->
+
+<div class="storylinks">
+	<div>
+	<ul>
+	
+	<li class="more">
+		<a href="//linux.solidot.org/linux/11/12/02/1057242.shtml"><b>阅读更多...</b></a>
+	</li>
+	
+	
+	<li class="commentSub">
+		<a href="/comments.pl?sid=28925&amp;op=reply&amp;threshold=1&amp;mode=thread&amp;commentsort=0"><b>发表评论</b></a>
+	</li>
+	
+	<li class="comments">
+<a href="//linux.solidot.org/linux/11/12/02/1057242.shtml">6</a> / <a href="//linux.solidot.org/article.pl?sid=11/12/02/1057242&amp;threshold=-1">8</a> 条评论</li>
+	
+	<li class="section">
+		<a href="//linux.solidot.org/">linux.solidot.org</a>
+	</li>
+	
+	
+	</ul>
+	</div>
+</div>
+
+<!-- end template: ID 385, storylink;index;default -->
+
+
+
+<!-- start template: ID 283, dispStory;misc;default -->
+
+<div class="article">
+
+
+<div class="generaltitle">
+	<div class="title">
+		<h3>
+			<a href="//it.solidot.org/">IT</a>: 五十网民破解英情报机构“招特工密码”
+			
+		</h3>
+	</div>
+</div>
+	<div class="details">
+		
+		<a href="">blackhat</a>  发表于 2011年12月02日 18时30分 星期五
+		 
+			&nbsp;&nbsp;<a href="//solidot.org/print.pl?sid=11/12/02/1030257"><img src="//solidot.org/images/print.gif" height="11" width="15" alt="Printer-friendly"></a>
+		
+		
+			&nbsp;&nbsp;<a href="//solidot.org/email.pl?sid=11/12/02/1030257"><img src="//solidot.org/images/email.gif" height="14" width="20" alt="Email story" ></a>
+		
+
+ <!--sina micblog update gao by 2011-02-12-->
+&nbsp;<script type="text/javascript" charset="utf-8">
+(function(){
+  var _w = 72 , _h = 16;
+  var param = {
+    url:location.href,
+    type:'3',
+    count:'1', /**是否显示转发数，1显示(可选)*/
+    appkey:'369239938', /**您申请的应用appkey,显示分享来源(可选)*/
+    title:'', /**转发的文字内容(可选，默认为所在页面的title)*/
+    pic:'', /**转发图片的路径(可选)*/
+    ralateUid:'1686235170', /**关联用户的UID，转发微博会@该用户(可选)*/
+    rnd:new Date().valueOf()
+  }
+  var temp = [];
+  for( var p in param ){
+    temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )
+  }
+  //高修改，只在特定位置显示
+    if(window.location.href.indexOf("11/") > 0){
+  	document.write('<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>')
+  }
+})()
+</script>
+<!--sina micblog end-->
+
+
+<br>
+		<strong>来自<b>打砖块</b>部门</strong>
+	</div>
+	<div class="body">
+		 
+		<div class="topic">
+			
+			
+				<a href="//solidot.org/search.pl?tid=70">
+					<img src="//solidot.org/images/topics/topicencryption.gif" width="80" height="63" alt="加密技术" title="加密技术" >
+				</a>
+			
+			
+		</div>
+		<div class="intro">
+			英国秘密情报机构政府通信总部（GCHQ）在<a href="http://www.canyoucrackit.co.uk/">canyoucrackit.co.uk</a>网站上推出了一个招聘新特工的<a href="http://www.bbc.co.uk/ukchina/simp/uk_life/2011/12/111202_life_code_solved.shtml">密码破解竞赛</a>，每个成功破解密码的人都有机会得到在这个情报机构工作的机会，薪水是2.5万英镑。<i>
+成功输入解题密码的人将被转往GCHQ的招募网页，获邀申请工作。GCHQ表示，这个破密码招特工的活动，旨在寻找具备数学技能的新一代特工，能够协助英国提高安全，免于遭到虚拟犯罪攻击。想要成为GCHQ特工的人，除了要破解密码之外，还必须满足两个基本条件，一是以前没有从事过非法黑客活动，二是必须是英国公民。据<a href="http://www.telegraph.co.uk/news/uknews/defence/8929232/Would-be-spies-who-crack-GCHQ-code-directed-to-25000-job-vacancy.html">报道</a>，至今约有50人破解了密码。</i>
+		</div>
+
+
+
+
+
+
+		
+	</div>
+</div>
+
+<!-- end template: ID 283, dispStory;misc;default -->
+
+
+
+<!-- start template: ID 385, storylink;index;default -->
+
+<div class="storylinks">
+	<div>
+	<ul>
+	
+	<li class="more">
+		<a href="//it.solidot.org/it/11/12/02/1030257.shtml"><b>阅读更多...</b></a>
+	</li>
+	
+	
+	<li class="commentSub">
+		<a href="/comments.pl?sid=28924&amp;op=reply&amp;threshold=1&amp;mode=thread&amp;commentsort=0"><b>发表评论</b></a>
+	</li>
+	
+	<li class="comments">
+<a href="//it.solidot.org/it/11/12/02/1030257.shtml">2</a> / <a href="//it.solidot.org/article.pl?sid=11/12/02/1030257&amp;threshold=-1">5</a> 条评论</li>
+	
+	<li class="section">
+		<a href="//it.solidot.org/">it.solidot.org</a>
+	</li>
+	
+	
+	</ul>
+	</div>
+</div>
+
+<!-- end template: ID 385, storylink;index;default -->
+
+
+
+<!-- start template: ID 283, dispStory;misc;default -->
+
+<div class="article">
+
+
+<div class="generaltitle">
+	<div class="title">
+		<h3>
+			<a href="//it.solidot.org/">IT</a>: BBC Micro计算机三十周年
+			
+		</h3>
+	</div>
+</div>
+	<div class="details">
+		
+		<a href="">blackhat</a>  发表于 2011年12月02日 18时05分 星期五
+		 
+			&nbsp;&nbsp;<a href="//solidot.org/print.pl?sid=11/12/02/109258"><img src="//solidot.org/images/print.gif" height="11" width="15" alt="Printer-friendly"></a>
+		
+		
+			&nbsp;&nbsp;<a href="//solidot.org/email.pl?sid=11/12/02/109258"><img src="//solidot.org/images/email.gif" height="14" width="20" alt="Email story" ></a>
+		
+
+ <!--sina micblog update gao by 2011-02-12-->
+&nbsp;<script type="text/javascript" charset="utf-8">
+(function(){
+  var _w = 72 , _h = 16;
+  var param = {
+    url:location.href,
+    type:'3',
+    count:'1', /**是否显示转发数，1显示(可选)*/
+    appkey:'369239938', /**您申请的应用appkey,显示分享来源(可选)*/
+    title:'', /**转发的文字内容(可选，默认为所在页面的title)*/
+    pic:'', /**转发图片的路径(可选)*/
+    ralateUid:'1686235170', /**关联用户的UID，转发微博会@该用户(可选)*/
+    rnd:new Date().valueOf()
+  }
+  var temp = [];
+  for( var p in param ){
+    temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )
+  }
+  //高修改，只在特定位置显示
+    if(window.location.href.indexOf("11/") > 0){
+  	document.write('<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>')
+  }
+})()
+</script>
+<!--sina micblog end-->
+
+
+<br>
+		<strong>来自<b>母以子贵</b>部门</strong>
+	</div>
+	<div class="body">
+		 
+		<div class="topic">
+			
+			
+				<a href="//solidot.org/search.pl?tid=9">
+					<img src="//solidot.org/images/topics/topicit.gif" width="75" height="61" alt="IT" title="IT" >
+				</a>
+			
+			
+		</div>
+		<div class="intro">
+			<a href="http://en.wikipedia.org/wiki/BBC_Micro">BBC Micro</a>计算机诞生<a href="http://www.bbc.co.uk/news/technology-15969065">三十周年</a>。它是由Acorn公司为BBC计算机认知计划(Computer Literacy Project)设计和生产的电脑，冠以BBC品牌销售。<i>
+BBC Micro计算机采用了2 MHz MOS Technology 6502/6512处理器，内存16–32 kB，存储空间100–800 kB。Acorn预期能售出1.2万台，但最终总销量超过150万。BBC Micro对计算机产业具有重要影响，因为在移动芯片领域举足轻重的<a href="http://en.wikipedia.org/wiki/ARM">ARM</a>（最早的名字是Acorn Risc Machine，后来是Advanced RISC Machine）最早就是为BBC Micro后续型号设计的。今天ARM架构处理器是最畅销的处理器，比其它处理器架构<a href="http://hardware.slashdot.org/story/11/12/01/1335254/30-years-of-the-bbc-micro">合起来还要多</a>。
+</i>
+		</div>
+
+
+
+
+
+
+		
+	</div>
+</div>
+
+<!-- end template: ID 283, dispStory;misc;default -->
+
+
+
+<!-- start template: ID 385, storylink;index;default -->
+
+<div class="storylinks">
+	<div>
+	<ul>
+	
+	<li class="more">
+		<a href="//it.solidot.org/it/11/12/02/109258.shtml"><b>阅读更多...</b></a>
+	</li>
+	
+	
+	<li class="commentSub">
+		<a href="/comments.pl?sid=28923&amp;op=reply&amp;threshold=1&amp;mode=thread&amp;commentsort=0"><b>发表评论</b></a>
+	</li>
+	
+	
+	<li class="section">
+		<a href="//it.solidot.org/">it.solidot.org</a>
+	</li>
+	
+	
+	</ul>
+	</div>
+</div>
+
+<!-- end template: ID 385, storylink;index;default -->
+
+
+
+<!-- start template: ID 283, dispStory;misc;default -->
+
+<div class="article">
+
+
+<div class="generaltitle">
+	<div class="title">
+		<h3>
+			<a href="//science.solidot.org/">科学</a>: 太空中的火烧起来不同
+			
+		</h3>
+	</div>
+</div>
+	<div class="details">
+		
+		<a href="">blackhat</a>  发表于 2011年12月02日 17时32分 星期五
+		 
+			&nbsp;&nbsp;<a href="//solidot.org/print.pl?sid=11/12/02/0935220"><img src="//solidot.org/images/print.gif" height="11" width="15" alt="Printer-friendly"></a>
+		
+		
+			&nbsp;&nbsp;<a href="//solidot.org/email.pl?sid=11/12/02/0935220"><img src="//solidot.org/images/email.gif" height="14" width="20" alt="Email story" ></a>
+		
+
+ <!--sina micblog update gao by 2011-02-12-->
+&nbsp;<script type="text/javascript" charset="utf-8">
+(function(){
+  var _w = 72 , _h = 16;
+  var param = {
+    url:location.href,
+    type:'3',
+    count:'1', /**是否显示转发数，1显示(可选)*/
+    appkey:'369239938', /**您申请的应用appkey,显示分享来源(可选)*/
+    title:'', /**转发的文字内容(可选，默认为所在页面的title)*/
+    pic:'', /**转发图片的路径(可选)*/
+    ralateUid:'1686235170', /**关联用户的UID，转发微博会@该用户(可选)*/
+    rnd:new Date().valueOf()
+  }
+  var temp = [];
+  for( var p in param ){
+    temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )
+  }
+  //高修改，只在特定位置显示
+    if(window.location.href.indexOf("11/") > 0){
+  	document.write('<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>')
+  }
+})()
+</script>
+<!--sina micblog end-->
+
+
+<br>
+		<strong>来自<b>以研究的名义</b>部门</strong>
+	</div>
+	<div class="body">
+		 
+		<div class="topic">
+			
+			
+				<a href="//solidot.org/search.pl?tid=90">
+					<img src="//solidot.org/images/topics/topicnasa.gif" width="74" height="67" alt="NASA" title="NASA" >
+				</a>
+			
+			
+		</div>
+		<div class="intro">
+			NASA在国际空间站里<a href="http://www.space.com/13766-international-space-station-flex-fire-research.html">玩火</a>——不是比喻是字面意义。<i>
+从2009年3月起，NASA的Flame Extinguishment Experiment（FLEX）在太空中进行了超过200次试验，以更好的理解火在微重力下的行为。研究将能被用于改进未来宇宙飞船的灭火系统，科学家说，它对地球也具有实用价值。太空中的火烧起来与地面不同。在地面上，热气从火苗上方升起，在微重力下热气不会冉冉升起，其行为是基于分子扩散，它吸收氧气燃烧的速度只有地面的百分之一。</i>
+		</div>
+
+
+
+
+
+
+		
+	</div>
+</div>
+
+<!-- end template: ID 283, dispStory;misc;default -->
+
+
+
+<!-- start template: ID 385, storylink;index;default -->
+
+<div class="storylinks">
+	<div>
+	<ul>
+	
+	<li class="more">
+		<a href="//science.solidot.org/science/11/12/02/0935220.shtml"><b>阅读更多...</b></a>
+	</li>
+	
+	
+	<li class="commentSub">
+		<a href="/comments.pl?sid=28922&amp;op=reply&amp;threshold=1&amp;mode=thread&amp;commentsort=0"><b>发表评论</b></a>
+	</li>
+	
+	
+	<li class="section">
+		<a href="//science.solidot.org/">science.solidot.org</a>
+	</li>
+	
+	
+	</ul>
+	</div>
+</div>
+
+<!-- end template: ID 385, storylink;index;default -->
+
+
+
+<!-- start template: ID 283, dispStory;misc;default -->
+
+<div class="article">
+
+
+<div class="generaltitle">
+	<div class="title">
+		<h3>
+			<a href="//science.solidot.org/">科学</a>: 常温下的钻石实现量子纠缠
+			
+		</h3>
+	</div>
+</div>
+	<div class="details">
+		
+		<a href="">blackhat</a>  发表于 2011年12月02日 16时48分 星期五
+		 
+			&nbsp;&nbsp;<a href="//solidot.org/print.pl?sid=11/12/02/0854249"><img src="//solidot.org/images/print.gif" height="11" width="15" alt="Printer-friendly"></a>
+		
+		
+			&nbsp;&nbsp;<a href="//solidot.org/email.pl?sid=11/12/02/0854249"><img src="//solidot.org/images/email.gif" height="14" width="20" alt="Email story" ></a>
+		
+
+ <!--sina micblog update gao by 2011-02-12-->
+&nbsp;<script type="text/javascript" charset="utf-8">
+(function(){
+  var _w = 72 , _h = 16;
+  var param = {
+    url:location.href,
+    type:'3',
+    count:'1', /**是否显示转发数，1显示(可选)*/
+    appkey:'369239938', /**您申请的应用appkey,显示分享来源(可选)*/
+    title:'', /**转发的文字内容(可选，默认为所在页面的title)*/
+    pic:'', /**转发图片的路径(可选)*/
+    ralateUid:'1686235170', /**关联用户的UID，转发微博会@该用户(可选)*/
+    rnd:new Date().valueOf()
+  }
+  var temp = [];
+  for( var p in param ){
+    temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )
+  }
+  //高修改，只在特定位置显示
+    if(window.location.href.indexOf("11/") > 0){
+  	document.write('<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>')
+  }
+})()
+</script>
+<!--sina micblog end-->
+
+
+<br>
+		<strong>来自<b>女性的日常用品</b>部门</strong>
+	</div>
+	<div class="body">
+		 
+		<div class="topic">
+			
+			
+				<a href="//solidot.org/search.pl?tid=19">
+					<img src="//solidot.org/images/topics/topicscience.gif" width="62" height="75" alt="科学" title="科学" >
+				</a>
+			
+			
+		</div>
+		<div class="intro">
+			钻石通常是成对出现，例如一对钻石耳环。现在，物理学家实现了突破，<a href="http://www.scientificamerican.com/article.cfm?id=room-temperature-entanglement">将一对钻石在量子水平上连接起来</a>。 <a href="http://www.sciencemag.org/content/334/6060/1253.abstract">报告</a>发表在《科学》期刊上。<i>
+一组物理学家设法将两个分开15厘米的钻石实现量子纠缠态。量子纠缠是指两个或多个物体之间由一个看不见的桥梁连接起来，即所谓的远距幽灵作用，除了微观粒子，它也能在宏观世界中发现。牛津大学物理学家<a href="http://www.physics.ox.ac.uk/ultrafast/">Ian Walmsley</a>和同事用一种激光器、光束分离器和探测器在两个钻石间制造了纠缠。他们显示，有可能迫使2个钻石始终“共有”一个光子，<a href="http://chinese.eurekalert.org/zh/pub_releases/2011-12/aaft-ed112811.php">这是量子纠缠的证据</a>。Walmsley说，他们的研究演示了日常用品也能观察到量子纠缠——如果钻石算作是日常用品的话。</i>
+		</div>
+
+
+
+
+
+
+		
+	</div>
+</div>
+
+<!-- end template: ID 283, dispStory;misc;default -->
+
+
+
+<!-- start template: ID 385, storylink;index;default -->
+
+<div class="storylinks">
+	<div>
+	<ul>
+	
+	<li class="more">
+		<a href="//science.solidot.org/science/11/12/02/0854249.shtml"><b>阅读更多...</b></a>
+	</li>
+	
+	
+	<li class="commentSub">
+		<a href="/comments.pl?sid=28921&amp;op=reply&amp;threshold=1&amp;mode=thread&amp;commentsort=0"><b>发表评论</b></a>
+	</li>
+	
+	
+	<li class="section">
+		<a href="//science.solidot.org/">science.solidot.org</a>
+	</li>
+	
+	
+	</ul>
+	</div>
+</div>
+
+<!-- end template: ID 385, storylink;index;default -->
+
+
+
+<!-- start template: ID 283, dispStory;misc;default -->
+
+<div class="article">
+
+
+<div class="generaltitle">
+	<div class="title">
+		<h3>
+			<a href="//society.solidot.org/">社会</a>: 美国学术自由在中国停滞
+			
+		</h3>
+	</div>
+</div>
+	<div class="details">
+		
+		<a href="">blackhat</a>  发表于 2011年12月02日 16时00分 星期五
+		 
+			&nbsp;&nbsp;<a href="//solidot.org/print.pl?sid=11/12/02/081212"><img src="//solidot.org/images/print.gif" height="11" width="15" alt="Printer-friendly"></a>
+		
+		
+			&nbsp;&nbsp;<a href="//solidot.org/email.pl?sid=11/12/02/081212"><img src="//solidot.org/images/email.gif" height="14" width="20" alt="Email story" ></a>
+		
+
+ <!--sina micblog update gao by 2011-02-12-->
+&nbsp;<script type="text/javascript" charset="utf-8">
+(function(){
+  var _w = 72 , _h = 16;
+  var param = {
+    url:location.href,
+    type:'3',
+    count:'1', /**是否显示转发数，1显示(可选)*/
+    appkey:'369239938', /**您申请的应用appkey,显示分享来源(可选)*/
+    title:'', /**转发的文字内容(可选，默认为所在页面的title)*/
+    pic:'', /**转发图片的路径(可选)*/
+    ralateUid:'1686235170', /**关联用户的UID，转发微博会@该用户(可选)*/
+    rnd:new Date().valueOf()
+  }
+  var temp = [];
+  for( var p in param ){
+    temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )
+  }
+  //高修改，只在特定位置显示
+    if(window.location.href.indexOf("11/") > 0){
+  	document.write('<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>')
+  }
+})()
+</script>
+<!--sina micblog end-->
+
+
+<br>
+		<strong>来自<b>占领霍普金斯</b>部门</strong>
+	</div>
+	<div class="body">
+		 
+		<div class="topic">
+			
+			
+				<a href="//solidot.org/search.pl?tid=68">
+					<img src="//solidot.org/images/topics/topiced.gif" width="87" height="64" alt="教育" title="教育" >
+				</a>
+			
+			
+		</div>
+		<div class="intro">
+			1986年，南京大学和约翰斯·霍普金斯大学共同创办了“<a href="http://zmzx.nju.edu.cn/zhongmei/page/main96/main.aspx">霍普金斯大学中美文化研究中心</a>”，目前有164名学生，其中一半是中国学生，其余大部分是美国学生。中心成立25年来，没人办过杂志，一位美国学生用亲身经历发现了背后无形的手。彭博社在美国<a href="//society.solidot.org/society/11/11/02/0529241.shtml?tid=68">孔子学院</a>之后，报道了另一件<a href="http://www.businessweek.com/news/2011-11-29/china-halts-u-s-academic-freedom-at-classroom-door-for-colleges.html">学术自由受阻的事情</a>。<i>
+美国宪法保护言论自由，但在中国地面上它并不适用。学术自由给予学生和教师权利畅所欲言表达自我观点，不用担心因此受到惩罚。根据协议，中美文化研究中心是“受保护空间”，学生可以在课堂里谈论敏感话题，但在外面谈却是有害的。在美国大学可以随便办杂志，但中国是另一个世界。Brendon Stewart尝试创办一份杂志，他无法得到校方的印刷资助。当一位美国学生在自助餐厅外贴大字报攻击共产党之后，教授和学生纷纷撤回投稿，参与编辑和排版的中国学生要求去除名字。校方要求审查和限制流通。Stewart体会到了体制是如何运作的。
+</i>
+		</div>
+
+
+
+
+
+
+		
+	</div>
+</div>
+
+<!-- end template: ID 283, dispStory;misc;default -->
+
+
+
+<!-- start template: ID 385, storylink;index;default -->
+
+<div class="storylinks">
+	<div>
+	<ul>
+	
+	<li class="more">
+		<a href="//society.solidot.org/society/11/12/02/081212.shtml"><b>阅读更多...</b></a>
+	</li>
+	
+	
+	<li class="commentSub">
+		<a href="/comments.pl?sid=28920&amp;op=reply&amp;threshold=1&amp;mode=thread&amp;commentsort=0"><b>发表评论</b></a>
+	</li>
+	
+	<li class="comments">
+<a href="//society.solidot.org/society/11/12/02/081212.shtml">3</a> / <a href="//society.solidot.org/article.pl?sid=11/12/02/081212&amp;threshold=-1">5</a> 条评论</li>
+	
+	<li class="section">
+		<a href="//society.solidot.org/">society.solidot.org</a>
+	</li>
+	
+	
+	</ul>
+	</div>
+</div>
+
+<!-- end template: ID 385, storylink;index;default -->
+
+
+
+<!-- start template: ID 283, dispStory;misc;default -->
+
+<div class="article">
+
+
+<div class="generaltitle">
+	<div class="title">
+		<h3>
+			<a href="//society.solidot.org/">社会</a>: 德国太阳能厂商面临倒闭潮
+			
+		</h3>
+	</div>
+</div>
+	<div class="details">
+		
+		<a href="">blackhat</a>  发表于 2011年12月02日 15时40分 星期五
+		 
+			&nbsp;&nbsp;<a href="//solidot.org/print.pl?sid=11/12/02/0740252"><img src="//solidot.org/images/print.gif" height="11" width="15" alt="Printer-friendly"></a>
+		
+		
+			&nbsp;&nbsp;<a href="//solidot.org/email.pl?sid=11/12/02/0740252"><img src="//solidot.org/images/email.gif" height="14" width="20" alt="Email story" ></a>
+		
+
+ <!--sina micblog update gao by 2011-02-12-->
+&nbsp;<script type="text/javascript" charset="utf-8">
+(function(){
+  var _w = 72 , _h = 16;
+  var param = {
+    url:location.href,
+    type:'3',
+    count:'1', /**是否显示转发数，1显示(可选)*/
+    appkey:'369239938', /**您申请的应用appkey,显示分享来源(可选)*/
+    title:'', /**转发的文字内容(可选，默认为所在页面的title)*/
+    pic:'', /**转发图片的路径(可选)*/
+    ralateUid:'1686235170', /**关联用户的UID，转发微博会@该用户(可选)*/
+    rnd:new Date().valueOf()
+  }
+  var temp = [];
+  for( var p in param ){
+    temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )
+  }
+  //高修改，只在特定位置显示
+    if(window.location.href.indexOf("11/") > 0){
+  	document.write('<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>')
+  }
+})()
+</script>
+<!--sina micblog end-->
+
+
+<br>
+		<strong>来自<b>横扫世界</b>部门</strong>
+	</div>
+	<div class="body">
+		 
+		<div class="topic">
+			
+			
+				<a href="//solidot.org/search.pl?tid=54">
+					<img src="//solidot.org/images/topics/topicbusiness.gif" width="64" height="54" alt="商业" title="商业" >
+				</a>
+			
+			
+		</div>
+		<div class="intro">
+			bonnae1982 写道 <i>"据德国<a href="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111129-%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%89%8B%E5%BC%BA%E5%8A%B2%EF%BC%8C%E5%BE%B7%E5%9B%BD%E5%A4%AA%E9%98%B3%E8%83%BD%E8%A1%8C%E4%B8%9A%E9%9D%A2%E4%B8%B4%E5%80%92%E9%97%AD%E6%B5%AA%E6%BD%AE">《明镜周刊》</a>的报道，德国太阳能企业由于一方面面临来自中国企业的廉价产品竞争，另一面是德国市场在多年兴旺后开始收缩。专家们预言，德国太阳能行业将面临大量倒闭的惨境。企业若要自救，必须尽快将企业外迁到国外去发展。
+</i>
+		</div>
+
+
+
+
+
+
+		
+	</div>
+</div>
+
+<!-- end template: ID 283, dispStory;misc;default -->
+
+
+
+<!-- start template: ID 385, storylink;index;default -->
+
+<div class="storylinks">
+	<div>
+	<ul>
+	
+	<li class="more">
+		<a href="//society.solidot.org/society/11/12/02/0740252.shtml"><b>阅读更多...</b></a>
+	</li>
+	
+	
+	<li class="commentSub">
+		<a href="/comments.pl?sid=28919&amp;op=reply&amp;threshold=1&amp;mode=thread&amp;commentsort=0"><b>发表评论</b></a>
+	</li>
+	
+	
+	<li >
+		<a href="//society.solidot.org/article.pl?sid=11/12/02/0740252&amp;mode=nocomment">30 words in story</a>
+	</li>
+	
+	<li class="comments">
+<a href="//society.solidot.org/article.pl?sid=11/12/02/0740252&amp;threshold=-1">2</a> 条评论</li>
+	
+	<li class="section">
+		<a href="//society.solidot.org/">society.solidot.org</a>
+	</li>
+	
+	
+	</ul>
+	</div>
+</div>
+
+<!-- end template: ID 385, storylink;index;default -->
+
+
+
+<!-- start template: ID 283, dispStory;misc;default -->
+
+<div class="article">
+
+
+<div class="generaltitle">
+	<div class="title">
+		<h3>
+			<a href="//science.solidot.org/">科学</a>: 动物如何预测地震
+			
+		</h3>
+	</div>
+</div>
+	<div class="details">
+		
+		<a href="">blackhat</a>  发表于 2011年12月02日 15时10分 星期五
+		 
+			&nbsp;&nbsp;<a href="//solidot.org/print.pl?sid=11/12/02/0658212"><img src="//solidot.org/images/print.gif" height="11" width="15" alt="Printer-friendly"></a>
+		
+		
+			&nbsp;&nbsp;<a href="//solidot.org/email.pl?sid=11/12/02/0658212"><img src="//solidot.org/images/email.gif" height="14" width="20" alt="Email story" ></a>
+		
+
+ <!--sina micblog update gao by 2011-02-12-->
+&nbsp;<script type="text/javascript" charset="utf-8">
+(function(){
+  var _w = 72 , _h = 16;
+  var param = {
+    url:location.href,
+    type:'3',
+    count:'1', /**是否显示转发数，1显示(可选)*/
+    appkey:'369239938', /**您申请的应用appkey,显示分享来源(可选)*/
+    title:'', /**转发的文字内容(可选，默认为所在页面的title)*/
+    pic:'', /**转发图片的路径(可选)*/
+    ralateUid:'1686235170', /**关联用户的UID，转发微博会@该用户(可选)*/
+    rnd:new Date().valueOf()
+  }
+  var temp = [];
+  for( var p in param ){
+    temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )
+  }
+  //高修改，只在特定位置显示
+    if(window.location.href.indexOf("11/") > 0){
+  	document.write('<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>')
+  }
+})()
+</script>
+<!--sina micblog end-->
+
+
+<br>
+		
+	</div>
+	<div class="body">
+		 
+		<div class="topic">
+			
+			
+				<a href="//solidot.org/search.pl?tid=6">
+					<img src="//solidot.org/images/topics/topicnews.gif" width="34" height="44" alt="新闻" title="新闻" >
+				</a>
+			
+			
+		</div>
+		<div class="intro">
+			<a href="http://www.fakeoakleysale.org/">Fake Oakleys</a> 写道 <i>"BBC<a href="http://www.bbc.co.uk/nature/15945014">报道</a>，动物有可能在地震即将发生前感知到地下水发生的化学变化，从而预测地震。在2009年意大利拉奎拉地震发生前几天，当地的蟾蜍纷纷离开池塘。观察到这一现象之后，科学家开始对这种化学效应进行研究。研究结果表明我们可以通过观察动物出现的异常行为预测地震。研究小组的<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3138006/pdf/ijerph-08-01936.pdf">发现</a>刊登在《国际环境研究与公共卫生杂志》上。他们在论文中描述了这样一种现象：地壳中受压的岩石释放出带电粒子并与地下水发生反应。生活在地下水中或者附近的动物对其发生的任何化学变化非常敏感，可能在岩层断裂并引发地震前几天就预感到将有地震发生。"</i>
+		</div>
+
+
+
+
+
+
+		
+	</div>
+</div>
+
+<!-- end template: ID 283, dispStory;misc;default -->
+
+
+
+<!-- start template: ID 385, storylink;index;default -->
+
+<div class="storylinks">
+	<div>
+	<ul>
+	
+	<li class="more">
+		<a href="//science.solidot.org/science/11/12/02/0658212.shtml"><b>阅读更多...</b></a>
+	</li>
+	
+	
+	<li class="commentSub">
+		<a href="/comments.pl?sid=28917&amp;op=reply&amp;threshold=1&amp;mode=thread&amp;commentsort=0"><b>发表评论</b></a>
+	</li>
+	
+	<li class="comments">
+<a href="//science.solidot.org/science/11/12/02/0658212.shtml">0</a> / <a href="//science.solidot.org/article.pl?sid=11/12/02/0658212&amp;threshold=-1">1</a> 条评论</li>
+	
+	<li class="section">
+		<a href="//science.solidot.org/">science.solidot.org</a>
+	</li>
+	
+	
+	</ul>
+	</div>
+</div>
+
+<!-- end template: ID 385, storylink;index;default -->
+
+
+
+<!-- start template: ID 351, next_prev_issue;index;default -->
+
+&lt;&nbsp; 
+
+<a href="//solidot.org/index.pl?issue=20111202">昨天的文章</a>
+
+ &nbsp;&gt;
+
+<!-- end template: ID 351, next_prev_issue;index;default -->
+
+
+	</div>
+
+<!-- end template: ID 316, index;index;default -->
+
+
+
+<!-- start template: ID 382, ssifoot;misc;default -->
+
+
+
+<!-- start template: ID 301, footer;misc;default -->
+
+</div>	
+		</div>
+		<div id="footer">
+			
+			<em>活了一百年却只能记住30M字节是荒谬的。你知道，这比一张压缩盘还要少。人类境况正在变得日趋退。--Marvin Minsky</em>
+			
+			<div class="search">
+				<form method="get" action="http://www.google.com/search">
+				 <fieldset>
+					<legend>Google Search</legend>
+					<input type="text" name="query" value="" size="20">
+					<input type="hidden" name="as_sitesearch" value="solidot.org">
+
+					<input type="submit" value="Google Solidot">
+				 </fieldset>
+			  </form>
+			</div>
+ 
+ 			<div class="copyright">
+				
+			</div>
+			<div class="btmnav">
+				<ul>
+					<li class="begin">
+						<a href="//solidot.org/">首页</a>
+					</li>
+                                        <li>
+                                               <a href="http://www.zdnet.com.cn">至顶网</a>
+                                        </li>
+					<li>
+						<a href="//solidot.org/submit.pl">提交文章</a>
+					</li>
+					<li>
+						<a href="//solidot.org/search.pl">往日文章</a>
+					</li>
+					<li>
+						<a href="//solidot.org/pollBooth.pl">过去的投票</a>
+					</li>
+					<li>
+						<a href="//solidot.org/faq/">常见问题</a>
+					</li>
+					<li>
+						<a href="//solidot.org/authors.pl">编辑介绍</a>
+					</li>
+          <li>
+						<a href="//solidot.org/privacy.html">隐私政策</a>
+					</li>
+          <li>
+						<a href="//solidot.org/terms.html">使用条款</a>
+					</li> 
+					<li>
+             <a href="http://mail.solidot.org/" target="_blank">邮箱</a> 
+          </li>
+          <li>
+						<a href="//solidot.org/contact.html">联系</a>
+					</li> 
+					<li>
+           <!-- <a href="//solidot.org/service/ad.html">广告</a>-->
+          </li>
+ 					<li>
+						<a href="http://solidot.org.feedsportal.com/c/33236/f/556826/index.rss">RSS</a>
+					</li>
+				</ul>
+ 			</div>
+      <div id="copyinfo">
+         <p>本站提到的所有注册商标属于他们各自的所有人所有，评论属于其发表者所有，其余内容版权属于 Solidot.org(2009-2012) 所有 。</p>
+         <p><a href="http://www.slashcode.com/" title="Slash 开源项目" target="_blank"><img src="//solidot.org/images/btn/slash.gif" border="0" alt="slashcode" /></a>  <a href="http://www.cpan.org/" title="Perl" target="_blank"><img src="//solidot.org/images/btn/perl.gif" border="0" alt="perl" /></a>  <a href="http://apache.org/" title="Apache 服务器" target="_blank"><img src="//solidot.org/images/btn/apache.gif" border="0" alt="apache" /></a>  <a href="http://www.mysql.com/" title="MySQL" target="_blank"><img src="//solidot.org/images/btn/mysql.gif" border="0" alt="mysql" /></a> </p>
+         <p><a href="http://solidot.org/" title="Solidot.org"><img src="http://solidot.org/images/btn/solidot-s.gif" border="0"></a></p>
+         <p>京ICP证<a target=_blank href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202001021500016">010391</a>号<a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202001021500016"><img src="http://www.zdnet.com.cn/i/zdnet/images/gs.gif" style="margin-right:8px;" /></a></p>    
+        </div>
+  		</div>
+		
+	</div> 
+<script src="http://dw.cbsi.com.cn/js/dw.js"></script>
+<script>
+  DW.pageParams = {
+    siteid: 71
+  };  
+  DW.clear();  
+</script>
+<script language="javascript" src="http://pv.zdnet.com.cn/js/pv.js"></script>
+ <div style="display:none"><script src="http://s87.cnzz.com/stat.php?id=1864685&web_id=1864685" language="JavaScript" charset="gb2312"></script></div></body>
+</html>
+
+<!-- end template: ID 301, footer;misc;default -->
+
+
+
+<!-- end template: ID 382, ssifoot;misc;default -->
+

@@ -1,0 +1,581 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>创富志-关于商业模式的杂志</title>
+<meta name="keywords" content="创富志-关于商业模式的杂志,商业模式,创富,什么是商业模式,什么叫商业模式,商业模式案例,最新商业模式,商业模
+
+式的本质,杂志订阅" />
+<meta name="description" content="创富志-关于商业模式的杂志,致力于商业模式的研究,让您了解什么是商业模式,阐述商业模式的本质,挖掘最新的
+
+商业模式,帮助创造您自己的商业模式和盈利模式，杂志订阅正在进行中，创富志电子版商城已上线。 " />
+<meta name="author" content="mycfz,mycfz@foxmail.com">
+<meta http-equiv="page-enter" content="progid:dximagetransform.microsoft.fade(duration=.5)"/>
+<meta http-equiv="page-exit" content="progid:dximagetransform.microsoft.fade(duration=.5)"/>
+<link href="/templates/default/style/style.css" rel="stylesheet" type="text/css" />
+<link href="/templates/default/images/main.css" rel="stylesheet" type="text/css" />
+<base onmouseover="window.status='创富志-关于商业模式的杂志';return true">
+<script type="text/javascript" src="/e/data/js/ajax.js"></script>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+    jQuery('#slideshow').cycle({
+		fx: 'fade' // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+	});
+});
+</script>
+<!-- include Cycle plugin -->
+<script type="text/javascript" src="/e/data/js/jquery.cycle.all.min.js"></script>
+<SCRIPT>
+function init() {
+ sel($('zx'));
+}
+</SCRIPT>
+<style>
+#subscribe #feedrss {
+	BACKGROUND: url(/templates/default/js/feeds.gif) no-repeat 0px 0px
+}
+#subscribe #feedrss {
+	PADDING-RIGHT: 5px; DISPLAY: block; PADDING-LEFT: 20px; FLOAT: left; PADDING-BOTTOM: 5px; LINE-HEIGHT: 25px; 
+
+PADDING-TOP: 0px; HEIGHT: 25px; TEXT-DECORATION: none
+}
+#subscribe UL {
+	BORDER-RIGHT: #b7b7b7 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #b7b7b7 1px solid; DISPLAY: none; PADDING-LEFT: 
+
+5px; BACKGROUND: #f4f5f7; PADDING-BOTTOM: 5px; BORDER-LEFT: #b7b7b7 1px solid; WIDTH: 180px; PADDING-TOP: 0px; BORDER-
+
+BOTTOM: #b7b7b7 1px solid
+}
+#subscribe LI {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 
+
+0px; LIST-STYLE-TYPE: none
+}
+#subscribe LI A SPAN {
+	DISPLAY: block; BACKGROUND: url(/templates/default/js/readers.gif) no-repeat; WIDTH: 80px; TEXT-
+
+INDENT: -999em; HEIGHT: 20px
+}
+#subscribe LI#google_reader A SPAN {
+	BACKGROUND-POSITION: 0px 0px
+}
+#subscribe LI#youdao_reader A SPAN {
+	BACKGROUND-POSITION: 0px -20px
+}
+#subscribe LI#xianguo_reader A SPAN {
+	BACKGROUND-POSITION: 0px -40px
+}
+#subscribe LI#zhuaxia_reader A SPAN {
+	BACKGROUND-POSITION: 0px -60px
+}
+#subscribe LI#yahoo_reader A SPAN {
+	BACKGROUND-POSITION: 0px -80px
+}
+#subscribe LI#newsgator_reader A SPAN {
+	BACKGROUND-POSITION: 0px -100px
+}
+#subscribe LI#bloglines_reader A SPAN {
+	BACKGROUND-POSITION: 0px -120px
+}
+#subscribe LI#inezha_reader A SPAN {
+	BACKGROUND-POSITION: 0px -140px
+}
+#subscribe LI A {
+	PADDING-RIGHT: 5px; DISPLAY: block; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; WIDTH: 80px; PADDING-
+
+TOP: 5px; TEXT-DECORATION: none
+}
+#subscribe LI A:hover {
+	BACKGROUND: #eeddcc
+}
+</style>
+<script src="/templates/default/js/menu.js"></script>
+</head>
+<!--脚本永不出错-->
+<script language="javascript">
+<!-- HIde
+function killErrors(){
+return true;
+}
+window.onerror =killErrors;
+//-->
+</script>
+<!--<noscript><iframe src="*.htm"></iframe></noscript>-->
+<!--<body onload="javascript:elady1_nextAd()">-->
+<body>
+<div style="width:995px; background:#FFFfff;margin-left:auto;margin-right:auto">
+<!--开始-->
+<div style=" height:55px; font-size:12px;">
+<!--登录-->
+<div style="float:left; margin:25px 0px 0px 10px"><script src="/e/member/login/loginjs.php"></script>
+</div>
+<!--顶部导航-->
+<div style="float:right; margin:15px 10px 0px 0px; font-size:12px; width:380px">
+<div style="float:right; margin-top:0px"><!--客服：<a href="http://sighttp.qq.com/cgi-bin/check?sigkey=a851b0052bf021275530287be6f69383ec19a2a66601077064ac400adc1d1f6b86ea6919cc18cb51f4aefa2a47327535"; target=_blank; onClick="var tempSrc='http://sighttp.qq.com/wpa.js?rantime='+Math.random()+'&sigkey=a851b0052bf021275530287be6f69383ec19a2a66601077064ac400adc1d1f6b86ea6919cc18cb51f4aefa2a47327535';var oldscript=document.getElementById('testJs');var newscript=document.createElement('script');newscript.setAttribute('type','text/javascript'); newscript.setAttribute('id', 'testJs');newscript.setAttribute('src',tempSrc);if(oldscript == null){document.body.appendChild(newscript);}else{oldscript.parentNode.replaceChild(newscript, oldscript);}return false;"><img border="0" SRC='http://wpa.qq.com/pa?p=1:915374200:8' alt="客服"></a>　<a href="msnim:chat?contact=kf@mycfz.com"><img src="/templates/default/images/MSN.gif">MSN</a> 　--><img src="/templates/default/images/top_icon.gif" width="11" height="11" /><a href="#" target="_self" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.mycfz.com/');"  style="cursor:pointer;">设为首页</a>　<img src="/templates/default/images/top_icon.gif" width="11" height="11" /><a href="javascript:window.external.AddFavorite('http://www.mycfz.com/','创富志-关于商业模式的杂志')">加入收藏</a>　<img src="/templates/default/images/top_icon.gif" width="11" height="11" /><a href="/e/member/cp/">我的创富志</a>　<a href="http://mycfz.com/e/member/register/index.htm"><img src="/templates/default/images/icon2.gif" width="28" height="20" />订阅卡</a>　</div>
+<DIV style="margin-top:5px" id=subscribe align="left"><A id=feedrss title=订阅文章 
+href="http://www.mycfz.com/e/web/?type=rss2&classid=0"><ABBR 
+title="Really Simple Syndication">RSS</ABBR> 订阅</A> 
+<UL id=feed_readers>
+  <LI id=google_reader><A class=reader title="订阅到 Google" 
+  href="http://fusion.google.com/add?feedurl=http://www.mycfz.com/e/web/?type=rss2&classid=0"><SPAN>Google</SPAN></A> 
+  </LI>
+  <LI id=youdao_reader><A class=reader title=订阅到有道 
+  href="http://reader.youdao.com/#url=http://www.mycfz.com/e/web/?type=rss2&classid=0"><SPAN>有道</SPAN></A> 
+  </LI>
+  <LI id=xianguo_reader><A class=reader title=订阅到鲜果 
+  href="http://www.xianguo.com/subscribe.php?url=http://www.mycfz.com/e/web/?type=rss2&classid=0"><SPAN>鲜果</SPAN></A> 
+  </LI>
+  <LI id=zhuaxia_reader><A class=reader title=订阅到抓虾 
+  href="http://www.zhuaxia.com/add_channel.php?url=http://www.mycfz.com/e/web/?type=rss2&classid=0"><SPAN>抓虾</SPAN></A> 
+  </LI>
+  <LI id=yahoo_reader><A class=reader title="订阅到 My Yahoo!" 
+  href="http://add.my.yahoo.com/rss?url=http://www.mycfz.com/e/web/?type=rss2&classid=0"><SPAN>My 
+  Yahoo!</SPAN></A> </LI>
+  <LI id=newsgator_reader><A class=reader title="订阅到 newsgator" 
+  href="http://www.newsgator.com/ngs/subscriber/subfext.aspx?url=http://www.mycfz.com/e/web/?type=rss2&classid=0"><SPAN>newsgator</SPAN></A> 
+  </LI>
+  <LI id=bloglines_reader><A class=reader title="订阅到 Bloglines" 
+  href="http://www.bloglines.com/sub/http://www.mycfz.com/e/web/?type=rss2&classid=0"><SPAN>Bloglines</SPAN></A> 
+  </LI>
+  <LI id=inezha_reader><A class=reader title=订阅到哪吒 
+  href="http://inezha.com/add?url=http://www.mycfz.com/e/web/?type=rss2&classid=0"><SPAN>哪吒</SPAN></A> 
+  </LI></UL></DIV></div>
+</div>
+<!--logo-->
+<div style="height:110px; background:#CE181F; border-bottom:1px #FFF solid">
+<div style="float:left;padding:13px 0px 0px 12px;"><img src="/templates/default/images/logo.gif" /></div>
+<div style="width:630px; float:right; padding:42px 0px 0px 30px"><img src="/templates/default/images/logo_img.gif" /></div>
+</div>
+
+<!--导航-->
+<div class="naviga" style="font-size:12px; height:24px; padding-bottom:20px">
+<ul>
+<li><a href="http://www.mycfz.com/index.html">首 页</a></li>
+<li id="tabnav_btn_1" onmouseover="tabit(this)"><a href="/wenzhangxiazai/">创富志商店</a></li><li id="tabnav_btn_2" onmouseover="tabit(this)"><a href="/chuangfuzhi500/">创富志500</a></li><li id="tabnav_btn_3" onmouseover="tabit(this)"><a href="/zhuanlantekan/">专栏文章</a></li><li id="tabnav_btn_4" onmouseover="tabit(this)"><a href="/wangqihuigu/">往期回顾</a></li><li id="tabnav_btn_5" onmouseover="tabit(this)"><a href="http://www.mycfz.com/e/ShopSys/order/order.php">杂志订阅</a></li><li id="tabnav_btn_6" onmouseover="tabit(this)"><a href="/templates/default/AD3.htm">动态富人榜</a></li><li id="tabnav_btn_7" onmouseover="tabit(this)"><a href="http://www.mycfz.com/templates/default/advance/Advert.htm">广告服务</a></li><li id="tabnav_btn_8" onmouseover="tabit(this)"><a href="http://www.mycfz.com/bbs/">创富志论坛</a></li>
+</ul>
+</div>
+
+<!--1.0-->
+<div style="width:955px; background:url(/templates/default/images/img_end04.gif);margin-left:auto;margin-right:auto">
+<div style="float:left"><img src="/templates/default/images/img_end01.gif" alt="图4"/></div>
+<div style="float:left; background:url(/templates/default/images/img_end02.gif); height:32px; width:935px">
+<div style="float:left; padding-top:4px"><img src="/templates/default/images/img_1.0.gif" alt="图5"/></div>
+<div style="float:right; font-size:12px; padding-top:10px"><a href="/wangqihuigu/">>>更多期刊</a></div>
+</div>
+<div style="float:left"><img src="/templates/default/images/img_end03.gif" alt="图6"/></div>
+<!--最新期刊-->
+<div style="width:220px; float:left">
+<div style="font-weight:bold; color:#636466; line-height:20px; padding:20px 20px 10px 20px;"><a href="/
+
+templates/default/zuixin.htm">2011年11月号</a><br />
+  <a href="/templates/default/zuixin.htm" target="_blank"><img src="/d/file/p/2011-11-11/201111.jpg" alt="最新" border="0"/></a></div>
+<div style="padding:0px 20px 0px 35px; text-align:left;line-height:20px; font-size:12px">编辑的话:《碎片模式》<br />
+<a href="/zhuanlantekan/bianjidehua/2011-11-12/1423.html">正像本期杂志的大标题《碎片模式》一样，组成这期封面故事的十篇文章，也像碎片一样分散在各个专栏里...[详细内容]</a></div>
+</div>
+<div style="float:left; padding:0px 0px 0px 0px; width:720px">
+<iframe src="/texiao/index.htm" name="out" id=out align="MIDDLE" width="720px" height="440px"frameborder="0" 
+
+marginheight="0" marginwidth="0" scrolling="Auto" style="height:expression(out.document.body.scrollHeight)"></iframe>
+</div>
+	
+	
+<div style="width:955px;"><img src="/templates/default/images/img_end05.gif" alt="图1"/></div>
+</div>
+<div style="width:955px; height:2030px;margin-left:auto;margin-right:auto">
+<!--BBS-->
+<div style="float:right; padding:20px 0px; width:775px">
+  <div align="left">
+    <div align="left"><a href="http://www.mycfz.com/wenzhangxiazai/dichanbianyuan/2011-10-18/655.html#
+ 
+" target="_blank" title="王戈宏RERTs专辑"><img src="/templates/default/images/ad.jpg" width="755" height="96" /></a></div>
+  </div>
+  <br />
+<!--文字内容-->
+<div class="bttp2">
+<div class="bttp1"><a href="/zhuanlantekan/bianjidehua/" target="_blank" title="编辑的话"><img src="/d/file/zhuanlantekan/bianjidehua/2011-11-17/93e91f8726fe40473be5fa3c4c5189a7.jpg" width="60" height="60" alt="编辑的话" /></a></div >
+	  <div class="wznr1"><a href="/zhuanlantekan/bianjidehua/" title="编辑的话"><strong><font color=#00000>编辑的话</font></strong></a><br />
+<ul>
+       
+       <dl>
+<dt><font color="#CE181F">《<a href="/zhuanlantekan/bianjidehua/2011-11-12/1423.html" title="碎片模式"><font color="#CE181F">碎片模式</font></a>》</font></dt>
+          <dd class="preview"><a href="/zhuanlantekan/bianjidehua/2011-11-12/1423.html" title="碎片模式">正像本期杂志的大标题《碎片模式》一样，组成这期封面故事的十篇文章，也像碎片一样分散在各个专栏里。 虽然它们还担当着以往的角色，依然挂着创富星、微案例或商业模式的专栏标签，但现在却共同...[详细]</a></dd>
+        </dl>
+       
+</ul>
+
+</div>
+</div><div class="bttp2">
+<div class="bttp1"><a href="/zhuanlantekan/chuangfuxing/" target="_blank" title="创富星"><img src="/d/file/p/2011-11-17/751afea20506ea3540487f7383004342.jpg" width="60" height="60" alt="创富星" /></a></div >
+	  <div class="wznr1"><a href="/zhuanlantekan/chuangfuxing/" title="创富星"><strong><font color=#00000>创富星</font></strong></a><br />
+<ul>
+       
+       <dl>
+<dt><font color="#CE181F">《<a href="/zhuanlantekan/chuangfuxing/2011-11-14/1426.html" title="一美元店"><font color="#CE181F">一美元店</font></a>》</font></dt>
+          <dd class="preview"><a href="/zhuanlantekan/chuangfuxing/2011-11-14/1426.html" title="一美元店">美元树在沃尔玛附近开店，竟敢强调低价！<br />
+“美元树”每件商品都只卖一美元！吃的、用的和玩的都有。它有一半的连锁店，离沃尔玛不到三公里，号称商品比沃尔玛还便宜。一旦经济萧条，它的日子就...[详细]</a></dd>
+        </dl>
+       
+</ul>
+
+</div>
+</div><div class="bttp2">
+<div class="bttp1"><a href="/zhuanlantekan/fengmiangushi/" target="_blank" title="封面故事"><img src="/d/file/p/2011-11-17/113f498f015901859c10546d2c73fdfd.jpg" width="60" height="60" alt="封面故事" /></a></div >
+	  <div class="wznr1"><a href="/zhuanlantekan/fengmiangushi/" title="封面故事"><strong><font color=#00000>封面故事</font></strong></a><br />
+<ul>
+       
+       <dl>
+<dt><font color="#CE181F">《<a href="/zhuanlantekan/fengmiangushi/2011-11-14/1452.html" title="地产模式"><font color="#CE181F">地产模式</font></a>》</font></dt>
+          <dd class="preview"><a href="/zhuanlantekan/fengmiangushi/2011-11-14/1452.html" title="地产模式">联众"城仙居",华侨城、波士顿地产、领汇基金、世联地产、SOHO中国、深国投商置、万达集团的案例<br />
+魏炜 林桂平/指导 王栋 刘琬 杨佳 李鹏鹏 王佳音 夏爽 谭淼/文...[详细]</a></dd>
+        </dl>
+       
+</ul>
+
+</div>
+</div><div class="bttp2">
+<div class="bttp1"><a href="/zhuanlantekan/jiangwodeshangyemoshi/" target="_blank" title="讲我的商业模式"><img src="/d/file/p/2010-04-15/bcc9a8bd86ad5b098468830e4023c276.gif" width="60" height="60" alt="讲我的商业模式" /></a></div >
+	  <div class="wznr1"><a href="/zhuanlantekan/jiangwodeshangyemoshi/" title="讲我的商业模式"><strong><font color=#00000>讲我的商业模式</font></strong></a><br />
+<ul>
+       
+       <dl>
+<dt><font color="#CE181F">《<a href="/zhuanlantekan/jiangwodeshangyemoshi/2011-11-14/1457.html" title="拉卡拉：把银行的生意搬到便利店"><font color="#CE181F">拉卡拉：把银行的生意搬到便利店</font></a>》</font></dt>
+          <dd class="preview"><a href="/zhuanlantekan/jiangwodeshangyemoshi/2011-11-14/1457.html" title="拉卡拉：把银行的生意搬到便利店">也许你经常为了办一些简单的业务，在银行排半天队。四年前，我们把一个类似 POS 机的东西 — 拉卡拉刷卡机，安装在城市的便利店里，方便用户办理信用卡还款、手机充值或者缴水电费等。而银行也愿...[详细]</a></dd>
+        </dl>
+       
+</ul>
+
+</div>
+</div><div class="bttp2">
+<div class="bttp1"><a href="/zhuanlantekan/chuangyeban/" target="_blank" title="创业板&微案例"><img src="/d/file/p/2009-10-13/5da01ad38d116ebd003b760fb55eac14.gif" width="60" height="60" alt="创业板&微案例" /></a></div >
+	  <div class="wznr1"><a href="/zhuanlantekan/chuangyeban/" title="创业板&微案例"><strong><font color=#00000>创业板&微案例</font></strong></a><br />
+<ul>
+       
+       <dl>
+<dt><font color="#CE181F">《<a href="/zhuanlantekan/chuangyeban/2011-11-14/1450.html" title="好美味租房网：将全球"闲置房源"组织起来"><font color="#CE181F">好美味租房网：将全球&quot;闲置房源&quot;组织起</font></a>》</font></dt>
+          <dd class="preview"><a href="/zhuanlantekan/chuangyeban/2011-11-14/1450.html" title="好美味租房网：将全球"闲置房源"组织起来">它做全球假日房屋租赁生意，口号是： “ 有好美味，为何还要住酒店？ ” 六年来，它收购了一批全球最牛的度假租赁网站。刚上市，市值 32 亿美元，市盈率高达 180 倍！好美味网 HomeAway 是全球最...[详细]</a></dd>
+        </dl>
+       
+</ul>
+
+</div>
+</div><div class="bttp2">
+<div class="bttp1"><a href="/zhuanlantekan/kukeji/" target="_blank" title="酷科技"><img src="/d/file/p/2010-11-04/cad15a13f854b55dd0dd746c71f3b5d1.jpg" width="60" height="60" alt="酷科技" /></a></div >
+	  <div class="wznr1"><a href="/zhuanlantekan/kukeji/" title="酷科技"><strong><font color=#00000>酷科技</font></strong></a><br />
+<ul>
+       
+       <dl>
+<dt><font color="#CE181F">《<a href="/zhuanlantekan/kukeji/2011-08-31/1335.html" title="这家伙改变世界：先查基因，再开药 "><font color="#CE181F">这家伙改变世界：先查基因，再开药 </font></a>》</font></dt>
+          <dd class="preview"><a href="/zhuanlantekan/kukeji/2011-08-31/1335.html" title="这家伙改变世界：先查基因，再开药 ">人们经常吃错药，这不是骂人，因为大家的基因不同。一种药对这些人有效，对另外一些人就没有效果，所以必须要对人下药！但是要检测每个人的基因，在现在既很贵、又很慢，大规模地实现对人下药就...[详细]</a></dd>
+        </dl>
+       
+</ul>
+
+</div>
+</div><div class="bttp2">
+<div class="bttp1"><a href="/zhuanlantekan/meiyueshangyesiwei/" target="_blank" title="每月商业思维"><img src="/d/file/p/2010-11-04/ad5762b39b464f8af94c587c19887e6a.jpg" width="60" height="60" alt="每月商业思维" /></a></div >
+	  <div class="wznr1"><a href="/zhuanlantekan/meiyueshangyesiwei/" title="每月商业思维"><strong><font color=#00000>每月商业思维</font></strong></a><br />
+<ul>
+       
+       <dl>
+<dt><font color="#CE181F">《<a href="/zhuanlantekan/meiyueshangyesiwei/2011-11-14/1460.html" title="做个坏人"><font color="#CE181F">做个坏人</font></a>》</font></dt>
+          <dd class="preview"><a href="/zhuanlantekan/meiyueshangyesiwei/2011-11-14/1460.html" title="做个坏人">我和马云在飞机上谈坏人的问题，谈得很投机。我们觉得当坏人其实挺受用，前提是只要你不要想着去做坏事，要努力多做点好事。如果你是一个好人，你做了一件坏事，大家都会骂你。如果你是坏人，做...[详细]</a></dd>
+        </dl>
+       
+</ul>
+
+</div>
+</div><div class="bttp2">
+<div class="bttp1"><a href="/zhuanlantekan/qingyicaiping/" target="_blank" title="清议财评"><img src="/d/file/p/2009-01-08/883b377dfd0b2ef90b1564c17f6eed3f.gif" width="60" height="60" alt="清议财评" /></a></div >
+	  <div class="wznr1"><a href="/zhuanlantekan/qingyicaiping/" title="清议财评"><strong><font color=#00000>清议财评</font></strong></a><br />
+<ul>
+       
+       <dl>
+<dt><font color="#CE181F">《<a href="/zhuanlantekan/qingyicaiping/2011-04-02/1270.html" title="2011，再陷谷底"><font color="#CE181F">2011，再陷谷底</font></a>》</font></dt>
+          <dd class="preview"><a href="/zhuanlantekan/qingyicaiping/2011-04-02/1270.html" title="2011，再陷谷底">中国经济将在 2011 年，陷于自金融危机以来的二次谷底， GDP 增幅将会收缩到何等程度？扣除物价上涨因素后，将在 7 － 8% 之间！到下半年，经济将初步脱离谷底， 2012 年有所加速， 2013 年则重...[详细]</a></dd>
+        </dl>
+       
+</ul>
+
+</div>
+</div><div class="bttp2">
+<div class="bttp1"><a href="/zhuanlantekan/touzike/" target="_blank" title="投资客"><img src="/d/file/p/2009-01-10/9de86253fc8f1831d72b26c3d4e38915.gif" width="60" height="60" alt="投资客" /></a></div >
+	  <div class="wznr1"><a href="/zhuanlantekan/touzike/" title="投资客"><strong><font color=#00000>投资客</font></strong></a><br />
+<ul>
+       
+       <dl>
+<dt><font color="#CE181F">《<a href="/zhuanlantekan/touzike/2011-11-15/1462.html" title="合生元，一个抓住机会的奶粉品牌"><font color="#CE181F">合生元，一个抓住机会的奶粉品牌</font></a>》</font></dt>
+          <dd class="preview"><a href="/zhuanlantekan/touzike/2011-11-15/1462.html" title="合生元，一个抓住机会的奶粉品牌">做奶粉是应该有机会的，特别是在毒奶粉事件之后。 “ 合生元 ” 抓住了这个机会！它自己不生产奶粉，从法国进口打洋品牌，一年之间，就在超高端市场占据了 13% 的份额，进入行业前三名。但是，其...[详细]</a></dd>
+        </dl>
+       
+</ul>
+
+</div>
+</div><div class="bttp2">
+<div class="bttp1"><a href="/zhuanlantekan/zhidusheji/" target="_blank" title="制度设计"><img src="/d/file/p/2009-10-13/1b7c7da7d4061b7e7fb4fd1103b240d6.gif" width="60" height="60" alt="制度设计" /></a></div >
+	  <div class="wznr1"><a href="/zhuanlantekan/zhidusheji/" title="制度设计"><strong><font color=#00000>制度设计</font></strong></a><br />
+<ul>
+       
+       <dl>
+<dt><font color="#CE181F">《<a href="/zhuanlantekan/zhidusheji/2011-11-15/1463.html" title="如何让一家混乱的公司变成精锐部队"><font color="#CE181F">如何让一家混乱的公司变成精锐部队</font></a>》</font></dt>
+          <dd class="preview"><a href="/zhuanlantekan/zhidusheji/2011-11-15/1463.html" title="如何让一家混乱的公司变成精锐部队">如何让一家混乱的公司变成精锐部队<br />
+员工超过一千人后，这家公司不仅产品质量、交期经常出问题，员工还会经常说： “ 这事不归我管！ ” 我们的制度设计师设计了新的制度。实施两年后，订单量增...[详细]</a></dd>
+        </dl>
+       
+</ul>
+
+</div>
+</div><div class="bttp2">
+<div class="bttp1"><a href="/zhuanlantekan/qianxian/" target="_blank" title="前线"><img src="/d/file/p/2009-01-03/a2082f799d5a9e3d1e4dd8f95f53f4de.gif" width="60" height="60" alt="前线" /></a></div >
+	  <div class="wznr1"><a href="/zhuanlantekan/qianxian/" title="前线"><strong><font color=#00000>前线</font></strong></a><br />
+<ul>
+       
+       <dl>
+<dt><font color="#CE181F">《<a href="/zhuanlantekan/qianxian/2010-06-01/1098.html" title="一个商业模式，拯救了红毛猩猩"><font color="#CE181F">一个商业模式，拯救了红毛猩猩</font></a>》</font></dt>
+          <dd class="preview"><a href="/zhuanlantekan/qianxian/2010-06-01/1098.html" title="一个商业模式，拯救了红毛猩猩">在印尼，由于热带雨林被破坏，红毛猩猩失去了赖以生存的家园。如何拯救这些濒危的红毛猩猩呢？一个叫威利·斯米茨的生物学家，在当地买下一块不毛之地，用几年时间，将它重新改造成热带雨林。他...[详细]</a></dd>
+        </dl>
+       
+</ul>
+
+</div>
+</div><div class="bttp2">
+<div class="bttp1"><a href="/zhuanlantekan/jinrongmoshi/" target="_blank" title="金融模式"><img src="/d/file/p/2009-01-03/87b1e7be6b75e7b86e12aa57030efbc7.gif" width="60" height="60" alt="金融模式" /></a></div >
+	  <div class="wznr1"><a href="/zhuanlantekan/jinrongmoshi/" title="金融模式"><strong><font color=#00000>金融模式</font></strong></a><br />
+<ul>
+       
+       <dl>
+<dt><font color="#CE181F">《<a href="/zhuanlantekan/jinrongmoshi/2011-11-15/1466.html" title="沃尔玛实际上是一家物流公司！"><font color="#CE181F">沃尔玛实际上是一家物流公司！</font></a>》</font></dt>
+          <dd class="preview"><a href="/zhuanlantekan/jinrongmoshi/2011-11-15/1466.html" title="沃尔玛实际上是一家物流公司！">沃尔玛的物流能力有多强？它的主要竞争对手凯玛特，物流成本竟然比它高出八倍。原因是，沃尔玛八成的货物都采用一种叫作 “ 轴辐物流 ” 的模式 — 这个本文自会慢慢去讲。现在最新的故事是...[详细]</a></dd>
+        </dl>
+       
+</ul>
+
+</div>
+</div><div class="bttp2">
+<div class="bttp1"><a href="/zhuanlantekan/dichanbianyuan/" target="_blank" title="地产边缘"><img src="/d/file/p/2009-01-03/78df454388145d34f837e139a4ea51d7.gif" width="60" height="60" alt="地产边缘" /></a></div >
+	  <div class="wznr1"><a href="/zhuanlantekan/dichanbianyuan/" title="地产边缘"><strong><font color=#00000>地产边缘</font></strong></a><br />
+<ul>
+       
+       <dl>
+<dt><font color="#CE181F">《<a href="/zhuanlantekan/dichanbianyuan/2011-11-15/1468.html" title="地产基金搞了一些什么样的商业模式"><font color="#CE181F">地产基金搞了一些什么样的商业模式</font></a>》</font></dt>
+          <dd class="preview"><a href="/zhuanlantekan/dichanbianyuan/2011-11-15/1468.html" title="地产基金搞了一些什么样的商业模式">房地产开发商的现金流出现危机，将无法避免。当下，年化 25% 的融资成本已不足为奇，很多项目已经断粮。笔者所在的基金，一周之内来了四拨人，以往他们的融资成本根本不会超过 20% ，现在一开口...[详细]</a></dd>
+        </dl>
+       
+</ul>
+
+</div>
+</div><div class="bttp2">
+<div class="bttp1"><a href="/zhuanlantekan/guzhi/" target="_blank" title="估值"><img src="/d/file/p/2009-01-03/2ad0e2a5b9a112165e2cfb0c53bdf6ce.gif" width="60" height="60" alt="估值" /></a></div >
+	  <div class="wznr1"><a href="/zhuanlantekan/guzhi/" title="估值"><strong><font color=#00000>估值</font></strong></a><br />
+<ul>
+       
+       <dl>
+<dt><font color="#CE181F">《<a href="/zhuanlantekan/guzhi/2011-09-01/1346.html" title="政府行为成就的一批企业英雄"><font color="#CE181F">政府行为成就的一批企业英雄</font></a>》</font></dt>
+          <dd class="preview"><a href="/zhuanlantekan/guzhi/2011-09-01/1346.html" title="政府行为成就的一批企业英雄">你投资一家企业，生意很好，但其增长动力特别依赖于政府的采购、投资或政策鼓励。我们该如何判断其商业模式的风险，剔除政府行为对估值的扭曲，这就是本文的重点。...[详细]</a></dd>
+        </dl>
+       
+</ul>
+
+</div>
+</div><div class="bttp2">
+<div class="bttp1"><a href="/zhuanlantekan/huoyiqiwanshikongchuanyue/" target="_blank" title="一起玩时空穿越"><img src="/d/file/p/2010-06-01/d824e32b737970893eacfb3cf8a33152.gif" width="60" height="60" alt="一起玩时空穿越" /></a></div >
+	  <div class="wznr1"><a href="/zhuanlantekan/huoyiqiwanshikongchuanyue/" title="一起玩时空穿越"><strong><font color=#00000>一起玩时空穿越</font></strong></a><br />
+<ul>
+       
+       <dl>
+<dt><font color="#CE181F">《<a href="/zhuanlantekan/huoyiqiwanshikongchuanyue/2011-06-15/1308.html" title="商鞅为秦国设计的军功制商业模式 "><font color="#CE181F">商鞅为秦国设计的军功制商业模式 </font></a>》</font></dt>
+          <dd class="preview"><a href="/zhuanlantekan/huoyiqiwanshikongchuanyue/2011-06-15/1308.html" title="商鞅为秦国设计的军功制商业模式 ">秦老板孝公，依靠商鞅建立起来的商业模式，使大秦走上了强盛之路。即使后来商鞅被杀，他所建立的模式也难以被取代。一百多年后统一中国的嬴政同学，多半也是靠了“商鞅模式”百多年积累的家底。...[详细]</a></dd>
+        </dl>
+       
+</ul>
+
+</div>
+</div><div class="bttp2">
+<div class="bttp1"><a href="/zhuanlantekan/shengjiyuchuju/" target="_blank" title="升级与出局"><img src="/d/file/p/2009-01-03/0c6142b73f083a7bbb104cc5ed3b3a0b.gif" width="60" height="60" alt="升级与出局" /></a></div >
+	  <div class="wznr1"><a href="/zhuanlantekan/shengjiyuchuju/" title="升级与出局"><strong><font color=#00000>升级与出局</font></strong></a><br />
+<ul>
+       
+       <dl>
+<dt><font color="#CE181F">《<a href="/zhuanlantekan/shengjiyuchuju/2011-11-15/1469.html" title="谷歌圈子：这样的" 微博"局长可以用"><font color="#CE181F">谷歌圈子：这样的" 微博"局长可以用</font></a>》</font></dt>
+          <dd class="preview"><a href="/zhuanlantekan/shengjiyuchuju/2011-11-15/1469.html" title="谷歌圈子：这样的" 微博"局长可以用">现在所谈论的网络社区、微博，其实都是公众场所。像卫生局长微博开房、郭美美微博炫富，把私人行为放到社区的舞台上，于是变成了 “ 行为艺术 ” 。而谷歌推出的新社区 Google+ ，让你自己决定哪...[详细]</a></dd>
+        </dl>
+       
+</ul>
+
+</div>
+</div><br />
+
+
+<div style="float:left;width:757px;margin:0px 0px 10px 0px;">
+  <div><img src="/templates/default/images/yqs.jpg" /></div>
+  <div style="text-align:left;line-height:18px; font-size:12px; padding:10px 18px 20px 18px;  border-left:#E9E9E9 1px solid;border-right:#E9E9E9 1px solid; background:url(/templates/default/images/yqz.jpg)">
+  
+       友情链接 <br />
+  
+       <a href='http://www.heading-century.com/' title='汉鼎咨询' target=_blank>汉鼎咨询</a> 
+     
+       <a href='http://www.joyher.cn/' title='深圳九合顾问' target=_blank>深圳九合顾问</a> 
+    
+       <a href='http://www.yzforex.com/' title='亚洲外汇网' target=_blank>亚洲外汇网</a> 
+       <a href='http://www.cnr.cn/' title='中国广播网' target=_blank>中国广播网</a> 
+       <a href='http://www.youku.com/' title='优酷网' target=_blank>优酷网</a> 
+	   
+       <a href='http://www.sinoec.net/' title='中华企业文化网' target=_blank>中华企业文化网</a> 
+       <a href='http://www.e-economic.com/' title='东亚经济评论' target=_blank>东亚经济评论</a> 
+       <a href='http://finance.joy.cn/' title='激动财经' target=_blank>激动财经</a> 
+     
+       <a href='http://www.caihuanet.com/' title='财华网' target=_blank>财华网</a> 
+       <a href='http://www.3a5a.com' title='郎咸平中文网' target=_blank>郎咸平中文网</a> &nbsp;
+
+       <a href='http://www.ezcap.cn/' title='EZCapital' target=_blank>EZCapital</a> 
+       <a href='http://www.thinkwart.com/' title='思华商业模式' target=_blank>思华商业模式</a> 
+       <a href='http://www.doers.cn' title='实践家教育集团' target=_blank>实践家教育集团</a> 
+       <a href='http://www.51zjxm.com/' title='51资金项目网' target=_blank>51资金项目网</a> 
+     
+       <a href='http://www.betafact.com/' title='贝塔策略工作室' target=_blank>贝塔策略工作室</a> 
+       <a href='http://www.glpx.com/' title='中国管理培训网' target=_blank>中国管理培训网</a> 
+       <a href='http://www.afinance.cn/' title='第一金融网' target=_blank>第一金融网</a> 
+       <a href='http://www.hqcx.net' title='环球财讯' target=_blank>环球财讯</a> 
+       <a href='http://www.investide.cn/' title='投资潮' target=_blank>投资潮</a> 
+       <a href='http://www.cuiv.com/' title='萃富股票投资网' target=_blank>萃富股票投资网</a> 
+   
+       
+       <a href=' http://www.cye.com.cn/' title=' 创业网' target=_blank> 创业网</a> 
+      
+       <a href='http://www.chinaceot.com/ ' title='总裁网' target=_blank>总裁网</a>
+       
+	   <a href='http://www.gpbus.com/' title='股票巴士' target=_blank>股票巴士</a>
+ </div>
+  <img src="/templates/default/images/yqx.jpg" /></div>
+
+
+
+
+<div style="text-align:center">
+<a href="http://twitter.com/mycfz" target="_blank" title="twitter"><img src="/
+
+templates/default/images/icon001.gif" alt="twitter"/></a>&nbsp;&nbsp;
+<a href="http://t.sina.com.cn/mycfz" target="_blank" title="新浪微博"><img src="/
+
+templates/default/images/icon002.gif" alt="新浪微博"/></a>&nbsp;&nbsp;
+<a href="http://www.9911.com/mycfz" target="_blank" title="9911微博客"><img src="/
+
+templates/default/images/icon003.gif" alt="9911微博客"/></a>&nbsp;&nbsp;
+<a href="http://digu.com/mycfz" target="_blank" title="嘀咕"><img src="/templates/default/images/icon004.gif" 
+
+alt="嘀咕"/></a>&nbsp;&nbsp;
+<a href="http://zuosa.com/mycfz" target="_blank" title="做啥"><img src="/templates/default/images/icon005.gif" 
+
+alt="做啥"/></a>&nbsp;&nbsp;
+<a href="http://www.follow5.com/mycfz" target="_blank" title="follow5"><img src="/
+
+templates/default/images/icon006.gif" alt="follow5"/></a>&nbsp;&nbsp;
+<a href="http://www.flickr.com/photos/mycfz" target="_blank" title="flickr"><img src="/
+
+templates/default/images/icon007.gif" alt="flickr"/></a><br /><br />
+<script type="text/javascript"><!--
+google_ad_client = "pub-1502118152527184";
+/* 728x90, 创建于 09-4-19 */
+google_ad_slot = "8668227757";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+$(document).ready(function() {
+    $('.slideshow').cycle({
+		fx: 'fade' // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+	});
+});
+
+</script>
+<style type="text/css">
+.slideshow { height: 232px; width: 232px; margin: auto }
+.slideshow img { padding: 15px; border: 1px solid #ccc; background-color: #eee; }
+</style>
+
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+</div>
+<!--左侧友情链接-->
+<!--左侧-->
+<!--左侧-->
+<div style="float:left; margin:20px 0px 0px 4px"><!--<a href="/templates/default/AD.htm"><img src="/templates/default/images/btn_zm.gif" alt="桌面" border="0"/></a><br /><br />
+<a href="/templates/default/AD1.htm">
+<img src="/templates/default/images/btn_zs.jpg" alt="桌面" border="0"/></a>-->
+<a href="/e/member/register/index.htm"><img src="/templates/default/images/card.gif" alt="订阅卡激活" border="0"/></a><br /><br />
+<a href="mailto:cfz@moneymakers.cn"><img src="/templates/default/images/btn_call.gif" alt="订阅电话" border="0"/></a><br /><br />
+<a href="/e/web/?type=rss2&classid=0"><img src="/templates/default/images/btn_rss.gif" alt="电邮" border="0"/></a><br /><br />
+<br />
+<div id="slideshow">
+		<a href="http://www.mycfz.com/templates/default/AD3.htm" target="_blank"><img src="/templates/default/images/ADleft.jpg" alt="创业板富豪榜" border="0" /></a>
+		<a href="http://www.mycfz.com/templates/default/AD4.htm"  target="_blank"><img src="/templates/default/images/mycfz.jpg" alt="中小板富豪榜" border="0"/></a>
+</div>
+
+<a href="http://emba.phbs.edu.cn/"><img src="/templates/default/images/beida.gif" alt="北大" border="0" /></a><br /><br />
+
+<a href="http://www.gdsme.org/special/2011jrfh.html"><img src="/templates/default/images/tzi.gif" alt="投资峰会" border="0" /></a><br /><br /> 
+
+
+<!--<a href="http://www.mycfz.com/temporary/201111011404.html"><img src="/templates/default/images/gqtz.jpg" alt="2011中国股权投资发展趋势与创新论坛在深隆重举行" border="0" /></a><br /><br />  -->
+
+
+<!--<a href="http://stock.hexun.com/2011/caijingfyb2011zq/"><img src="/templates/default/images/和讯广告.jpg" alt="和讯" border="0" /></a><br /><br />-->
+
+<!--<div id="slideshow">
+		<a href="http://www.mycfz.com/templates/default/AD3.htm" target="_blank"><img src="/templates/default/images/ADleft.jpg" alt="创业板富豪榜" border="0" /></a>
+		<a href="http://www.mycfz.com/templates/default/AD4.htm"  target="_blank"><img src="/templates/default/images/mycfz.jpg" alt="中小板富豪榜" border="0"/></a>
+</div>-->
+<br />
+<a href="http://golf.mycfz.com/"><img src="/templates/default/images/btn_golf.gif" alt="GOLF" border="0"/></a><br /><br />
+<!--<a href="http://www.cvcri.com/forum/2011/sz/"><img src="/templates/default/images/cvcf13.jpg" alt="2011·第十三届 中国风险投资论坛 " border="0"/></a><br /><br /> 
+<a href="http://www.gdsme.org/special/2011zsj.html"><img src="/templates/default/images/gongshanglingxioufenghui.jpg" alt="第三届 珠三角工商领袖峰会 " border="0"/></a> <br /><br />  -->
+
+
+<a href="/map/"><img src="/templates/default/images/btn_wd.gif" alt="map" border="0"/></a><br /><br />
+<!--友情链接-->
+  <div id=marquees style="width:162px;line-height:18px;">
+  <div style="text-align:center;"><img src="/templates/default/images/hz.jpg" /></div>
+  <div style="padding:10px; background:url(/templates/default/images/left_img02.gif)">
+ 			<!-- 文字链接 -->
+            <table width=100% height=20% border=0 cellpadding=3 cellspacing=0><tr><td align=center><a href='http://www.hexun.com/' title='和讯网' target=_blank>和讯网</a></td>
+            </tr><tr><td align=center><a href='http://finance.sina.com.cn/' title='新浪财经' target=_blank>新浪财经</a></td></tr><tr><td align=center><a href='http://finance.qq.com/' title='腾讯财经' target=_blank>腾讯财经</a></td></tr><tr><td align=center><a href='http:/business.sohu.com/' title='搜狐财经' target=_blank>搜狐财经</a></td></tr><tr><td align=center><a href='http://money.163.com/' title='网易财经' target=_blank>网易财经</a></td></tr><tr><td align=center><a href='http://news.cnfol.com/' title='中金在线' target=_blank>中金在线</a></td></tr><tr><td align=center><a href='http://www.stockstar.com/' title='证券之星' target=_blank>证券之星</a></td></tr><tr><tr><td align=center><a href='http://finance.ifeng.com/' title='凤凰网财经' target=_blank>凤凰网财经</a></td>
+            </tr><tr><td align=center><a href='http://finance.huanqiu.com/' title='环球网财经' target=_blank>环球网财经</a></td>
+            </tr><tr><td align=center><a href='http://www.eastmoney.com/' title='东方财富网' target=_blank>东方财富网</a></td>
+            </tr><tr><td align=center><a href='http://www.chinavalue.net/' title='价值中国网' target=_blank>价值中国网</a></td>
+            </tr><tr><td align=center><a href='http://www.finfonews.com/' title='金融俱乐报' target=_blank>金融俱乐报</a></td>
+            </tr><tr><td align=center><a href='http://www.bnet.com.cn/' title='BNET商业英才网' target=_blank>BNET商业英才网</a></td>
+            </tr><tr><td align=center><a href='http://www.ebusinessreview.cn/' title='商业评论中文网' target=_blank>商业评论中文网</a></td>
+            </tr><tr><td align=center><a href='http://www.hq88.com/' title='聚成华企在线商学院' target=_blank>聚成华企在线商学院</a></td>
+            </tr></table> 
+			<!--<a onclick="window.open ('/e/tool/link/AddLink.php?enews=AddLink','go', 'height=600, width=800, top=150, left=150, toolbar=no, menubar=no, scrollbars=no,resizable=no,location=no, status=no')" href="#"><font color="#FF0000">申请友情链接</font></a>-->
+  
+    </div>
+  <img src="/templates/default/images/left_img03.gif" /></div></div>
+</div>
+
+
+<div align="center"><!--主体框架-->
+<div style="width:995px; background:#FFF;">
+<!--底部内容-->
+<div class="down">
+<a href="http://www.mycfz.com/index.html">首 页</a>  |  <a href="http://www.mycfz.com/e/ShopSys/order/order.php">杂志订阅</a>  |  <a href="http://www.mycfz.com/link/">友情连接</a>  |  <a href="http://www.mycfz.com/templates/default/Advert.htm">广告服务</a>  |  <a href="http://www.mycfz.com/templates/default/Copyright.htm">版权声明</a>  |  <a href="http://www.mycfz.com/templates/default/Policy.htm">隐私政策</a>  |  <a href="http://www.mycfz.com/templates/default/AboutUs.htm">关于我们</a>  |  <a href="http://www.mycfz.com/templates/default/ContactUs.htm">联系我们</a>  |  <a href="http://www.mycfz.com/templates/default/sitemap.htm">网站地图</a>
+</div>
+<div class="downline">
+地址：深圳市福田区深南大道6029号世纪豪庭21C　　邮编：518040　　邮发代号：46-112<br />
+      订阅电话：0755-83499018 83499098　　电子邮箱：<a href="mailto:cfz@moneymakers.cn">cfz@moneymakers.cn</a><br />
+    2007-2009 版权所有：深圳市创富多媒体有限公司　　<a href="http://www.miibeian.gov.cn/">粤ICP备06070384号</a>　　<script src="http://s175.cnzz.com/stat.php?id=1892179&web_id=1892179" language="JavaScript" charset="gb2312"></script>
+<br /><div style=" text-align:center">创富志-关于商业模式的杂志，致力于商业模式的研究,让您了解什么是商业模式,阐述商业模式的本质,<br>挖掘最新的商业模式,帮助创造您自己的商业模式和盈利模式，杂志订阅正在进行中，创富志电子版商城已上线。</div>
+</td>
+</div>
+
+</div>
+  <!--结束-->
+</div>
+</div>
+
+</body>
+</html>

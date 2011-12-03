@@ -1,0 +1,1700 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta name="verify-v1" content="dvb54xIp5MoPqgAO37csvlU1ScTy+/Nlxx7hMQIfrV8=" />
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="description" content="《IT时代周刊》，解读信息时代的商业变革；以调查见深度；以商业故事见功力。是CEO/CIO/CFO以及政府官员、商业领袖首选刊物!" />
+<meta name="keywords" content="IT,CEO,CIO,CFO,管理,互联网,通信,产经,商业,产业,公司,科技,大师,见解,信息化,思考,观察,时代周刊" />
+<title>IT时代周刊</title>
+<link href="ittimecss.css" rel="stylesheet" type="text/css" />
+<link rel="Shortcut Icon" href="http://www.ittime.com.cn/favicon.ico" />
+<link rel="Bookmark" href="http://www.ittime.com.cn/favicon.ico" />
+</head>
+
+<script>
+function checkdata()
+{
+	if ( (login.user_name5.value  =="") || (login.password5.value  =="") )
+	{
+		alert("请输入正确的用户名和密码!");
+		return false;
+	}
+	return true;
+}
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if ( top.location != self.location )
+{
+	top.location = self.location ;
+}
+//--><!]]>
+</script>
+<!--//<div id="floater-right"> 
+<a href="cooperation.html" target="_blank"><img SRC="http://www.ittime.com.cn/picture/cooperation.gif" border="0" width="140" height="80"></a></div>
+<div id="floater-left">
+<a href="../subscribe/2009hedingben/index.htm" target="_blank"><img src="../picture/2009hedingben.jpg" border="0" width="140" height="80"></a></div>
+<div>-->
+<body style="text-align:center;">
+<div id="top">
+  <td align="center"><a href="http://huod.itxinwen.com/2011ceo/index.html" target="_blank"><img src="ad/2011_ceo_7_year_980.jpg"  width="980" height="80" border="0"></a></td>
+  <td><img height=12 src="../picture/html_table_top_img.jpg" width=980>
+      
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="4"></td>
+    <td><table width="100%" height="60" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="385"><img src="http://www.ittime.com.cn/picture/newittimelogo.gif" /></td>
+        <td align="center" valign="bottom"><table  border="0"  cellpadding="0" cellspacing="2">
+            <tr>
+              <td  height="11" align="center">	  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+          <td align="center" valign="middle">
+        <table border="0" cellspacing="2" cellpadding="0">
+          <tr>
+            <td><img src="http://www.ittime.com.cn/picture/icon.jpg" width="20" height="18" align="absmiddle">&nbsp;<a href="/Service/?Login.html">用户登录</a>&nbsp;<font color="#999999">|</font>&nbsp;<a href="/User/registeruser.asp">注册成为IT时代周刊尊贵会员</a>&nbsp;&nbsp;</td>
+		  </tr>
+        </table>
+
+        <table border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="1" bgcolor="#E7E7E7"></td>
+          </tr>
+          <tr>
+            <td align="center"><font color="#FF0033">填写齐全赠阅索取单,审核后将免费获赠1期杂志！</font></td>
+          </tr>
+        </table>
+                  </td>
+      </tr>
+    </table></td>
+            </tr>
+           <!-- <tr>
+              <td height="22" align="right"><table border="0" cellspacing="0" cellpadding="0">
+                  <form action="/search_result.asp" method="post" name="frmsearch" id="frmsearch">
+                    <tr>
+                      <td><input name="keyword" type="text" id="keyword" size="25" class="input1" value="全文搜索"></td>
+                      <td width="22" align="right"><img src="http://www.ittime.com.cn/picture/search_button.gif" width="20" height="19" onclick="frmsearch.submit();" /></td>
+                    </tr>
+                  </form>
+              </table></td>
+            </tr>-->
+        </table>
+          </td>
+        <td width="250" valign="bottom"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="1" background="http://www.ittime.com.cn/picture/linet.jpg"></td>
+            <td width="6" ></td>
+            <td width="60" height="40"><div style="width:60px;height:40px;overflow:hidden;">在线客服:<br />
+              <a target=blank href=tencent://message/?uin=754201674&Site=www.ittime.com.cn&Menu=yes><img border="0" SRC=http://wpa.qq.com/pa?p=1:754201674:4 alt="IT时代周刊客服" height=16></a>&nbsp;<a target=blank href=tencent://message/?uin=622002429&Site=www.ittime.com.cn&Menu=yes><img border="0" SRC=http://wpa.qq.com/pa?p=1:622002429:4 alt="IT时代周刊客服" height=16></a></div></td>
+            <td align="center"><font color="#cccccc">·</font><a href="http://www.ittime.com.cn/maghome.asp">最新杂志</a><br />
+              <font color="#cccccc">·</font><a href="http://www.ittime.com.cn/subscribe/">订阅杂志</a><br /></td>
+            <td>
+              <font color="#cccccc">·</font><a href="http://www.ittime.com.cn/subscribe/subscribe2007.xls">订阅表格下载</a>
+			  <br /><font color="#cccccc">·</font><a href="http://www.ittime.com.cn/subscribe/subscribe2011free.xls" target="_blank">赠阅表格下载</a></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table>
+      <table width="770" height="4" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><img src="picture/dot2.gif" width="1" height="1" /></td>
+        </tr>
+      </table>
+      <table width="100%" height="28"  border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="3" background="http://www.ittime.com.cn/picture/left1.jpg"></td>
+          <td background="http://www.ittime.com.cn/picture/topcenter1.jpg"><table width="100%" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td><div align="center"><a href="http://www.ittime.com.cn/index.asp" class="1a">网站首页</a></div></td>
+                <td width="2"><img src="http://www.ittime.com.cn/picture/topline.jpg" width="2" height="24" /></td>
+                <td><div align="center"><a href="http://www.ittime.com.cn/maghome.asp" class="1a">杂志首页</a></div></td>
+                <td width="2"><img src="http://www.ittime.com.cn/picture/topline.jpg" width="2" height="24" /></td>
+                <td><div align="center"><a href="http://www.ittime.com.cn/mag_list.asp" class="1a">往期周刊</a></div></td>
+                <td width="2"><img src="http://www.ittime.com.cn/picture/topline.jpg" width="2" height="24" /></td>
+                <td><div align="center"><a href="http://www.ittime.com.cn/aboutus/index.asp" class="1a">关于我们</a></div></td>
+<!--                <td width="2"><img src="http://www.ittime.com.cn/picture/topline.jpg" width="2" height="24" /></td>
+                <td><div align="center"><a href="http://www.ittime.com.cn/news/huiying.asp" class="1a">回音壁</a></div></td>-->
+                <td width="2"><img src="http://www.ittime.com.cn/picture/topline.jpg" width="2" height="24" /></td>
+                <td><div align="center"><a href="http://www.ittime.com.cn/advertise/ad.asp" class="1a">广告服务</a></div></td>
+                <td width="2"><img src="http://www.ittime.com.cn/picture/topline.jpg" width="2" height="24" /></td>
+                <td><div align="center"><a href="http://www.ittime.com.cn/subscribe/" class="1a" title="开通网上付费">订阅服务</a></div></td>
+                <td width="2"><img src="http://www.ittime.com.cn/picture/topline.jpg" width="2" height="24" /></td>
+                <td><div align="center"><a href="http://www.ittime.com.cn/Service/?GuestMessage/Index.html" class="1a">留言簿</a></div></td>
+                <td width="2"><img src="http://www.ittime.com.cn/picture/topline.jpg" width="2" height="24" /></td>
+                <td><div align="center"><a href="http://bbs.itxinwen.com/" class="1a" target="_blank">论坛</a></div></td>
+                <td width="2"><img src="http://www.ittime.com.cn/picture/topline.jpg" width="2" height="24" /></td>
+                <td><div align="center"><a href="http://www.ittime.com.cn/emagazine/emagazine.asp" class="1a">数字杂志</a></div></td>
+                <td width="2"><img src="http://www.ittime.com.cn/picture/topline.jpg" width="2" height="24" /></td>
+                <td align="center"><a href="http://media.itxinwen.com" target="_blank"><font color="#FF0000">传媒领袖网</font></a></td>
+				<td width="2"><img src="http://www.ittime.com.cn/picture/topline.jpg" width="2" height="24" /></td>
+				<td align="center"><a href="http://www.itxinwen.com" target="_blank"><font color="#FF0000">IT商业新闻网</font></a></td>
+              </tr>
+          </table></td>
+          <td width="3" background="http://www.ittime.com.cn/picture/right1.jpg"></td>
+        </tr>
+      </table></td>
+    <td width="4"></td>
+  </tr>
+</table>
+</td>
+    <td bgcolor="#FFFFFF" class="tdborder">
+</div>
+<div id="main">
+    <td bgcolor="#FFFFFF" class="tdborder"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="4" bgcolor="#FFFFFF">
+            <td>
+			<div style="width:655px; float:left; overflow:hidden">
+			<div id="body" >
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <td width="200" valign="top"><table width="100%" border="0" cellpadding="1" cellspacing="1" bgcolor="#B5CBE7">
+                        <td height="24" background="picture/tech_i_ws_029.gif" class="righttitile">&nbsp;<img src="picture/Ddot.jpg" width="9" height="9"> 当期杂志</td>
+                      </tr>
+                      <tr>
+                        <td bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="2" cellspacing="1">
+                              <td align="center"><table border="0" align="center" cellpadding="0" cellspacing="1" bgcolor="#F5F5F5">
+                                    <td bgcolor="#FFFFFF"><table border="0" cellpadding="0" cellspacing="1" bgcolor="#EBEBEB">
+                                          <td bgcolor="#FFFFFF"><table border="0" cellpadding="0" cellspacing="1" bgcolor="#E1E1E1">
+                                                <td><table border="0" cellpadding="3" cellspacing="1" bgcolor="#C8C8C8">
+                                                      <td align="center" bgcolor="#FFFFFF"><a href="bigImage.asp?bigimg=cover/fm236.jpg" height=500 width=400 left=300  target=_blank ></a><a href="maghome.asp?dateno=201122" height=500 width=400 left=300  target=_blank ><img src="cover/fm236_s.jpg" alt="总第236期，欢迎阅读" name="cover" width="130" height="168" border="0"></a></td>
+                                                </table></td>
+                                          </table></td>
+                                    </table></td>
+                              </table></td>
+                            <tr>
+                              <td align="center"> 总第236期  &nbsp;&nbsp;2011年22期<br>
+                              </td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                    </table>
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:4px; margin-bottom:4px;">
+                        <tr>
+                          <td><a href="http://www.itxinwen.com/huod/nianhui/index.html" target="_blank"><img src="ad/20101226.jpg" alt="《IT时代周刊》创刊十年庆典暨2010第六届CEO年会成功举办" width="200" height="112" border="0"></a></td>
+                        </tr>
+                      </table>
+                    <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="24"><strong><img src="picture/q_expe_060703.gif" width="29" height="24" align="absmiddle"><span class="righttitile">公告</span></strong></td>
+                        </tr>
+                        <tr>
+                          <td height="1" colspan="2" valign="top" bgcolor="#E7E7E7"></td>
+                        </tr>
+                        <tr>
+                          <td colspan="2" valign="top" bgcolor="#FFFFFF">
+                              <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11267" target="_blank" title="《IT时代周刊》2011年宣传片">《IT时代周刊》2011年宣传</a><br>
+                              
+                              <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=8638" target="_blank" title="IT时代周刊十周年视频">IT时代周刊十周年视频</a><br>
+                              
+                              <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=6212" target="_blank" title="IT时代周刊2008年会视频">IT时代周刊2008年会视频</a><br>
+                              
+                              <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=5825" target="_blank" title="IT时代周刊第四届年会即将召开">IT时代周刊第四届年会即将召开</a><br>
+                              
+                              <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=5619" target="_blank" title="IT时代周刊总编曹健接受新华网专访">IT时代周刊总编曹健接受新华网</a><br>
+                              
+                          </td>
+                        </tr>
+                      </table>
+                    <table width="100%" height="352" border="0" cellpadding="2" cellspacing="1" bgcolor="#E41F1F">
+  <tr>
+    <td align="center" bgcolor="#E41F1F"><font color="#FFFFFF">本刊人物推荐</font></td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" align="center" cellpadding="2" cellspacing="0">
+      <tr>
+        <td align="center"><img src="../person/picture/songyanhong.jpg" width="108" height="127" hspace="3" vspace="0" /></td>
+      </tr>
+      <tr>
+        <td style="line-height:19px;"><span class="newstitile">&nbsp;&nbsp;&nbsp;&nbsp;宋艳红:</span>湖南人，新闻本科毕业，从事新闻工作超过8年，作品见于《人民邮电报》、《南方日报》、《佛山日报》等。2011年加入《IT时代周刊》杂志社，现任上海新闻中心编辑。曾撰有《视频行业上演“猫捉老鼠”游戏 PPTV曲线突围遭广电总局批评》、《悄然试水实体零售商店 谷歌缺经验难续苹果神话》、《高利贷会搞垮温州吗》等文章。<br />
+　　人生信条：人生旅程上，沿途的风景并不重要，重要的是看风景的心情。</td>
+      </tr>
+      <tr>
+        <td align="right"><a href="http://www.ittime.com.cn/person/index.asp" target="_blank"><img src="../picture/more.gif" width="50" height="15" border="0" /></a></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+                  </td>
+                  <td width="8">&nbsp;</td>
+                  <td valign="top"><table width="100%" border="0" cellpadding="2" cellspacing="1" bgcolor="#B5CBE7" style="margin-bottom:6px">
+                      <tr>
+                        <td bgcolor="#FFFFFF"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="1">
+                            <tr>
+                              <td width="103" height="24"><img src="picture/q_news_060703.gif" width="29" height="24"><img src="picture/title_jrtt.jpg" alt="今日头条" width="70" height="24"></td>
+							  <td align="right"><a href="http://www.itxinwen.com/huod/nianhui/index.html" target="_blank">《IT时代周刊》第六届CEO年会</a></td>
+                              <!--<td align="right"><a href="http://www.itxinwen.com/2008it/index.htm" target="_blank">IT时代周刊第4届年会</a> <a href="http://www.ittime.com.cn/topnews/topnews_content.asp?aid=6212" target="_blank">视频</a></td>-->
+                            </tr>
+                            <tr>
+                              <td height="1" bgcolor="#B5CBE7" width="100%"  colspan="2"></td>
+                            </tr>
+                            <tr>
+                              <td colspan="2" bgcolor="#F7FBFF"><!--// MAG  MAG //-->
+                                  <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                                    <tr>
+                                      <td height="29" align="center" class="biaoti_1"><a href="http://huod.itxinwen.com/2011ceo/index.html" target="_blank" >峰起云涌 《IT时代周刊》第七届CEO年会</a></td>
+                                    </tr>
+                                    <tr>
+                                      <td>　　CEO如何快速转变商业思维，抓住云计算机遇并迎接新的挑战？云计算将为企业带来哪些商业价值和成长？如何量化由“云计算”变革带来的公司收益？在“峰起云涌”时代，公司业务未来的核心竞争力在哪里？ 公有云、私有云、混合云如何协同发展并实现商业价值最大化？企业真正的增长机会，是来自于战胜竞争对手、增加市场份额，还是提升IT业务能力或并购?
+…… 	
+                                        [<a href="http://huod.itxinwen.com/2011ceo/index.html" target="_blank" title="峰起云涌 《IT时代周刊》第七届CEO年会">文章详细阅读</a>]</td>
+                                    </tr>
+                                    <tr>
+                                      <td height="1" background="picture/newsline.gif"></td>
+                                    </tr>
+                                  </table>
+                                <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                                    
+                                    <tr>
+                                      <td height="35" align="center" class="biaoti_1"><a href="topnews/topnews_content.asp?aid=11262" target="_blank" title="关联交易过度 四川长虹前景存隐忧"> 关联交易过度 四川长虹前景存隐忧</a> </td>
+                                    </tr>
+                                    <tr>
+                                      <td><span class="content1">&nbsp;&nbsp;&nbsp;&nbsp;四川长虹于2001年9月开始与APEX合作，公司向APEX公司销售电视机、DVD机等视听产品，后者曾经是四川长虹对美出口的最大经销商。但由于APEX公司出现财务...</span></td>
+                                      <input name="idt" type="hidden" value="11262">
+                                    </tr>
+                                    
+                                </table>
+                              <td>            
+                            </tr>
+                          </table>
+                            <table width="100%" border="0" cellpadding="2" cellspacing="0">
+                              <tr>
+                                <td align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="435" height="53">
+                              <param name="movie" value="ad/suizhongzhaoshang.swf" />
+                              <param name="quality" value="high" />
+                              <embed src="ad/suizhongzhaoshang.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="435" height="53"></embed>
+                            </object></td>
+                              </tr>
+                          </table>
+                            </td>
+                      </tr>
+                    </table>
+                      <table width="100%" height="100%" border="0" cellpadding="2" cellspacing="1" bgcolor="#B5CBE7">
+                        <tr>
+                          <td bgcolor="#FFFFFF"><table width="100%"  border="0" cellpadding="2" cellspacing="0">
+                              <tr>
+                                <td colspan="2"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="3">
+                                    <tr>
+                                      <td width="50%" align="left"><img src="/picture/s_ico02_606026.gif" width="24" height="21" align="absmiddle" /><span class="righttitile"> 要闻</span></td>
+                                      <td width="50%" align="right"><a href="/Service/Feed/News_rss2.asp" target="_blank"><img src="/picture/rss2_News.gif" width="80" height="17" align="absmiddle" border="0" /></a>&nbsp;&nbsp; <a href="/topnews/topnews_list.asp?tid=16">更多要闻...</a> </td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                              <tr>
+                                <td height="1" bgcolor="#B5CBE7"></td>
+                              </tr>
+                              
+                              <tr>
+                                <td><table width="100%" border="0" cellspacing="0" cellpadding="2">
+                                    <tr>
+                                      <td height="22"><img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'> <a href="topnews/topnews_content.asp?aid=11252" target="_blank" class="biaoti_2" title="凤凰传媒争议中上市 受数字出版威胁存风险">凤凰传媒争议中上市 受数字出版威胁存风险</a>&nbsp;&nbsp; <font color="#CCCCCC">17:54</font> </td>
+                                    </tr>
+                                    <tr>
+                                      <td colspan="2"><span class="content1"> <a href="topnews/topnews_content.asp?aid=11252" target="_blank" class="3a"></a>中投顾问IPO咨询分析师崔瑜表示，从前段时间资本市场中重点文化企业的平均市盈率和发行价格来看，凤凰传媒这两个指标均偏高，对照2010—2011年...</span></td>
+                                    </tr>
+                                    <tr>
+                                      <td colspan="2" height="1" background="picture/newsline.gif"></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                              
+                              <tr>
+                                <td><table width="100%" border="0" cellspacing="0" cellpadding="2">
+                                    <tr>
+                                      <td height="22"><img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'> <a href="topnews/topnews_content.asp?aid=11253" target="_blank" class="biaoti_2" title="【IT头条必读】：凡客IPO不顺58团购欠款严重">【IT头条必读】：凡客IPO不顺58团购欠款严重</a>&nbsp;&nbsp; <font color="#CCCCCC">17:54</font> </td>
+                                    </tr>
+                                    <tr>
+                                      <td colspan="2"><span class="content1"> <a href="topnews/topnews_content.asp?aid=11253" target="_blank" class="3a"></a>凡客IPO进展不顺；58团购等存在长时间拖欠商家货款行为；阿里巴巴集团控股有限公司、软银公司、黑石集团和贝恩资本正在考虑竞购雅虎全部股份；...</span></td>
+                                    </tr>
+                                    <tr>
+                                      <td colspan="2" height="1" background="picture/newsline.gif"></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                              
+                              <tr>
+                                <td><table width="100%" border="0" cellspacing="0" cellpadding="2">
+                                    <tr>
+                                      <td height="22"><img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'> <a href="topnews/topnews_content.asp?aid=11256" target="_blank" class="biaoti_2" title="澳大利亚法院推迟三星平板电脑解禁时间">澳大利亚法院推迟三星平板电脑解禁时间</a>&nbsp;&nbsp; <font color="#CCCCCC">17:54</font> </td>
+                                    </tr>
+                                    <tr>
+                                      <td colspan="2"><span class="content1"> <a href="topnews/topnews_content.asp?aid=11256" target="_blank" class="3a"></a>针对三星Galaxy Tab平板电脑的禁售令原定于当地时间周五下午4点(北京时间周五下午2点)解除，但现在则被推迟至12月9日，以便澳大利亚高等法院听...</span></td>
+                                    </tr>
+                                    <tr>
+                                      <td colspan="2" height="1" background="picture/newsline.gif"></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                              
+                              <tr>
+                                <td><table width="100%" border="0" cellspacing="0" cellpadding="2">
+                                    <tr>
+                                      <td height="22"><img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'> <a href="topnews/topnews_content.asp?aid=11258" target="_blank" class="biaoti_2" title="谷歌Android 4.0可支持x86芯片架构">谷歌Android 4.0可支持x86芯片架构</a>&nbsp;&nbsp; <font color="#CCCCCC">17:54</font> </td>
+                                    </tr>
+                                    <tr>
+                                      <td colspan="2"><span class="content1"> <a href="topnews/topnews_content.asp?aid=11258" target="_blank" class="3a"></a>谷歌在11月早些时候发布了Android 4.0源代码。但大多数Android系统开发工作都围绕ARM芯片展开。今天，大部分智能手机和平板电脑都采用ARM芯片...</span></td>
+                                    </tr>
+                                    <tr>
+                                      <td colspan="2" height="1" background="picture/newsline.gif"></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                              
+                              <tr>
+                                <td><table width="100%" border="0" cellspacing="0" cellpadding="2">
+                                    <tr>
+                                      <td height="22"><img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'> <a href="topnews/topnews_content.asp?aid=11259" target="_blank" class="biaoti_2" title="火狐浏览器或放弃支持Mac OS X“豹”系统">火狐浏览器或放弃支持Mac OS X“豹”系统</a>&nbsp;&nbsp; <font color="#CCCCCC">17:53</font> </td>
+                                    </tr>
+                                    <tr>
+                                      <td colspan="2"><span class="content1"> <a href="topnews/topnews_content.asp?aid=11259" target="_blank" class="3a"></a>除用户数较少的问题之外，为“豹”系统维护火狐浏览器也将带来困难，而Mozilla更倾向于为Mac OS X 10.6和10.7版本开发浏览器。“豹”不支持一...</span></td>
+                                    </tr>
+                                    <tr>
+                                      <td colspan="2" height="1" background="picture/newsline.gif"></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                              
+                              <tr>
+                                <td><table width="100%" border="0" cellspacing="0" cellpadding="2">
+                                    <tr>
+                                      <td height="22"><img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'> <a href="topnews/topnews_content.asp?aid=11261" target="_blank" class="biaoti_2" title="汉王刘迎建：电子书营收比例下降 业绩明年改观">汉王刘迎建：电子书营收比例下降 业绩明年改观</a>&nbsp;&nbsp; <font color="#CCCCCC">17:53</font> </td>
+                                    </tr>
+                                    <tr>
+                                      <td colspan="2"><span class="content1"> <a href="topnews/topnews_content.asp?aid=11261" target="_blank" class="3a"></a>2010年3月，汉王科技以电子书概念登陆深交所中小板，曾获资本市场热捧。但今年以来，因受到新型产品冲击、电子屏库存增加等问题，汉王科技已经...</span></td>
+                                    </tr>
+                                    <tr>
+                                      <td colspan="2" height="1" background="picture/newsline.gif"></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                              
+                              <tr>
+                                <td><table width="100%" border="0" cellspacing="0" cellpadding="2">
+                                    <tr>
+                                      <td height="22"><img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'> <a href="topnews/topnews_content.asp?aid=11264" target="_blank" class="biaoti_2" title="电视购物索高额快递费实为诈骗 客户资料疑泄露">电视购物索高额快递费实为诈骗 客户资料疑泄露</a>&nbsp;&nbsp; <font color="#CCCCCC">17:53</font> </td>
+                                    </tr>
+                                    <tr>
+                                      <td colspan="2"><span class="content1"> <a href="topnews/topnews_content.asp?aid=11264" target="_blank" class="3a"></a>东方CJ电视购物的官网为此贴出了一份“告客户书”：提醒顾客近期发生众多假冒东方CJ名义进行奖品配送并收取手续费以及主动打电话给顾客进行推...</span></td>
+                                    </tr>
+                                    <tr>
+                                      <td colspan="2" height="1" background="picture/newsline.gif"></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                              
+                          </table></td>
+                    </table></td>
+              </table>
+            </div>
+              <div id="body2" >
+			  	  <!--//<table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin-bottom:4px;margin-top:4px">
+                          <td align="center"><a href="http://www.guanxiwang.cc/index.php?module=webphone&action=webphonead" target="_blank"><img src="ad/ll_ittime.gif" alt="关系网" width="652" height="60" border="0"></a></td>
+                          <td bgcolor="#FFFFFF"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="652" height="80">
+                              <param name="movie" value="ad/sanxing_653x80_25.swf">
+                              <param name="quality" value="high">
+                              <embed src="ad/sanxing_653x80_25.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="652" height="80"></embed>
+                          </object></td>
+                        </tr>
+                </table>-->
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin-top:4px">
+                        <tr>
+                          <td valign="top" bgcolor="#FFFFFF" width="325"><table width="100%" border="0" align="center" cellpadding="2" cellspacing="1" bgcolor="#B5CBE7">
+                              <tr>
+                                <td background="picture/tech_i_ws_029.gif">&nbsp;<img src="picture/icon4.gif" width="14" height="15" align="absmiddle"><span class="righttitile"><font color="#004499"> 互联网</font></span></td>
+                              </tr>
+                              <tr>
+                                <td height="120" valign="top" bgcolor="#FFFFFF">
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11252" target="_blank" title="凤凰传媒争议中上市 受数字出版威胁存风险">凤凰传媒争议中上市 受数字出版威胁存风险</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11253" target="_blank" title="【IT头条必读】：凡客IPO不顺58团购欠款严重">【IT头条必读】：凡客IPO不顺58团购欠款严重</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11259" target="_blank" title="火狐浏览器或放弃支持Mac OS X“豹”系统">火狐浏览器或放弃支持Mac OS X“豹”系统</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11265" target="_blank" title="店掌柜首通“拍拍” 引爆电商革命新风潮">店掌柜首通“拍拍” 引爆电商革命新风潮</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11266" target="_blank" title="商派百城万店扶持计划掌柜通拍拍新品发布">商派百城万店扶持计划掌柜通拍拍新品发布</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11257" target="_blank" title="苹果CEO库克就Siri拒绝寻找堕胎诊所一事致歉">苹果CEO库克就Siri拒绝寻找堕胎诊所一事致歉</a><br>
+                                                                    </td>
+                              </tr>
+                          </table></td>
+                          <td width="4" valign="top"></td>
+                          <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" align="center" cellpadding="2" cellspacing="1" bgcolor="#B5CBE7">
+                              <tr>
+                                <td background="picture/tech_i_ws_029.gif">&nbsp;<img src="picture/icon4.gif" width="14" height="15" align="absmiddle"><span class="righttitile"><font color="#004499"> IT业界</font></span></td>
+                              </tr>
+                              <tr>
+                                <td height="120" valign="top" bgcolor="#FFFFFF">
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11256" target="_blank" title="澳大利亚法院推迟三星平板电脑解禁时间">澳大利亚法院推迟三星平板电脑解禁时间</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11258" target="_blank" title="谷歌Android 4.0可支持x86芯片架构">谷歌Android 4.0可支持x86芯片架构</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11261" target="_blank" title="汉王刘迎建：电子书营收比例下降 业绩明年改观">汉王刘迎建：电子书营收比例下降 业绩明年改观</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11264" target="_blank" title="电视购物索高额快递费实为诈骗 客户资料疑泄露">电视购物索高额快递费实为诈骗 客户资料疑泄露</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11260" target="_blank" title="伯恩斯坦给予三星电子跑赢大盘评级 上调目标价">伯恩斯坦给予三星电子跑赢大盘评级 上调目标价</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11262" target="_blank" title="关联交易过度 四川长虹前景存隐忧">关联交易过度 四川长虹前景存隐忧</a><br>
+                                                                    </td>
+                              </tr>
+                          </table></td>
+                        </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td height="4"></td>
+                        </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td valign="top" bgcolor="#FFFFFF" width="325"><table width="100%" border="0" align="center" cellpadding="2" cellspacing="1" bgcolor="#B5CBE7">
+                              <tr>
+                                <td background="picture/tech_i_ws_029.gif">&nbsp;<img src="picture/icon4.gif" width="14" height="15" align="absmiddle"><span class="righttitile"><font color="#004499"> 通信</font></span></td>
+                              </tr>
+                              <tr>
+                                <td height="120" valign="top" bgcolor="#FFFFFF">
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11263" target="_blank" title="iPhone掠夺巨额利润 国内厂商反击无力前景堪忧">iPhone掠夺巨额利润 国内厂商反击无力前景堪</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11239" target="_blank" title="朝鲜党报《劳动新闻》推出手机报">朝鲜党报《劳动新闻》推出手机报</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11235" target="_blank" title="中移动受困3G亏损几百亿 强推TD-LTE效果有限">中移动受困3G亏损几百亿 强推TD-LTE效果有</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11221" target="_blank" title="手机游戏知识产权阴云密布 开发者叫苦不迭">手机游戏知识产权阴云密布 开发者叫苦不迭</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11228" target="_blank" title="部分联通合作厅预售行货iPhone 4S">部分联通合作厅预售行货iPhone 4S</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11217" target="_blank" title="电信信息化服务实现规模发展 行业应用移动用户突破1300万">电信信息化服务实现规模发展 行业应用移动用户突破</a><br>
+                                                                    </td>
+                              </tr>
+                          </table></td>
+                          <td width="4" valign="top"></td>
+                          <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" align="center" cellpadding="2" cellspacing="1" bgcolor="#B5CBE7">
+                              <tr>
+                                <td background="picture/tech_i_ws_029.gif">&nbsp;<img src="picture/icon4.gif" width="14" height="15" align="absmiddle"><strong class="righttitile"><font color="#004499"> 产经</font></strong></td>
+                              </tr>
+                              <tr>
+                                <td height="120" valign="top" bgcolor="#FFFFFF">
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11111" target="_blank" title="投资大师的滑铁卢：低估中国概念股风险">投资大师的滑铁卢：低估中国概念股风险</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=11045" target="_blank" title="阿迪等七成企业被评社会责任差">阿迪等七成企业被评社会责任差</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=10758" target="_blank" title="华闻传媒虚假陈述案开庭 800余股民欲索赔1亿">华闻传媒虚假陈述案开庭 800余股民欲索赔1亿</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=10024" target="_blank" title="个税起征点再迈500元距离 6000万人将不再缴税">个税起征点再迈500元距离 6000万人将不再缴</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=9728" target="_blank" title="步步高等企业因家电下乡工作存在问题遭遇通报">步步高等企业因家电下乡工作存在问题遭遇通报</a><br>
+                                    
+                                    <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=9723" target="_blank" title="信用卡活卡率去年超六成 手机支付将成新契机">信用卡活卡率去年超六成 手机支付将成新契机</a><br>
+                                                                    </td>
+                              </tr>
+                          </table></td>
+                        </tr>
+                    </table>
+					<table width="100%"  border="0" cellpadding="0" cellspacing="0"  style="margin-bottom:4px; margin-top:4px;">
+                        <tr>
+                          <td><!--//
+						<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="653" height="85">
+                        <param name="movie" value="picture/mocha.swf">
+                        <param name="quality" value="high">
+                        <embed src="picture/mocha.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="653" height="85"></embed>
+                      	</object>
+					-->                          </td>
+                    </table>
+			  </div>
+               <div id="body3" >
+			   <table width="100%" border="0" align="center" cellpadding="2" cellspacing="1" bgcolor="#B5CBE7">
+    <td width="100%" background="picture/tech_i_ws_029.gif"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <td width="50%" height="23" align="left" valign="middle">&nbsp;<img src="picture/Ddot.jpg" width="9" height="9">&nbsp;<span class="righttitile"><font color="#004499">杂志网络版</font></span></td>
+        <td width="50%" height="23" align="right" valign="middle"><a href="/Service/Feed/Maga_rss2.asp" target="_blank"><img src="/picture/rss2.gif" width="80" height="17" align="absmiddle" border="0" /></a>&nbsp;</td>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="120" colspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td valign="top"><table width="100%" border="0" cellspacing="4" cellpadding="0">
+          <tr>
+            <td width="50%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td height="22"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="8"></td>
+                    <td width="96" height="22" class="righttitile">封面故事</td>
+                    <td align="right"><a href="column.asp?type=封面故事" target="_blank"><img src="picture/morecn.gif" alt="更多内容" width="32" height="19" border="0"></a></td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td height="1" valign="top" bgcolor="#E7E7E7"></td>
+              </tr>
+              <tr>
+                <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height=1></td>
+                      </tr>
+                      
+                      <tr>
+                        <td height="20">&nbsp;&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10220"  target="_blank" title="围攻淘宝商城">围攻淘宝商城</a></td>
+                      </tr>
+                      
+                      <tr>
+                        <td height="20">&nbsp;&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10158"  target="_blank" title="撒旦VIE">撒旦VIE</a></td>
+                      </tr>
+                      
+                      <tr>
+                        <td height="20">&nbsp;&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10083"  target="_blank" title="乔布斯的10个与众不同">乔布斯的10个与众不同</a></td>
+                      </tr>
+                      
+                      <tr>
+                        <td height="20">&nbsp;&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10037"  target="_blank" title="三大运营商争夺iPhone">三大运营商争夺iPhone</a></td>
+                      </tr>
+                      
+                      <tr>
+                        <td height="20">&nbsp;&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=9998"  target="_blank" title="很遗憾 这一天来了">很遗憾 这一天来了</a></td>
+                      </tr>
+                      
+                    </table></td>
+                    <td><a href="content.asp?id=10220"><img src="cover/fm236_44_s.jpg" border=0 height=80 width=60></a> </td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="22"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td width="8"></td>
+                              <td width="96" height="22" class="righttitile">商　业</td>
+                              <td align="right"><a href="column.asp?type=商业" target="_blank"><img src="picture/morecn.gif" alt="更多内容" width="32" height="19" border="0"></a></td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                      <tr>
+                        <td height="1" valign="top" bgcolor="#E7E7E7"></td>
+                      </tr>
+                      <tr>
+                        <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td height=1></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10227"  target="_blank" title="平板市场价格战一触即发">平板市场价格战一触即发</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10226"  target="_blank" title="建站系统滋生盗版视频 维权组织再次缠上百度">建站系统滋生盗版视频 维权组织再次缠上百度</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10225"  target="_blank" title="10年姻缘尽是满腹辛酸事 索尼、爱立信分道扬镳求新生">10年姻缘尽是满腹辛酸事 索尼、爱立信分道扬镳...</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10224"  target="_blank" title="苹果让传统游戏业很受伤 任天堂即将陷30年来首亏">苹果让传统游戏业很受伤 任天堂即将陷30年来首...</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10223"  target="_blank" title="走不出行业发展怪圈 网上超市接连无征兆性停业">走不出行业发展怪圈 网上超市接连无征兆性停业</a></td>
+                            </tr>
+                            
+                        </table></td>
+                      </tr>
+                    </table>
+              <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="22"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td width="8"></td>
+                              <td width="96" height="22" class="righttitile">公　司</td>
+                              <td align="right"><a href="column.asp?type=公司" target="_blank"><img src="picture/morecn.gif" alt="更多内容" width="32" height="19" border="0"></a></td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                      <tr>
+                        <td height="1" valign="top" bgcolor="#E7E7E7"></td>
+                      </tr>
+                      <tr>
+                        <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td height=1></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10237"  target="_blank" title="诺基亚WP7首秀未见满堂彩 重现巨头往日荣耀道路曲折">诺基亚WP7首秀未见满堂彩 重现巨头往日荣耀道...</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10236"  target="_blank" title="奥林巴斯诞生史上最短命CEO">奥林巴斯诞生史上最短命CEO</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10235"  target="_blank" title="管理层收购进展缓慢 互联网时代金山转型有困难">管理层收购进展缓慢 互联网时代金山转型有困难</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10234"  target="_blank" title="eBay全面向社交商务平台转型 多纳霍在移动支付市场受反制">eBay全面向社交商务平台转型 多纳霍在移动支...</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10233"  target="_blank" title="定向增发苏宁获史上最大筹资 10年战略规划成败系于物流">定向增发苏宁获史上最大筹资 10年战略规划成败...</a></td>
+                            </tr>
+                            
+                        </table></td>
+                      </tr>
+                    </table>
+              <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="22"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td width="8"></td>
+                              <td width="96" height="22" class="righttitile">管理实务</td>
+                              <td align="right"><a href="column.asp?type=管理实务" target="_blank"><img src="picture/morecn.gif" alt="更多内容" width="32" height="19" border="0"></a></td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                      <tr>
+                        <td height="1" valign="top" bgcolor="#E7E7E7"></td>
+                      </tr>
+                      <tr>
+                        <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td height=1></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10239" target="_blank" title="创新犹如赌博">创新犹如赌博</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10205" target="_blank" title="构建持久的环保优势战略">构建持久的环保优势战略</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10139" target="_blank" title="摒弃一味追求规模经济的恶习">摒弃一味追求规模经济的恶习</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10137" target="_blank" title="培养领导者的同心圆领导力">培养领导者的同心圆领导力</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10064" target="_blank" title="信誉是领导力的基石">信誉是领导力的基石</a></td>
+                            </tr>
+                            
+                        </table></td>
+                      </tr>
+                    </table>
+              <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="22"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td width="8"></td>
+                              <td width="96" height="22" class="righttitile">信息化</td>
+                              <td align="right"><a href="column.asp?type=信息化" target="_blank"><img src="picture/morecn.gif" alt="更多内容" width="32" height="19" border="0"></a></td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                      <tr>
+                        <td height="1" valign="top" bgcolor="#E7E7E7"></td>
+                      </tr>
+                      <tr>
+                        <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td height=1></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10141" target="_blank" title="阿拉善盟尝到了视频会议的甜头">阿拉善盟尝到了视频会议的甜头</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=8126" target="_blank" title="上海市胸科医院初具“智慧医疗”雏形">上海市胸科医院初具“智慧医疗”雏形</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=8030" target="_blank" title="插上信息化之翼 “中国凤凰”安全高飞">插上信息化之翼 “中国凤凰”安全高飞</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=7935" target="_blank" title="邂逅业务流程外包 星巴克借外脑加强人力资源管理">邂逅业务流程外包 星巴克借外脑加强人力资源管理</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=7876" target="_blank" title="从1小时到几秒钟 宜春改造公务员邮件系统见奇效">从1小时到几秒钟 宜春改造公务员邮件系统见奇效</a></td>
+                            </tr>
+                            
+                        </table></td>
+                      </tr>
+                    </table>
+              <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="22"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td width="8"></td>
+                              <td width="96" height="22" class="righttitile">观察与思考</td>
+                              <td align="right"><a href="column.asp?type=观察与思考" target="_blank"><img src="picture/morecn.gif" alt="更多内容" width="32" height="19" border="0"></a></td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                      <tr>
+                        <td height="1" valign="top" bgcolor="#E7E7E7"></td>
+                      </tr>
+                      <tr>
+                        <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td height=1></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10248" target="_blank" title="一淘网是马云手中的防守牌">一淘网是马云手中的防守牌</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10246" target="_blank" title="温州官员炒钱为何要政府埋单">温州官员炒钱为何要政府埋单</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10155" target="_blank" title="谷歌难回中国内地市场">谷歌难回中国内地市场</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10154" target="_blank" title="网络暴力将魅族引向何方">网络暴力将魅族引向何方</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10081" target="_blank" title="三星应该在操作系统上走自己的路">三星应该在操作系统上走自己的路</a></td>
+                            </tr>
+                            
+                        </table></td>
+                      </tr>
+                  </table></td>
+            <td width="50%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td height="22"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="8"></td>
+                    <td width="96" height="22" class="righttitile">推荐阅读</td>
+                    <td align="right">&nbsp;</td>
+                  </tr>
+                </table></td>
+              </tr>
+              <td height="1"  valign="top" bgcolor="#E7E7E7"></td>
+              <tr>
+                <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                  <tr> </tr>
+                  <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height=1></td>
+                    </tr>
+                    
+                    <tr>
+                      <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10225"  target="_blank" title="10年姻缘尽是满腹辛酸事 索尼、爱立信分道扬镳求新生">10年姻缘尽是满腹辛酸事 索尼、爱立...</a></td>
+                    </tr>
+                    
+                    <tr>
+                      <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10185"  target="_blank" title="高利贷会搞垮温州吗">高利贷会搞垮温州吗</a></td>
+                    </tr>
+                    
+                    <tr>
+                      <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10116"  target="_blank" title="百位CIO聚首共话“云的力量”">百位CIO聚首共话“云的力量”</a></td>
+                    </tr>
+                    
+                    <tr>
+                      <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10050"  target="_blank" title="专利也疯狂">专利也疯狂</a></td>
+                    </tr>
+                    
+                    <tr>
+                      <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10012"  target="_blank" title="IBM在华迟发“云计算”路线图">IBM在华迟发“云计算”路线图</a></td>
+                    </tr>
+                    
+                  </table></td>
+                              <td><a href="content.asp?id=10225"><img src="cover/fm236_36_s.jpg" border=0 height=80 width=60></a> </td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="22"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td width="8"></td>
+                              <td width="96" height="22" class="righttitile">产　业</td>
+                              <td align="right"><a href="column.asp?type=产业" target="_blank"><img src="picture/morecn.gif" alt="更多内容" width="32" height="19" border="0"></a></td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                      <tr>
+                        <td height="1" valign="top" bgcolor="#E7E7E7"></td>
+                      </tr>
+                      <tr>
+                        <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td height=1></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10232"  target="_blank" title="惠普助推ARM挑战英特尔 服务器芯片市场闪现新竞赛">惠普助推ARM挑战英特尔 服务器芯片市场闪现新...</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10231"  target="_blank" title="视频行业上演“猫捉老鼠”游戏 PPTV曲线突围遭广电总局批评">视频行业上演“猫捉老鼠”游戏 PPTV曲线突围...</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10230"  target="_blank" title="中移动3G背负巨额亏损 TD-LTE万事俱备言之过早">中移动3G背负巨额亏损 TD-LTE万事俱备言...</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10229"  target="_blank" title="电视机业务拖累整体业绩 日系厂商大尺度瘦身自救">电视机业务拖累整体业绩 日系厂商大尺度瘦身自救</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10228"  target="_blank" title="泰国洪灾阻断产业供应链 硬盘严重短缺令PC厂商紧张">泰国洪灾阻断产业供应链 硬盘严重短缺令PC厂商...</a></td>
+                            </tr>
+                            
+                        </table></td>
+                      </tr>
+                    </table>
+              <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="22"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td width="8"></td>
+                              <td width="96" height="22" class="righttitile">见&nbsp; 解</td>
+                              <td align="right"><a href="column.asp?type=见解" target="_blank"><img src="picture/morecn.gif" alt="更多内容" width="32" height="19" border="0"></a></td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                      <tr>
+                        <td height="1" valign="top" bgcolor="#E7E7E7"></td>
+                      </tr>
+                      <tr>
+                        <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td height=1></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10194" target="_blank" title="王建宙为何言必称iPhone">王建宙为何言必称iPhone</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10192" target="_blank" title="智能电视靠概念裸奔，危矣">智能电视靠概念裸奔，危矣</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10190" target="_blank" title="裁员的负面影响">裁员的负面影响</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10187" target="_blank" title="再见了，Zune">再见了，Zune</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10186" target="_blank" title="“粗暴”让马云栽了个大跟头">“粗暴”让马云栽了个大跟头</a></td>
+                            </tr>
+                            
+                        </table></td>
+                      </tr>
+                    </table>
+              <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="22"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td width="8"></td>
+                              <td width="96" height="22" class="righttitile">特别报道</td>
+                              <td align="right"><a href="column.asp?type=特别报道" target="_blank"><img src="picture/morecn.gif" alt="更多内容" width="32" height="19" border="0"></a></td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                      <tr>
+                        <td height="1" valign="top" bgcolor="#E7E7E7"></td>
+                      </tr>
+                      <tr>
+                        <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td height=1></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10185" target="_blank" title="高利贷会搞垮温州吗">高利贷会搞垮温州吗</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10116" target="_blank" title="百位CIO聚首共话“云的力量”">百位CIO聚首共话“云的力量”</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10050" target="_blank" title="专利也疯狂">专利也疯狂</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10012" target="_blank" title="IBM在华迟发“云计算”路线图">IBM在华迟发“云计算”路线图</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=9964" target="_blank" title="张春江腐败全记录">张春江腐败全记录</a></td>
+                            </tr>
+                            
+                        </table></td>
+                      </tr>
+                    </table>
+              <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="22"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td width="8"></td>
+                              <td width="96" height="22" class="righttitile">书&nbsp; 评</td>
+                              <td align="right"><a href="column.asp?type=书评" target="_blank"><img src="picture/morecn.gif" alt="更多内容" width="32" height="19" border="0"></a></td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                      <tr>
+                        <td height="1" valign="top" bgcolor="#E7E7E7"></td>
+                      </tr>
+                      <tr>
+                        <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td height=1></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=6995" target="_blank" title="学会思考 你才能走出金融危机的阴影">学会思考 你才能走出金融危机的阴影</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=6902" target="_blank" title="没有紧迫感，就不能应对危机">没有紧迫感，就不能应对危机</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=6843" target="_blank" title="重温萧条经济学 寻找破解金融危机良策">重温萧条经济学 寻找破解金融危机良策</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=6779" target="_blank" title="恐慌害死了美国第5大投行">恐慌害死了美国第5大投行</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=6713" target="_blank" title="撕下投资银行的“画皮”">撕下投资银行的“画皮”</a></td>
+                            </tr>
+                            
+                        </table></td>
+                      </tr>
+                    </table>
+              <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="22"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td width="8"></td>
+                              <td width="96" height="22" class="righttitile">大师论道</td>
+                              <td align="right"><a href="column.asp?type=大师论道" target="_blank"><img src="picture/morecn.gif" alt="更多内容" width="32" height="19" border="0"></a></td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                      <tr>
+                        <td height="1" valign="top" bgcolor="#E7E7E7"></td>
+                      </tr>
+                      <tr>
+                        <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td height=1></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10238" target="_blank" title="创业型企业如何克服成长之困">创业型企业如何克服成长之困</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10195" target="_blank" title="领先型公司模式值得仿效和提倡">领先型公司模式值得仿效和提倡</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10130" target="_blank" title="创新型模仿也能赢得战略优势">创新型模仿也能赢得战略优势</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10129" target="_blank" title="远离跟风的陷阱">远离跟风的陷阱</a></td>
+                            </tr>
+                            
+                            <tr>
+                              <td height="20">&nbsp;<font color="#cccccc">·</font><a href="content.asp?id=10054" target="_blank" title="用强大执行力应对逆境">用强大执行力应对逆境</a></td>
+                            </tr>
+                            
+                        </table></td>
+                  </table></td>
+          </tr>
+        </table>
+    </table>
+</table>
+			   </div>
+		      </div>
+<div style=" width:6px; background:url(background=img/line8.gif) repeat-y; overflow:hidden; float:left"></div>
+			   <div id="right" >
+                 <table width="100%"  border="0" cellpadding="0" cellspacing="0" style="margin-bottom:4px; margin-top:4px;">
+                       <td align="center"><a href="http://www.itxinwen.com/huod/time10/" target="_blank"><img src="ad/ittime_10year.jpg" alt="IT时代周刊_10周年" width="300" height="200" border="0"></a></td>
+                     </table>
+			     <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                   <tr>
+                     <td height="24"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                         <tr>
+                           <td><strong><img src="picture/q_expe_060703.gif" width="29" height="24" align="absmiddle"><span class="righttitile">新闻发布会</span></strong> </td>
+                           <td width="32" align="right"><a href="topnews/topnews_list.asp?cid=155" target="_blank"><img src="picture/morecn.gif" alt="更多内容" height="19" border="0"></a></td>
+                         </tr>
+                     </table></td>
+                   </tr>
+                   <tr>
+                     <td height="1" colspan="3" valign="top" bgcolor="#E7E7E7"></td>
+                   </tr>
+                   <tr>
+                     <td colspan="3" valign="top" bgcolor="#FFFFFF">
+                         <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=10992" target="_blank" title="打造国际高端品牌JAMIE MOORE">打造国际高端品牌JAMIE MOORE</a><br>
+                         
+                         <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=10683" target="_blank" title="业界首个《平板电脑设计趋势报告》发布">业界首个《平板电脑设计趋势报告》发布</a><br>
+                         
+                         <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=10584" target="_blank" title="华为与德国电信签订备忘录建立战略合作关系">华为与德国电信签订备忘录建立战略合作关系</a><br>
+                         
+                         <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=9638" target="_blank" title="中电信联通人员将参与TD-LTE测试">中电信联通人员将参与TD-LTE测试</a><br>
+                         
+                         <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=9974" target="_blank" title="华为助力Telenor登岛百年庆典">华为助力Telenor登岛百年庆典</a><br>
+                         </td>
+                   </tr>
+                 </table>
+			     <table width="100%" border="0" align="center" cellpadding="4" cellspacing="4">
+                   <script type="text/javascript">
+function runsearchkeyword()
+{
+var website;
+var keyword;
+var websiteUrl;
+website = document.getElementById("searchkeywordsite").options[document.getElementById("searchkeywordsite").selectedIndex].value  ;
+keyword = document.getElementById("searchkeywordtext").value ;
+if ( website == "itnews" )
+{
+	websiteUrl = "/search_result.asp?At=News&keyword="+ keyword +"";
+}
+else if ( website == "ittime" )
+{
+	websiteUrl = "/search_result.asp?keyword="+ keyword +"";
+}
+else if ( website == "google" )
+{
+	websiteUrl = "http://www.google.cn/search?q="+ encodeURI( keyword ) +"&hl=zh-CN&lr=lang_zh-CN&ie=UTF-8&oe=UTF-8";
+}
+else if ( website == "baidu" )
+{
+	websiteUrl = "http://www.baidu.com/s?wd="+ keyword +"&cl=3";
+}
+else if ( website == "yahoo" )
+{
+	websiteUrl = "http://www.yahoo.cn/s?p="+ encodeURI( keyword ) +"&v=web";
+}
+else if ( website == "sogou" )
+{
+	websiteUrl = "http://www.sogou.com/web?query="+ escape( keyword ) +"";
+}
+else
+{
+	return false;
+}
+//alert( websiteUrl );
+//return false;
+window.open( websiteUrl, website );
+return false;
+}
+                </script>
+                   <tr>
+                     <form name="searchkeyword" id="searchkeyword" onSubmit="return runsearchkeyword();">
+                       <td align="center" valign="middle" style="border:1px solid #AAAAAA; background:#F7FBFF;"><input type="text" name="searchkeywordtext" id="searchkeywordtext" value="" style="width:140px; height:20px; padding:1px;" />
+                           <select name="searchkeywordsite" id="searchkeywordsite">
+                             <option value="itnews" selected="true">站内新闻</option>
+                             <option value="ittime">站内杂志</option>
+                             <option value="google">Google</option>
+                             <option value="baidu">百度</option>
+                             <option value="yahoo">Yahoo</option>
+                             <option value="sogou">搜狗</option>
+                           </select>
+                           <input name="button" type="button" onClick="runsearchkeyword();" value="搜索" />
+                       </td>
+                     </form>
+                   </tr>
+                 </table>
+			     <table width="100%" height="250" border="0" cellpadding="0" cellspacing="0">
+                   <tr>
+                     <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="300" height="250">
+                         <param name="movie" value="ad/20080707_it.swf">
+                         <param name="quality" value="high">
+                         <embed src="ad/20080707_it.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="300" height="250"></embed>
+                     </object></td>
+                   </tr>
+                 </table>
+			     <table width="100%" border="0" align="center" cellpadding="2" cellspacing="0">
+                   <tr>
+                     <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                         <tr>
+                           <td height="24"><img src="picture/ico3.gif" width="14" height="14" align="absmiddle"><span class="righttitile">科技新产品</span></td>
+                           <td width="32" align="right"><a href="topnews/topnews_list.asp?tid=20" target="_blank"><img src="picture/morecn.gif" alt="更多内容" height="19" border="0"></a></td>
+                         </tr>
+                     </table></td>
+                   </tr>
+                   <tr>
+                     <td height="1" colspan="2" valign="top" bgcolor="#E7E7E7"></td>
+                   </tr>
+                   <tr>
+                     <td colspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                         <tr>
+                           
+                           <td align="center"><a href="topnews/topnews_content.asp?aid=9973" target="_blank"><img src="topnews/eWebEditor//upfiles/2011629104624.jpg" width="110" height="80" border="0"></a><br>
+                             <a href="topnews/topnews_content.asp?aid=9973" target="_blank" title="BlackBerry 8520 Curve">BlackBerry 8520 Curve</a></td>
+                           <td width="9" align="center"></td>
+                           
+                           <td align="center"><a href="topnews/topnews_content.asp?aid=9281" target="_blank"><img src="topnews/eWebEditor//upfiles/201141111523.jpg" width="110" height="80" border="0"></a><br>
+                             <a href="topnews/topnews_content.asp?aid=9281" target="_blank" title="卓越创新，商用之本">卓越创新，商用之本</a></td>
+                           <td width="9" align="center"></td>
+                           
+                         </tr>
+                     </table></td>
+                   </tr>
+                 </table>
+			     <table width="100%" border="0" align="center" cellpadding="2" cellspacing="0">
+                   <tr>
+                     <td><strong><img src="picture/ico3.gif" width="14" height="14" align="absmiddle"><span class="righttitile">高端访谈</span></strong></td>
+                     <td align="right">&nbsp;</td>
+                   </tr>
+                   <tr>
+                     <td height="1" colspan="2" valign="top" bgcolor="#E7E7E7"></td>
+                   </tr>
+                   <tr>
+                     <td colspan="2" valign="top" bgcolor="#FFFFFF">
+                         <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=5042" target="_blank" title="站在品牌背后的女人——马涛">站在品牌背后的女人——马涛</a><br>
+                         
+                         <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=2608" target="_blank" title="英特尔：我们如何为媒体量身定制新闻">英特尔：我们如何为媒体量身定制新闻</a><br>
+                         
+                         <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=2598" target="_blank" title="李频：期刊的核心竞争力是思想的穿透力">李频：期刊的核心竞争力是思想的穿透力</a><br>
+                         
+                         <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=2364" target="_blank" title="杨伯宁：沟通融合 持续创新 成就卓越公关人">杨伯宁：沟通融合 持续创新 成就卓越公关人</a><br>
+                         
+                         <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=2363" target="_blank" title="抛弃“跨国公司” IBM全球整合转型下的传播策略">抛弃“跨国公司” IBM全球整合转型下的传播策略</a><br>
+                         
+                     </td>
+                   </tr>
+                 </table>
+			     <table width="100%" border="0" align="center" cellpadding="2" cellspacing="0">
+                   <tr>
+                     <td><strong><img src="picture/ico3.gif" width="14" height="14" align="absmiddle"><span class="righttitile">读者来信</span></strong></td>
+                     <td align="right">&nbsp;</td>
+                   </tr>
+                   <tr>
+                     <td height="1" colspan="2" valign="top" bgcolor="#E7E7E7"></td>
+                   </tr>
+                   <tr>
+                     <td height="100" colspan="2" valign="top" bgcolor="#FFFFFF">
+                         <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=7229" target="_blank" title="警方证实山木培训总裁涉嫌强奸案正被通缉">警方证实山木培训总裁涉嫌强奸案正被通缉</a><br>
+                         
+                         <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=5232" target="_blank" title="中国老百姓收入为何赶不上GDP增长？">中国老百姓收入为何赶不上GDP增长？</a><br>
+                         
+                         <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=3027" target="_blank" title="我这样炒博客">我这样炒博客</a><br>
+                         
+                         <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=3026" target="_blank" title="诸葛亮式的江南春，是否值得学习">诸葛亮式的江南春，是否值得学习</a><br>
+                         
+                         <font color="#cccccc">·</font><a href="topnews/topnews_content.asp?aid=3025" target="_blank" title="平板销售渠道应向更深层次渗透">平板销售渠道应向更深层次渗透</a><br>
+                         
+                     </td>
+                   </tr>
+                 </table>
+			     <!--//<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:2px; margin-top:2px;">
+                  <tr>
+                    <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="300" height="80">
+                  <param name="movie" value="ad/idc_dahui_20081224.swf">
+                  <param name="quality" value="high">
+                  <embed src="ad/idc_dahui_20081224.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="300" height="80"></embed>
+              </object></td>
+                  </tr>
+                </table>
+				 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:2px; margin-top:2px;">
+                   <tr>
+                     <td align="center"><a href="http://www.pegem.com/information-peg/news-peg/359-luntan.html " target="_blank"><img src="ad/enba_bbs.jpg" alt="EMBA论坛" width="300" height="80" border="0"></a></td>
+                   </tr>
+                   <tr>
+                     <td height="3" colspan="2" valign="top" bgcolor="#FFFFFF">               
+                   </tr>
+                 </table>-->
+				 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:2px; margin-top:2px;">
+                   <tr>
+                     <td align="center"><a href="http://www.gdcie.org.cn/snookerPool/Art_Sort.jsp?lg=2" target="_blank"><img src="ad/dianzigongyexiehui.jpg" alt="广东省电子学会受理电子信息工程技术人员申报工程师、助理工程师、技术员等专业职称工作。并可提供继续教育、论文发表、申报填表指导服务，报名时间为每年8月底前。详细内容请点击" width="300" height="83" border="0"></a></td>
+                   </tr>
+                   <tr>
+                     <td height="3" colspan="2" valign="top" bgcolor="#FFFFFF">               
+                   </tr>
+                 </table>
+			     <table width="100%" border="0" align="center" cellpadding="2" cellspacing="0">
+                   <tr>
+                     <td width="50%"><strong><img src="picture/ico3.gif" width="14" height="14" align="absmiddle"><span class="righttitile">领袖视点</span></strong></td>
+                     <td width="50%" align="right"><a href="column.asp?type=领袖视点" target="_blank"><img src="picture/morecn.gif" alt="更多内容" width="32" height="19" border="0"></a></td>
+                   </tr>
+                   <tr>
+                     <td height="1" colspan="2" valign="top" bgcolor="#E7E7E7"></td>
+                   </tr>
+                   <tr>
+                     <td height="100" colspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                         <tr>
+                           <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                               <tr>
+                                 <td height=1></td>
+                               </tr>
+                               
+                               <tr>
+                                 <td height="20">&nbsp;<img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'><a href="content.asp?id=10245" target="_blank" title="全球经济结构性问题导致乱世">全球经济结构性问题导致乱世</a></td>
+                               </tr>
+                               
+                               <tr>
+                                 <td height="20">&nbsp;<img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'><a href="content.asp?id=10244" target="_blank" title="福利国家破产对中国的警示">福利国家破产对中国的警示</a></td>
+                               </tr>
+                               
+                               <tr>
+                                 <td height="20">&nbsp;<img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'><a href="content.asp?id=10035" target="_blank" title="从逻辑角度思考 中国经济必须转型">从逻辑角度思考 中国经济必须...</a></td>
+                               </tr>
+                               
+                               <tr>
+                                 <td height="20">&nbsp;<img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'><a href="content.asp?id=10034" target="_blank" title="经济刺激的后遗症在困扰中国">经济刺激的后遗症在困扰中国</a></td>
+                               </tr>
+                               
+                               <tr>
+                                 <td height="20">&nbsp;<img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'><a href="content.asp?id=10033" target="_blank" title="美国根本不可能发生债务违约">美国根本不可能发生债务违约</a></td>
+                               </tr>
+                               
+                           </table></td>
+                           <td><a href="content.asp?id=10245"><img src="cover/ittimead.gif" border=0 height=80 width=60></a> </td>
+                         </tr>
+                     </table></td>
+                   </tr>
+                 </table>
+			     <table width="100%" border="0" align="center" cellpadding="2" cellspacing="0">
+                   <tr>
+                     <td width="50%"><strong><img src="picture/ico3.gif" width="14" height="14" align="absmiddle"><span class="righttitile">高端对话</span></strong></td>
+                     <td width="50%" align="right"><a href="column.asp?type=高端对话" target="_blank"><img src="picture/morecn.gif" alt="更多内容" width="32" height="19" border="0"></a></td>
+                   </tr>
+                   <tr>
+                     <td height="1" colspan="2" valign="top" bgcolor="#E7E7E7"></td>
+                   </tr>
+                   <tr>
+                     <td height="100" colspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                         <tr>
+                           <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                               <tr>
+                                 <td height=1></td>
+                               </tr>
+                               
+                               <tr>
+                                 <td height="20">&nbsp;<img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'><a href="content.asp?id=10112" target="_blank" title="我们差异化竞争的优势在哪里">我们差异化竞争的优势在哪里</a></td>
+                               </tr>
+                               
+                               <tr>
+                                 <td height="20">&nbsp;<img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'><a href="content.asp?id=9262" target="_blank" title="引领云计算变革">引领云计算变革</a></td>
+                               </tr>
+                               
+                               <tr>
+                                 <td height="20">&nbsp;<img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'><a href="content.asp?id=9233" target="_blank" title="让技术成为电子商务的“明日之星”">让技术成为电子商务的“明日之...</a></td>
+                               </tr>
+                               
+                               <tr>
+                                 <td height="20">&nbsp;<img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'><a href="content.asp?id=9198" target="_blank" title="与客户共同实现经济利益和环保双赢">与客户共同实现经济利益和环保...</a></td>
+                               </tr>
+                               
+                               <tr>
+                                 <td height="20">&nbsp;<img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'><a href="content.asp?id=9155" target="_blank" title="扎根中国 做足够本土化的跨国企业">扎根中国 做足够本土化的跨国...</a></td>
+                               </tr>
+                               
+                           </table></td>
+                           <td><a href="content.asp?id=10112"><img src="cover/ittimead.gif" border=0 height=80 width=60></a> </td>
+                         </tr>
+                     </table></td>
+                   </tr>
+                 </table>
+			     <table width="100%" border="0" align="center" cellpadding="2" cellspacing="0">
+                   <tr>
+                     <td width="50%"><strong><img src="picture/ico3.gif" align="absmiddle"><span class="righttitile">总编随笔</span></strong></td>
+                     <td width="50%" align="right"><a href="column.asp?type=总编随笔" target="_blank"><img src="picture/morecn.gif" alt="更多内容" border="0"></a></td>
+                   </tr>
+                   <tr>
+                     <td height="1" colspan="2" valign="top" bgcolor="#E7E7E7"></td>
+                   </tr>
+                   <tr>
+                     <td height="100" colspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                         <tr>
+                           <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                               <tr>
+                                 <td height=1></td>
+                               </tr>
+                               
+                               <tr>
+                                 <td height="20">&nbsp;<img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'><a href="content.asp?id=10249" target="_blank"title="四问电信业反垄断调查">四问电信业反垄断调查</a></td>
+                               </tr>
+                               
+                               <tr>
+                                 <td height="20">&nbsp;<img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'><a href="content.asp?id=10219" target="_blank"title="从索爱弃“爱”看IT大佬的龟速转型">从索爱弃“爱”看IT大佬的龟...</a></td>
+                               </tr>
+                               
+                               <tr>
+                                 <td height="20">&nbsp;<img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'><a href="content.asp?id=10157" target="_blank"title="乔布斯与温州的高利贷">乔布斯与温州的高利贷</a></td>
+                               </tr>
+                               
+                               <tr>
+                                 <td height="20">&nbsp;<img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'><a href="content.asp?id=10082" target="_blank"title="网络舆论为何乏力">网络舆论为何乏力</a></td>
+                               </tr>
+                               
+                               <tr>
+                                 <td height="20">&nbsp;<img src='picture/BULLET01.GIF' width='13' height='10' align='absmiddle'><a href="content.asp?id=10036" target="_blank"title="产业巨变前夜谈谈我的看法">产业巨变前夜谈谈我的看法</a></td>
+                               </tr>
+                               
+                           </table></td>
+                           <td><a href="content.asp?id=10249"><img src="cover/caojian-2008-1.jpg" border=0 height=80 width=60></a> </td>
+                         </tr>
+                     </table></td>
+                   </tr>
+                 </table>
+			     <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:4px;">
+                   <tr>
+                     <td><a href="digimag/sales.html" target="_blank"><img src="ad/digimag.jpg" alt="《IT时代周刊》原版数字杂志免费下载阅读" border="0"></a></td>
+                   </tr>
+                 </table>
+				 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:4px;">
+                   <tr>
+				     <td align="center"><a href="http://www.ptexpo.com.cn/" target="_blank"><img src="ad/20110901_20111007.jpg" alt="中邮国际" width="300" height="80" border="0"></a></td>
+				   </tr>
+                 </table>
+			     <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:4px;">
+                   <tr>
+                     <td>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td bgcolor="#FFFFFF"><table width="100%" border="0" align="center" cellpadding="2" cellspacing="1" bgcolor="#E6E6E6">
+      <tr>
+        <td bgcolor="#FFFFFF"><table width="100%" height="20" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+            <td><img src="picture/ico3.gif" width="14" height="14" align="absmiddle"><span class="righttitile">热点调查</span></td>
+            </tr>
+            <tr>
+              <td height="1" bgcolor="#E6E6E6"></td>
+            </tr>
+          </table>
+            <table width="100%"  height="38" border="0" cellpadding="2" cellspacing="1" valing=top>
+              <form name="vote" method="post" action="/Surveys/vote.asp" target="_Blank">
+                
+                <tr>
+                  <td width="100%"  height="14" valign=top>1.中国互联网英雄辈出，你最看好的是那一位？</td>
+                </tr>
+                <tr>
+                  <td width="100%" height="33" class="text1" valing=top >
+                      <input type="radio" name=rb1   checked   value=李彦宏（百度） class="ff" ID="Rdhot">
+                      李彦宏（百度）<br>
+                      
+                      <input type="radio" name=rb1   value=马云（阿里巴巴、淘宝、雅虎） class="ff" ID="Rdhot">
+                      马云（阿里巴巴、淘宝、雅虎）<br>
+                      
+                      <input type="radio" name=rb1   value=陈天桥（盛大） class="ff" ID="Rdhot">
+                      陈天桥（盛大）<br>
+                      
+                      <input type="radio" name=rb1   value=丁磊（网易） class="ff" ID="Rdhot">
+                      丁磊（网易）<br>
+                      
+                  </td>
+                </tr>
+                
+                <tr>
+                  <td width="224" align="center"><input type="submit" name="submit" value="提交" >
+&nbsp;&nbsp;&nbsp;&nbsp;
+              <input type="submit"  name="view" value="查看" >
+              <input type="hidden" name="counthot" value=1 >
+                  </td>
+                </tr>
+              </form>
+          </table>
+          </td>
+      </tr>
+    </table>
+    <!--//
+      <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><table width="100%" height="20" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td height="22"><img src="picture/ico3.gif" width="14" height="14" align="absmiddle"><span class="righttitile">最新帖子</span></td>
+              </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td valign="top">
+		  <script src="/bbs/Dv_News.asp?GetName=indexnew"></script>
+		  </td>
+        </tr>
+      </table>
+      //-->
+      <!--<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><table width="100%" height="20" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td height="22">
+                    <img src="picture/ico3.gif" width="14" height="14" align="absmiddle"><span class="righttitile">热门帖子</span>                </td>
+              </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td valign="top">
+		  <script src="/bbs/Dv_News.asp?GetName=indexhot"></script>
+		  </td>
+        </tr>
+      </table>--></td>
+  </tr>
+</table>
+</td>
+                   </tr>
+                 </table>
+			     <!--<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:4px;">
+                   <tr>
+                     <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="300" height="250">
+                         <param name="movie" value="ad/medialeader-web.swf">
+                         <param name="quality" value="high">
+                         <embed src="ad/medialeader-web.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="300" height="250"></embed>
+                     </object></td>
+                 </table>-->
+		      </div>
+      </table>
+</div>
+<div id="footer" align="center">
+<table width="100%" border="0" align="center" cellpadding="5" cellspacing="1" bgcolor="#E6E6E6">
+  <tr>
+    <td align="center" bgcolor="#FFFFFF">
+	<div style="width:100%; text-align:center; width:auto; margin:0 auto 0 atuo;">
+	<div class="link">
+		<span style="font-size:14px;">[友情链接]</span> 
+			<a href="http://www.medialeader.com.cn/" target="_blank">传媒领袖网</a> &nbsp;<a href="http://www.itxinwen.com/" target="_blank">IT商业新闻网</a> &nbsp;
+	<div style="display:none;">
+		<a href="http://www.rveo.com/">rveo.com</a>
+	</div>&nbsp;
+	<a href="http://www.people.com.cn/" target="_blank">人民网</a> &nbsp;&nbsp;
+	<a href="http://www.xinhuanet.com/" target="_blank">新华网</a><a href="http://www.xinhuanet.com/internet/" target="_blank">IT</a> &nbsp;&nbsp;
+	<a href="http://www.sohu.com/" target="_blank">搜狐网</a> &nbsp;&nbsp;
+	<a href="http://tech.sina.com.cn/" target="_blank">新浪网科技频道</a> &nbsp;&nbsp;
+	<a href="http://tech.163.com/" target="_blank">网易科技频道</a> &nbsp;&nbsp;
+	<a href="http://tech.qq.com/" target="_blank">腾讯科技频道</a> &nbsp;&nbsp;
+	<a href="http://tech.huanqiu.com/" target="_blank">环球网</a><br />　
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="http://www.ccidnet.com/" target="_blank">赛迪网</a>　&nbsp;
+	<a href="http://www.businessweekchina.com/" target="_blank">商业周刊</a> &nbsp;&nbsp;
+	<a href="http://www.ccw.com.cn/" target="_blank">计世网</a> &nbsp;&nbsp;
+	<a href="http://www.yesky.com/" target="_blank">天极网</a> &nbsp;&nbsp;
+	<a href="http://www.enet.com.cn/" target="_blank">硅谷动力</a> &nbsp;&nbsp;
+	<a href="http://it.hexun.com/" target="_blank">和讯科技</a> &nbsp;&nbsp;
+	<a href="http://www.it168.com/" target="_blank">IT168</a> &nbsp;&nbsp;
+	<a href="http://www.techweb.com.cn/" target="_blank">TechWeb</a> &nbsp;&nbsp;
+	<a href="http://www.qikan.com/" target="_blank">龙源期刊网</a>&nbsp;&nbsp;
+	<a href="http://www.cnetnews.com.cn/" target="_blank">CNET科技资讯网</a> <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.chinalabs.com/" target="_blank">互联网实验室</a> &nbsp;&nbsp;
+	<a href="http://chinese.wsj.com/" target="_blank">华尔街日报</a> &nbsp;&nbsp;
+	<a href="http://www.caijing.com.cn/" target="_blank">财经网</a> &nbsp;&nbsp;
+	<a href="http://www.ftchinese.com/" target="_blank">金融时报</a> &nbsp;&nbsp;
+	<a href="http://www.jrj.com.cn/" target="_blank">金融界</a> &nbsp;&nbsp;
+	<a href="http://www.iresearch.cn/" target="_blank">艾瑞网</a> &nbsp;&nbsp;
+	<a href="http://www.topoint.com.cn/" target="_blank">支点网</a>  &nbsp;&nbsp;
+	<a href="http://www.gotoread.com/" target="_blank">浏览网</a> &nbsp;&nbsp;
+	<a href="http://www.zubunet.com/" target="_blank">悦读网</a>&nbsp;&nbsp;
+	<a href="http://www.cbinews.com/" target="_blank">电脑商情在线</a>&nbsp;&nbsp;
+	<a href="http://www.iyaxin.com/" target="_blank">亚心网</a><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="http://it.chinanews.cn/it.shtml" target="_blank">中国新闻网</a>&nbsp;&nbsp;
+	<a href="http://www.cuteseo.cn/" target="_blank">优化网</a>&nbsp;&nbsp;
+	<a href="http://www.rti.cn/" target="_blank">广播电视信息网</a>&nbsp;&nbsp;
+	<a href="http://www.soft6.com" target="_blank">中国软件网</a>&nbsp;&nbsp;
+	<a href="http://www.oemresource.com/" target="_blank">制造资源网</a>&nbsp;&nbsp;
+	<a href="http://www.kankan.cn/" target="_blank">看看网</a>&nbsp;&nbsp;
+	<a href="http://www.cgan.net/" target="_blank">大中华印艺网</a>&nbsp;&nbsp;
+	<a href="http://www.linkwan.com/gb/" target="_blank">世界网络</a>&nbsp;&nbsp;
+	<a href="http://www.thethirdmedia.com/" target="_blank">第三媒体</a>&nbsp;&nbsp;
+	<a href="http://www.cioinsight.com.cn/" target="_blank">信息方略</a>&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="http://china.ibtimes.com/" target="_blank">国际财经时报</a>&nbsp;&nbsp;
+	<a href="http://news.zol.com.cn/" target="_blank">中关村在线</a>&nbsp;&nbsp;
+	<a href="http://www.it365.com/" target="_blank">IT商网</a>&nbsp;&nbsp;
+	<a href="http://it.dbw.cn/" target="_blank">东北网</a>&nbsp;&nbsp;
+	<a href="http://it.enorth.com.cn/" target="_blank">北方网</a>&nbsp;&nbsp;
+	<a href="http://www.eguan.cn/" target="_blank">易观网</a>&nbsp;&nbsp;
+	<a href="http://news.newhua.com/" target="_blank">华军软件资讯</a>&nbsp;&nbsp;
+	<a href="http://tech.china.com/" target="_blank">中华网科技</a>&nbsp;&nbsp;
+	<a href="http://www.cww.net.cn/" target="_blank">通信世界网</a>&nbsp;&nbsp;
+	<a href="http://www.chitec.cn/" target="_blank">北京科博会</a>&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="http://www.jqw.com/" target="_blank">金泉网</a>&nbsp;&nbsp;
+	<a href="http://www.huntingpr.com" target="_blank">华迅通</a>&nbsp;&nbsp;
+	<a href="http://www.ce.cn/cysc/tech/" target="_blank">中国经济网IT频道</a>&nbsp;&nbsp;
+	<a href="http://www.echinagov.com/" target="_blank">国脉电子政务网</a>&nbsp;&nbsp;
+	<a href="http://www.bhjoy.com/" target="_blank">百汇家电网</a>&nbsp;&nbsp;
+	<a href="http://www.ctocio.com.cn/" target="_blank">IT专家网</a>&nbsp;&nbsp;
+	<a href="http://www.chinabyte.com/" target="_blank">比特网</a>&nbsp;&nbsp;
+	<a href="http://www.ebrun.com/" target="_blank">亿邦动力网</a>&nbsp;&nbsp;	
+	<a href="http://www.go114.org/" target="_blank">国家信息网</a>&nbsp;&nbsp;	
+	<a href="http://www.gongyequan.com/" target="_blank">工业圈</a>&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="http://www.ofweek.com/" target="_blank">光电新闻网</a>&nbsp;&nbsp;
+	<a href="http://www.guanxiwang.cc/" target="_blank">关系网</a>&nbsp;&nbsp;
+	<a href="http://www.pcpop.com/" target="_blank">泡泡网</a>&nbsp;&nbsp;
+	<a href="http://www.autohome.com.cn/" target="_blank">汽车之家</a>&nbsp;&nbsp;
+	<a href="http://www.che168.com/" target="_blank">车168</a>&nbsp;&nbsp;
+	<a href="http://www.yikuo.com/" target="_blank">易阔每日财经</a>&nbsp;&nbsp;
+	<a href="http://cn.msn.com/" target="_blank">MSN中文网</a>&nbsp;&nbsp;
+	<a href="http://www.soo-su.com/" target="_blank">数谷网</a>&nbsp;&nbsp;
+	<a href="http://www.prnasia.com/" target="_blank">美通社亚洲</a>&nbsp;&nbsp;
+	<a href="http://www.kejixun.com/" target="_blank">科技讯</a>&nbsp;&nbsp;
+	<a href="http://www.sootoo.com/" target="_blank">速途网</a>&nbsp;&nbsp;
+	<a href="http://www.chinabgao.com/" target="_blank">研究报告</a>&nbsp;&nbsp;
+</div>
+</div></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  
+  <tr>
+    <td height="9" align="center" valign="bottom" background="http://www.ittime.com.cn/picture/bg_footer.gif"></td>
+  </tr>
+  <tr>
+    <td height="22" align="center" valign="bottom">Copyright &copy; 2003-2011 IT时代周刊  版权所有 <a href="http://www.ittime.com.cn/">http://www.ittime.com.cn</a></td>
+  </tr>
+  <tr>
+    <td height="22" align="center" valign="bottom">
+		本站内容归本刊版权所有，若要转载，请先获得本刊同意 常年法律顾问：国信联合律师事务所&nbsp; 陈默 彭建芬律师
+		<br />
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="http://www.teamwin.net.cn" target="_blank">广东圣和胜律师事务所</a>  岳修隆律师
+	
+	
+	</td>
+  </tr>
+  <tr>
+    <td height="22" align="center" valign="bottom">社址：广州市先烈中路92号院12号楼7层 邮编：510070&nbsp; 总机：(020)87600511 传真：(020)87694791&nbsp; 新闻热线：(020)87760991 </td>
+  </tr>
+  <tr>
+    <td height="22" align="center" valign="bottom">市场部电话：(010)68023683 &nbsp; 广告部电话：(020)87303553 (010)68023683 (021)52385003 &nbsp; 发行部电话：(020)87761483</td>
+  </tr>
+  <script type="text/javascript" src="http://js.tongji.linezing.com/1189250/tongji.js"></script><noscript><a href="http://www.linezing.com"><img src="http://img.tongji.linezing.com/1189250/tongji.gif"/></a></noscript>
+</table>
+<!--<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3716117c62e07aa6f23b6fe84990378e' type='text/javascript'%3E%3C/script%3E"));
+</script>-->
+
+</div>
+<table width="980" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" flot="cnter">
+                  <tr>
+                    <td width="537" align="right"> 今日访问人数: 60841 累计访问人数:99929193 </td>
+                    <td width="443">&nbsp; <a href="http://www.miibeian.gov.cn" target="_blank"> 粤ICP备05052968号</a> </td>
+                  </tr>
+                    <td colspan="2" align="cnter"><img height="11" src="../picture/html_table_bottom_img.jpg"
+            width="980" /></td>
+</table>
+<div align="center"><!--//<div class="l1"><a href="../subscribe/2009hedingben/index.htm" target='_about'><img src="../picture/2009hedingben.jpg" width="140" height="80" border="0" /></a></div>
+<div class="r1"><a href="http://product.itxinwen.com/" target='_about'><img src="../ad/itxinwencp.jpg" width="140" height="80" border="0" /></a></div>    
+<div class="r1"><a href="cooperation.html" target='_about'><img src="../picture/cooperation.gif" width="140" height="80" border="0" /></a></div> -->
+</div>
+<!--在线客服开始-->
+<style type="text/css">
+.qq{ font-size:12px;}
+.qq a:link{ text-decoration:none;}
+</style>
+<div id="divMenu_qq" style="Z-INDEX: 1;right: 5px; WIDTH: 109px; POSITION: absolute; TOP: 57px; HEIGHT: 400px;"><!--left：左漂浮，right：右漂浮-->
+<table cellspacing="0" cellpadding="0" width="109" border="0">
+    <tr>
+      <td colspan="3"><a onClick="CloseQQ()" href="#" shape="circle" title="点击关闭"><img height="34" src="cover/qq/qq_top.gif" width="109" border="0" /></a></td>
+    </tr>
+    <tr bgcolor="#EFEFEF">
+      <td width="6" background="cover\qq\qq_left.gif"></td>
+      <td valign="top" width="96">
+      <table width="100%" height="99" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#EFEFEF">
+          <tr>
+            <td height="27">
+            <table cellspacing="0" cellpadding="0" width="90" border="0" bgcolor="#EFEFEF">
+                <tr>
+                  <td align="center"><img height="13" src="cover/qq/qq_ico1.gif" width="16"> <span style="font-size: 9pt">编辑服务</span></td>
+                </tr>
+              </table></td>
+          </tr>
+          <tr>
+            <td><table border="0" width="90" cellpadding="0" bgcolor="#EFEFEF">
+                  <tr>
+					<td align="center" valign="bottom"  height="23" class="qq"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1815374813&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1815374813:45" alt="点击这里给我发消息">①广州</a></td>
+				  </tr>
+				  <tr>
+					<td align="center" valign="bottom"  height="23" class="qq"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=277524705&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:277524705:45" alt="点击这里给我发消息">②北京</a></td>
+				  </tr>
+				  <tr>
+					<td align="center" valign="bottom"  height="23" class="qq"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=931187369&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:931187369:45" alt="点击这里给我发消息">③上海</a></td>
+                  </tr>
+              </table>
+              </td>
+          </tr>
+          <tr>
+            <td height="27">
+            <table cellspacing="0" cellpadding="0" width="90" border="0" bgcolor="#EFEFEF">
+                <tr>
+                  <td align="center"><img height="13" src="cover/qq/qq_ico1.gif" width="16"> <span style="font-size: 9pt">客户服务</span></td>
+                </tr>
+              </table></td>
+          </tr>
+		  <tr>
+            <td><table border="0" width="90" cellpadding="0" bgcolor="#EFEFEF">
+				<tr>
+					<td align="center" valign="top" height="23" class="qq"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=754201674&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:754201674:45" alt="点击这里给我发消息">客服①</a></td>
+				</tr>
+				<tr>
+					<td align="center" valign="top" height="23" class="qq"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=622002429&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:622002429:45" alt="点击这里给我发消息">客服②</a></td>
+				</tr>
+		    </table>
+            </td>
+          </tr>
+		  <tr>
+            <td><table border="0" width="100%" cellpadding="2" bgcolor="#EFEFEF">
+				<tr>
+					<td width="2" valign="top" height="20"></td>
+					<td><a  href="http://www.ittime.com.cn/Service/?GuestMessage/Index.html"><img height="20" src="cover/qq/touxiang.gif" border=0><span style="font-size: 9pt">点击留言</span></a></td>
+				</tr>
+		    </table>
+            </td>
+		  <tr>
+            <td><table border="0" width="100%" cellpadding="2" bgcolor="#EFEFEF">
+				<tr>
+					<td align="center" valign="middle" class="qq"><a href="http://www.ittime.com.cn">欢迎咨询投稿<br />020-87760991</a></td>
+          		</tr>
+			</table></td>
+		  </tr>
+        </table></td>
+      <td width="7" background="\cover\qq\qq_right.gif"></td>
+    </tr>
+    <tr>
+      <td colspan="3"><img height="30" src="/cover/qq/qq_bottom1.gif" width="109"></td>
+    </tr>
+    <tr>
+      <td colspan="3" height="33" style="background:url(http://www.ittime.com.cn/cover/qq/qq_logo.gif) no-repeat; color:#0033aa; text-align: center; font-size:12px;">ittime.com.cn</td>
+    </tr>
+</table>
+</div>
+<script type="text/javascript">
+function OnLineService_qq(){
+      var yMenuFrom_qq, yMenuTo_qq, yOffset_qq, timeoutNextCheck_qq;
+      yMenuFrom_qq   = parseInt (document.getElementById("divMenu_qq").style.top, 10);
+      yMenuTo_qq     = document.documentElement.scrollTop + 135; //距页面顶部的距离
+      timeoutNextCheck_qq = 400;
+      if ( yMenuFrom_qq != yMenuTo_qq ) {
+              yOffset_qq = Math.ceil( Math.abs( yMenuTo_qq - yMenuFrom_qq ) / 20 );
+              if ( yMenuTo_qq < yMenuFrom_qq )
+                      yOffset_qq = -yOffset_qq;
+              document.getElementById("divMenu_qq").style.top = parseInt (document.getElementById("divMenu_qq").style.top, 10) + yOffset_qq+"px";//加"px"以兼容于火狐
+              timeoutNextCheck_qq = 10;
+      }
+      setTimeout ("OnLineService_qq()", timeoutNextCheck_qq);
+}
+function CloseQQ()
+{
+ document.getElementById("divMenu_qq").style.visibility = "hidden";
+}
+OnLineService_qq();
+</script>
+<!--End: 在线客服 -->
+</body>
+</html>

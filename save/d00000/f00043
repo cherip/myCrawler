@@ -1,0 +1,1148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>管理人网-中国第一企业管理资源中心</title>
+<meta content="管理人网,企业管理,管理" name="keywords" />
+<meta content="管理人网开设了管理文库、管理资料、博客、论坛、管理人之家、专题等企业管理相关的数十个频道,为管理者提供了丰富实用的学习和工作资料,搭建了管理知识和经验沟通交流的桥梁,形成了一个全方位、多层次的管理者平台." name="description" />
+<base href="http://www.manaren.com/" />
+<base target="_blank" />
+<style type="text/css">
+/*全局定义*/
+body,td,th {font-family: 宋体;font-size: 12px;color: #0055a1;}
+body {margin: 0px;}
+a {font-size: 12px;color: #0055a1;}
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;color: #666666;}
+a:hover {text-decoration: underline;color: #FF0000;}
+a:active {text-decoration: none;color: #FF0000;}
+a img { border: none; }
+ul,li{list-style:none;margin:0; padding:0;}
+h1,h2,h3,h4,h5,h6 {margin:0; padding:0; font-size:12px;}
+h1,h2{font-family: Arial, Helvetica, sans-serif;font-size:14px;text-align:center;line-height:40px;}
+h3{font-size:14px;color:#333366;height:30px;line-height:30px;text-indent:10px;overflow:hidden;}
+.blue{color:#0055a1;}
+.blue a:link{color:#0055a1;}
+.blue a:visited{color:#666666;}
+.blue a:hover{color:#FF0000;}
+.black{color:#000000;}
+.black a:link{color:#000000;}
+.black a:visited{color:#000000;}
+.black a:hover{color:#FF0000;}
+.gray{color:#555555;}
+.gray a:link,.gray a:visited{color:#555555;}
+.gray a:hover{color:#FF0000;}
+
+.red{color:#FF0000;}
+.red a:link,.red a:visited{color:#FF0000;}
+.red a:hover{color:#000000;text-decoration:underline;}
+.b{font-weight:bold;}
+.size12{font-size:12px;}
+.size14{font-size:14px;}
+.size14 a:link,.size14 a:visited{font-size:14px;}
+.size14 a:hover{font-size:14px;}
+.size16 a:link,.size16 a:visited{font-size:16px;}
+.size16 a:hover{font-size:16px;}
+.height22{line-height:22px;}
+.height26{line-height:26px;}
+.text-indent10{text-indent:10px;}
+.text-indent20{text-indent:20px;}
+.datatime{position:absolute;right:5px;color:#666666;}
+.cataloglink{color:#666666;}
+.cataloglink a:link,.cataloglink a:visited{color:#666666;}
+.cataloglink a:hover{text-decoration:underline;}
+.f_r{float:right;}
+.top10{margin-top:10px;}
+.top15{margin-top:15px;}
+/*头部样式*/
+#header{width:100%; margin:0 auto; background:url(http://www.manaren.com/images/images/header-top-bg.jpg) repeat-x;}
+.header-top{width:100%;height:34px;margin:0 auto; background:url(http://www.manaren.com/images/images/header-top-bg.jpg) repeat-x;}
+.header-top-1{width:980px;height:34px;margin:0 auto; }
+.header-top-left{width:830px;float:left;line-height:25px;padding-top:5px;}
+.header-top-left li{float:left;line-height:30px;margin-right:10px;}
+.header-top-left li a:link,.header-top-left li a:visited{color: #000000;}
+.header-top-left li a:hover{}
+.header-top-left .header-member{font-weight:bold;}
+.header-top-right{width:150px;background:url(http://www.manaren.com/images/images/www.gif) no-repeat right 5px;margin-top:13px;float:left;}
+.top{width:980px;height:34px;margin:0 auto;background:url(http://www.manaren.com/images/images/www.gif) no-repeat right 15px; }
+.top{line-height:25px;padding-top:5px;}
+.top li{float:left;line-height:30px;margin-right:10px;}
+.top li a:link,.header-top-left li a:visited{color: #000000;}
+.top .top_h{float:left;}
+.top .header-member{font-weight:bold;}
+.header-logo{width:980px;height:74px;margin:2px auto;}
+.logo{width:200px;float:left;}
+.banner{width:780px;height:74px;float:left;overflow:hidden;}
+.topbanner-l{width:480px;height:60px;padding:7px 0 0 10px;float:left;}
+.topbanner-r{width:280px;height:60px;padding:6px 0 0 10px;float:left;}
+#nav{width:100%; margin:0 auto;heighe:50px;display:table;overflow:hidden;}
+.nav{width:100%;height:30px;margin:0 auto; background:url(http://www.manaren.com/images/images/top_002.gif) repeat-x;}
+.nav ul{width:980px;margin:0 auto;height:30px;line-height:30px;overflow:hidden;}
+.nav li{float:left;line-height:30px;margin-left:10px;text-align:center;}
+.nav li a:link,.nav li a:visited{color: #FFFFFF;font-weight: bold;}
+.nav li a:hover{color:#00f0ff;}
+
+
+
+
+
+
+
+.nav .nav-select{float:left;line-height:30px;width:75px;text-align:center; background:url(http://www.manaren.com/images/images/top_003.gif) no-repeat;}
+.nav .nav-select a:link,.nav .nav-select a:visited{color: #0C91EC; font-weight: bold;}
+.nav .nav-select a:hover{}
+.nav-off a:link,.nav-off a:visited,.nav-off a:hover,.nav-off a:active {margin-left:30px;color: #FFF;font-weight: bold;}
+.nav-off {height: 29px;background-repeat: no-repeat;color: #fff;CURSOR: pointer}
+.nav-on {width:75px;background: url(http://www.manaren.com/images/images/top_003.gif) no-repeat left bottom;line-height: 27px;CURSOR: pointer;color: #0C91EC;}
+.nav .nav-on a:link,.nav .nav-on a:visited{color: #0C91EC; font-weight: bold;text-align:center;}
+.nav .nav-on a:hover{}
+.nav-2{width:100%;height:30px;margin:0 auto; background:url(http://www.manaren.com/images/images/top_004.gif) repeat-x;}
+.nav-2 ul{width:980px;margin:0 auto;height:30px;line-height:30px;overflow:hidden;}
+.nav-2 li{float:left;line-height:30px;margin-right:20px;}
+.nav-2 li a:link,.nav-2 li a:visited{color: #000000;}
+.nav-2 li a:hover{}
+
+/*按钮样式*/
+.btn{
+  border:1px solid #666;
+  height:20px;
+  line-height:20px;
+  background-image:url(http://www.manaren.com/images/images/bg_btn.gif);
+  background-repeat:repeat-x;
+  cursor:pointer;
+}
+
+#main{width:980px;margin:0 auto;margin-top:10px;*margin-top:0px;}
+h1, h2, h3, h4, h5, h6, form, div, p, i, img, ul, li, ol, table, tr, td,th, fieldset, label, legend,button,input { margin:0;padding:0;}
+li{list-style:none;}
+.clr{clear:both;height:0px;overflow:hidden;visibility:hidden;}
+.row{width:980px;margin:0 auto;height:100%;display:table;}
+
+#left{float:left;width:670px;height:100%;overflow:hidden;}
+.row-left{float:left;width:286px;position:relative;height:100%;overflow:hidden;}
+.row-center{float:left;width:367px;margin-left:10px;height:100%;overflow:hidden;}
+.row-right{float:right;width:307px;height:100%;overflow:hidden;}
+.row-l{float:left;width:502px;position:relative;height:100%;overflow:hidden;}
+.row-r{float:right;margin-left:10px;width:468px;height:100%;overflow:hidden;}
+
+.row-left-1{padding:8px 10px;width:264px;height:298px;overflow:hidden;position:relative;}
+.row-left-1 span{position:absolute;right:2px;color:#666;line-height:22px;}
+.row-left-1 span a:link,.row-left-1 span a:visited{color:#666;}
+.row-left-2{padding:7px 10px;height:90px;overflow:hidden;background-color:#f1faff;}
+.pt01 {margin:0 auto;color:#07519A;text-align:center;}
+.pt01 h1{font-size:16px;margin:5px 0 5px 0;height:30px;overflow:hidden;}
+.pt01 p{padding:2px 0 8px 0;}
+.cenlst01{margin:0 auto;padding-left:10px}
+
+.bb1{border: 1px solid #AACCEE;}
+.box{height:100%;display:table;}
+
+.box-c{padding:5px;}
+
+.tdhot{height:100%;padding:0 5px;display:table;border-bottom:1px dashed #e8e8e8;padding-bottom:7px;margin-bottom:5px;}
+.tdhot h3{height:25px;line-height:25px;vertical-align:top;font-size:14px;color:#07519A;text-align:left;position:relative;}
+.tdhot h3 span{position:absolute;font-size:12px;font-weight:normal;top:0;right:0;padding-right:7px;}
+.tdhot .description{height:40px;line-height:20px;overflow:hidden;color:#666;}
+.columnh{height:270px;overflow:hidden;}
+
+/*列表样式*/
+ul.list01 li{background: url(http://www.manaren.com/images/images/list9.gif) no-repeat 0 0;padding-left:12px;line-height:22px;height:22px;*height:22px;overflow:hidden;}
+ul.list02 li{width:48%;float:left;background: url(http://www.manaren.com/images/images/list9.gif) no-repeat 0 0;text-indent:10px;line-height:22px;height:22px;overflow:hidden;}
+ul.list03 li{width:24%;float:left;text-indent:10px;line-height:22px;height:22px;overflow:hidden;}
+
+ul.list-tag li{width:33%;line-height:22px;height:22px;overflow:hidden;float:left;}
+
+.list2coll { margin: 0; padding:0; list-style: none; line-height: 1.8em; }
+/*\*/ * html .list2coll { height: 1%; } /**/ *>.list2coll { overflow: hidden; }
+.list2coll li { height: 1.8em; overflow: hidden; background: url(http://www.manaren.com/images/images/list_icon.gif) no-repeat 3px 7px; float: left; display: inline; margin: 0 5px; padding-left: 10px; width: 246px; w\idth: 246px; position:relative;}
+li cite { font-style: normal; font-size: 12px; float: right; width: 4em; color: #999; }
+li cite a { color: #999; font-size: 12px !important; }
+li cite a:visited { color: #999; }
+
+.msgtitlelist { margin: 0; padding: 0; list-style: none; line-height: 1.8em; }
+.msgtitlelist li { height: 1.8em; overflow: hidden; padding-left: 0.8em; background: url(http://www.manaren.com/images/images/list9.gif) no-repeat 3px 0px; position:relative; text-indent:10px;line-height: 1.8em;}
+.msgtitlelist .datatime{line-height: 1.8em;}
+
+.imgthumblist { margin: 0; padding: 0; list-style: none; }
+/*\*/ * html .imgthumblist { height: 1%; }/**/ *>.imgthumblist { overflow: hidden; }
+.imgthumblist li { float: left; display: inline; background: #FFF; text-align: center; width: 113px; height: 140px; w\idth: 115px; he\ight: 130px; overflow: hidden; border: 1px solid #EEE; padding: 3px; margin: 6px 0 0 0; }
+.imgthumblist p { margin: 0; line-height: 22px;height: 22px; }
+li.smallthumb { width: 85px; height: 115px; w\idth: 85px; he\ight: 97px; border-color: #DFDFDF; margin: 8px 6px 6px 0; }
+li.smallthumb div { line-height: 65px; font-size: 65px; height: 80px; }
+li.smallthumb div a { width: 90px; }
+li.smallthumb div img {  max-width: 85px; max-height: 85px; width: expression(this.width >85 && this.height < this.width ? 85: true); height: expression(this.height > 85 ? 85: true); }			
+@media all and (min-width: 0px){ li.smallthumb div img { width: 85px; height: 85px; } } /*for Opera Only*/
+
+
+/*排行*/
+.text_list_1{ background:url(http://www.manaren.com/images/images/bg_model.gif) no-repeat left -34px;}
+.text_list_1 li{ padding-left:24px; line-height:200%;}
+
+/*题注样式*/
+h2.ttl01{height:25px;line-height:25px;background: url(http://www.manaren.com/images/images/a_002.gif) repeat-x;color:#007dc5;padding-left:20px;vertical-align:top;font-size:14px;color:#07519A;text-align:left;position:relative;border-bottom:1px solid #AACCEE;}
+h2.ttl01 span{position:absolute;font-size:12px;font-weight:normal;top:0;right:0;padding-right:7px;}
+h2.ttl03{height:25px;line-height:25px;background-color:#eef2fb;border-top:2px solid #bdd2ed;color:#007dc5;padding-left:20px;vertical-align:top;font-size:14px;color:#07519A;text-align:left;position:relative;}
+h2.ttl03 span{position:absolute;font-size:12px;font-weight:normal;top:0;right:0;padding-right:7px;}
+h2.ttl04{height:25px;line-height:25px;background: url(http://www.manaren.com/images/images/a_003.gif) repeat-x;color:#007dc5;padding-left:20px;vertical-align:top;font-size:14px;color:#07519A;text-align:left;position:relative;}
+h2.ttl04 span{position:absolute;font-size:12px;font-weight:normal;top:0;right:0;padding-right:7px;}
+
+
+/*图片文章样式*/
+.pic{margin-top:5px;height:105px;overflow:hidden;}
+.pic_pic{width:80px;height:99px;border:1px solid #cecece;padding:2px;float:left;}
+.pic_content{width:260px;float:left;margin-left:5px;}
+.pic_content h3,.pic_content h3 a:link,.pic_content h3 a:visited{color:#004499; font-size:14px; height:25px;line-height:25px;font-weight:bold;position:relative;text-align:left;overflow:hidden;}
+.pic_content .tag_description{color:#333;font-size:12px;height:80px;line-height:20px;text-indent:10px;overflow:hidden;}
+.pic_content .tag_description a:link,.pic_content .tag_description a:visited{color:#FF0000;}
+
+/*推荐文章*/
+.wk-re{}
+.wk-re h3,.wk-re h3 a:link,.wk-re h3 a:visited{color:#004499; font-size:14px; height:25px;line-height:25px;font-weight:bold;position:relative;text-align:center;overflow:hidden;}
+.wk-re .tag_description{color:#333;font-size:12px;height:60px;line-height:20px;overflow:hidden;}
+.wk-re .tag_description a:link,.wk-re .tag_description a:visited{color:#FF0000;}
+
+#search{width:307px;height:60px;overflow:hidden;margin:0;padding:0;border:0;margin-top:10px;background:url(http://www.manaren.com/images/images/searchbg_1.gif) no-repeat; }
+.search{margin:0px;height:60px;background: url(http://www.manaren.com/images/images/searchbg_1.gif) no-repeat; text-align:center;border:0;position:relative;}
+.search a:link{color:#000;}
+.search a:visited{color:#000;}
+.search a:hover{color:#F00;}
+.search .navtitle {position:absolute;top:0;left:0;height:23px;}
+.search .navtitle a:link{color:#000000; text-decoration: none;}
+.search .navtitle a:visited{color:#000000; text-decoration: none;}
+.search .navtitle a:hover{color:#000000; text-decoration: none;}
+.search .navtitle ul{margin:0px;padding:0px;}
+.search .navtitle li{margin:0px;padding:0px;list-style-type:none;}
+.search .navtitle .bg_nav_s{float:left;background: url(http://www.manaren.com/images/images/searchbg2.gif) no-repeat; height:17px;padding-top:6px; width: 55px;font-weight:bold;}
+.search .navtitle .bg_nav_current_s{margin:0px;float:left;height:17px;padding-top:6px;width: 55px;}
+
+.search .se-content{position:absolute;top:23px;left:0;clear:both; height:24px; padding:6px 0px 0px 8px; text-align:left;}
+
+.row-title{margin-top:10px;background-color:#dfebf7;border:1px solid #aaccee;height:30px;position:relative;}
+.row-title h2{position:absolute;left:10px;line-height:30px;}
+.row-title span{position:absolute;right:10px;line-height:30px;}
+.row-title span h2{position:absolute;text-indent:0;padding:0;margin:0;line-height:30px;right:50px;}
+
+.box .box-title{background:url(http://www.manaren.com/images/images/a_002.gif);height:26px;line-height:26px;}
+.box .box-title a{color:#333;}
+.box .box-title .title_z{width:130px;float:left;font-size:14px;text-indent:10px;font-weight:bold;border-bottom:1px solid #aaccee;}
+.box .box-title .title_blog{width:263px;}
+.box .box-title .title_book{width:398px;}
+.box .box-title .title_ask{width:364px;}
+.box .box-title .selected{width:50px;float:left;background:#FFF;border-left:1px solid #aaccee;text-align:center;}
+.box .box-title .unselected{width:50px;float:left;border-left:1px solid #aaccee;text-align:center;border-bottom:1px solid #aaccee;}
+.box .box-content{padding:5px;}
+
+.quanzih{height:110px;overflow:hidden;}
+.spacehh{height:100px;*height:108px;overflow:hidden;}
+.bh{height:300px;overflow:hidden;}
+/*书籍*/
+.top_left_top_right_outfrom_right{width:500px;height:280px;overflow:hidden;}
+.outfrom_right_top{}
+.book1_content{ margin-top:5px;color:#666666;text-align:left;}
+.book1_title{ color:#333333; font-size:14px; font-weight:bold;}
+.book1_pinglun{ color:#FD7600; margin-top:5px; letter-spacing:2px;}
+.book1_pinglun a:link,.book1_pinglun a:visited{color:#FD7600;}
+.book1_pinglun a:hover{text-decoration:underline;}
+.outfrom_right_fot{width:490px;}
+.outfrom_right_pic{ float:left; margin-left:11px; width:89px;margin-top:7px;*margin-left:9px;border: 1px solid #EEE;padding:3px; }
+.outfrom_right_pic_right_content{ float:left; margin-top:7px;margin-left:5px; width:122px;}
+.outfrom_right_content_list{ float:left; margin-top:5px;padding:10px 5px;*padding:10px 8px;line-height:1.8em;}
+.outfrom_right_content_list ul li{background:none;float:left; width:240px;height:22px;line-height:22px;overflow:hidden;}
+
+/*管理知道样式*/
+.ask{width:466px;height:100%;}
+.ask-left{width:220px;height:270px;float:left;margin:5px;overflow:hidden;}
+.ask-right{width:220px;height:270px;float:right;margin:5px;overflow:hidden;}
+.whytopic {height:265px;padding:0 5px;overflow:hidden;}
+.whytopic h2{height:25px;line-height:25px;padding-left:20px;vertical-align:top;font-size:14px;color:#000000;text-align:left;position:relative;}
+.whytopic ul {list-style-type: none;font-size: 12px;height:265px;overflow:hidden;}
+.whytopic ul li {height:24px;line-height:200%;overflow:hidden;list-style-type: none;position:relative;}
+.whytopic ul li span{position:absolute;right:3px;}
+.whytopic ul li img{height:12px;overflow:hidden;}
+
+/*友情链接*/
+.friendsite{width:980px;margin:0 auto;height:100%;display:table;margin-top:10px;}
+h2.ttl02{margin:0;padding:0;background:url(http://www.manaren.com/images/images/indexbg2.gif) repeat-x;border-bottom:1px solid #aaccee;color:#1e3c85;font-size:14px;height:25px;line-height:25px;padding-left:10px;position:relative;text-align:left;}
+h2.ttl02 span{font-size:12px;font-weight:normal;position:absolute;right:10px;top:0;}
+.siteurl li{float:left;padding-left:5px;height:24px;line-height:24px;overflow:hidden;}
+.siteurl  li a:visited{color: #0055a1;}
+
+/*底部样式*/
+#footer{width:100%;margin:10px auto;display:table;}
+
+.footer-nav{width:100%;margin:0 auto;margin-top:10px;*margin-top:0px;padding-top:5px;text-align:center;border-top:3px solid #4DB7EB;line-height:25px;}
+.copyright{width:100%; margin:0 auto;text-align:center;line-height:20px;}
+</style>
+<script language="JavaScript" src="http://www.manaren.com/images/js/jquery.min.js"></script>
+<script language="JavaScript" src="http://www.manaren.com/images/js/common.js"></script>
+</head>
+<body>
+<!--header start-->
+<div id="header">
+    <div class="header-top">
+       <div class="top">
+          <script language="javascript" src="http://www.manaren.com/member/login.php?action=js"></script>
+       </div>
+    </div>
+    <div class="header-logo">
+         <div class="logo"><img src="/images/logo.gif" width="199" height="74" /></div>
+         <div class="banner"><script language="javascript" src="http://www.manaren.com/data/js/1.js"></script></div>
+    </div>
+</div>
+<!--header end-->
+<!--频道导航开始-->
+<div id="nav">
+   <div class="nav">
+   <ul>
+    <li class="nav-on"><a href="http://www.manaren.com/">首页</a></li>
+    <li class="nav-off"><a href="http://news.manaren.com/">资讯</a></li>
+    <li class="nav-off"><a href="http://center.manaren.com/">文库</a></li>
+    <li class="nav-off"><a href="http://down.manaren.com/">资料</a></li>
+    <li class="nav-off"><a href="http://column.manaren.com/">专栏</a></li>
+    <li class="nav-off"><a href="http://my.manaren.com/">管家</a></li>
+    <li class="nav-off"><a href="http://bbs.manaren.com/">论坛</a></li>
+    <li class="nav-off"><a href="http://book.manaren.com/">书籍</a></li>
+    <li class="nav-off"><a href="http://blog.manaren.com/">博客</a></li>
+    <li class="nav-off"><a href="http://zt.manaren.com/">专题</a></li>
+    <li class="nav-off"><a href="http://ask.manaren.com/">知道</a></li>
+    <li class="nav-off"><a href="http://www.manaren.com/member/">会员中心</a></li>
+    </ul>
+   </div>
+   <div class="nav-2">
+      <ul><li><a href="http://www.manaren.com/page/xzsm.html" target="_blank" style="color:#FF0000;">企业管理资料下载服务说明</a></li><li><a href="http://my.manaren.com/" target="_blank" style="color:#FF0000;">展示自我 结交朋友</a></li><li><a href="http://ask.manaren.com/" target="_blank" style="">您有管理问题？ 上百位管理专家为您排忧解难！</a></li></ul>
+   </div>
+</div>
+<!--频道导航结束-->
+
+<div class="row">
+        <div class="row-left">
+  <div class="box bb1 top10">
+            <h2 class="ttl01">企业管理专栏文章</h2>
+    <ul class="row-left-1 list01">
+<li><a href="http://marketing.manaren.com/yxal/show-8385-1/">贾如棋：卖西瓜的经营哲学</a><span><a href="http://www.manaren.com/u/%E8%B4%BE%E5%A6%82%E6%A3%8B/">贾如棋</a></span></li>
+<li><a href="http://marketing.manaren.com/yxal/show-8386-1/">工业企业访谈：角度决定高度</a><span><a href="http://www.manaren.com/u/%E5%8F%B6%E6%95%A6%E6%98%8E/">叶敦明</a></span></li>
+<li><a href="http://hr.manaren.com/news/show-404925-1/">人力资源管理者五项工具</a><span><a href="http://www.manaren.com/u/%E6%96%87%E5%AE%87%E7%94%9F/">文宇生</a></span></li>
+<li><a href="http://hr.manaren.com/news/show-281184-1/">寇北辰：人为什么要自我管理</a><span><a href="http://www.manaren.com/u/%E5%AF%87%E5%8C%97%E8%BE%B0/">寇北辰</a></span></li>
+<li><a href="http://fm.manaren.com/rzgl/show-5715-1/">中小企业投融资风险管理</a><span><a href="http://www.manaren.com/u/%E5%BC%A0%E9%9B%AA%E5%A5%8E/">张雪奎</a></span></li>
+<li><a href="http://fm.manaren.com/rzgl/show-5716-1/">中小企业融资难关键是融资渠道</a><span><a href="http://www.manaren.com/u/%E5%BC%A0%E9%9B%AA%E5%A5%8E/">张雪奎</a></span></li>
+<li><a href="http://sm.manaren.com/zlfx/show-2425-1/">话里话外：流程落地需要绩效来保</a><span><a href="http://www.manaren.com/u/%E5%94%90%E5%BF%97%E6%98%8E/">唐志明</a></span></li>
+<li><a href="http://mm.manaren.com/scjh/show-4726-1/">话里话外：供应链管理强调企业的</a><span><a href="http://www.manaren.com/u/%E5%94%90%E5%BF%97%E6%98%8E/">唐志明</a></span></li>
+<li><a href="http://pm.manaren.com/xmgh/show-6321-1/">话里话外：ERP必须满足B2B的传统</a><span><a href="http://www.manaren.com/u/%E5%94%90%E5%BF%97%E6%98%8E/">唐志明</a></span></li>
+<li><a href="http://qm.manaren.com/pzkz/show-1045-1/">圣元奶粉“早熟门”看质量管理</a><span><a href="http://www.manaren.com/u/%E8%B0%AD%E5%B0%8F%E8%8A%B3/">谭小芳</a></span></li>
+<li><a href="http://km.manaren.com/nrgl/show-3530-1/">寇北辰：哲学在管理中的应用</a><span><a href="http://www.manaren.com/u/%E5%AF%87%E5%8C%97%E8%BE%B0/">寇北辰</a></span></li>
+<li><a href="http://xxh.manaren.com/zhanlue/show-4238-1/">利用资讯类情报监测竞争环境变</a><span><a href="http://www.manaren.com/u/%E7%AB%9E%E4%BA%89%E6%83%85%E6%8A%A5/">赛立信竞争情报网 谢剑超</a></span></li>
+<li><a href="http://xxh.manaren.com/guihua/show-4237-1/">竞争情报的信息源分类</a><span><a href="http://www.manaren.com/u/%E7%AB%9E%E4%BA%89%E6%83%85%E6%8A%A5/">赛立信竞争情报网  黄引敏</a></span></li>
+<li><a href="http://prm.manaren.com/wjgl/show-1763-1/">中国经济走势取决于亚太地区局</a><span><a href="http://www.manaren.com/u/%E5%AF%87%E5%8C%97%E8%BE%B0/">寇北辰</a></span></li>
+</ul>
+  </div>
+        </div>
+<div class="row-center">
+ <div class="box bb1 top10">
+    <h2 class="ttl01">今日关注</h2>
+<div class="box-c">
+        <div class="tdhot">
+  <h3><a href="http://hr.manaren.com/news/show-404925-1/">人力资源管理者五项工具</a><span>文宇生</span></h3>
+  <div class="description">招聘面试是HR经理的一项重要工作内容，每个成功的经理人都必须具备高超的招聘面试技巧，使合适的人在合适的岗位上，创造岗位高绩效。</div>
+  </div>
+          <div class="tdhot">
+  <h3><a href="http://marketing.manaren.com/khgl/show-8138-1/">如何和客户融通关系</a><span>新航道</span></h3>
+  <div class="description">做推销员请客吃饭是避免不了的，但现在像竞争激烈的行业，请客户吃饭是司空见惯，现在的客户也都变成了所谓的“老油条”，有好多业务员对自己省吃俭用对客气落落大方</div>
+  </div>
+    <ul class="list02">
+    <li><a href="http://fm.manaren.com/rzgl/show-5716-1/" target="_blank">中小企业融资难关键是融资渠道不畅</a></li>
+    <li><a href="http://fm.manaren.com/news/201107/5650.html" target="_blank">浅谈财务人员的终身学习</a></li>
+      <li><a href="http://mm.manaren.com/sbgl/201006/4158.html" target="_blank">浅谈刀具涂层技术发展及应用</a></li>
+    <li><a href="http://mm.manaren.com/sbgl/201006/4150.html" target="_blank">三足式不锈钢离心机保养与检修</a></li>
+      <li><a href="http://pm.manaren.com/fwgl/201011/4902.html" target="_blank">企业资源配置应注意哪些问题</a></li>
+    <li><a href="http://pm.manaren.com/fwgl/201011/4837.html" target="_blank">简述地下室渗漏的原因及修补措施</a></li>
+      <li><a href="http://cc.manaren.com/tuanduiguanli/show-2120-1/" target="_blank">如何处理管理中人性化和制度化之间的矛盾？</a></li>
+    <li><a href="http://cc.manaren.com/qiyewenhua/show-1923-1/" target="_blank">话里话外：企业当立足战略来考虑企业内控</a></li>
+      <li><a href="http://xxh.manaren.com/ERP/201106/3653.html" target="_blank">中小企业ERP实施失败总结和原因分析</a></li>
+    <li><a href="http://xxh.manaren.com/scm/201011/3531.html" target="_blank">克莱斯勒CIO：灵动源自敏捷供应链</a></li>
+      <li><a href="http://news.manaren.com/qiye/show-47829-1/" target="_blank">AMT集团副总裁王玉荣：成长型企业如何实现持续增长之道</a></li>
+    <li><a href="http://news.manaren.com/qiye/show-47830-1/" target="_blank">俏江南的加法, 净雅美食的减法</a></li>
+    <li><a href="http://news.manaren.com/caijing/show-47832-1/" target="_blank">通涨经济时代的中小企业生存方式</a></li>
+    <li><a href="http://news.manaren.com/qiye/show-47797-1/" target="_blank">罗致：将打造中国高端葡萄酒品牌 勇与比肩世界名酒</a></li>
+    </ul>
+</div>
+           </div>
+        </div>
+        <div class="row-right">
+ <!--专栏开始-->
+ <div class="box columnh top10">
+     <h2 class="ttl04">管理专栏专家<span><a href="http://www.manaren.com/member/sqzl.php">申请专栏</a></span></h2>
+ <div class="box-c">
+      <ul class="imgthumblist">
+    <li class="smallthumb"><div><a href="http://www.manaren.com/u/%E5%AF%87%E5%8C%97%E8%BE%B0/" title="寇北辰"><img src="uploadfile/member/201012/20101222015335762.jpg" alt="寇北辰" border="0" /></a></div><p><a href="http://www.manaren.com/u/%E5%AF%87%E5%8C%97%E8%BE%B0/" target="_blank">寇北辰</a></p></li>
+    <li class="smallthumb"><div><a href="http://www.manaren.com/u/%E6%AD%A3%E7%95%A5%E9%92%A7%E7%AD%96/" title="正略钧策"><img src="http://bbs.manaren.com/uc_server//avatar.php?uid=108925&amp;size=middle" alt="正略钧策" border="0" /></a></div><p><a href="http://www.manaren.com/u/%E6%AD%A3%E7%95%A5%E9%92%A7%E7%AD%96/" target="_blank">正略钧策</a></p></li>
+    <li class="smallthumb"><div><a href="http://www.manaren.com/u/%E5%94%90%E5%BF%97%E6%98%8E/" title="唐志明"><img src="http://bbs.manaren.com/uc_server//avatar.php?uid=111661&amp;size=middle" alt="唐志明" border="0" /></a></div><p><a href="http://www.manaren.com/u/%E5%94%90%E5%BF%97%E6%98%8E/" target="_blank">唐志明</a></p></li>
+    <li class="smallthumb"><div><a href="http://www.manaren.com/u/%E7%A4%BC%E4%BB%AA%E8%AE%B2%E5%B8%88%E5%90%B4%E9%9C%9E/" title="吴霞"><img src="http://bbs.manaren.com/uc_server//avatar.php?uid=197587&amp;size=middle" alt="吴霞" border="0" /></a></div><p><a href="http://www.manaren.com/u/%E7%A4%BC%E4%BB%AA%E8%AE%B2%E5%B8%88%E5%90%B4%E9%9C%9E/" target="_blank">吴霞</a></p></li>
+    <li class="smallthumb"><div><a href="http://www.manaren.com/u/%E9%99%88%E4%BA%AE%E8%B7%A8%E5%AA%92/" title="陈亮"><img src="http://bbs.manaren.com/uc_server//avatar.php?uid=156146&amp;size=middle" alt="陈亮" border="0" /></a></div><p><a href="http://www.manaren.com/u/%E9%99%88%E4%BA%AE%E8%B7%A8%E5%AA%92/" target="_blank">陈亮</a></p></li>
+    <li class="smallthumb"><div><a href="http://www.manaren.com/u/liudongming/" title="刘东明"><img src="http://bbs.manaren.com/uc_server//avatar.php?uid=32705&amp;size=middle" alt="刘东明" border="0" /></a></div><p><a href="http://www.manaren.com/u/liudongming/" target="_blank">刘东明</a></p></li>
+    </ul>
+ </div>
+ </div>
+ <!--专栏结束-->
+ <!--搜索开始-->
+  <div id="search">
+           <iframe border="0" vspace="0" hspace="0" marginwidth="0" marginheight="0" framespacing="0" frameborder="0" scrolling="no" src="search.html"></iframe>
+  </div>
+ <!--搜索结束-->
+      </div>
+      
+</div>
+<!--管理资料开始-->
+<div class="row"><script language="javascript" src="http://www.manaren.com/data/js/16.js"></script></div>
+<div class="row">
+     <div class="row-title"><h2><a href="http://down.manaren.com/">管理资料</a></h2><span><a href="http://down.manaren.com/zlgl/catid-117-1/">战略管理</a> - <a href="http://down.manaren.com/liucheng/catid-119-1/">流程管理</a> - <a href="http://down.manaren.com/hr/catid-120-1/">人力资源管理</a> - <a href="http://down.manaren.com/caiwuguanli/catid-121-1/" target="_blank" class="blackLine14">财务管理</a> - <a href="http://down.manaren.com/yingxiaoguanli/catid-122-1/" target="_blank" class="blackLine14">营销管理</a> - <a href="http://down.manaren.com/caigouguanli/catid-124-1/" target="_blank" class="blackLine14">采购管理</a> - <a href="http://down.manaren.com/wuliuguanli/catid-125-1/" target="_blank" class="blackLine14">物流管理</a> - <a href="http://down.manaren.com/xinxihua/catid-126-1/" target="_blank" class="blackLine14">企业信息化</a> - <a href="http://down.manaren.com/gongsizhili/catid-129-1/" target="_blank" class="blackLine14">公司治理</a> - <a href="http://down.manaren.com/qiyewenhua/catid-130-1/" target="_blank" class="blackLine14">企业文化</a> - <a href="http://down.manaren.com/shengchanguanli/catid-131-1/" target="_blank" class="blackLine14">生产管理</a> - <a href="http://down.manaren.com/zhiliangguanli/catid-132-1/" target="_blank" class="blackLine14">质量管理</a> - <a href="http://down.manaren.com/xiangmuguanli/catid-133-1/" target="_blank" class="blackLine14">项目管理</a></span></div>
+     <div id="left">
+ <div class="row-left top10">
+ <!--下载排行开始-->
+     <div class="box bb1">
+             <div class="box-title">
+                  <span class="title_z">下载排行榜</span>
+          <span class="selected" id="btn_zl1" onmouseover="tabSelect(1,'zl');">周排行</span>
+          <span class="unselected" id="btn_zl2" onmouseover="tabSelect(2,'zl');">月排行</span>
+          <span class="unselected" id="btn_zl3" onmouseover="tabSelect(3,'zl')">总排行</span>
+  <div class="clr"></div>
+             </div>
+         <div class="box-content">
+      <div style="display: block;" id="zl1">
+      <ul class="text_list_1">
+        <li><a href="http://down.manaren.com/hr/peixunguanli/200806/6855.html" title="拟制规章制度培训教程">拟制规章制度培训教程</a></li>
+        <li><a href="http://down.manaren.com/xiaoshouguanli/xxgjgl/show-98753-1/" title="cyber超市的网上销售方案">cyber超市的网上销售方案</a></li>
+        <li><a href="http://down.manaren.com/caiwuguanli/cwglgj/show-150462-1/" title="砍掉本钱：企业家的12把财务砍刀">砍掉本钱：企业家的12把财务砍刀...</a></li>
+        <li><a href="http://down.manaren.com/yingxiaoguanli/yxcha/show-152976-1/" title="展厅治理标准">展厅治理标准</a></li>
+        <li><a href="http://down.manaren.com/hr/peixunguanli/show-153373-1/" title="小肥羊餐饮连锁新员工培训教材">小肥羊餐饮连锁新员工培训教材...</a></li>
+        <li><a href="http://down.manaren.com/wuliuguanli/wlrj/200806/7714.html" title="现代商业企业物流系统管理">现代商业企业物流系统管理</a></li>
+        <li><a href="http://down.manaren.com/caiwuguanli/cunhuoguanli/200808/15140.html" title="库存管理">库存管理</a></li>
+        <li><a href="http://down.manaren.com/yingxiaoguanli/yxcha/show-148486-1/" title="营销财务计划">营销财务计划</a></li>
+        <li><a href="http://down.manaren.com/hr/ruzhizhiyin/200806/6731.html" title="主管人员的人际领导技能">主管人员的人际领导技能</a></li>
+        <li><a href="http://down.manaren.com/hr/xinchoujiegou/200806/7095.html" title="绩效考核与薪酬体系设计方案">绩效考核与薪酬体系设计方案...</a></li>
+        </ul>
+  </div>
+      <div style="display: none;" id="zl2">
+      <ul class="text_list_1">
+        <li><a href="http://down.manaren.com/hr/rlzygh/show-153598-1/" title="人力资源战略方案">人力资源战略方案</a></li>
+        <li><a href="http://down.manaren.com/hr/peixunguanli/200806/6855.html" title="拟制规章制度培训教程">拟制规章制度培训教程</a></li>
+        <li><a href="http://down.manaren.com/xiaoshouguanli/xxgjgl/show-98753-1/" title="cyber超市的网上销售方案">cyber超市的网上销售方案</a></li>
+        <li><a href="http://down.manaren.com/caiwuguanli/cwglgj/show-150462-1/" title="砍掉本钱：企业家的12把财务砍刀">砍掉本钱：企业家的12把财务砍刀</a></li>
+        <li><a href="http://down.manaren.com/yingxiaoguanli/yxcha/show-152976-1/" title="展厅治理标准">展厅治理标准</a></li>
+        <li><a href="http://down.manaren.com/hr/peixunguanli/show-153373-1/" title="小肥羊餐饮连锁新员工培训教材">小肥羊餐饮连锁新员工培训教材</a></li>
+        <li><a href="http://down.manaren.com/liucheng/cjgllck/show-123138-1/" title="大型地产企业集团目标管理流程(多个文件)">大型地产企业集团目标管理流程(多个文件)</a></li>
+        <li><a href="http://down.manaren.com/wuliuguanli/wlrj/200806/7714.html" title="现代商业企业物流系统管理">现代商业企业物流系统管理</a></li>
+        <li><a href="http://down.manaren.com/xiaoshouguanli/khgxgl/200810/92253.html" title="可口可乐客户服务管理">可口可乐客户服务管理</a></li>
+        <li><a href="http://down.manaren.com/hr/jixiaokaohe/show-109795-1/" title="xx产业集团目标管理-绩效考核专题培训(ppt117)">xx产业集团目标管理-绩效考核专题培训(ppt117)</a></li>
+        </ul>
+  </div>
+      <div style="display: none;" id="zl3">
+      <ul class="text_list_1">
+        <li><a href="http://down.manaren.com/hr/jixiaokaohe/200805/525.html" title="绩效考核手册">绩效考核手册</a></li>
+        <li><a href="http://down.manaren.com/hr/ruzhizhiyin/200806/6731.html" title="主管人员的人际领导技能">主管人员的人际领导技能</a></li>
+        <li><a href="http://down.manaren.com/shengchanguanli/xcgl/200806/6649.html" title="现场管理知识培训教材">现场管理知识培训教材</a></li>
+        <li><a href="http://down.manaren.com/hr/hrtools/200805/437.html" title="成功的谈判技巧">成功的谈判技巧</a></li>
+        <li><a href="http://down.manaren.com/zhishiguanli/zsglgj/200806/6645.html" title="问题分析与解决">问题分析与解决</a></li>
+        <li><a href="http://down.manaren.com/hr/peixunguanli/200806/6855.html" title="拟制规章制度培训教程">拟制规章制度培训教程</a></li>
+        <li><a href="http://down.manaren.com/hot/zhongguoshiguanli/200808/15908.html" title="中华人民共和国劳动合同法">中华人民共和国劳动合同法</a></li>
+        <li><a href="http://down.manaren.com/hr/xinchouguanli/200807/13151.html" title="工资表">工资表</a></li>
+        <li><a href="http://down.manaren.com/liucheng/cjgllck/200806/6468.html" title="持续改进管理程序">持续改进管理程序</a></li>
+        <li><a href="http://down.manaren.com/shengchanguanli/xcgl/200805/434.html" title="车间在制品管理">车间在制品管理</a></li>
+        </ul>
+  </div>
+ </div>
+ </div>
+ <!--下载排行结束-->
+ <!--热门下载标签开始-->
+ <div class="box bb1 top10">
+    <h2 class="ttl01">热门标签<span><a href="http://down.manaren.com/new.html"><font color="#07519A">最新资料</font></a>&nbsp;</span></h2>
+ <div class="box-c">
+  <ul class="list-tag">
+   <li><a href="http://down.manaren.com/hot/jggl/catid-180-1/">结果管理</a></li><li><a href="http://down.manaren.com/hot/lanhaizhanlue/catid-181-1/">蓝海战略</a></li><li><a href="http://down.manaren.com/hot/xijieguanli/catid-182-1/">细节管理</a></li><li><a href="http://down.manaren.com/hot/zhongguoshiguanli/catid-183-1/">中国式管理</a></li><li><a href="http://down.manaren.com/gongsizhili/czxy/200909/san-fang-xie-yi-shu-fan-ben98638.html" target="_blank" style="">三方协议书范本</a></li><li><a href="http://down.manaren.com/liucheng/ywlc/catid-392-1/" target="_blank" style="">业务流程</a></li><li><a href="http://down.manaren.com/zlgl/ziyuanpingjia/catid-140-1/ " target="_blank" style="">资源评价</a></li><li><a href="http://down.manaren.com/zlgl/hghjfx/catid-138-1/" target="_blank" style="">宏观环境分析</a></li><li><a href="http://down.manaren.com/zlgl/cyhzl/catid-148-1/" target="_blank" style="">差异化战略</a></li><li><a href="http://down.manaren.com/zlgl/gjhzl/catid-156-1/" target="_blank" style="">国际化战略</a></li><li><a href="http://down.manaren.com/zlgl/ziyuanpingjia/catid-140-1/ " target="_blank" style="">资源评价</a></li><li><a href="http://down.manaren.com/liucheng/ywlc/catid-392-1/" target="_blank" style="">业务流程</a></li></ul>
+</div>
+ </div>
+ <!--热门下载标签结束-->
+ </div>
+ <div class="row-center">
+ <!--推荐下载开始-->
+ <div class="box top10">
+     <h2 class="ttl03">企业管理资料推荐下载</h2>
+ <div class="box-c">
+      <ul class="list02">
+        <li><a href="http://down.manaren.com/liucheng/lcglgj/200805/497.html" title="海外作业采办管理规定">海外作业采办管理规定</a></li>
+        <li><a href="http://down.manaren.com/zlgl/ziyuanpingjia/200805/498.html" title="韩国节省物流费用的战略">韩国节省物流费用的战略</a></li>
+        <li><a href="http://down.manaren.com/caiwuguanli/hetongguanli/200805/499.html" title="合同的签定">合同的签定</a></li>
+        <li><a href="http://down.manaren.com/liucheng/cjgllck/200805/500.html" title="合同审批流程程序文件">合同审批流程程序文件</a></li>
+        <li><a href="http://down.manaren.com/gongsizhili/gszlgj/200805/501.html" title="合作营业厅服务质量评分表">合作营业厅服务质量评分表</a></li>
+        <li><a href="http://down.manaren.com/gongsizhili/gszlgj/200805/502.html" title="合作营业厅管理办法">合作营业厅管理办法</a></li>
+        <li><a href="http://down.manaren.com/gongsizhili/gszlgj/200805/503.html" title="合作营业厅建设的若干规范">合作营业厅建设的若干规范</a></li>
+        <li><a href="http://down.manaren.com/zuzhijiegou/gangweishuomingshu/200805/504.html" title="后勤班班长岗位说明书">后勤班班长岗位说明书</a></li>
+        <li><a href="http://down.manaren.com/zuzhijiegou/gangweishuomingshu/200805/505.html" title="糊盒工岗位说明书">糊盒工岗位说明书</a></li>
+        <li><a href="http://down.manaren.com/zlgl/hyfx/200805/506.html" title="化纤行业扫描">化纤行业扫描</a></li>
+        <li><a href="http://down.manaren.com/xingzhengguanli/dangan/200805/507.html" title="会计档案管理办法">会计档案管理办法</a></li>
+        <li><a href="http://down.manaren.com/zuzhijiegou/gangweishuomingshu/200805/508.html" title="会计经理岗位说明书">会计经理岗位说明书</a></li>
+        <li><a href="http://down.manaren.com/zuzhijiegou/gangweishuomingshu/200805/509.html" title="会计主管岗位说明书">会计主管岗位说明书</a></li>
+        <li><a href="http://down.manaren.com/zuzhijiegou/gangweishuomingshu/200805/510.html" title="会计助理,会计文员岗位说明书">会计助理,会计文员岗位说明书</a></li>
+        <li><a href="http://down.manaren.com/zuzhijiegou/gangweishuomingshu/200805/511.html" title="会计助理岗位说明书">会计助理岗位说明书</a></li>
+        <li><a href="http://down.manaren.com/zuzhijiegou/gangweishuomingshu/200805/512.html" title="会员主管岗位说明书">会员主管岗位说明书</a></li>
+        <li><a href="http://down.manaren.com/zuzhijiegou/gangweishuomingshu/200805/513.html" title="混和岗位岗位说明书">混和岗位岗位说明书</a></li>
+        <li><a href="http://down.manaren.com/xingzhengguanli/guanligongju/200805/514.html" title="基建管理办法">基建管理办法</a></li>
+        <li><a href="http://down.manaren.com/zuzhijiegou/gangweishuomingshu/200805/515.html" title="基建维修班长岗位说明书">基建维修班长岗位说明书</a></li>
+        <li><a href="http://down.manaren.com/hr/jixiaozhibiao/200805/516.html" title="基建维修班长年度岗位绩效考核表">基建维修班长年度岗位绩效考核表</a></li>
+        </ul>
+ </div>
+ </div>
+ <!--推荐下载结束-->
+ <!--最新下载开始-->
+ <div class="box top10">
+       <h2 class="ttl03">最新管理资料下载</h2>
+   <div class="box-c">
+      <ul class="list02">
+        <li><a href="http://down.manaren.com/hr/hrtools/show-154234-1/" title="战略策划部经理职位说明书">战略策划部经理职位说明书</a></li>
+        <li><a href="http://down.manaren.com/shengchanguanli/scglgj/show-154233-1/" title="宴会摆台服务工作标准">宴会摆台服务工作标准</a></li>
+        <li><a href="http://down.manaren.com/shengchanguanli/hjbh/show-154232-1/" title="环境建设部经理任务绩效指标.doc">环境建设部经理任务绩效指标.doc</a></li>
+        <li><a href="http://down.manaren.com/hr/rlzygh/show-154231-1/" title="人才与人力资源规划ppt94.ppt">人才与人力资源规划ppt94.ppt</a></li>
+        <li><a href="http://down.manaren.com/caiwuguanli/caiwuzhanlue/show-154230-1/" title="××企业发展战略咨询报告">××企业发展战略咨询报告</a></li>
+        <li><a href="http://down.manaren.com/shengchanguanli/scglgj/show-154229-1/" title="进货检验规范书">进货检验规范书</a></li>
+        <li><a href="http://down.manaren.com/hr/rlzygh/show-154228-1/" title="六西格玛与战略人力资源">六西格玛与战略人力资源</a></li>
+        <li><a href="http://down.manaren.com/yingxiaoguanli/gggl/show-154227-1/" title="广告创意轨道广告创意的21种模式">广告创意轨道广告创意的21种模式</a></li>
+        <li><a href="http://down.manaren.com/zlgl/fyxzl/show-154226-1/" title="中国教育科研发展教育资源">中国教育科研发展教育资源</a></li>
+        <li><a href="http://down.manaren.com/yingxiaoguanli/khfx/show-154225-1/" title="YH客户服务">YH客户服务</a></li>
+        </ul>
+   </div>
+ </div>
+ <!--最新下载结束-->
+ </div>
+ </div>
+ <div class="row-right">
+ <!--管理资料分类开始-->
+ <div class="box bb1 top10">
+       <h2 class="ttl01">管理资料分类</h2>
+   <div class="box-c">
+   <ul class="list03">
+   <li><a href="http://down.manaren.com/zlgl/hyfx/catid-157-1/">行业分析</a></li><li><a href="http://down.manaren.com/zlgl/jyjh/catid-161-1/">年度经营计划</a></li><li><a href="http://down.manaren.com/zlgl/hxjzl/catid-162-1/">核心竞争力</a></li><li><a href="http://down.manaren.com/zuzhijiegou/gangwei/catid-177-1/">岗位职责</a></li><li><a href="http://down.manaren.com/zuzhijiegou/gangweishuomingshu/catid-178-1/">岗位说明书</a></li><li><a href="http://down.manaren.com/liucheng/liuchengyouhua/catid-389-1/">流程优化</a></li><li><a href="http://down.manaren.com/hr/peixunguanli/catid-370-1/">培训管理</a></li><li><a href="http://down.manaren.com/hr/zhiyeshengyaguihua/catid-371-1/">职业生涯规划</a></li><li><a href="http://down.manaren.com/hr/zhaopinguanli/catid-373-1/">招聘管理</a></li><li><a href="http://down.manaren.com/hr/xinchouguanli/catid-379-1/">薪酬管理</a></li><li><a href="http://down.manaren.com/hr/tuanduijianshe/catid-382-1/">团队建设</a></li><li><a href="http://down.manaren.com/hr/jixiaoguanli/catid-384-1/">绩效管理</a></li><li><a href="http://down.manaren.com/hr/jixiaokaohe/catid-385-1/">绩效考核</a></li><li><a href="http://down.manaren.com/caiwuguanli/gudingzichanguanli/catid-342-1/">固定资产管理</a></li><li><a href="http://down.manaren.com/caiwuguanli/hesuanguanli/catid-347-1/">核算管理</a></li><li><a href="http://down.manaren.com/caiwuguanli/hetongguanli/catid-351-1/">合同管理</a></li><li><a href="http://down.manaren.com/caiwuguanli/caiwuzhidu/catid-353-1/">财务制度</a></li><li><a href="http://down.manaren.com/caiwuguanli/xianjinliu/catid-358-1/">现金流</a></li><li><a href="http://down.manaren.com/caiwuguanli/shenji/catid-365-1/">审计</a></li><li><a href="http://down.manaren.com/yingxiaoguanli/ppgl/catid-338-1/">品牌管理</a></li><li><a href="http://down.manaren.com/yingxiaoguanli/yxcha/catid-339-1/">营销方案</a></li><li><a href="http://down.manaren.com/zibenyunying/jgbg/catid-275-1/">兼并收购</a></li><li><a href="http://down.manaren.com/zibenyunying/shangyejihuashu/catid-280-1/">商业计划书</a></li><li><a href="http://down.manaren.com/zibenyunying/zichanchongzu/catid-279-1/">资产重组</a></li><li><a href="http://down.manaren.com/gongsizhili/gszc/catid-256-1/">公司章程</a></li><li><a href="http://down.manaren.com/gongsizhili/dsh/catid-258-1/">董事会</a></li><li><a href="http://down.manaren.com/gongsizhili/gqzr/catid-260-1/">股权转让</a></li><li><a href="http://down.manaren.com/qiyewenhua/ygsc/catid-250-1/">员工手册</a></li><li><a href="http://down.manaren.com/qiyewenhua/xwgf/catid-251-1/">行为规范</a></li><li><a href="http://down.manaren.com/shengchanguanli/sbgl/catid-237-1/">设备管理</a></li><li><a href="http://down.manaren.com/shengchanguanli/aqgl/catid-239-1/">安全管理</a></li><li><a href="http://down.manaren.com/zhiliangguanli/shfw/catid-230-1/">售后服务</a></li><li><a href="http://down.manaren.com/xiangmuguanli/xiangmujingli/catid-224-1/">项目经理</a></li><li><a href="http://down.manaren.com/zhishiguanli/catid-134-1/" target="_blank" class="blackLine14">知识管理</a></li><li><a href="http://down.manaren.com/gonggongguanxi/catid-135-1/" target="_blank" class="blackLine14">公共关系管理</a></li><li><a href="http://down.manaren.com/gonggongguanxi/weijigongguan/catid-205-1/">危机公关</a></li><li><a href="http://down.manaren.com/xingzhengguanli/catid-136-1/" target="_blank" class="blackLine14">行政管理</a></li><li><a href="http://down.manaren.com/xingzhengguanli/zongjie/catid-194-1/">总结</a></li><li><a href="http://down.manaren.com/xingzhengguanli/huiyijiyao/catid-196-1/">会议纪要</a></li><li><a href="http://down.manaren.com/xingzhengguanli/wenshugongzuo/catid-198-1/">文书工作</a></li><li><a href="http://down.manaren.com/hot/catid-137-1/" target="_blank" class="blackLine14">管理热点</a></li><li><a href="http://down.manaren.com/zuzhijiegou/catid-118-1/">组织结构</a></li><li><a href="http://down.manaren.com/yafaguanli/catid-127-1/" target="_blank" class="blackLine14">研发管理</a></li><li><a href="http://down.manaren.com/zibenyunying/catid-128-1/" target="_blank" class="blackLine14">资本运营</a></li>
+   </ul>
+   </div>
+ </div>
+ <!--管理资料分类结束-->
+ <!--精选资料开始-->
+ <div class="box bb1 top15">
+       <h2 class="ttl01">精选资料推荐</h2>
+   <div class="box-c">
+   <ul class="list02">
+                        <li><a href="http://down.manaren.com/hr/peixunguanli/200807/14543.html">新员工培训计划表.doc</a></li>
+                    <li><a href="http://down.manaren.com/caiwuguanli/gudingzichanguanli/200810/47579.html">固定资产管理办法</a></li>
+                    <li><a href="http://down.manaren.com/caiwuguanli/cunhuoguanli/200806/10339.html">入库、出库流程图</a></li>
+                    <li><a href="http://down.manaren.com/hr/xinchouguanli/200810/36089.html">某重工股份有限公司高层管理人员薪酬调查报告</a></li>
+                    <li><a href="http://down.manaren.com/xingzhengguanli/xingzhengzhidu/200810/81627.html">客户资料管理制度</a></li>
+                    <li><a href="http://down.manaren.com/hr/hrtools/show-101789-1/">最新入党申请书</a></li>
+                    <li><a href="http://down.manaren.com/zhishiguanli/gongxiang/show-101818-1/">BrainStorming头脑风暴法运用实务</a></li>
+                    <li><a href="http://down.manaren.com/yingxiaoguanli/yxjh/show-101847-1/">30个房产类营销策划案例(doc443)</a></li>
+     </ul>
+   </div>
+ </div>
+ <!--精选资料结束-->
+ </div>
+</div>
+<!--管理资料结束-->
+<!--管理文库开始-->
+<div class="row">
+     <div class="row-title"><h2><a href="http://center.manaren.com/">管理文库</a></h2><span><a href="http://center.manaren.com/">更多</a></span></div>
+ <div id="left">
+     <div class="row-left">
+ <!--战略管理频道开始-->
+ <div class="box bb1 top10">
+       <h2 class="ttl01"><a href="http://sm.manaren.com/">战略管理</a></h2>
+   <div class="box-c">
+   <ul class="list02">
+                        <li><a href="http://sm.manaren.com/zlfx/show-2302-1/">央企走好整体上市之路</a></li>
+                    <li><a href="http://sm.manaren.com/alfx/show-2278-1/">寇北辰:如何管理企业与外部的关系</a></li>
+                    <li><a href="http://sm.manaren.com/zlgh/201004/1565.html">基业长青的两个法宝：创新和管理</a></li>
+                    <li><a href="http://sm.manaren.com/zlgh/show-1251-1/">企业软实力：核心生存与核心生存力</a></li>
+                          <li><a href="http://sm.manaren.com/news/show-85-1/">劳动部门提醒劳动者:端午节加班可得3倍工资</a></li>
+                    <li><a href="http://sm.manaren.com/zlfx/show-86-1/">红罐王老吉品牌定位战略 </a></li>
+                    <li><a href="http://sm.manaren.com/zlss/show-87-1/">强化企业战略协同 在CEO和CIO间建专线</a></li>
+                    <li><a href="http://sm.manaren.com/zlgh/show-90-1/">企业成长的“最佳逆境原则”</a></li>
+                    <li><a href="http://sm.manaren.com/news/show-91-1/">CA收购MDY 将积极推动CA智能存储管理战略</a></li>
+                    <li><a href="http://sm.manaren.com/news/show-92-1/">CA收购MDY 将积极推动CA智能存储管理战略</a></li>
+     </ul>
+   </div>
+ </div>
+ <!--战略管理频道结束-->
+ <!--公共关系频道开始-->
+ <div class="box bb1 top10">
+       <h2 class="ttl01"><a href="http://prm.manaren.com/">公共关系</a></h2>
+   <div class="box-c">
+   <ul class="list02">
+                        <li><a href="http://prm.manaren.com/wjgl/show-1743-1/">用“三多”应对国际舆论挑衅</a></li>
+                    <li><a href="http://prm.manaren.com/wjya/200810/993.html">《惠州市海上搜救应急预案》出台</a></li>
+                    <li><a href="http://prm.manaren.com/tscl/200810/1015.html">国内企业处理投诉标准化进入倒计时</a></li>
+                    <li><a href="http://prm.manaren.com/mthz/200810/1002.html">向媒体求助是不是都是事出无奈</a></li>
+                          <li><a href="http://prm.manaren.com/anli/200807/303.html">在华日企危机公关：丰田  “霸道”广告</a></li>
+                    <li><a href="http://prm.manaren.com/wjgg/200807/304.html">开放 透明是处理公关危机的不二法则</a></li>
+                    <li><a href="http://prm.manaren.com/wjgg/200807/305.html">佳能再遭投诉 承诺解决问题未见行动</a></li>
+                    <li><a href="http://prm.manaren.com/wjgg/200807/306.html">从信阳危机公关完败谈公权力制约</a></li>
+                    <li><a href="http://prm.manaren.com/wjya/200807/307.html">万科彰显房企品牌危机预警体系缺失</a></li>
+                    <li><a href="http://prm.manaren.com/wjya/200807/308.html">IT危机预警管理：以建立灾备体系为重</a></li>
+     </ul>
+   </div>
+ </div>
+ <!--公共关系频道结束-->
+ <!--组织结构频道开始-->
+ <div class="box bb1 top10">
+       <h2 class="ttl01"><a href="http://os.manaren.com/">组织结构</a></h2>
+   <div class="box-c">
+   <ul class="list02">
+                        <li><a href="http://os.manaren.com/news/show-930-1/">《功夫熊猫》蕴藏着适应性继任管理智慧</a></li>
+                    <li><a href="http://os.manaren.com/news/200810/792.html">重组转型期中国电信行业将会出现五大趋势</a></li>
+                    <li><a href="http://os.manaren.com/gwtx/200810/883.html">体育系统岗位轮换将开始 田管中心主任离职在即</a></li>
+                    <li><a href="http://os.manaren.com/fgxz/200810/872.html">微软MSN与金山毒霸宣布展开合作</a></li>
+                          <li><a href="http://os.manaren.com/jgsj/200809/709.html">期货将成为理财的第三次革命</a></li>
+                    <li><a href="http://os.manaren.com/jgsj/200809/710.html">解析服装巨头ZARA商业模式创新</a></li>
+                    <li><a href="http://os.manaren.com/jgsj/200809/711.html">高新科技浪潮席卷传统制鞋业</a></li>
+                    <li><a href="http://os.manaren.com/jgsj/200809/712.html">中山大学：数据中心架构的研究与实践</a></li>
+                    <li><a href="http://os.manaren.com/jgtz/200809/713.html">关于印刷及设备器材工业结构调整的思考</a></li>
+                    <li><a href="http://os.manaren.com/jgtz/200809/714.html">江西工业结构调整和优化取得明显进展</a></li>
+     </ul>
+   </div>
+ </div>
+ <!--组织结构频道结束-->
+ <!--质量管理频道开始-->
+ <div class="box bb1 top10">
+       <h2 class="ttl01"><a href="http://qm.manaren.com/">质量管理</a></h2>
+   <div class="box-c">
+   <ul class="list02">
+                        <li><a href="http://qm.manaren.com/shfw/200810/406.html">现代汽车拉开进口车售后服务升级战</a></li>
+                    <li><a href="http://qm.manaren.com/zlgh/200810/379.html">借神秘顾客了解你的市场</a></li>
+                    <li><a href="http://qm.manaren.com/zlzl/200810/382.html">信息化：精细化企业的质量管理</a></li>
+                    <li><a href="http://qm.manaren.com/shfw/200810/388.html">售后服务将改变中国制造冰箱博弈格局</a></li>
+                          <li><a href="http://qm.manaren.com/zlzl/200808/278.html">三大缺陷 制约质量管理</a></li>
+                    <li><a href="http://qm.manaren.com/zlgh/200808/279.html">生产过程中的质量管理三步曲</a></li>
+                    <li><a href="http://qm.manaren.com/zlgh/200808/280.html">质量管理:治标更要治本!</a></li>
+                    <li><a href="http://qm.manaren.com/zlgh/200808/281.html">质量管理失败的十个主要原因</a></li>
+                    <li><a href="http://qm.manaren.com/zlgh/200808/282.html">质量管理的“纵横驰骋”</a></li>
+                    <li><a href="http://qm.manaren.com/zlgh/200808/283.html">强化质量管理，促就基业常青</a></li>
+                    <li><a href="http://qm.manaren.com/zlgh/200808/284.html">如何做好原材料进货的质量控制</a></li>
+                    <li><a href="http://qm.manaren.com/zlgh/200808/285.html">质量管理与企业成功</a></li>
+                    <li><a href="http://qm.manaren.com/zlgh/200808/286.html">项目管理过程之质量管理</a></li>
+                    <li><a href="http://qm.manaren.com/zlzl/200808/287.html">美日企业质量管理</a></li>
+     </ul>
+   </div>
+ </div>
+ <!--质量管理频道结束-->
+ <!--知识管理频道开始-->
+ <div class="box bb1 top10">
+       <h2 class="ttl01"><a href="http://km.manaren.com/">知识管理</a></h2>
+   <div class="box-c">
+   <ul class="list02">
+                        <li><a href="http://km.manaren.com/glgh/show-3518-1/">AMT咨询：企业如何进行可持续的知识管理</a></li>
+                    <li><a href="http://km.manaren.com/news/200810/309.html">知识管理系统和OA的区别在哪里</a></li>
+                    <li><a href="http://km.manaren.com/glzl/200810/304.html">第五项修炼：学习型组织的知识管理</a></li>
+                    <li><a href="http://km.manaren.com/glgh/200807/190.html">为什么需要知识管理咨询</a></li>
+                          <li><a href="http://km.manaren.com/txsj/201107/3577.html">广告炒作与蒙派药人的没落（一）</a></li>
+                    <li><a href="http://km.manaren.com/aljl/201107/3578.html">茶叶包装不该缺少点睛之笔</a></li>
+                    <li><a href="http://km.manaren.com/glgh/show-3579-1/">规范化管理破解高新技术企业知识管理应用难题</a></li>
+                    <li><a href="http://km.manaren.com/txsj/201107/3580.html">企业家是广东优秀文化最杰出的代表</a></li>
+                    <li><a href="http://km.manaren.com/txsj/201107/3581.html">管理不能凭感觉</a></li>
+                    <li><a href="http://km.manaren.com/txsj/201107/3584.html">哇哈哈—达能：从模范夫妻到反目成仇</a></li>
+     </ul>
+   </div>
+ </div>
+ <!--知识管理频道结束-->
+ </div>
+     <div class="row-center">
+ <!--人力资源频道开始-->
+ <div class="box top10">
+     <h2 class="ttl03"><a href="http://hr.manaren.com">人力资源管理</a></h2>
+ <div class="box-c">
+            <div class="pic">
+  <div class="pic_pic"><a href="http://hr.manaren.com/yccp/show-3616-1/"  target="_blank"><img src="uploadfile/hr/uploadfile/201004/20100423095646213.jpg" width="80" height="99" border="0" /></a></div>
+  <div class="pic_content">
+  <h3> <a href="http://hr.manaren.com/yccp/show-3616-1/">领导选人、用人、管人的技巧</a></h3>
+  <div class="tag_description">　　谭小芳老师了解到，在《将苑—知人性》中，诸葛亮提出了七种考察人才的方法：通过考察对是非之事的处理来看其志向;通过辩论诘难来考察其应变能力;通过讨计观察其见识;通过告诉他祸难观察其是否勇敢;通过让其喝醉来考察 ......</div>
+  </div>
+  </div>
+   </div>
+ <div class="box-c">
+      <ul class="list02">
+                        <li><a href="http://hr.manaren.com/zpxb/show-188290-1/">HR VS咨询顾问 探究最强“识人术”</a></li>
+                    <li><a href="http://hr.manaren.com/jxkh/show-94619-1/">人力资源中绩效推行的几大困扰</a></li>
+                    <li><a href="http://hr.manaren.com/jxkh/201105/105693.html">完美的绩效考核模板</a></li>
+                    <li><a href="http://hr.manaren.com/jxkh/201004/3724.html">绩效评估中的十种愚蠢行为 </a></li>
+                          <li><a href="http://hr.manaren.com/yccp/show-95527-1/">反思企业中的人才浪费现象——让隐性人才不再隐形</a></li>
+                    <li><a href="http://hr.manaren.com/yccp/show-95531-1/">彼此需要——中国民营企业对接资本市场的成败关键</a></li>
+                    <li><a href="http://hr.manaren.com/yccp/show-95532-1/">从任正非的交班模式看中国民企治理意识</a></li>
+                    <li><a href="http://hr.manaren.com/gtjl/show-96775-1/">安全生产“百日活动”倡议书</a></li>
+                    <li><a href="http://hr.manaren.com/news/show-98311-1/">中国HR呈现两极分化：事务型VS专家型</a></li>
+                    <li><a href="http://hr.manaren.com/pxfz/201105/100530.html">人才经营:为引源头活水来</a></li>
+        </ul>
+ </div>
+ </div>
+ <!--人力资源频道结束-->
+ <!--财务管理频道开始-->
+ <div class="box top10">
+     <h2 class="ttl03"><a href="http://fm.manaren.com/">财务管理</a></h2>
+ <div class="box-c">
+            <div class="pic">
+  <div class="pic_pic"><a href="http://fm.manaren.com/zjgl/show-4830-1/"  target="_blank"><img src="uploadfile/finance/uploadfile/201004/20100423095959558.jpg" width="80" height="99" border="0" /></a></div>
+  <div class="pic_content">
+  <h3> <a href="http://fm.manaren.com/zjgl/show-4830-1/">如何才能有效掌控企业的现金流 </a></h3>
+  <div class="tag_description">现金管理的目的就是在保证企业生产经营活动所需现金的同时，尽可能节约现金，减少现金持有量，而将闲置的现金用于投资，以获取更多的投资收益。</div>
+  </div>
+  </div>
+   </div>
+ <div class="box-c">
+      <ul class="list02">
+                        <li><a href="http://fm.manaren.com/rzgl/show-5715-1/">中小企业投融资风险管理</a></li>
+                    <li><a href="http://fm.manaren.com/tzgl/show-5489-1/">文化产业，下一轮投资热点</a></li>
+                    <li><a href="http://fm.manaren.com/kjhs/show-5531-1/">会计的思考（1）：集团资金管控的信息化建设路径</a></li>
+                    <li><a href="http://fm.manaren.com/sygl/200809/1050.html">如何化解企业应收账款风险</a></li>
+                          <li><a href="http://fm.manaren.com/zcgl/201006/5256.html">出纳工作的基本原则</a></li>
+                    <li><a href="http://fm.manaren.com/zcgl/201006/5257.html">出纳人员的权限有哪些</a></li>
+                    <li><a href="http://fm.manaren.com/zcgl/201006/5258.html">出纳工作的职能是什么？</a></li>
+                    <li><a href="http://fm.manaren.com/zcgl/201006/5259.html">什么是出纳？</a></li>
+                    <li><a href="http://fm.manaren.com/zcgl/201006/5260.html">出纳人员的职责是什么?</a></li>
+                    <li><a href="http://fm.manaren.com/zcgl/201006/5261.html">出纳人员应该遵守哪些职业道德？</a></li>
+        </ul>
+ </div>
+ </div>
+ <!--财务管理频道结束-->
+ <!--市场营销频道开始-->
+ <div class="box top10">
+     <h2 class="ttl03"><a href="http://marketing.manaren.com/">市场营销</a></h2>
+ <div class="box-c">
+            <div class="pic">
+  <div class="pic_pic"><a href="http://marketing.manaren.com/xsgl/show-4607-1/"  target="_blank"><img src="uploadfile/marketing/uploadfile/201004/20100426113456590.jpg" width="80" height="99" border="0" /></a></div>
+  <div class="pic_content">
+  <h3> <a href="http://marketing.manaren.com/xsgl/show-4607-1/">陌生拜访销售有没有用？</a></h3>
+  <div class="tag_description">　　陌生拜访是指与顾客无预约的拜访，也称为Door to  door，是一种简单、易操作的开发客户的方法。常常被人怀疑是否真的有助于销售业绩的提高，而且有些人认为这样有损公司形象。可是公司总是要求业务代表，尤其是新业务代 ......</div>
+  </div>
+  </div>
+   </div>
+ <div class="box-c">
+      <ul class="list02">
+                        <li><a href="http://marketing.manaren.com/yxal/201103/7970.html">家乐福危机公关的败笔与建议 </a></li>
+                    <li><a href="http://marketing.manaren.com/yxal/201012/7732.html">一年吃到２４０亿  </a></li>
+                    <li><a href="http://marketing.manaren.com/xsgl/show-6164-1/">直接否认客户的异议要把握好度</a></li>
+                    <li><a href="http://marketing.manaren.com/xsgl/show-6166-1/">谈判是一场以双赢为目的的生意       </a></li>
+                          <li><a href="http://marketing.manaren.com/scdw/200807/595.html">从党报定位试析市场发行策略的深化</a></li>
+                    <li><a href="http://marketing.manaren.com/scdw/200807/596.html">结构分销网络与市场定位的刚性匹配</a></li>
+                    <li><a href="http://marketing.manaren.com/scdw/200807/597.html">中、低档旅游饭店的市场定位策略</a></li>
+                    <li><a href="http://marketing.manaren.com/scdw/200807/598.html">本土市场研究公司，我们的定位在哪？</a></li>
+                    <li><a href="http://marketing.manaren.com/scdw/200807/599.html">现代机场高科技人才的开发及市场定位</a></li>
+                    <li><a href="http://marketing.manaren.com/scdw/200807/600.html">政府市场与经济法的定位</a></li>
+        </ul>
+ </div>
+ </div>
+ <!--市场营销频道结束-->
+ </div>
+ </div>
+     <div class="row-right">
+ <!--项目管理频道开始-->
+ <div class="box top10">
+     <h2 class="ttl04"><a href="http://pm.manaren.com/">项目管理</a></h2>
+ <div class="box-c">
+            <div class="wk-re">
+  <h3><a href="http://pm.manaren.com/fwgl/201011/4902.html">企业资源配置应注意哪些问题</a></h3>
+  <div class="tag_description">  　　时值年关，很多企业正忙于年终总结与08年营销战略规划，企业头头脑脑们为08年的目标任务、资源计划、绩效管理与激励措施等一大堆工作而忙得团团转，因为这一些关系到企业的愿景、市场的竞争力、员 ......</div>
+  </div>
+   </div>
+ <div class="box-c">
+      <ul class="list02">
+                        <li><a href="http://pm.manaren.com/cggl/200908/1814.html">怎样成为一名优秀的经理 </a></li>
+                    <li><a href="http://pm.manaren.com/jdgl/200810/1153.html">如何使用网络图构造进度管理模型 </a></li>
+                    <li><a href="http://pm.manaren.com/fxgl/200810/1149.html">企业可持续发展的保障 </a></li>
+                    <li><a href="http://pm.manaren.com/zlgl/200810/1143.html">软件项目质量管理经验谈</a></li>
+                          <li><a href="http://pm.manaren.com/fwgl/201007/3794.html">正保远程教育发布第四财季及全年财报：年收入增长71.4%</a></li>
+                    <li><a href="http://pm.manaren.com/fwgl/201007/3795.html">未来住房向高层钢结构发展的优势</a></li>
+        </ul>
+ </div>
+ </div>
+ <!--项目管理频道结束-->
+ <!--企业信息化频道开始-->
+ <div class="box top10">
+     <h2 class="ttl04"><a href="http://xxh.manaren.com/">企业信息化</a></h2>
+ <div class="box-c">
+            <div class="wk-re">
+  <h3><a href="http://xxh.manaren.com/ERP/201106/3653.html">中小企业ERP实施失败总结和原因分析</a></h3>
+  <div class="tag_description">    　　何谓“ERP实施失败”?简单地理解，就是企业在投入了一定的资金、资源和一系列企业活动，启动并实施以ERP系统为主要内容的信息化项目之后，因为在实施过程中碰到了很多意外的情况和困难而导致项目停止，或者是因为ER ......</div>
+  </div>
+   </div>
+ <div class="box-c">
+      <ul class="list02">
+                        <li><a href="http://xxh.manaren.com/ssfa/200905/1493.html">交通厅流媒体项目解决方案</a></li>
+                    <li><a href="http://xxh.manaren.com/zhanlue/200810/1057.html">改变企业沟通方式 CIO需要战略眼光</a></li>
+                    <li><a href="http://xxh.manaren.com/ERP/200810/1039.html">钢铁企业ERP软件选型经</a></li>
+                    <li><a href="http://xxh.manaren.com/CRM/200810/1047.html">中小企业如何控制CRM项目的预算</a></li>
+                          <li><a href="http://xxh.manaren.com/CRM/201007/3283.html">嬗变中的CRM</a></li>
+                    <li><a href="http://xxh.manaren.com/CRM/201007/3284.html">CRM如何超越突破与发展演变</a></li>
+        </ul>
+ </div>
+ </div>
+ <!--企业信息化频道结束-->
+ <!--生产管理频道开始-->
+ <div class="box top10">
+     <h2 class="ttl04"><a href="http://mm.manaren.com/">生产管理</a></h2>
+ <div class="box-c">
+            <div class="wk-re">
+  <h3><a href="http://mm.manaren.com/sbgl/201006/4158.html">浅谈刀具涂层技术发展及应用</a></h3>
+  <div class="tag_description">　　近30余年来，刀具涂层技术迅速发展，涂层刀具得到了广泛应用。1969年德国克虏伯（Krupp）公司和瑞典山特维克（Sandvik）公司研发成功了化学气相沉积（CVD）涂层技术，并向市场推出了CVDTiC涂层硬质合金刀片产品。20世纪70年代初，美 ......</div>
+  </div>
+   </div>
+ <div class="box-c">
+      <ul class="list02">
+                        <li><a href="http://mm.manaren.com/sbgl/201008/4605.html">万用表的使用和注意事项</a></li>
+                    <li><a href="http://mm.manaren.com/xcgl/200810/1095.html">呼叫中心的现场管理</a></li>
+                    <li><a href="http://mm.manaren.com/scjh/200810/1093.html">ERP实务：提高生产计划执行率之我见</a></li>
+                    <li><a href="http://mm.manaren.com/hjbh/200810/1083.html">环保动态： 实行水环境保护问责制</a></li>
+                          <li><a href="http://mm.manaren.com/sbgl/200808/399.html">和谐生产方式基本原理</a></li>
+                    <li><a href="http://mm.manaren.com/scjh/200808/400.html">生产结构优化系统</a></li>
+        </ul>
+ </div>
+ </div>
+ <!--生产管理频道结束-->
+ <!--管理聚焦频道开始-->
+ <div class="box top10">
+     <h2 class="ttl04"><a href="http://cc.manaren.com/">管理热点</a></h2>
+ <div class="box-c">
+            <div class="wk-re">
+  <h3><a href="http://cc.manaren.com/tuanduiguanli/show-2120-1/">如何处理管理中人性化和制度化之间的矛盾？</a></h3>
+  <div class="tag_description"></div>
+  </div>
+   </div>
+ <div class="box-c">
+      <ul class="list02">
+                        <li><a href="http://cc.manaren.com/qiyewenhua/201107/2075.html">乐轩：由坚守创业激情，谈企业文化传承</a></li>
+                    <li><a href="http://cc.manaren.com/qiyewenhua/200908/1325.html">企业文化的细胞结构原理</a></li>
+                    <li><a href="http://cc.manaren.com/qiyewenhua/200908/1313.html">企业文化：从年轻走向成熟</a></li>
+                    <li><a href="http://cc.manaren.com/jieguoguanli/200811/1081.html">垃圾分类仅有“结果管理”是不够的</a></li>
+                          <li><a href="http://cc.manaren.com/gongsizhili/200806/146.html">王敬：处理好高管与员工等三种内部关系</a></li>
+                    <li><a href="http://cc.manaren.com/gongsizhili/200806/147.html">公司治理评分体系简介</a></li>
+        </ul>
+ </div>
+ </div>
+ <!--管理聚焦频道结束-->
+ </div>
+</div>
+<!--管理文库结束-->
+<!--社区开始-->
+<div class="row">
+     <div class="row-title"><h2><a href="http://my.manaren.com/">管理人之家</a></h2><span><a href="http://blog.manaren.com/">博客</a> - <a href="http://bbs.manaren.com/">管理社区</a> - <a href="http://my.manaren.com/">圈子</a></span></div>
+     <div id="left">
+ <div class="row-left">
+ <!--社区帖子开始-->
+     <div class="box bb1 top10">
+             <div class="box-title">
+                  <span class="title_z"><a href="http://bbs.manaren.com/">管理社区</a></span>
+          <span class="selected" id="btn_tz1" onmouseover="tabSelect(1,'tz');">热帖</span>
+          <span class="unselected" id="btn_tz2" onmouseover="tabSelect(2,'tz');">精华帖</span>
+          <span class="unselected" id="btn_tz3" onmouseover="tabSelect(3,'tz')">新帖</span>
+  <div class="clr"></div>
+             </div>
+         <div class="box-content">
+      <div style="display: block;" id="tz1">
+      <ul class="text_list_1">
+        <li><a href="http://bbs.manaren.com/thread-25402-1-1.html" title="厦门CRM">厦门CRM</a></li>
+        <li><a href="http://bbs.manaren.com/thread-5157-1-1.html" title="[转贴］亚洲问题看中国：中国面临挑战多">[转贴］亚洲问题看中国：中国面临挑战多...</a></li>
+        <li><a href="http://bbs.manaren.com/thread-5254-1-1.html" title="2007年，我们的十大梦想?">2007年，我们的十大梦想?</a></li>
+        <li><a href="http://bbs.manaren.com/thread-8469-1-1.html" title="解开薪酬的枷锁">解开薪酬的枷锁</a></li>
+        <li><a href="http://bbs.manaren.com/thread-5100-1-1.html" title="“六西格玛”为什么学不来？">“六西格玛”为什么学不来？...</a></li>
+        <li><a href="http://bbs.manaren.com/thread-5414-1-1.html" title="唱响2007.3.15：消费和谐">唱响2007.3.15：消费和谐</a></li>
+        <li><a href="http://bbs.manaren.com/thread-5098-1-1.html" title="什么是TL9000？">什么是TL9000？</a></li>
+        <li><a href="http://bbs.manaren.com/thread-5088-1-1.html" title="赊销管理规定">赊销管理规定</a></li>
+        <li><a href="http://bbs.manaren.com/thread-14877-1-1.html" title="现场管理(督导师)岗位技能认证培训(第八期)">现场管理(督导师)岗位技能认证培训(第...</a></li>
+        <li><a href="http://bbs.manaren.com/thread-8350-1-1.html" title="“中国制造”——破茧化蝶会有时">“中国制造”——破茧化蝶会有时...</a></li>
+        </ul>
+  </div>
+      <div style="display: none;" id="tz2">
+      <ul class="text_list_1">
+        <li><a href="http://bbs.manaren.com/thread-8940-1-1.html" title="免费为大家做职业规划，请留下你的邮箱">免费为大家做职业规划，请留下你的邮箱...</a></li>
+        <li><a href="http://bbs.manaren.com/thread-20147-1-1.html" title="曾仕强易经的奥秘 曾仕强易经的奥秘6下载地址">曾仕强易经的奥秘 曾仕强易经的奥秘6下...</a></li>
+        <li><a href="http://bbs.manaren.com/thread-9972-1-1.html" title="来人 必看 不看终身遗憾">来人 必看 不看终身遗憾</a></li>
+        <li><a href="http://bbs.manaren.com/thread-12056-1-1.html" title="离职率高的工厂,怎样建立企业文化来增加吸引力?">离职率高的工厂,怎样建立企业文化来增...</a></li>
+        <li><a href="http://bbs.manaren.com/thread-9116-1-1.html" title="如果你碰见这样的上司怎么办？">如果你碰见这样的上司怎么办？...</a></li>
+        <li><a href="http://bbs.manaren.com/thread-12962-1-1.html" title="新婚祝福语还差3字!快来发表。">新婚祝福语还差3字!快来发表。...</a></li>
+        <li><a href="http://bbs.manaren.com/thread-7881-1-1.html" title="分手餐吧 创业在有情天地">分手餐吧 创业在有情天地</a></li>
+        <li><a href="http://bbs.manaren.com/thread-5219-1-1.html" title="关于薪酬战略中几个关键问题的探讨">关于薪酬战略中几个关键问题的探讨...</a></li>
+        <li><a href="http://bbs.manaren.com/thread-9118-1-1.html" title="关于未签订劳动合同赔偿的起付时间">关于未签订劳动合同赔偿的起付时间...</a></li>
+        <li><a href="http://bbs.manaren.com/thread-5108-1-1.html" title="想创业？先把这篇文章读懂了">想创业？先把这篇文章读懂了...</a></li>
+        </ul>
+  </div>
+      <div style="display: none;" id="tz3">
+      <ul class="text_list_1">
+        <li><a href="http://bbs.manaren.com/thread-40836-1-1.html" title="上海db2培训|上海db2企业培训|db2管理培训">上海db2培训|上海db2企业培训|db2管理...</a></li>
+        <li><a href="http://bbs.manaren.com/thread-40835-1-1.html" title="上海aix/6000培训|aix系统管理培训">上海aix/6000培训|aix系统管理培训...</a></li>
+        <li><a href="http://bbs.manaren.com/thread-40834-1-1.html" title="英德派格萨斯北京资产管理顾问公司 投资部参考">英德派格萨斯北京资产管理顾问公司 投...</a></li>
+        <li><a href="http://bbs.manaren.com/thread-40833-1-1.html" title="王超：中国将进一步丰富外商投资方式英德派格萨斯">王超：中国将进一步丰富外商投资方式英德...</a></li>
+        <li><a href="http://bbs.manaren.com/thread-40832-1-1.html" title="外企有望境内上市。英德派格萨斯">外企有望境内上市。英德派格萨斯...</a></li>
+        <li><a href="http://bbs.manaren.com/thread-40831-1-1.html" title="企业应该如何做好公关传播/品牌管理？">企业应该如何做好公关传播/品牌管理？...</a></li>
+        <li><a href="http://bbs.manaren.com/thread-40830-1-1.html" title="YTT利润管理专家">YTT利润管理专家</a></li>
+        <li><a href="http://bbs.manaren.com/thread-40829-1-1.html" title="澳优奶粉价格触动进口奶粉警戒线  澳优奶粉超低价网销火爆">澳优奶粉价格触动进口奶粉警戒线  澳优...</a></li>
+        <li><a href="http://bbs.manaren.com/thread-40828-1-1.html" title="华鹰韬略品牌营销顾问机构">华鹰韬略品牌营销顾问机构</a></li>
+        <li><a href="http://bbs.manaren.com/thread-40827-1-1.html" title="华鹰韬略品牌营销顾问机构">华鹰韬略品牌营销顾问机构</a></li>
+        </ul>
+  </div>
+ </div>
+ </div>
+ <!--社区帖子结束-->
+ <!--热门空间开始-->
+ <div class="box bb1 top10">
+     <h2 class="ttl01">热门空间</h2>
+ <div class="box-c spacehh">
+     <ul class="list2coll">
+     <li><cite>16777215</cite><a href="http://my.manaren.com/26242" title="xiangxianggz@gm的管理博客">xiangxianggz@gm的管理博客</a></li>
+     <li><cite>3739</cite><a href="http://my.manaren.com/203056" title="王忠诚博客">王忠诚博客</a></li>
+     <li><cite>1082</cite><a href="http://my.manaren.com/204278" title="黄贵楠博客">黄贵楠博客</a></li>
+     <li><cite>838</cite><a href="http://my.manaren.com/52536" title="上海财经大学商学院EDP中心">上海财经大学商学院EDP中心</a></li>
+     <li><cite>445</cite><a href="http://my.manaren.com/27441" title="著名金融信托专家、经济学家孫飛博士.">著名金融信托专家、经济学家孫飛博士.</a></li>
+   </ul>
+ </div>
+ </div>
+ <!--热门空间结束-->
+ </div>
+     <div class="row-center">
+ <!--精华博文开始-->
+ <div class="box bb1 top10">
+             <div class="box-title">
+                  <span class="title_z title_blog"><a href="http://my.manaren.com/">博文</a></span>
+          <span class="selected" id="btn_blog1" onmouseover="tabSelect(1,'blog');">推荐</span>
+          <span class="unselected" id="btn_blog2" onmouseover="tabSelect(2,'blog');">最新</span>
+  <div class="clr"></div>
+             </div>
+         <div class="box-content">
+      <div style="display: block;" id="blog1">
+      <ul class="msgtitlelist">
+     <li><a href="http://my.manaren.com/50811/viewspace-195589" title="职业经理人与老板之关系?">职业经理人与老板之关系?</a> <span class="datatime gray"><a href="http://my.manaren.com/50811" title="世界职业经理人-职业经理人培训.">黄彬</a></span></li>
+     <li><a href="http://my.manaren.com/52536/viewspace-195610" title="企业管理需解决的六大问题">企业管理需解决的六大问题</a> <span class="datatime gray"><a href="http://my.manaren.com/52536" title="上海财经大学商学院EDP中心">钱先生0</a></span></li>
+     <li><a href="http://my.manaren.com/204667/viewspace-195856" title="员工在想但不会说出来的七件事情">员工在想但不会说出来的七件事情...</a> <span class="datatime gray"><a href="http://my.manaren.com/204667" title="BNET商业英才网博客">商业英才网</a></span></li>
+     <li><a href="http://my.manaren.com/204667/viewspace-195887" title="有史以来最好的职业策略">有史以来最好的职业策略</a> <span class="datatime gray"><a href="http://my.manaren.com/204667" title="BNET商业英才网博客">商业英才网</a></span></li>
+     <li><a href="http://my.manaren.com/204667/viewspace-195889" title="销售工作不再是“猎人”和“农民”的工作">销售工作不再是“猎人”和“农民”的工...</a> <span class="datatime gray"><a href="http://my.manaren.com/204667" title="BNET商业英才网博客">商业英才网</a></span></li>
+     <li><a href="http://my.manaren.com/204667/viewspace-195851" title="管理者们需要保持联系的三种方法">管理者们需要保持联系的三种方法...</a> <span class="datatime gray"><a href="http://my.manaren.com/204667" title="BNET商业英才网博客">商业英才网</a></span></li>
+     <li><a href="http://my.manaren.com/52536/viewspace-195697" title="创业家的四种精神">创业家的四种精神</a> <span class="datatime gray"><a href="http://my.manaren.com/52536" title="上海财经大学商学院EDP中心">钱先生0</a></span></li>
+     <li><a href="http://my.manaren.com/204667/viewspace-195737" title="什么样的销售线索才是好的？">什么样的销售线索才是好的？...</a> <span class="datatime gray"><a href="http://my.manaren.com/204667" title="BNET商业英才网博客">商业英才网</a></span></li>
+     <li><a href="http://my.manaren.com/204667/viewspace-195689" title="如何让老板赏识我的能力?">如何让老板赏识我的能力?</a> <span class="datatime gray"><a href="http://my.manaren.com/204667" title="BNET商业英才网博客">商业英才网</a></span></li>
+     <li><a href="http://my.manaren.com/204667/viewspace-195863" title="如何利用错误并将其转变为优势">如何利用错误并将其转变为优势...</a> <span class="datatime gray"><a href="http://my.manaren.com/204667" title="BNET商业英才网博客">商业英才网</a></span></li>
+     <li><a href="http://my.manaren.com/50811/viewspace-195796" title="职业经理人的五大传统职业诫条">职业经理人的五大传统职业诫条...</a> <span class="datatime gray"><a href="http://my.manaren.com/50811" title="世界职业经理人-职业经理人培训.">黄彬</a></span></li>
+     <li><a href="http://my.manaren.com/204667/viewspace-195691" title="办公室压力如何侵入我们的家庭">办公室压力如何侵入我们的家庭...</a> <span class="datatime gray"><a href="http://my.manaren.com/204667" title="BNET商业英才网博客">商业英才网</a></span></li>
+     <li><a href="http://my.manaren.com/204667/viewspace-195858" title="经理人如何处理进退两难的境地">经理人如何处理进退两难的境地...</a> <span class="datatime gray"><a href="http://my.manaren.com/204667" title="BNET商业英才网博客">商业英才网</a></span></li>
+     <li><a href="http://my.manaren.com/50811/viewspace-195795" title="职业经理人要恪守职业道德">职业经理人要恪守职业道德</a> <span class="datatime gray"><a href="http://my.manaren.com/50811" title="世界职业经理人-职业经理人培训.">黄彬</a></span></li>
+     <li><a href="http://my.manaren.com/204333/viewspace-195797" title="工业品在什么情况下需要做大众媒体广告？">工业品在什么情况下需要做大众媒体广告...</a> <span class="datatime gray"><a href="http://my.manaren.com/204333" title="张东利博客">张东利</a></span></li>
+     <li><a href="http://my.manaren.com/204667/viewspace-195686" title="企业家如何避免挺而走险？">企业家如何避免挺而走险？</a> <span class="datatime gray"><a href="http://my.manaren.com/204667" title="BNET商业英才网博客">商业英才网</a></span></li>
+     <li><a href="http://my.manaren.com/147310/viewspace-195853" title="重理念轻落地 IT建设恐成空中楼阁">重理念轻落地 IT建设恐成空中楼阁...</a> <span class="datatime gray"><a href="http://my.manaren.com/147310" title="泛微博客">泛微</a></span></li>
+     <li><a href="http://my.manaren.com/129798/viewspace-195793" title="企业微博营销，路在何方？">企业微博营销，路在何方？</a> <span class="datatime gray"><a href="http://my.manaren.com/129798" title="当代第一IT诗人——代腾飞">腾飞天涯</a></span></li>
+        </ul>
+  </div>
+      <div style="display: none;" id="blog2">
+      <ul class="msgtitlelist">
+     <li><a href="http://my.manaren.com/204667/viewspace-195889" title="销售工作不再是“猎人”和“农民”的工作">销售工作不再是“猎人”和“农民”的工...</a> <span class="datatime gray"><a href="http://my.manaren.com/204667" title="BNET商业英才网博客">商业英才网</a></span></li>
+     <li><a href="http://my.manaren.com/204667/viewspace-195887" title="有史以来最好的职业策略">有史以来最好的职业策略</a> <span class="datatime gray"><a href="http://my.manaren.com/204667" title="BNET商业英才网博客">商业英才网</a></span></li>
+     <li><a href="http://my.manaren.com/204667/viewspace-195863" title="如何利用错误并将其转变为优势">如何利用错误并将其转变为优势...</a> <span class="datatime gray"><a href="http://my.manaren.com/204667" title="BNET商业英才网博客">商业英才网</a></span></li>
+     <li><a href="http://my.manaren.com/204667/viewspace-195858" title="经理人如何处理进退两难的境地">经理人如何处理进退两难的境地...</a> <span class="datatime gray"><a href="http://my.manaren.com/204667" title="BNET商业英才网博客">商业英才网</a></span></li>
+     <li><a href="http://my.manaren.com/204667/viewspace-195856" title="员工在想但不会说出来的七件事情">员工在想但不会说出来的七件事情...</a> <span class="datatime gray"><a href="http://my.manaren.com/204667" title="BNET商业英才网博客">商业英才网</a></span></li>
+     <li><a href="http://my.manaren.com/204667/viewspace-195851" title="管理者们需要保持联系的三种方法">管理者们需要保持联系的三种方法...</a> <span class="datatime gray"><a href="http://my.manaren.com/204667" title="BNET商业英才网博客">商业英才网</a></span></li>
+     <li><a href="http://my.manaren.com/204333/viewspace-195797" title="工业品在什么情况下需要做大众媒体广告？">工业品在什么情况下需要做大众媒体广告...</a> <span class="datatime gray"><a href="http://my.manaren.com/204333" title="张东利博客">张东利</a></span></li>
+     <li><a href="http://my.manaren.com/204333/viewspace-195514" title="品牌对工业品究竟有多重要？">品牌对工业品究竟有多重要？...</a> <span class="datatime gray"><a href="http://my.manaren.com/204333" title="张东利博客">张东利</a></span></li>
+     <li><a href="http://my.manaren.com/82978/viewspace-195508" title="营销唯一的规则就是赢利">营销唯一的规则就是赢利</a> <span class="datatime gray"><a href="http://my.manaren.com/82978" title="百年盛世—赵一沣">百年盛世</a></span></li>
+     <li><a href="http://my.manaren.com/204667/viewspace-195421" title="为什么被解雇会是件最好的事情">为什么被解雇会是件最好的事情...</a> <span class="datatime gray"><a href="http://my.manaren.com/204667" title="BNET商业英才网博客">商业英才网</a></span></li>
+     <li><a href="http://my.manaren.com/9995/viewspace-195268" title="
+                                奥哲H3帮助中海地产实现60%流程效率提升">
+                                奥...</a> <span class="datatime gray"><a href="http://my.manaren.com/9995" title="soln的个人空间">soln</a></span></li>
+     <li><a href="http://my.manaren.com/14431/viewspace-195266" title="
+                                1、OA市场发展的新趋势">
+                                1、...</a> <span class="datatime gray"><a href="http://my.manaren.com/14431" title="BANKCOMM的个人空间">BANKCOMM</a></span></li>
+     <li><a href="http://my.manaren.com/9794/viewspace-195265" title="
+                                [原创]了解卓越企业的全面质量商业惯行  帮助企业成长">
+                                [原...</a> <span class="datatime gray"><a href="http://my.manaren.com/9794" title="光光小仔的个人空间">光光小仔</a></span></li>
+     <li><a href="http://my.manaren.com/10211/viewspace-195264" title="
+                                K2中文网络技术社区">
+                                K2...</a> <span class="datatime gray"><a href="http://my.manaren.com/10211" title="imhehe的管理博客">imhehe</a></span></li>
+     <li><a href="http://my.manaren.com/14437/viewspace-195261" title="
+                                原来微博也可来做集团化管理的呢？">
+                                原...</a> <span class="datatime gray"><a href="http://my.manaren.com/14437" title="玄鉴的个人空间">玄鉴</a></span></li>
+     <li><a href="http://my.manaren.com/15760/viewspace-195259" title="
+                                原来微博也可来做集团化管理的呢？">
+                                原...</a> <span class="datatime gray"><a href="http://my.manaren.com/15760" title="我是才人">小乔</a></span></li>
+     <li><a href="http://my.manaren.com/10342/viewspace-195257" title="
+                                【每日一问】如何使例会开的更具有个性化？">
+                                【...</a> <span class="datatime gray"><a href="http://my.manaren.com/10342" title="Agl_hl的管理博客">Agl_hl</a></span></li>
+     <li><a href="http://my.manaren.com/10418/viewspace-195256" title="
+                                [转帖]书摘：需进行组织变革的六个征兆">
+                                [转...</a> <span class="datatime gray"><a href="http://my.manaren.com/10418" title="树屋酒吧的管理博客">树屋酒吧</a></span></li>
+        </ul>
+  </div>
+ </div>
+ </div>
+ <!--精华博文结束-->
+ </div>
+ </div>
+     <div class="row-right">
+ <!--博客之星开始-->
+ <div class="box top10">
+     <h2 class="ttl04">博客之星</h2>
+ <div class="box-c">
+      <ul class="imgthumblist">
+     <li class="smallthumb"><div><a href="http://my.manaren.com/28458/" title="jinchao08"><img src="http://bbs.manaren.com/uc_server/avatar.php?uid=28458" alt="jinchao08" border="0" /></a></div><p><a href="http://my.manaren.com/28458/" title="jinchao08">商业模式赢利模式创新|金超老师..</a></p></li>
+     <li class="smallthumb"><div><a href="http://my.manaren.com/27923/" title="panxiaochun@gma"><img src="http://bbs.manaren.com/uc_server/avatar.php?uid=27923" alt="panxiaochun@gma" border="0" /></a></div><p><a href="http://my.manaren.com/27923/" title="panxiaochun@gma">潘霄纯-创新经营</a></p></li>
+     <li class="smallthumb"><div><a href="http://my.manaren.com/27441/" title="sunfei2008@126."><img src="http://bbs.manaren.com/uc_server/avatar.php?uid=27441" alt="sunfei2008@126." border="0" /></a></div><p><a href="http://my.manaren.com/27441/" title="sunfei2008@126.">著名金融信托专家、经济学家孫飛博士.</a></p></li>
+     <li class="smallthumb"><div><a href="http://my.manaren.com/27213/" title="wl51688@sohu.co"><img src="http://bbs.manaren.com/uc_server/avatar.php?uid=27213" alt="wl51688@sohu.co" border="0" /></a></div><p><a href="http://my.manaren.com/27213/" title="wl51688@sohu.co">王亮-医药营销专家</a></p></li>
+     <li class="smallthumb"><div><a href="http://my.manaren.com/32155/" title="乔春洋"><img src="http://bbs.manaren.com/uc_server/avatar.php?uid=32155" alt="乔春洋" border="0" /></a></div><p><a href="http://my.manaren.com/32155/" title="乔春洋">乔春洋的管理博客</a></p></li>
+     <li class="smallthumb"><div><a href="http://my.manaren.com/28115/" title="chinakcc"><img src="http://bbs.manaren.com/uc_server/avatar.php?uid=28115" alt="chinakcc" border="0" /></a></div><p><a href="http://my.manaren.com/28115/" title="chinakcc">实战营销管理培训专家 孔庆奇</a></p></li>
+  </ul>
+ </div>
+ </div>
+ <!--博客之星结束-->
+ <!--圈子开始-->
+ <div class="box top10">
+     <h2 class="ttl04">管理圈子</h2>
+ <div class="box-c quanzih">
+      <ul class="imgthumblist">
+     <li class="smallthumb"><div><a href="http://my.manaren.com/mygroup-9" title="管理人之家"><img src="http://my.manaren.com/attachments/2008/06/27998_2008062318014219dr5.thumb.jpg" alt="管理人之家" border="0" /></a></div><p><a href="http://my.manaren.com/mygroup-9" title="管理人之家">管理人之家</a></p></li>
+     <li class="smallthumb"><div><a href="http://my.manaren.com/mygroup-5" title="市场营销"><img src="http://my.manaren.com/attachments/2008/06/14424_200806021102181Ud3S.thumb.jpg" alt="市场营销" border="0" /></a></div><p><a href="http://my.manaren.com/mygroup-5" title="市场营销">市场营销</a></p></li>
+     <li class="smallthumb"><div><a href="http://my.manaren.com/mygroup-20" title="都市自由人"><img src="http://my.manaren.com/attachments/2008/07/8189_200807221727101vWLW.thumb.jpg" alt="都市自由人" border="0" /></a></div><p><a href="http://my.manaren.com/mygroup-20" title="都市自由人">都市自由人</a></p></li>
+  </ul>
+ </div>
+ </div>
+ <!--圈子结束-->
+ </div>
+</div>
+<!--社区结束-->
+<!--书籍知道开始-->
+<div class="row">
+     <div class="row-l">
+ <!--管理书籍开始-->
+     <div class="box bb1 top10">
+     <h2 class="ttl01"><a href="http://book.manaren.com/">管理书籍</a></h2>
+  <div class="top_left_top_right_outfrom_right">
+<div class="outfrom_right_top">
+									<div class="outfrom_right_pic"><a href="http://book.manaren.com/book/1/xiaoshouxinrenquannenxunlianshouce-367.html"><img src="http://book.manaren.com/uploads/litimg/081021/22045AGR.jpg" width="86" height="113" alt="销售新人全能训练手册" border="0"/></a></div>
+									<div class="outfrom_right_pic_right_content">
+
+										<div class="book1_title">
+											<a href='http://book.manaren.com/book/1/xiaoshouxinrenquannenxunlianshouce-367.html'>销售新人全能训练手册</a>
+										</div>
+										<div class="book1_content">
+											<p>　　你总被客户拒绝吗?你给客户打电话时冷汗直流吗?你知道怎样与…</p>
+										</div>
+										<div class="book1_pinglun">[<a href='http://book.manaren.com/book/1/xiaoshouxinrenquannenxunlianshouce-367.html'>阅读</a>][<a href='http://book.manaren.com/book/1/xiaoshouxinrenquannenxunlianshouce-367.html'>我要评论</a>]</div>
+
+									</div>
+								</div>
+							    
+								<div class="outfrom_right_top">
+									<div class="outfrom_right_pic"><a href="http://book.manaren.com/book/1/lingfengxiantouzilicaizhuanqianfa-366.html"><img src="http://book.manaren.com/uploads/litimg/081021/22025451U6.jpg" width="86" height="113" alt="零风险投资理财赚钱法" border="0"/></a></div>
+									<div class="outfrom_right_pic_right_content">
+										<div class="book1_title">
+											<a href='http://book.manaren.com/book/1/lingfengxiantouzilicaizhuanqianfa-366.html'>零风险投资理财赚钱法</a>
+										</div>
+
+										<div class="book1_content">
+											<p>　　本书从保本投资的角度选出了7种理财工具，分别是人民币保本…</p>
+										</div>
+										<div class="book1_pinglun">[<a href='http://book.manaren.com/book/1/lingfengxiantouzilicaizhuanqianfa-366.html'>阅读</a>][<a href='http://book.manaren.com/book/1/lingfengxiantouzilicaizhuanqianfa-366.html'>我要评论</a>]</div>
+									</div>
+								</div><div class="outfrom_right_fot">
+<div class="outfrom_right_content_list">
+<ul><li><span class="cataloglink">[<a href='http://book.manaren.com/book/list.php?id=17'>沟通交往</a>]</span> <a href='http://book.manaren.com/book/1/shuohuademeili-nibukebuzhidegoutongjiqiao-297.html'>说话的魅力：你不可不知的沟通技巧 </a></li>
+												<li><span class="cataloglink">[<a href='http://book.manaren.com/book/list.php?id=17'>沟通交往</a>]</span> <a href='http://book.manaren.com/book/1/rangrenwufashuoNOdegongxinshuohuashu-291.html'>让人无法说NO的攻心说话术</a></li>
+												<li><span class="cataloglink">[<a href='http://book.manaren.com/book/list.php?id=9'>管理战略</a>]</span> <a href='http://book.manaren.com/book/1/guanlizhidao-328.html'>管理之道</a></li>
+												<li><span class="cataloglink">[<a href='http://book.manaren.com/book/list.php?id=30'>市场直销</a>]</span> <a href='http://book.manaren.com/book/1/xiaoshouxinrenquannenxunlianshouce-367.html'>销售新人全能训练手册</a></li>
+												<li><span class="cataloglink">[<a href='http://book.manaren.com/book/list.php?id=17'>沟通交往</a>]</span> <a href='http://book.manaren.com/book/1/shuohuademeili-nibukebuzhidegoutongjiqiao-297.html'>说话的魅力：你不可不知的沟通技巧 </a></li>
+												<li><span class="cataloglink">[<a href='http://book.manaren.com/book/list.php?id=17'>沟通交往</a>]</span> <a href='http://book.manaren.com/book/1/rangrenwufashuoNOdegongxinshuohuashu-291.html'>让人无法说NO的攻心说话术</a></li>
+												
+												<li><span class="cataloglink">[<a href='http://book.manaren.com/book/list.php?id=9'>管理战略</a>]</span> <a href='http://book.manaren.com/book/1/guanlizhidao-328.html'>管理之道</a></li>
+												<li><span class="cataloglink">[<a href='http://book.manaren.com/book/list.php?id=30'>市场直销</a>]</span> <a href='http://book.manaren.com/book/1/xiaoshouxinrenquannenxunlianshouce-367.html'>销售新人全能训练手册</a></li>
+												<li><span class="cataloglink">[<a href='http://book.manaren.com/book/list.php?id=17'>沟通交往</a>]</span> <a href='http://book.manaren.com/book/1/yuantongderenjiguanxi-265.html'>圆通的人际关系</a></li>
+												<li><span class="cataloglink">[<a href='http://book.manaren.com/book/list.php?id=16'>演讲与口才</a>]</span> <a href='http://book.manaren.com/book/1/bubaidetanpanjiqiao-332.html'>不败的谈判技巧</a></li>
+												<li><span class="cataloglink">[<a href='http://book.manaren.com/book/list.php?id=17'>沟通交往</a>]</span> <a href='http://book.manaren.com/book/1/youxiaogoutong-293.html'>有效沟通</a></li>
+												<li><span class="cataloglink">[<a href='http://book.manaren.com/book/list.php?id=37'>职业生涯</a>]</span> <a href='http://book.manaren.com/book/1/fangfazongbiwentiduo---zuochedijiejuewentidezhihuixingyuangong-357.html'>方法总比问题多Ⅱ――做彻底解决问题的智慧型员工</a></li></ul>
+</div>
+</div>
+  </div>
+ </div>
+ <!--管理书籍结束-->
+ </div>
+     <div class="row-r">
+ <!--管理知道开始-->
+     <div class="box bb1 top10 ask">
+     <h2 class="ttl01"><a href="http://ask.manaren.com/">管理知道</a></h2>
+             <div class="ask-left">
+                 <div class="whytopic">
+                  <h2>最新问答</h2>
+  <ul>  <li><img src="http://www.manaren.com/images/wenhao.gif" /><a href="http://ask.manaren.com/question.php?qid=30072" title="如何创建文化型班组" >如何创建文化型班组</a></li>
+            <li><img src="http://www.manaren.com/images/wenhao.gif" /><a href="http://ask.manaren.com/question.php?qid=30071" title="spa上海最好的会所在那里？上海养身堂可以吗" >spa上海最好的会所在那里？上海...</a></li>
+            <li><img src="http://www.manaren.com/images/wenhao.gif" /><a href="http://ask.manaren.com/question.php?qid=30070" title="为什么点数充值50元以上" >为什么点数充值50元以上...</a></li>
+            <li><img src="http://www.manaren.com/images/wenhao.gif" /><a href="http://ask.manaren.com/question.php?qid=30060" title="什么叫做差异性战略" >什么叫做差异性战略</a></li>
+            <li><img src="http://www.manaren.com/images/wenhao.gif" /><a href="http://ask.manaren.com/question.php?qid=30052" title="想问下为什么我看不来哦专题频道的文章，谢谢" >想问下为什么我看不来哦专题频...</a></li>
+            <li><img src="http://www.manaren.com/images/wenhao.gif" /><a href="http://ask.manaren.com/question.php?qid=30051" title="以职能作为文件的区分标准，如何确定文件的职能" >以职能作为文件的区分标...</a>&nbsp;&nbsp;<font style="FONT-SIZE: 12px" color="#fc670e">赏</font><font style="FONT-WEIGHT: 700; FONT-SIZE: 12px" color="#e41807">5</font><font style="FONT-SIZE: 12px" color="#fc670e">分</font></li>
+            <li><img src="http://www.manaren.com/images/wenhao.gif" /><a href="http://ask.manaren.com/question.php?qid=30050" title="怎样的管理方法才是有效的" >怎样的管理方法才是有效的...</a></li>
+            <li><img src="http://www.manaren.com/images/wenhao.gif" /><a href="http://ask.manaren.com/question.php?qid=30049" title="求一套小公司财务费用报销审批流程，谢谢！" >求一套小公司财务费用报销审批...</a></li>
+            <li><img src="http://www.manaren.com/images/wenhao.gif" /><a href="http://ask.manaren.com/question.php?qid=30048" title="我是学食品专业的，现在在食品企业做基层管理，我想了解一下有什么管理方面的证书可以考？" >我是学食品专业的，现在在食品企...</a></li>
+            <li><img src="http://www.manaren.com/images/wenhao.gif" /><a href="http://ask.manaren.com/question.php?qid=30034" title="作为培训行业的推广员通过电话推广的方式如何对酒水行业进行推广" >作为培训行业的推广员通过电话...</a></li>
+          </ul>
+                 </div>
+
+            </div>
+            <div class="ask-right">
+                 <div class="whytopic">
+                    <h2>推荐问题</h2>
+                    <ul>  <li><img src="http://www.manaren.com/images/dui.gif" /><a href="http://ask.manaren.com/question.php?qid=21" title="如何才能做出有效的决策?" >如何才能做出有效的决策...</a>&nbsp;&nbsp;<font style="FONT-SIZE: 12px" color="#fc670e">赏</font><font style="FONT-WEIGHT: 700; FONT-SIZE: 12px" color="#e41807">5</font><font style="FONT-SIZE: 12px" color="#fc670e">分</font></li>
+            <li><img src="http://www.manaren.com/images/wenhao.gif" /><a href="http://ask.manaren.com/question.php?qid=15410" title="我和几个朋友希望合开一家酒店管理公司，不知需要注意什么问题？" >我和几个朋友希望合开一家酒店...</a></li>
+            <li><img src="http://www.manaren.com/images/dui.gif" /><a href="http://ask.manaren.com/question.php?qid=102" title="中国历史十大定律对企业管理的启示？" >中国历史十大定律对企业管理的...</a></li>
+            <li><img src="http://www.manaren.com/images/dui.gif" /><a href="http://ask.manaren.com/question.php?qid=86" title="实施信息化，除了ERP企业还需要什么？" >实施信息化，除了ERP企业...</a>&nbsp;&nbsp;<font style="FONT-SIZE: 12px" color="#fc670e">赏</font><font style="FONT-WEIGHT: 700; FONT-SIZE: 12px" color="#e41807">15</font><font style="FONT-SIZE: 12px" color="#fc670e">分</font></li>
+            <li><img src="http://www.manaren.com/images/dui.gif" /><a href="http://ask.manaren.com/question.php?qid=81" title="医疗期满能否解除合同？" >医疗期满能否解除合同？...</a></li>
+            <li><img src="http://www.manaren.com/images/dui.gif" /><a href="http://ask.manaren.com/question.php?qid=79" title="市场营销管理的基本任务，职能？" >市场营销管理的基本任务，职能？...</a></li>
+            <li><img src="http://www.manaren.com/images/dui.gif" /><a href="http://ask.manaren.com/question.php?qid=60" title="企业如何设置“终身员工”？" >企业如何设置“终身员工”？...</a></li>
+            <li><img src="http://www.manaren.com/images/dui.gif" /><a href="http://ask.manaren.com/question.php?qid=50" title="2008年新合同法与以往的有什么不同？？？" >2008年新合同法与以往的有什么...</a></li>
+            <li><img src="http://www.manaren.com/images/dui.gif" /><a href="http://ask.manaren.com/question.php?qid=42" title="财务管理环境对财务管理有什么影响?" >财务管理环境对财务管理有什么...</a></li>
+            <li><img src="http://www.manaren.com/images/wenhao.gif" /><a href="http://ask.manaren.com/question.php?qid=38" title="如何加强采购管理，提高采购计划的执行力" >如何加强采购管理，提高采购计划...</a></li>
+          </ul>
+                 </div>
+
+            </div>
+  </div>
+<!--管理知道结束-->
+ </div>
+</div>
+<!--书籍知道结束-->
+<div class="row">
+     <div class="friendsite bb1">
+       <h2 class="ttl01">友情链接<span>PR<6的链接已经移至内页&nbsp;&nbsp;<a href="/link/">全部链接</a></span></h2>
+       <div class="box-c">
+   <ul class="siteurl"><li><a href="http://www.ninesage.com/" target="_blank">九略管理顾问</a></li><li><a href="http://www.taoke.com/" target="_blank">管理培训</a></li><li><a href="http://www.qy6.com " target="_blank">中华企业网</a></li><li><a href="http://www.excdoc.com/" target="_blank">易豆网</a></li><li><a href="http://www.boraid.com/" target="_blank">博锐管理在线</a></li><li><a href="http://www.cmmo.cn" target="_blank">第一营销网</a></li><li><a href="http://www.globrand.com" target="_blank">全球品牌网</a></li><li><a href="http://www.lunwentianxia.com" target="_blank">论文天下</a></li><li><a href="http://www.zj123.com/" target="_blank">浙江民营企业网</a></li><li><a href="http://carschina.com" target="_blank">汽车网</a></li><li><a href="http://www.gwyoo.com" target="_blank">公务员之家</a></li><li><a href="http://www.igo.cn" target="_blank">留学中介</a></li><li><a href="http://www.cnal.com" target="_blank">中铝网</a></li><li><a href="http://www.ic98.com" target="_blank">百纳商务</a></li><li><a href="http://www.ocn.com.cn/" target="_blank">中国投资咨询网</a></li><li><a href="http://www.wangxiao.cn" target="_blank">中大网校</a></li><li><a href="http://www.jdol.com.cn" target="_blank">机电在线</a></li><li><a href="http://www.jinti.com/" target="_blank">今题网</a></li><li><a href="http://www.yuloo.com/" target="_blank">育路教育网</a></li><li><a href="http://www.wl.cn/" target="_blank">蔚蓝网</a></li><li><a href="http://www.canet.com.cn/" target="_blank">中国会计网</a></li><li><a href="http://www.pinglaoshi.com/" target="_blank">评师网</a></li><li><a href="http://cq.soufun.com/" target="_blank">重庆搜房网</a></li><li><a href="http://www.zk168.com.cn" target="_blank">工作总结范文</a></li><li><a href="http://www.c-ps.net" target="_blank">中国安防网</a></li><li><a href="http://www.etlong.com" target="_blank">易龙商务网</a></li><li><a href="http://shanghai.baixing.com/" target="_blank">上海百姓网</a></li><li><a href="http://www.bnet.com.cn" target="_blank">Bnet商业英才网</a></li><li><a href="http://www.examw.com/" target="_blank">中华考试网</a></li><li><a href="http://www.11467.com" target="_blank">顺企黄页</a></li></ul>
+   </div>
+     </div>
+</div>
+
+<!-- footer start -->
+<div id="footer">
+  <div class="footer-nav">
+   <a href="http://www.manaren.com/page/aboutus.html" target="_blank">关于我们</a>
+ | <a href="http://www.manaren.com/page/announce.html" target="_blank">版权声明</a>
+ | <a href="http://www.manaren.com/page/contactus.html" target="_blank">联系我们</a>
+ | <a href="http://www.manaren.com/page/joinus.html" target="_blank">诚聘英才</a>
+ | <a href="http://www.manaren.com/page/ads.html" target="_blank">广告服务</a>
+ | <a href="http://www.manaren.com/page/xzsm.html" target="_blank">资料下载说明</a>
+ | <a href="http://www.manaren.com/sitemap.html" target="_blank">网站地图</a>
+ | <a href="http://www.manaren.com/link/" target="_blank">友情链接</a> 
+</div>
+<div class="margin:0 auto;"><iframe src="http://www.51honest.org/detail.credit?action=export&credcode=9992324110147254"  frameborder="0" scrolling="no" width="200" height="20" allowTransparency="true"></iframe></div>
+  <div class="copyright black">
+        Copyright &copy; 2004-2008 <a href="http://www.manaren.com">www.Manaren.com</a> <a href="http://www.manaren.com">管理人网</a> Inc. All Rights Reserved <br />
+        客服热线：0731-88576292  电信经营许可证编号：<a href="http://www.manaren.com/page/icp.html" target="_blank">粤B2-20070425</a>
+   </div>
+</div>
+<!-- footer end -->
+<!-- 统计 -->
+<div style="display: none;">
+<script src='http://s11.cnzz.com/stat.php?id=194887&web_id=194887&online=1&show=line' language='JavaScript' charset='gb2312'></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1429423-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</div>
+</body>
+</html>

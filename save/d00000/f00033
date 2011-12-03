@@ -1,0 +1,2023 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="gbk"/>
+<title>电脑之家PChome.net - 最具活力的时尚科技门户</title>
+<meta name="keywords" content="电脑报价,新闻,行情,导购,装机,攒机,评测,新品,软件,下载,产品,报价,经销商,数码,手机,数码相机,数码摄像机,DC,DV,MP3,MP4,论坛,硬件论坛"/>
+<meta name="description" content="PChome电脑之家是中国优秀的IT资讯服务提供商之一,一直积极倡导'科技引领生活'理念,实现IT资讯与产品走近用户生活为目标"/>
+<meta name="alexaVerifyID" content="bKQb6aR0FbRWg9-Uj3Nu-CeuDPo" />
+<meta name="google-site-verification" content="OFyAQxn2ntWk2wMDKeWk3TjlgCrNKE-_0i9U_QmX62s" />
+<link rel="shortcut icon" href="http://www.pchome.net/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="http://images.pchome.net/global/css2/pchome_index2011.css?v07">
+<script src="http://images.pchome.net/global/js2/mt131.js" type="text/javascript"></script>
+<script src="http://images.pchome.net/global/js2/pchome_index2011.js?v4"></script>
+<script src="http://js-1.pchome.net/ejs/ipub/ipub_334_1304_index.js"></script>
+<base target="_blank"/>
+</head>
+<body><!-- 导航 -->
+<nav class="site-nav wbg">
+<div class="ad960">
+<script>write_ad('mp_top_tonglan');</script>
+</div>
+<div class="site-nav-in">
+<div id="pchome2K11Login" class="login-info"></div>
+<script>
+var userid = getCookieLogin("__P_UserId");
+var userName = unescape(getCookieLogin("__P_JS_NickName"));
+var login_string = "";
+if (userid > 0) {
+login_string = "<strong>您好, " + userName + " </strong> 欢迎回来 | <a href=/"http://my.pchome.net/\" >我的帐户</a> | <a href=/"http://passport.pchome.net/login.php?action=logout&back=1&timeout=0\" target=_self>注销</a>";
+}
+else {
+login_string = "<strong>欢迎您访问PChome.net</strong> | <a href=/"http://passport.pchome.net/login.php?action=login&back=1\" target=_self> 请登录</a> | <a href=/"http://my.pchome.net/reg/register.php\">免费注册</a> ";
+}
+var tag = $('pchome2K11Login');
+tag.set('html', login_string);
+</script>
+<div class="s-nav">
+<div id="product">
+<span id="p-down"><a href="http://product.pchome.net/">产品报价</a></span>
+<div id="product-info">
+<span id="p-in-l"></span>
+<div id="m-p-i">
+<div class="n-m-in">
+<div class="n-m-in-l">
+<a id="n-mb" href="http://product.pchome.net/dir_3.html">手机</a>
+<a id="n-dc" href="http://product.pchome.net/dir_19.html">数码相机</a>
+<a id="n-nb" href="http://product.pchome.net/dir_18.html">笔记本</a>
+<a id="n-pad" href="http://product.pchome.net/pc_tablepc/list_7_635.html">平板电脑</a>
+<a id="n-hw" href="http://product.pchome.net/dir_8.html">硬件DIY</a>
+<a id="n-dtv" href="http://product.pchome.net/dir_14.html">数字电视</a>
+<span><a href="http://product.pchome.net/catalog.html">产品大全</a></span>
+</div>
+<div class="n-m-in-r">
+<ul>
+<li><strong><a href="http://product.pchome.net/mobile_phone/list_3_236.html">手机</a></strong><a
+href="http://product.pchome.net/mobile_phone/list_3_236_5031.html">HTC</a>|<a
+href="http://product.pchome.net/mobile_phone/list_3_236_105.html">苹果</a>|<a
+href="http://product.pchome.net/mobile_phone/list_3_236_196.html">诺基亚</a>|<a
+href="http://product.pchome.net/mobile_phone/list_3_236_31.html">三星</a>|<a
+href="http://product.pchome.net/mobile_phone/list_3_236_138.html">摩托罗拉</a>|<a
+href="http://product.pchome.net/mobile_phone/list_3_236_775.html">索爱</a>|<a
+href="http://product.pchome.net/mobile_phone/list_3_236_33.html">LG</a>|<a
+href="http://product.pchome.net/mobile_phone/list_3_236_1255.html">黑莓</a>|<a
+href="http://product.pchome.net/mobile_phone/list_3_236_164.html">联想</a>|<a
+href="http://product.pchome.net/mobile_phone/list_3_236_207.html">夏普</a></li>
+<li class="couple"><strong><a href="http://product.pchome.net/pc_notebook/list_7_60.html">笔记本电脑</a></strong><a
+href="http://product.pchome.net/pc_notebook/list_7_60_6062.html">联想</a>|<a
+href="http://product.pchome.net/pc_notebook/list_7_60_77.html">惠普</a>|<a
+href="http://product.pchome.net/pc_notebook/list_7_60_3.html">华硕</a>|<a
+href="http://product.pchome.net/pc_notebook/list_7_60_108.html">戴尔</a>|<a
+href="http://product.pchome.net/pc_notebook/list_7_60_2315.html">ThinkPad</a>|<a
+href="http://product.pchome.net/pc_notebook/list_7_60_155.html">宏碁</a>|<a
+href="http://product.pchome.net/pc_notebook/list_7_60_121.html">东芝</a>|<a
+href="http://product.pchome.net/pc_notebook/list_7_60_32.html">索尼</a>|<a
+href="http://product.pchome.net/pc_notebook/list_7_60_584.html">神舟</a>|<a
+href="http://product.pchome.net/pc_notebook/list_7_60_105.html">苹果</a></li>
+<li><strong><a href="http://product.pchome.net/digital_dc/list_1_103.html">数码相机</a></strong><a
+href="http://product.pchome.net/digital_dc/list_1_103_90.html">佳能</a>|<a
+href="http://product.pchome.net/digital_dc/list_1_103_145.html">尼康</a>|<a
+href="http://product.pchome.net/digital_dc/list_1_103_32.html">索尼</a>|<a
+href="http://product.pchome.net/digital_dc/list_1_103_158.html">富士</a>|<a
+href="http://product.pchome.net/digital_dc/list_1_103_30.html">松下</a>|<a
+href="http://product.pchome.net/digital_dc/list_1_103_146.html">奥林巴斯</a>|<a
+href="http://product.pchome.net/digital_dc/list_1_103_31.html">三星</a>|<a
+href="http://product.pchome.net/digital_dc/list_1_103_265.html">宾得</a>|<a
+href="http://product.pchome.net/digital_dc/list_1_103_136.html">卡西欧</a>|<a
+href="http://product.pchome.net/digital_dc/list_1_103_144.html">柯达</a></li>
+</ul>
+<div><em><a href="http://product.pchome.net/">推荐</a></em><a
+href="http://product.pchome.net/mobile_phone_apple_iphone48gb/335552.html">iPhone4（8GB）</a> <a
+href="http://product.pchome.net/mobile_phone_htc_htcsensationxe/337933.html">HTC G18</a> <a
+href="http://product.pchome.net/mobile_phone_google_galaxynexus/341600.html">三星Galaxy Nexus</a> <a
+href="http://product.pchome.net/pc_notebook/series/5150.html">华硕A43</a> <a
+href="http://product.pchome.net/digital_dc_nikon_p7100/335730.html">尼康P7100</a></div>
+</div>
+</div>
+</div>
+<span id="p-in-r"></span>
+</div>
+</div>
+<div class="product-nav"><a href="http://product.pchome.net/ladder.html" title="产品排行">产品排行</a><a href="http://product.pchome.net/new/" title="每日新品">每日新品</a><a href="http://yp.pchome.net/" title="商家大全">商家大全</a></div>
+<div class="cg">
+<dl id="bbs-nav" class="group-nav">
+<dt><span><a href="http://bbs.pchome.net/" title="产品论坛">产品论坛</a></span></dt>
+<dd><a href="http://sjbbs.pchome.net/" title="手机论坛">手机论坛</a></dd>
+<dd><a href="http://dcclub.pchome.net/" title="DCCLUB">DCCLUB</a></dd>
+<dd><a href="http://bbs.pchome.net/forum-28-1.html" title="DIY装机">DIY装机</a></dd>
+</dl>
+<dl id="kds-nav" class="group-nav">
+<dt><span><a href="http://www.kdslife.com/" title="宽带山生活">宽带山</a></span></dt>
+<dd><a href="http://www.kdslife.com/" title="宽带山首页">宽带山首页</a></dd>
+<dd><a href="http://kds.pchome.net/" title="宽带山论坛">宽带山论坛</a></dd>
+<dd><a href="http://dcclub.pchome.net/" title="数码影像">数码影像俱乐部</a></dd>
+</dl>
+<dl id="group-nav" class="group-nav">
+<dt><span>CBSi 科技群组</span></dt>
+<dd><a href="http://www.pchome.net/" title="PChome电脑之家">PChome电脑之家</a></dd>
+<dd><a href="http://www.zol.com.cn/" title="中关村在线">中关村在线</a></dd>
+<dd><a href="http://www.fengniao.com/" title="蜂鸟">蜂鸟</a></dd>
+<dd><a href="http://www.ea3w.com/" title="万维家电网">万维家电网</a></dd>
+<dd><a href="http://www.cnmo.com/" title="手机中国">手机中国</a></dd>
+<dd><a href="http://www.xgo.com.cn/" title="汽车点评?">汽车点评网</a></dd>
+</dl>
+</div>
+</div>
+</div>
+</nav>
+<header class="wbg">
+<figure>
+<h1><a href="http://www.pchome.net/" title="电脑之家PChome.net - 最具活力的时尚科技门户" target="_self"><img src="http://images.pchome.net/global/img2/pchome_index_2011.jpg"/ alt="电脑之家PChome.net - 最具活力的时尚科技门户"></a></h1>
+<div class="weather-report">
+</div>
+</figure>
+<hgroup class="channel-group">
+<div class="channel-group-t">
+<dl><dt><a href="http://news.pchome.net/">资讯</a></dt><dd><a href="http://www.pchome.net/interview/">访谈</a></dd><dd><a href="http://video.pchome.net/">视频</a></dd></dl>
+<dl><dt><a href="http://download.pchome.net/">下载中心</a></dt><dd><a href="http://software.pchome.net/">软件</a></dd><dd><a href="http://antivirus.pchome.net/">杀毒</a></dd><dd><a href="http://download.pchome.net/driver/">驱动</a></dd></dl>
+<dl><dt><a href="http://game.pchome.net/">游戏娱乐</a></dt><dd><a href="http://download.pchome.net/dlgame/">游戏下载</a></dd><dd><a href="http://game.pchome.net/esports/">电子竞技</a></dd></dl>
+<dl class="nobg"><dt><a href="http://biz.pchome.net/">企业</a> <a href="http://m.pchome.net/">办公</a></dt><dd><a href="http://print.pchome.net/">打印机</a></dd><dd><a href="http://biz.pchome.net/server/">服务器</a></dd><dd><a href="http://biz.pchome.net/networks/">网络</a></dd></dl>
+</div>
+<div class="channel-group-d">
+<h3 id="xfsm-t"><a href="http://digi.pchome.net/">消费数码</a></h3>
+<div id="xfsm-c" class="sections">
+<span></span>
+<dl id="c-mb">
+<dt><em><a href="http://mobile.pchome.net/">手机</a></em><a href="http://mobile.pchome.net/">手机</a></dt>
+<dd><a href="http://ebook.pchome.net/">电子书</a></dd>
+<dd><a href="http://gps.pchome.net/">GPS</a></dd>
+<dd><a href="http://mobile.pchome.net/3g/">3G</a></dd>
+</dl>
+<dl id="c-nb">
+<dt><em><a href="http://notebook.pchome.net/">笔记本</a></em><a href="http://notebook.pchome.net/">笔记本</a></dt>
+<dd><a href="http://pad.pchome.net/">平板电脑</a></dd>
+<dd><a href="http://ultrabook.pchome.net/">超极本</a></dd>
+</dl>
+<dl id="c-pc">
+<dt><em><a href="http://pc.pchome.net/">台式机</a></em><a href="http://pc.pchome.net/">台式机</a></dt>
+<dd><a href="http://pc.pchome.net/aio/">一体电脑</a></dd>
+<dd><a href="http://print.pchome.net/">办公打印</a></dd>
+</dl>
+<dl id="c-dc">
+<dt><em><a href="http://dc.pchome.net/">数码相机</a></em><a href="http://dc.pchome.net/">数码相机</a></dt>
+<dd><a href="http://dc.pchome.net/ildc/">微单相机</a></dd>
+<dd><a href="http://digi.pchome.net/accessories/">数码配件</a></dd>
+</dl>
+<dl id="c-dv">
+<dt><em><a href="http://dv.pchome.net/">摄像机</a></em><a href="http://dv.pchome.net/">摄像机</a></dt>
+<dd><a href="http://mp3.pchome.net/">MP3/MP4</a></dd>
+<dd><a href="http://audio.pchome.net/">耳 机</a></dd>
+</dl>
+</div>
+<h3 id="dnpj-t"><a href="http://hardware.pchome.net/">电脑配件</a></h3>
+<div id="dnpj-c" class="sections">
+<span></span>
+<dl id="c-hw1">
+<dt><em><a href="http://lcd.pchome.net/">显示器</a></em><a href="http://lcd.pchome.net/">显示器</a></dt>
+<dd><a href="http://memory.pchome.net/">内存硬盘</a></dd>
+<dd><a href="http://power.pchome.net/">机箱电源</a></dd>
+<dd><a href="http://diy.pchome.net/">攒机中心</a></dd>
+</dl>
+<dl id="c-hw2">
+<dt><em><a href="http://gpu.pchome.net/">显卡</a></em><a href="http://gpu.pchome.net/">显卡</a></dt>
+<dd><a href="http://cpu.pchome.net/">CPU</a></dd>
+<dd><a href="http://power.pchome.net/">散热器</a></dd>
+<dd><a href="http://cam.pchome.net/">摄像头</a></dd>
+</dl>
+<dl id="c-hw3">
+<dt><em><a href="http://mb.pchome.net/">主板</a></em><a href="http://mb.pchome.net/">主板</a></dt>
+<dd><a href="http://mouse.pchome.net/">键鼠</a></dd>
+<dd><a href="http://audio.pchome.net/">音箱</a></dd>
+</dl>
+</div>
+<h3 id="szjd-t"><a href="http://ehome.pchome.net/">数字家电</a></h3>
+<div id="szjd-c" class="sections nm">
+<span></span>
+<dl id="c-eh">
+<dt><em><a href="http://ehome.pchome.net/">电视</a></em><a href="http://ehome.pchome.net/">电视</a></dt>
+<dd><a href="http://ehome.pchome.net/#p5">白电</a></dd>
+<dd><a href="http://ehome.pchome.net">小家电</a></dd>
+</dl>
+<dl id="c-dtv">
+<dt><em><a href="http://projector.pchome.net">投影</a></em><a href="http://projector.pchome.net">投影</a></dt>
+<dd><a href="http://hd.pchome.net">高清</a></dd>
+<dd><a href="http://3d.pchome.net/">3D频道</a></dd>
+</dl>
+</div>
+</div>
+</hgroup>
+<div class="small-h-nav clear">
+<dl>
+<dt><a href="http://baojia.pchome.net/">全国各地分站</a></dt>
+<dd id="newspace"><a href="http://baojia.pchome.net/">上海</a></dd>
+<dd><a href="http://bj.pchome.net/">北京</a></dd>
+<dd><a href="http://jiangsu.pchome.net/">江苏</a></dd>
+<dd><a href="http://hz.pchome.net/">杭州</a></dd>
+<dd><a href="http://cq.pchome.net/">重庆</a></dd>
+<dd><a href="http://fuzhou.pchome.net/">福建</a></dd>
+<dd><a href="http://daqing.pchome.net/">大庆</a></dd>
+<dd><a href="http://wx.pchome.net/">无锡</a></dd>
+<dd><a href="http://jn.pchome.net/">济南</a></dd>
+<dd><a href="http://wuhan.pchome.net/">武汉</a></dd>
+<dd><a href="http://sz.pchome.net/">苏州</a></dd>
+<dd><a href="http://cz.pchome.net/">常州</a></dd>
+<dd><a href="http://chengdu.pchome.net/">成都</a></dd>
+<dd><a href="http://hf.pchome.net/">合肥</a></dd>
+<dd><a href="http://shenyang.pchome.net">沈阳</a></dd>
+<dd><a href="javascript:void(0);" id="mousemore">更多&gt;&gt;</a></dd>
+</dl>
+<span><a href="http://lbx.kdslife.com/">来白相</a><a href="http://event.pchome.net/lenovo_idea/">享乐会</a><a href="http://bbs.pchome.net/forum-373-1.html">3D达人会</a><a href="http://lphone.bbs.pchome.net/">乐疯巢</a></span>
+</div>
+<style>
+#listcons{width:70px; height:40px; top:176px; left:103px; position:absolute; background:#ffffff; display:none;}
+#listcons a{padding:0 5px; color:#133879; background:#ffffff; display:block; width:60px;}
+#listcons a:visited{color:#133879;}
+#listcons a:hover{color:#ffffff; background:#36495d;}
+#listcons2{width:70px; height:auto; top:176px; left:672px; position:absolute; background:#ffffff; display:none;}
+#listcons2 a{padding:0 5px; color:#133879; background:#ffffff; display:block; width:60px;}
+#listcons2 a:visited{color:#133879;}
+#listcons2 a:hover{color:#ffffff; background:#36495d;}
+</style>
+<div id="listcons"><a href="http://baojia.pchome.net/buyecheng/">不夜城频道</a><a href="http://buynow.pchome.net/">百脑汇</a></div>
+<div id="listcons2"><a href="http://changsha.pchome.net/">长沙</a><a href="http://gz.pchome.net/">广州</a><a href="http://nj.pchome.net/">南京</a><a href="http://zhengzhou.pchome.net/">郑州</a></div>
+<script>
+document.getElementById('newspace').onmouseover = function(){
+document.getElementById('listcons').style.display = 'block';
+}
+document.getElementById('newspace').onmouseout = function(){
+document.getElementById('listcons').style.display = 'none';
+}
+document.getElementById('listcons').onmouseover = function(){
+document.getElementById('listcons').style.display = 'block';
+}
+document.getElementById('listcons').onmouseout = function(){
+document.getElementById('listcons').style.display = 'none';
+}
+document.getElementById('mousemore').onmouseover = function(){
+document.getElementById('listcons2').style.display = 'block';
+}
+document.getElementById('mousemore').onmouseout = function(){
+document.getElementById('listcons2').style.display = 'none';
+}
+document.getElementById('listcons2').onmouseover = function(){
+document.getElementById('listcons2').style.display = 'block';
+}
+document.getElementById('listcons2').onmouseout = function(){
+document.getElementById('listcons2').style.display = 'none';
+}
+</script>
+</header>
+<!-- /导航 -->
+<div id="e-ad" class="wraper wbg">
+<aside>
+<div class="title">
+<h3>推荐专题</h3>
+</div>
+<a id="event-i" href="http://article.pchome.net/content-1416211.html"><img alt="权威视点" src="http://img.pchome.net/2011/10/28/233899.jpg"/><strong>2011杭州影像博览会PChome报道专题</strong> </a>
+<ul id="event-list">
+<li><a href="http://article.pchome.net/content-1425907.html"><img alt="推荐" src="http://img.pchome.net/2011/11/14/237639.jpg"/>AVAR2011：QQ手机管家闪耀国际舞台</a></li>
+<li><a href="http://article.pchome.net/content-1400574.html"><img alt="推荐" src="http://img.pchome.net/2011/09/29/228796.jpg"/>外有金刚罩，内有七哥芯</a></li>
+<li><a href="http://article.pchome.net/content-1425694.html"><img alt="内容" src="http://img.pchome.net/2011/11/14/237439.jpg"/>金立手机启动智能战略 天鉴e-life同步上市</a></li>
+<li><a href="http://article.pchome.net/content-1433560.html"><img alt="内容" src="http://img.pchome.net/2011/11/30/241181.jpg"/>联想移动互联开发者大会</a></li>
+<li><a href="http://article.pchome.net/content-1327692.html"><img alt="推荐" src="http://img.pchome.net/2011/05/25/207474.gif"/>享乐派 20011最给力音频外设</a></li>
+<li><a href="http://article.pchome.net/content-1333557.html"><img alt="推荐" src="http://img.product.pchome.net/market/photo/2011/05/27/560554.jpg"/>超频三为什么是静音电源</a></li>
+</ul>
+</aside>
+<section>
+<div class="ad760"><script>write_ad('mp_1_tonglan1');</script>
+</div>
+<div class="ad760"><script>write_ad('mp_1_tonglan2');</script>
+</div>
+<div class="ad760x3">
+<div class="ad248">
+<script>write_ad('mp_1_button1');</script>
+</div>
+<div class="ad248 adcenter"><script>write_ad('mp_1_button2');</script></div>
+<div class="ad248"><script>write_ad('mp_1_button3');</script></div>
+<div class="clear"></div>
+</div>
+<div class="ad760x5">
+<ul>
+<li><script>write_ad('mp_text1');</script></li><li><script>write_ad('mp_text2');</script></li><li><script>write_ad('mp_text3');</script></li><li><script>write_ad('mp_text4');</script></li><li><script>write_ad('mp_text5');</script></li>
+</ul>
+<div class="clear"></div>
+</div>
+<!-- 重要发布 -->
+<style>
+.bk{width:760px;height:200px;background:url(http://images.pchome.net/global/img2/index2011_20111130.jpg) no-repeat;margin:0 auto 10px 0; }
+.bk .clk{width:760px;height:45px;float:left;display:block;}
+.bk .main{width:760px;height:155px;float:left}
+.bk .main .l{width:275px;height:155px;float:left}
+.bk .main .l div{width:196px;height:130px;float:left;margin:17px 0 0 40px;_margin:17px 0 0 20px}
+.bk .main .l div a{width:196px;height:110px;background:url(http://images.pchome.net/global/img2/sbg.jpg);float:left}
+.bk .main .l div img{width:188px;height:100px;padding:4px 0 0 3px}
+.bk .main .l div span{width:196px;height:20px;text-align:center;line-height:20px;float:left}
+.bk .main .l div span a{background:none;line-height:20px;height:20px;}
+.bk .main .l div span a:visited{color:#000000}
+.bk .main .l div span a:hover{color:#0000FF}
+.bk .main .r{width:420px;height:155px;float:left}
+.bk .main .r h2{width:392px;height:25px;float:left;text-align:center;font-family:"微软雅黑";font-size:16px;line-height:25px;margin-top:12px}
+.bk .main .r h2 a{color:#ce0b0b;font-family:"微软雅黑";height:25px;font-size:16px;font-weight:bold;line-height:25spx;}
+.bk .main .r h2 a:visited{color:#ce0b0b}
+.bk .main .r h2 a:hover{color:#0000ff}
+.bk .main .r .tlist{width:420px;height:48px;float:left;margin-top:5px}
+.bk .main .r .tlist li{width:210px;height:20px;line-height:20px;float:left;position:relative}
+.bk .main .r .tlist li a{color:#000000;height:20px;line-height:20px;}
+.bk .main .r .tlist li a:visited{color:#000000}
+.bk .main .r .tlist li a:hover{color:#0000ff}
+.bk .main .r .tlist li em{width:50px;float:left;height:20px;line-height:20px;position:absolute;top:0px ;left:0px}
+.bk .main .r .tlist li em a{width:50px;height:20px;line-height:20px;}
+.bk .main .r .plist{width:420px;height:55px;float:left}
+.bk .main .r .plist li{width:203px;height:55px;float:left;margin-right:5px}
+.bk .main .r .plist li img{width:58px;height:48px;border:2px solid #FFF;float:left;margin-right:5px;}
+.bk .main .r .plist li strong{color:#ce0b0b;font-weight:bold;line-height:18px;display:block}
+.bk .main .r .plist li strong:visited{color:#ce0b0b}
+.bk .main .r .plist li strong:hover{color:#0000ff}
+.bk .main .r .plist li span{line-height:18px;width:128px}
+#event-list{height:377px;}
+#event-i{margin-bottom:10px;}
+#event-i img{margin-bottom:5px;}
+</style>
+<div class="bk">
+<a class="clk"></a>
+<div class="main">
+<div class="l">
+<div><a href="http://article.pchome.net/content-1434742-1.html"><img src="
+http://img.pchome.net/2011/11/30/241315.jpg"></a><span>CBSi（中国）客户会嘉宾讲演风采</a></span> </div>
+</div>
+<div class="r">
+<h2><a href="http://article.pchome.net/content-1436360.html">专题特稿:CBSi客户会上海站全程报道</a></h2>
+<ul class="tlist">
+<li> <a href="http://article.pchome.net/content-1434280.html">刘克丽:上百个全新栏目2012元月亮相
+</a></li>
+<li> <a href="http://article.pchome.net/content-1434272.html">刘小东:阿拉丁助用户数跃4亿</a></li>
+<li><a href="http://article.pchome.net/content-1435032-1.html">图说现场:云起龙骧的未来</a></li>
+<li> <a href="http://article.pchome.net/content-1434274.html">于冬雪:六种力量凸显四大颠覆价值</a></li>
+</ul>
+<ul class="plist">
+<li><img src="http://img.pchome.net/2011/11/30/241318.jpg"><a href="http://article.pchome.net/content-1434282.html"><strong>刘君:坚持专业的内容</strong></a><span>PChome风雨十五年，邀约再续十五载</span></li>
+<li><img src="http://img.pchome.net/2011/11/30/241178.jpg"><a href="http://article.pchome.net/content-1434586-1.html">
+<strong>纷呈:60奖项花落各家</strong></a><span>五千元现金大奖压轴送出</span></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- /重要发布 -->
+<div class="search-con"><form action="http://search.pchome.net/more.html" id="search" method="get" target="_blank">
+<label>搜索</label>
+<input type="text" class="text" id="search-t" name="wd" value="iPhone4S" />
+<input type="hidden" id="navHt" name="aritcleType" value="cms"/>
+<input type="hidden" id="navHt2" name="act" value="more"/>
+<input type="submit" class="button" id="gs-btn" value="搜索"/>
+</form>
+<script>
+(function(){
+$('search').addEvent('submit',function(event){
+if($('search-t').value == 'iPhone4S'){
+window.location = 'http://product.pchome.net/mobile_phone_apple_iphone4s/321180.html';
+event.stop();
+}
+});
+})();
+</script>
+<div class="hot-point">
+<dl>
+<dt>行业热点:</dt>
+<dd><a href="http://product.pchome.net/mobile_phone/list_3_236_5031.html">HTC手机</a></dd>
+<dd><a href="http://event.kdslife.com/konglonggu/">恐龙谷温泉 温泉宝贝</a></dd>
+</dl>
+<dl>
+<dt>产品热词:</dt>
+<dd><a href="http://product.pchome.net/mobile_phone_htc_htcdesires/312086.html">HTC G12</a></dd>
+<dd><a href="http://product.pchome.net/mobile_phone_samsung_galaxys2/309202.html">三星I9100</a></a></dd>
+<dd><a href="http://product.pchome.net/mobile_phone_apple_iphone4s/321180.html">iphone4s</a></dd>
+</dl>
+</div>
+</div>
+</section>
+<div class="clear"></div>
+</div>
+<section id="main" class="wraper wbg">
+<article>
+<div id="focus-title" class="title">
+<h3 id="date"></h3><div class="title-skip"><div id="focus-s-title"><div id="ft-inner"><a href="http://article.pchome.net/content-1313631.html">“土匪达人秀”出英豪 赠青团更显海派情怀
+</a><a href="http://article.pchome.net/content-1313631.html">“土匪达人秀”出英豪 赠青团更显海派情怀</a><a href="http://article.pchome.net/content-1313631.html">“土匪达人秀”出英豪 赠青团更显海派情怀</a><a href="http://article.pchome.net/content-1313631.html">“土匪达人秀”出英豪 赠青团更显海派情怀</a></div></div><ul id="fst-ctrl" class="fst-ctrl"><li id="left-ctrl" class="left-ctrl"></li><li id="right-ctrl" class="right-ctrl"></li></ul></div>
+<script>
+var d = new Date();
+document.getElementById('date').innerHTML = d.getFullYear()+'年'+(d.getMonth()+1)+'月'+d.getDate()+'日热点资讯'
+</script>
+</div>
+<div class="art-left">
+<ul id="tglist">
+<li id="fcs-tab" class="current"><em>今日焦点</em><span></span></li>
+<li id="fcs-mb"><em><a href="http://mobile.pchome.net/">手机</a>·<a href="http://3g.pchome.net/">3G生活</a></em><span></span></li>
+<li id="fcs-nb"><em><a href="http://notebook.pchome.net/">笔记本</a>·<a href="http://pad.pchome.net/">平板</a>·<a href="http://ultrabook.pchome.net/">超极本</a></em><span></span></li>
+<li id="fcs-dc"><em><a href="http://dc.pchome.net/">数码相机</a></em><span></span></li>
+<li id="fcs-hd"><em><a href="http://hardware.pchome.net/">硬件DIY</a></em><span></span></li>
+<li id="fcs-ehome"><em><a href="http://ehome.pchome.net/">家电·投影</a></em><span></span></li>
+<li id="fcs-sw"><em><a href="http://game.pchome.net/">游戏</a>·<a href="http://download.pchome.net/">软件</a></em><span></span></li>
+<li id="fcs-product"><em><a href="http://product.pchome.net/ladder.html">产品排行榜</a></em><span></span></li>
+</ul>
+<div class="ad190">
+<script>write_ad('mp_mid_sky');</script>
+</div>
+<div class="m-l-bottom">
+<ul class="art-list">
+<li><a href="http://yxh.zol.com.cn/">CBSi中国携百度胜未来</a></li><li><a href="http://cio.zdnet.com.cn/cio/2011/1107/2064531.shtml">医疗教育CIO解读云
+</a></li>
+</ul>
+</div>
+</div>
+<div class="art-right">
+<div id="fxcon" class="m-art-con slide-wrap">
+<div id="slide" class="slide">
+<a href="http://article.pchome.net/content-1436075.html">
+<img src="http://img.product.pchome.net/market/photo/2011/12/02/603379.png" alt="能否称钛皇? 索泰亚特兰蒂斯体检报告"/></a>
+<a href="http://article.pchome.net/content-1435648.html"><img src="http://img.pchome.net/2011/12/02/241858.jpg" width="308" height="168" alt="手机无线设置教程 近期网友问答集锦" /></a>
+<a href="http://article.pchome.net/content-1436001.html"><img src="http://img.product.pchome.net/market/photo/2011/12/02/603334.png" width="388" height="165" alt="谁主沉浮定论尚早？精致上网本大搜罗" /></a>
+<a href="http://article.pchome.net/content-1436112-1.html"><img height="168" width="308" alt="绝美枫叶国 索尼A33加拿大风景样张" src="http://img.product.pchome.net/market/photo/2011/12/02/603490.jpg"/></a>
+<a href="http://article.pchome.net/content-1435624.html"><img height="168" width="308" alt="到底能有多强？技嘉游戏X79深度首测" src="http://img.pchome.net/2011/12/02/241823.jpg"/></a>
+<a href="http://article.pchome.net/content-1434025.html"><img src="http://img.product.pchome.net/market/photo/2011/11/30/602893.jpg" alt="丰盈大眼 丽讯D871ST投影机开箱图赏" width="308" height="168" /></a>
+<a href="http://article.pchome.net/content-1435853.html">
+<img src="http://img.pchome.net/2011/12/02/241898.jpg" alt="专访新泛联总裁：DCG的2000万绝对会兑现
+"border="0" /></a>
+<a href="http://article.pchome.net/content-1435420.html"><img height="168" width="308" alt="G家族日益壮大HTC安卓人气手机盘点" src="http://img.product.pchome.net/market/photo/2011/12/02/603505.jpg" /></a>
+</div>
+<ul class="impList">
+<li id="titles"></li>
+</ul>
+<div id="fxcon-0">
+<h4><a href="http://article.pchome.net/content-1436265.html">平板一周烩：山寨率先搭载Android4.0</a></h4>
+<ul class="art-list foc-blist">
+<li><a
+href="http://article.pchome.net/content-1435425.html">手机SOSO地图拯救路盲</a><a
+href="http://article.pchome.net/content-1429785.html">腾龙B008三地摄影沙龙</a></li>
+<li><a
+href="http://article.pchome.net/content-1433848.html">首款安卓4.0 纽曼K97评测</a><a href="http://article.pchome.net/content-1434587.html">PC装X86安卓3.2全面教程</a></li>
+<li><a href="http://article.pchome.net/content-1433176.html">智能双冠王非酷睿i5莫属</a><a href="http://article.pchome.net/content-1433821.html">年末手机颁奖典礼开启</a></li>
+<li><a href="http://article.pchome.net/content-1436095.html">触屏手机式概念电话曝光</a><a href="http://article.pchome.net/content-1435648.html">手机无线网络设置教程</a></li>
+</ul>
+</div>
+<div id="fxcon-1">
+<h4><a href="http://article.pchome.net/content-1436095.html">家居座机也智能 触屏手机式概念电话</a></h4>
+<div class="main-lcon">
+<ul class="art-list">
+<li><a href="http://article.pchome.net/content-1435684.html">再放毒!我的三星Galaxy Note拍照测试</a></li>
+<li><a href="http://article.pchome.net/content-1436045.html">心动时尚低端 索尼爱立信MT11报1500</a></li>
+<li><a href="http://article.pchome.net/content-1435880.html">实力媲美旗舰 三星i9103已破2700元</a></li>
+<li><a href="http://article.pchome.net/content-1435806.html">完美高端体验 HTC Z715现价3K元出头</a></li>
+</ul>
+</div>
+<div class="vip-pro">
+<h5>本周手机推荐</h5>
+<a class="pra" href="http://product.pchome.net/mobile_phone_samsung_galaxynote/336741.html"><img src="http://img-5.product.pchome.net/VtNIazJ/E9_X52vXy2/59m/zBQvOS6DX7ZwN.jpg"/><span>三星i9220</span></a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="fxcon-2">
+<h4><a href="http://article.pchome.net/content-1436137.html">品质生活 联想U300S超极本报9000元</a></h4>
+<div class="main-lcon">
+<ul class="art-list">
+<li><a href="http://article.pchome.net/content-1435381.html ">本客部落第十三期：领略东芝Z830</a></li>
+<li><a href="http://article.pchome.net/content-1435871.html">8小时超长续航 宏碁8372Z降至2780元
+</a></li>
+<li><a href="http://article.pchome.net/content-1435902.html">i3芯GT 525M独显 东芝L700仅需3999
+</a></li>
+<li><a href="http://article.pchome.net/content-1435471.html">强劲图形性能 东芝L750D大屏本仅3K6
+</a></li>
+</ul>
+</div>
+<div class="vip-pro">
+<h5>本周本本推荐</h5>
+<a class="pra" href="http://product.pchome.net/pc_tablepc_samsung_galaxytabp751016gb/330740.html"><img src="http://img-4.product.pchome.net/VtNIazJ/nE_X52vXy2/nn5/zBlHKbf2IH9n.jpg"/><span>三星P7510</span></a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="fxcon-3">
+<h4><a href="http://article.pchome.net/content-1435061.html">微缩景观看楼市 佳能IXUS 230 HS试用</a></h4>
+<div class="main-lcon">
+<ul class="art-list">
+<li><a href="http://article.pchome.net/content-1435767.html">尼康1九州媒体旅行座谈会报道
+</a></li>
+<li><a href="http://article.pchome.net/content-1435998.html">性能卓越便携DC 尼康S6150仅1250元</a></li>
+<li><a href="http://article.pchome.net/content-1436058.html">迥异风格最抢眼 奥林巴斯XZ-1喜人价</a></li>
+<li><a href="http://article.pchome.net/content-1435970.html">即时取景 尼康D3100套机降至诱人价</a></li>
+</ul>
+</div>
+<div class="vip-pro">
+<h5>本周DC推荐</h5><a class="pra" href="http://product.pchome.net/digital_dc_canon_powershots100/338271.html"><img src="http://img-2.product.pchome.net/VtNIazJ/E9_X52vXy2/EXn/zBYfqMoLHEwAh.jpg"/><span>佳能S100V</span></a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="fxcon-4">
+<h4><a href="http://article.pchome.net/content-1432562.html">魔兽新版本 Razer安纳西梵蛛键盘体验</a></h4>
+<div class="main-lcon">
+<ul class="art-list">
+<li>
+<a href="http://article.pchome.net/content-1432605.html">卓越高性能！网际快车X700游戏鼠评测</a>
+</li>
+<li><a href="http://article.pchome.net/content-1434934.html">徐汇同步到货 AMD FX-8150报价2149元</a></li>
+<li><a href="http://article.pchome.net/content-1434947.html">装机更实惠 酷睿i5 2500K今日报1420</a></li>
+<li><a href="http://article.pchome.net/content-1434970.html">高端主板平民价 技嘉990XA-UD3跌300</a></li>
+</ul>
+</div>
+<div class="vip-pro">
+<h5>本周硬件推荐</h5>
+<a class="pra" href="http://product.pchome.net/diy_graphics_galaxy_gtx560ti/334750.html"><img src="http://img-1.product.pchome.net/VtNIazJ/nm_X52vXy2/5X2/zBPli5HCh1xFN.jpg"/><span>影驰GTX560Ti大将</span></a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="fxcon-5">
+<h4><a href="http://article.pchome.net/content-1426915.html">精做工高品质 爱普生C2070WN投影评测</a></h4>
+<div class="main-lcon">
+<ul class="art-list">
+<li><a href="http://article.pchome.net/content-1352415.html">BRAVIA画质大跃进 HX920拆解对比活动</a></li>
+<li><a href="http://article.pchome.net/content-1435843.html">视听双重享受 夏普40寸液晶电视仅4K8</a></li>
+<li><a href="http://article.pchome.net/content-1435818.html">尽享完美视觉体验 三星40寸LED不到5K</a></li>
+<li><a href="http://article.pchome.net/content-1435804.html">最人气32寸LED 海信LED32K11G再降价</a></li>
+</ul>
+</div>
+<div class="vip-pro">
+<h5>本周家电推荐</h5>
+<a class="pra" href="http://product.pchome.net/digi_home_lcd_tv_sony_klv40bx400/269104.html"><img src="http://img-1.product.pchome.net/VtNIazJ/9n_X52vXy2/y9/zBShOp9rmBM5h.jpg"/><span>索尼KLV-40BX400</span></a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="fxcon-6">
+<h4><a href="http://article.pchome.net/content-1435425.html">谁说路盲戒不掉！手机SOSO地图领航</a></h4>
+<div class="main-lcon">
+<ul class="art-list">
+<li><a href="http://article.pchome.net/content-1435879.html">娱乐周记 地心历险记2:神秘岛新冒险</a></li>
+<li><a href="http://article.pchome.net/content-1436096.html">360公司欲建立研发中心 安全总结12.3</a></li>
+<li><a href="http://article.pchome.net/content-1436047.html">外媒称虚拟世界儿童玩具市场潜力巨大</a></li>
+<li><a href="http://article.pchome.net/content-1436053.html">EA宣布收购社交游戏开发商Klick Nation</a></li>
+</ul>
+</div>
+<div class="vip-pro">
+<h5>本周推荐</h5>
+<a class="pra" href="http://download.pchome.net/video-trail/preview-22980-0.html"><img src="http://img.pchome.net/2011/11/29/240955.gif"/><span>地心历险记2</span></a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="fxcon-7">
+<h4><a href="http://product.pchome.net/pc_tablepc_kindlefire/339986.html">能否超越iPad? 亚马逊Kindle Fire</a></h4>
+<div class="main-lcon">
+<ul class="art-list">
+<li><a href="http://product.pchome.net/mobile_phone/list_3_236.html">手机</a>: <a href="http://product.pchome.net/mobile_phone_nokia_n9/276142.html">诺基亚N9</a> | <a href="http://product.pchome.net/mobile_phone_m1miui/334056.html">小米手机</a> | <a href="http://product.pchome.net/mobile_phone_apple_iphone4s/321180.html">iPhone4s</a></li>
+<li><a href="http://product.pchome.net/pc_notebook/list_7_60.html">笔记本</a>: <a href="http://product.pchome.net/pc_notebook/series/5150.html">华硕A43</a> | <a href="http://product.pchome.net/pc_notebook/series/60328.html">东芝Z830</a></li>
+<li><a href="http://product.pchome.net/pc_tablepc/list_7_635.html">平板</a>: <a href="http://product.pchome.net/pc_tablepc_acer_acer7/303976.html">Acer A100</a> | <a href="http://product.pchome.net/pc_tablepc_asus_eeepadtf101/315903.html">华硕Eee Pad TF101</a></li>
+<li><a href="http://product.pchome.net/digital_dc/list_1_103.html">数码相机</a>: <a href="http://product.pchome.net/dc_canon_7d/252443.html">佳能7D</a> | <a href="http://product.pchome.net/digital_dc_sony_nex5n/333767.html">索尼NEX-5N</a></li>
+</ul>
+</div>
+<div class="vip-pro">
+<h5>本周产品推荐</h5>
+<a class="pra" href="http://product.pchome.net/pc_tablepc_kindlefire/339986.html"><img src="http://img-5.product.pchome.net/VtNIazJ/EX_X52vXy2/Eq/zBN5QJMkjOizh.jpg"/><span>亚马逊Kindle Fire</span></a>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="ad390 margin-b10">
+<script>write_ad('mp_kds_button');</script>
+</div>
+<div id="bbs-con" class="m-art-con margin-b10">
+<ul id="main-tag" class="art-tag">
+<li class="current"><a href="http://www.kdslife.com/">kds宽带山</a></li>
+<li><a href="http://bbs.pchome.net/">爱玩IT社区</a></li>
+<li><a href="http://event.pchome.net/">精彩活动</a></li>
+</ul>
+<div class="cons">
+<h4><a href="http://club.pchome.net/thread_1_15_6244207__.html">KDS千人娱乐、美食、结婚、装修团招募</a></h4>
+<ul class="art-list">
+<li><em><a href="http://article.kdslife.com/list.html">资讯</a>|</em><a href="http://article.kdslife.com/content_22515_1.html">85户无证商户将整治 静安别墅明确居住性质</a></li>
+<li><em><a href="http://article.kdslife.com/list.html">资讯</a>|</em><a href="http://article.kdslife.com/content_22513_1.html">2012婚纱趋势：Top 10嫁纱梦幻之选
+</a></li>
+<li><em><a href="http://club.pchome.net/forum_1_15.html">活动</a>|</em><a href="http://club.pchome.net/thread_1_15_6699175__.html">Levi's宅男变身火热进行中 宅男们It's your time</a></li>
+<li><em><a href="http://club.pchome.net/forum_1_15.html">社区</a>|</em><a href="http://club.pchome.net/thread_1_15_6708953__.html">撩菜回忆录——冬天回想记得的那些女孩们</a></li>
+</ul>
+</div>
+<div class="cons">
+<h4><a href="http://bbs.pchome.net/thread-587992-1-1.html">PChome“酷科技”体验馆开幕！报名通道开启！</a></h4>
+<ul class="art-list">
+<li><em><a href="http://sjbbs.pchome.net/forum/317/">手机论坛</a>|</em><a href="http://sjbbs.pchome.net/thread-9655-1-1.html">4.3.3 新越狱方式—最方便的越狱方法推荐升级 ！</a></li>
+<li><em><a href="http://sjbbs.pchome.net/forum/317/">手机论坛</a>|</em><a href="http://sjbbs.pchome.net/thread-9640-1-1.html">从iOS 4.3.5降级到4.x完全中文教程！
+</a></li>
+<li><em><a href="http://sjbbs.pchome.net/forum/317/">手机论坛</a>|</em><a href="http://sjbbs.pchome.net/thread-9621-1-1.html">绝美桌面 Xperia Arc Launcher2.0 超流畅体验！</a></li>
+<li><em><a href="http://sjbbs.pchome.net/forum/317/">手机论坛</a>|</em><a href="http://sjbbs.pchome.net/thread-9449-1-1.html">APP STORE每周精选软件荟萃！</a></li>
+</ul>
+</div>
+<div class="cons">
+<h4><a href="http://bbs.pchome.net/thread-587153-1-1.html">i-rocks KR-6402超薄剪刀脚键盘免费试用征文！</a></h4>
+<ul class="art-list">
+<li><em><a href="http://article.kdslife.com/list.html">活动</a>|</em><a href="http://bbs.pchome.net/thread-579212-1-1.html">联想I520手机“我爱改歌词”活动邀你来参与！ </a></li>
+<li><em><a href="http://bbs.pchome.net/bbs/thread-553630-1-1.html ">活动</a>|</em><a href="http://bbs.pchome.net/thread-580904-1-1.html">描述你心中的经典电源，抢650w电源 </a></li>
+<li><em><a href="http://club.pchome.net/forum_1_26.html">回顾</a>|</em><a href="http://club.pchome.net/thread_1_3_6202394__.html">KDS千人聚会照片征集活动</a></li>
+<li><em><a href="http://club.pchome.net/forum_1_26.html">回顾</a>|</em><a href="http://club.pchome.net/thread_7_76_6185675__.html">微软Arc Touch哪里最吸引你？好礼尽享 </a></li>
+</ul>
+</div>
+</div>
+<div id="points" class="m-art-con">
+<div class="title"><h3>意见领袖</h3></div>
+<div class="cons">
+<div class="main-lcon">
+<ul class="fl-blog">
+<li><em><a href="http://blog.pchome.net/3621986">大象无形</a></em><a href="http://blog.pchome.net/article/471627.html">种子新品mini机箱图赏</a></li>
+<li><em><a href="http://blog.pchome.net/5396414">克丽</a></em><a href="http://blog.pchome.net/article/471562.html">跨国企业人才的十大必须</a></li>
+<li><em><a href="http://blog.pchome.net/548230366">别特洛夫：</a></em><a href="http://blog.pchome.net/article/468998.html">掌中卡包</a></li>
+</ul>
+<ul class="art-list">
+<li><em><a href="http://blog.pchome.net/476578">嘎文Gaven：</a></em><a href="
+http://blog.pchome.net/article/458634.html">E-P3 & NEX-5C hdr对比</a></li>
+<li><em><a href="http://blog.pchome.net/1269">春卷：</a></em><a href="http://blog.pchome.net/article/471316.html">炫耀贴 尼康日本之行的战利品</a></li>
+</ul>
+</div>
+<ul class="vip-blog">
+<li><a href="http://blog.pchome.net/1269"><img alt="春卷博客" src="http://img.pchome.net/2010/07/19/148174.gif"/><strong>春卷博客</strong>PChome网站总编辑</a></li>
+<li><a href="http://blog.pchome.net/3621986/"><img alt="大象无形" src="http://img.pchome.net/2011/03/21/194121.jpg"/><strong>大象无形</strong>PChome社区编辑</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</article>
+<aside>
+<div id="main-video" class="main-asides">
+<div class="title">
+<h3><a href="http://article.pchome.net/more_3.html?picLibID=1">精彩图赏</a>·<a href="http://video.pchome.net/">视频</a></h3>
+</div>
+<ul class="video-img">
+<li><a href="http://article.pchome.net/content-1435067.html" title="经典曲线之迷 联想乐Phone S2视频介绍"><img alt="经典曲线之迷 联想乐Phone S2视频介绍" src="http://img.pchome.net/2011/12/02/241747.jpg"/></a></li>
+<li><a href="http://article.pchome.net/content-1428351.html" title="最钟爱的高性能DC 佳能S100V多图欣赏"><img alt="最钟爱的高性能DC 佳能S100V多图欣赏" src="http://img.product.pchome.net/market/photo/2011/11/21/600479.jpg"/></a></li>
+<li><a href="http://article.pchome.net/content-1340110.html" title="Computex2011 酷冷至尊极品精英赏析"><img alt="Computex2011 酷冷至尊极品精英赏析" src="http://img.product.pchome.net/market/photo/2011/06/08/562938.jpg"/></a></li>
+<li><a href="http://article.pchome.net/content-1432154.html" title="走进自然 高清壁纸精选"><img alt="走进自然 高清壁纸精选" src="http://img.pchome.net/2011/11/28/240774.gif"/></a></li>
+</ul>
+<ul class="art-list video">
+<li><em>
+<a href="http://video.pchome.net/">[视频]</a></em>
+<a href="http://article.pchome.net/content-1436132.html"><FONT
+color=#FF0000>格局发展融合 2011中国网络视听产业</FONT>
+</a></li>
+<li><em>
+<a href="http://video.pchome.net/">[视频]</a></em>
+<a href="http://article.pchome.net/content-1435398.html">双旦将至 访百脑汇徐汇店总经理陈建成
+</a></li>
+</ul>
+</div>
+<div class="main-asides">
+<ul id="art-tag" class="art-tag">
+<li class="current">产品资讯</li>
+<li>全国行情</li>
+</ul>
+<div class="contains" style="padding-bottom:2px;">
+<h4><em><a href="http://notebook.pchome.net/">笔记本</a></em><a href="http://article.pchome.net/content-1435661.html">酷睿i5芯独显本 神舟K580仅售3999元</a></h4>
+<ul class="art-list">
+<li><em><a href="http://notebook.pchome.net/">笔记本</a>|</em><a href="http://article.pchome.net/content-1435467.html ">
+轻盈美感性能出色 宏碁3830TG售4999</a></li>
+<li><em><a href="http://notebook.pchome.net/">笔记本</a>|</em><a href=" http://article.pchome.net/content-1435343.html">
+Win7保驾护航 戴尔XPS 14Z锦上添花</a></li>
+</ul>
+<h4><em><a href="http://mobile.pchome.net/">手 机</a></em><a href="http://article.pchome.net/content-1435648.html">手机无线设置教程 近期网友问答集锦</a></h4>
+<ul class="art-list">
+<li><em><a href="http://mobile.pchome.net/">手机</a>|</em><a href="http://article.pchome.net/content-1436095.html">家居座机也智能 触屏手机式概念电话</a></li>
+</ul>
+<h4><em><a href="http://dc.pchome.net/">数 码</a></em><a href="http://article.pchome.net/content-1435095.html">
+TX55小故事之T Girl午夜外滩漫步</a></h4>
+<ul class="art-list">
+<li><em><a href="http://dc.pchome.net/">相机</a>|</em><a href="http://article.pchome.net/content-1435288.html">尼康“神灯”即将升级——尼康SB-910
+</a></li>
+<li><em><a href="http://audio.pchome.net/">音频</a>|</em><a href="http://article.pchome.net/content-1429588.html">2011上海国际音响大展专题报道</a></li>
+</ul>
+<h4><em><a href="http://pad.pchome.net/">平 板</a></em><a href="http://article.pchome.net/content-1432591.html">平板一周烩：华硕四核平板开始预订
+</a></h4>
+<h4><em><a href="http://ehome.pchome.net/">家 电</a></em><a href="http://article.pchome.net/content-1434220.html">商教防尘精英 NEC M300XS+投影机图赏
+</a></h4>
+<ul class="art-list">
+<li><em><a href="http://ehome.pchome.net">家电</a>|</em><a href="http://article.pchome.net/content-1434117.html">飞利浦 AirFryer 空气炸锅开箱体验</a></li>
+</ul>
+<h4><em><a href="http://hardware.pchome.net/">硬 件</a></em><a href="
+http://article.pchome.net/content-1435624.html">到底能有多强？技嘉游戏X79深度首测
+</a></h4>
+<ul class="art-list">
+<li><em><a href="http://gpu.pchome.net/">显卡</a>|</em><a href="http://article.pchome.net/content-1434317.html">秘籍：看游戏选显卡</a><a href="http://article.pchome.net/content-1435742.html"> 铭鑫双卡套装爆2899</a></li>
+<li><em><a href="http://cpu.pchome.net/">CPU </a><a href="http://mb.pchome.net/">主板</a>|</em><a href="http://mb.pchome.net/">史上最牛游戏X79</a> <a href="http://article.pchome.net/content-1431375.html">最便宜最贵CPU大对决</a></li>
+<li><em><a href="http://lcd.pchome.net/">LCD</a>|</em><a href="http://article.pchome.net/content-1391106.html">全球最薄AOC刀锋II评测 </a>
+<a href="http://article.pchome.net/content-1398125.html">游戏显示器推荐</a></li>
+<li><em><a href="http://memory.pchome.net">存储</a>|</em><a
+href="http://article.pchome.net/content-1435724.html">英特尔高端SSD放缓 </a><a
+href="http://article.pchome.net/content-1435722.html">三星发布PM830固态硬盘</a></li>
+<li><em><a href="http://power.pchome.net">机电</a>|</em><a href="http://article.pchome.net/content-1433422.html">十六款机箱横评</a>
+<a href="http://article.pchome.net/content-1416430.html">12款450W电源横评</a></li>
+<li><em><a href="http://mouse.pchome.net/">键鼠</a>|</em><a href="http://article.pchome.net/content-1432562.html">Razer安纳西梵蛛体验</a> <a href="http://article.pchome.net/content-1432605.html">网际快车X700游戏鼠评测</a></li>
+</ul>
+<h4><em><a href="http://software.pchome.net/">软 件</a></em><a href="http://article.pchome.net/content-1435165.html">一周壁纸榜单 12月桌面月历急升前三</a></h4>
+<ul class="art-list">
+<li><em><a href="http://download.pchome.net/">下 载</a>|</em> <a href="http://download.pchome.net/qq2011/detail-27799.html">QQ2011再度升级 非会员可创建4个群</a> </li>
+</ul>
+<h4><em><a href="http://game.pchome.net/">游戏</a></em>
+<a href="http://article.pchome.net/content-1436324.html">DOTA2更新:生命的汲取者 噬魂鬼降临</a></h4>
+<ul class="art-list">
+<li><em>
+<a href="http://game.pchome.net/tvg/">电玩</a>|</em><a href="http://article.pchome.net/content-1435939.html">《夏洛克福尔摩斯的新冒险》宣传影像欣赏</a></li>
+</ul>
+<h4><em><a href="http://print.pchome.net/">办 公</a></em>
+<a href="http://article.pchome.net/content-1435556.html">幸福家庭的帮手 奔图推家庭解决方案</a></h4>
+<ul class="art-list">
+<li><em>
+<a href="http://print.pchome.net/">新闻
+</a>|</em><a href="http://article.pchome.net/content-1435403.html">佳能彩色激光打印机助珠三角服装制造</a></li>
+</ul>
+</div>
+<div class="contains" style="padding-bottom:6px">
+<h4><em><a href="http://baojia.pchome.net/#p2">手 机</a></em>
+<dl>
+<dt>
+<ul>
+<li><a href="http://article.pchome.net/content-1435880.html" target="_blank" title="实力媲美旗舰 三星i9103已破2700元" >实力媲美旗舰 三星i9103已破2700元</a></li>
+</ul>
+</dt>
+</dl>
+</h4>
+<ul class="art-list">
+<li><em><a href="http://article.pchome.net/list_2__236___2.html" title="点击查看更多"> 降价</a> |</em><a href="http://article.pchome.net/content-1435858.html" target="_blank" title="叫板旗舰市场 Moto Droid RAZR售3K4" >叫板旗舰市场 Moto Droid RAZR售3K4</a></li>
+<li><em><a href="http://article.pchome.net/list_2__236___2.html" title="点击查看更多"> 降价</a> |</em><a href="http://article.pchome.net/content-1435826.html" target="_blank" title="无降价余地 三星i9100今创历史新低价" >无降价余地 三星i9100今创历史新低价</a></li>
+<li><em><a href="http://article.pchome.net/list_2__236___2.html" title="点击查看更多"> 降价</a> |</em><a href="http://article.pchome.net/content-1435851.html" target="_blank" title="无限逼近底价 HTC G11再降百元让利" >无限逼近底价 HTC G11再降百元让利</a></li>
+<li><em><a href="http://article.pchome.net/list_2__236___18.html" title="点击查看更多"> 热点</a> |</em><a href="http://article.pchome.net/content-1434589.html" target="_blank" title="双核大屏后起之秀 HTC Raider 4G热卖" >双核大屏后起之秀 HTC Raider 4G热卖</a></li>
+<li><em><a href="http://article.pchome.net/list_196__236___2.html" title="点击查看更多"> 降价</a> |</em><a href="http://article.pchome.net/content-1436385.html" target="_blank" title="时尚大气玩转智能 三星i9100仅3280元" >时尚大气玩转智能 三星i9100仅3280元</a></li>
+<li><em><a href="http://article.pchome.net/list_22__236___2.html" title="点击查看更多"> 降价</a> |</em><a href="http://article.pchome.net/content-1436344.html" target="_blank" title="绝对劲爆 三星i917常州特价仅售1250" >绝对劲爆 三星i917常州特价仅售1250</a></li>
+</ul>
+<h4><em><a href="http://baojia.pchome.net/#p4">硬 件</a></em>
+<dl>
+<dt>
+<ul>
+<li><a href="http://article.pchome.net/content-1435308.html" target="_blank" title="促销不间断 迪兰恒金HD6850酷能仅1K" >促销不间断 迪兰恒金HD6850酷能仅1K</a></li>
+</ul>
+</dt>
+</dl>
+</h4>
+<ul class="art-list">
+<li><em><a href="http://article.pchome.net/list_2__36___1.html" title="点击查看更多"> 新品</a> |</em><a href="http://article.pchome.net/content-1434934.html" target="_blank" title="徐汇同步到货 AMD FX-8150报价2149元" >徐汇同步到货 AMD FX-8150报价2149元</a></li>
+<li><em><a href="http://article.pchome.net/list_2__38___3.html" title="点击查看更多"> 促销</a> |</em><a href="http://article.pchome.net/content-1434296.html" target="_blank" title="装机促销进行时 金士顿2GB DDR3抛售" >装机促销进行时 金士顿2GB DDR3抛售</a></li>
+<li><em><a href="http://article.pchome.net/list_2__37___3.html" title="点击查看更多"> 促销</a> |</em><a href="http://article.pchome.net/content-1430054.html" target="_blank" title="装机促销再降临 技嘉X68X-UD3R暴跌" >装机促销再降临 技嘉X68X-UD3R暴跌</a></li>
+</ul>
+<h4><em><a href="http://baojia.pchome.net/#p3">笔记本</a></em>
+<dl>
+<dt>
+<ul>
+<li><a href="http://article.pchome.net/content-1435720.html" target="_blank" title="升级版更给力 宏碁W500仅售3888元" >升级版更给力 宏碁W500仅售3888元</a></li>
+</ul>
+</dt>
+</dl>
+</h4>
+<ul class="art-list">
+<li><em><a href="http://article.pchome.net/list_2__635___2.html" title="点击查看更多"> 降价</a> |</em><a href="http://article.pchome.net/content-1435101.html" target="_blank" title="时尚智能平板之王 苹果iPad2降至3K1" >时尚智能平板之王 苹果iPad2降至3K1</a></li>
+<li><em><a href="http://article.pchome.net/list_2__60___2.html" title="点击查看更多"> 降价</a> |</em><a href="http://article.pchome.net/content-1436035.html" target="_blank" title="高性价比 戴尔灵动14VR笔记本不到3K6" >高性价比 戴尔灵动14VR笔记本不到3K6</a></li>
+<li><em><a href="http://article.pchome.net/list_2__60___2.html" title="点击查看更多"> 降价</a> |</em><a href="http://article.pchome.net/content-1435871.html" target="_blank" title="8小时超长续航 宏碁8372Z降至2780元" >8小时超长续航 宏碁8372Z降至2780元</a></li>
+</ul>
+<h4><em><a href="http://baojia.pchome.net/#p5">数 码</a></em>
+<dl>
+<dt>
+<ul>
+<li><a href="http://article.pchome.net/content-1435970.html" target="_blank" title="即时取景 尼康D3100套机降至诱人价" >即时取景 尼康D3100套机降至诱人价</a></li>
+</ul>
+</dt>
+</dl>
+</h4>
+<ul class="art-list">
+<li><em><a href="http://article.pchome.net/list_2__103___2.html" title="点击查看更多"> 降价</a> |</em><a href="http://article.pchome.net/content-1435998.html" target="_blank" title="性能卓越便携DC 尼康S6150仅1250元" >性能卓越便携DC 尼康S6150仅1250元</a></li>
+<li><em><a href="http://article.pchome.net/list_2__103___2.html" title="点击查看更多"> 降价</a> |</em><a href="http://article.pchome.net/content-1436058.html" target="_blank" title="迥异风格最抢眼 奥林巴斯XZ-1喜人价" >迥异风格最抢眼 奥林巴斯XZ-1喜人价</a></li>
+</ul>
+<h4><em><a href="http://baojia.pchome.net/#p5">家 电</a></em>
+<dl>
+<dt>
+<ul>
+<li><a href="http://article.pchome.net/content-1400004.html" target="_blank" title="下单立减1400元 创维46寸LED电视促销" >下单立减1400元 创维46寸LED电视促销</a></li>
+</ul>
+</dt>
+</dl>
+</h4>
+<ul class="art-list">
+<li><em><a href="http://article.pchome.net/list_2__170___2.html" title="点击查看更多"> 降价</a> |</em><a href="http://article.pchome.net/content-1435804.html" target="_blank" title="最人气32寸LED 海信LED32K11G再降价" >最人气32寸LED 海信LED32K11G再降价</a></li>
+<li><em><a href="http://article.pchome.net/list_2__170___18.html" title="点击查看更多"> 热点</a> |</em><a href="http://article.pchome.net/content-1435843.html" target="_blank" title="视听双重享受 夏普40寸液晶电视仅4K8" >视听双重享受 夏普40寸液晶电视仅4K8</a></li>
+<li><em><a href="http://article.pchome.net/list_2__170___2.html" title="点击查看更多"> 降价</a> |</em><a href="http://article.pchome.net/content-1434493.html" target="_blank" title="小尺寸经典3D电视 创维32寸液晶降价" >小尺寸经典3D电视 创维32寸液晶降价</a></li>
+</ul>
+<h4><em><a href="http://baojia.pchome.net/#p6">办 公</a></em>
+<dl>
+<dt>
+<ul>
+<li><a href="http://article.pchome.net/content-1436160.html" target="_blank" title="掌上明珠再给力 明基GP1微投仅售2K2" >掌上明珠再给力 明基GP1微投仅售2K2</a></li>
+</ul>
+</dt>
+</dl>
+</h4>
+<ul class="art-list">
+<li><em><a href="http://article.pchome.net/list_2__167___2.html" title="点击查看更多"> 降价</a> |</em><a href="http://article.pchome.net/content-1430347.html" target="_blank" title="买就送百寸幕布 富士可IN3196新低价" >买就送百寸幕布 富士可IN3196新低价</a></li>
+</ul>
+</div>
+</div>
+</aside>
+<div class="clear"></div>
+</section>
+<!-- 笔记本区块 -->
+<section id="nb" class="wraper wbg">
+<aside>
+<div class="title">
+<h3><a href="http://product.pchome.net/dir_18.html">笔记本产品快速查询</a></h3>
+</div>
+<div class="con">
+<form id="nb-search" class="side-search" name="60" target="_blank">
+<input id="nb-stext" class="side-stext" type="text" value="联想Y470"/>
+<input id="nb-sbtn" class="side-sbtn" type="button" value="搜索"/>
+</form>
+<script>
+addSearchFn('nb-search','nb-sbtn','nb-stext','联想Y470','http://product.pchome.net/pc_notebook/series/5322.html');
+</script>
+<ul id="nb-slist" class="side-tab">
+<li class="current"><a href="http://product.pchome.net/pc_notebook/ladderclass_60.html">笔记本推荐</a></li>
+<li><a href="http://product.pchome.net/pc_tablepc/ladderclass_635.html">平板电脑推荐</a></li>
+</ul>
+<ol class="side-pro-list">
+<li><a href="http://product.pchome.net/pc_notebook_y470nifii52430m/336580.html" title="联想Y470N-IFI（A）">联想Y470N-IFI（A）</a></li>
+<li><a href="http://product.pchome.net/pc_notebook_asus_a43ei243svsl/338178.html" title="华硕A43EI243SV-SL">华硕A43EI243SV-SL</a></li>
+<li><a href="http://product.pchome.net/pc_notebook_g470ahifih/336738.html" title="联想G470AH-IFI（H）深棕色">联想G470AH-IFI（H）</a></li>
+<li><a href="http://product.pchome.net/pc_notebook_y470nithi32330m2g750g/330629.html" title="联想Y470N-ITH（T）">联想Y470N-ITH（T）</a></li>
+<li><a href="http://product.pchome.net/pc_notebook_acer_acer4750g2432g50mnkk/336596.html" title="Acer 4750G-2432G50Mnkk（540M/1GB独显）">Acer 4750G-2432G50Mn</a></li>
+<li><a href="http://product.pchome.net/pc_notebook_hp_g41060txlz776pa/330381.html" title="惠普g4-1060TX（LZ776PA）">惠普g4-1060TX（LZ776</a></li>
+<li><a href="http://product.pchome.net/pc_notebook_thinkpad_thinkpade4201141a35/340839.html" title="联想ThinkPad E420（1141A35）">联想ThinkPad E420（1</a></li>
+<li><a href="http://product.pchome.net/pc_notebook_z470aitht/338911.html" title="联想Z470A-ITH（T）玛瑙粉">联想Z470A-ITH（T）玛</a></li>
+<li><a href="http://product.pchome.net/pc_notebook_hp_g41235txa3e10pa/339737.html" title="惠普g4-1235tx（A3E10PA）">惠普g4-1235tx（A3E10</a></li>
+<li><a href="http://product.pchome.net/pc_notebook_thinkpad_thinkpade4201141a31/335378.html" title="联想ThinkPad E420（1141A31）">联想ThinkPad E420（1</a></li>
+</ol>
+<ol class="side-pro-list">
+<li><a href="http://product.pchome.net/pc_tablepc_apple_ipad2/297677.html" title="苹果iPad2">苹果iPad2</a></li>
+<li><a href="http://product.pchome.net/pc_tablepc_pada1wlan16g/337769.html" title="联想乐Pad A1 WLAN 16GB（珍珠白）">联想乐Pad A1 WLAN 16</a></li>
+<li><a href="http://product.pchome.net/pc_tablepc_samsung_galaxytabp751016gb/330740.html" title="三星GALAXY Tab P7510（16GB）">三星GALAXY Tab P7510</a></li>
+<li><a href="http://product.pchome.net/pc_tablepc_acer_acer7/303976.html" title="Acer Iconia Tab A100">Acer Iconia Tab A100</a></li>
+<li><a href="http://product.pchome.net/pc_tablepc_kindlefire/339986.html" title="亚马逊Kindle Fire">亚马逊Kindle Fire</a></li>
+<li><a href="http://product.pchome.net/pc_tablepc_sony_s1/312943.html" title="索尼SGPT111CN/S（16GB）">索尼SGPT111CN/S（16G</a></li>
+<li><a href="http://product.pchome.net/pc_tablepc_pada1wlan2gb/339321.html" title="联想乐Pad A1 WLAN 2GB（珍珠白）">联想乐Pad A1 WLAN 2G</a></li>
+<li><a href="http://product.pchome.net/pc_tablepc_moto_motoxoomwifi/312151.html" title="摩托罗拉XOOM MZ606">摩托罗拉XOOM MZ606</a></li>
+<li><a href="http://product.pchome.net/pc_tablepc_pad/308665.html" title="联想乐Pad Y1011 WLAN（16GB）百加地白">联想乐Pad Y1011 WLAN</a></li>
+<li><a href="http://product.pchome.net/pc_tablepc_thinkpad_thinkpadtablet16g/320752.html" title="联想ThinkPad Tablet 183823C">联想ThinkPad Tablet </a></li>
+</ol>
+<div class="l-brand">
+<a href="http://product.pchome.net/pc_notebook/list_7_60_2315.html">ThinkPad</a><a href="http://product.pchome.net/pc_notebook/list_7_60_155.html">宏碁</a><a href="http://product.pchome.net/pc_notebook/list_7_60_121.html">东芝</a>
+</div>
+</div>
+</aside>
+<article>
+<div class="r-wrap">
+<div class="art-left">
+<ul id="nb-art-tag" class="art-tag">
+<li class="current"><a href="http://notebook.pchome.net/">笔记本</a>·<a href="http://pad.pchome.net/">平板</a>·<a href="http://ultrabook.pchome.net/">超极本</a></li>
+<li><a href="http://pc.pchome.net/">台式机</a>·<a href="http://pc.pchome.net/aio/">一体机</a></li>
+</ul>
+<div class="contain">
+<div class="bk-l">
+<a class="block-img" href="http://article.pchome.net/content-1433344.html"><img alt="内容" src="http://img.product.pchome.net/market/photo/2011/11/28/602307.jpg"/><span>宏碁蜂鸟S3</span></a>
+<ul>
+<li><a href="http://article.pchome.net/content-1369592.html">PChome整机英雄榜</a></li>
+<li><a href="http://bbs.pchome.net/lphone/forum.php">联想乐疯巢</a></li>
+</ul>
+</div>
+<h4>
+<a href="http://article.pchome.net/content-1435381.html ">
+本客部落第十三期：领略东芝Z830</a></h4>
+<ul class="art-list">
+<li><a href="http://article.pchome.net/content-1434975.html">
+i7+GT550M显卡 华硕N43S售6799元</a></li>
+<li><a href="http://article.pchome.net/content-1434398.html">
+i5+GT540M Gateway ID57H售7999</a></li>
+<li><a href="http://article.pchome.net/content-1434963.html">
+精致纤薄 ThinkPad E120商务本4799</a></li>
+<li><a href="http://article.pchome.net/content-1435066.html">
+赛扬T3500芯 联想B460办公本不足3K</a></li>
+<li><a href="http://article.pchome.net/content-1435069.html">
+i7芯彩壳设计 海尔7G三代国美5699</a></li>
+<li><a href="http://article.pchome.net/content-1435661.html">
+酷睿i5芯独显本 神舟K580仅售3999</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="contain">
+<div class="bk-l">
+<a class="block-img" href="http://article.pchome.net/content-1433320.html"><img alt="" src="http://img.product.pchome.net/market/photo/2011/11/28/602308.jpg"/>
+<span>惠普Omni220</span></a>
+<ul>
+<li><a href="http://article.pchome.net/content-1353718.html">整机频道暑促专题</a></li>
+<li><a href="http://article.pchome.net/content-1124177.html">华硕EeeTop一体机</a></li>
+</ul>
+</div>
+<h4>
+<a href="http://article.pchome.net/content-1434968.html"
+>小幅降价 23吋联想M9000z报6K4</a></h4>
+<ul class="art-list">
+<li><a href="http://article.pchome.net/content-1435024.html">
+别致外观 i3芯惠普Omni220报5700</a></li>
+<li><a href="http://article.pchome.net/content-1435192.html">
+双显交火 联想B325劲速型报4570</a></li>
+<li><a href="http://article.pchome.net/content-1435224.html">
+简约大气 独显方正商祺N720仅3K3</a></li>
+<li><a href="http://article.pchome.net/content-1435284.html">
+i5四核芯高端显卡 宏碁AM3920报5300</a></li>
+<li><a href="http://article.pchome.net/content-1432401.html">
+视觉双核芯 联想扬天T2900D仅3K4</a></li>
+<li><a href="http://article.pchome.net/content-1433548.html">
+E6600双核 神舟E3000台机仅售2599</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<dl class="brand">
+<dt>品牌</dt>
+<dd><a href="http://product.pchome.net/pc_notebook/list_7_60_6062.html">联想</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/list_7_60_3.html">华硕</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/list_7_60_77.html">惠普</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/list_7_60_2315.html">ThinkPad</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/list_7_60_108.html">戴尔</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/list_7_60_32.html">索尼</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/list_7_60_155.html">Acer</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/list_7_60_121.html">东芝</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/list_7_60_584.html">神舟</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/list_7_60_31.html">三星</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/list_7_60_105.html">苹果</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/list_7_60_245.html">清华同方</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/list_7_60_818.html">海尔</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/list_7_60_99.html">富士通</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/list_7_60_113.html">Gateway</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/list_7_60_112.html">方正</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/list_7_60_2.html">微星</a></dd><dd class="more"><a
+href="http://product.pchome.net/notebook/class_60.html">更多&gt;&gt;</a></dd>
+</dl>
+</div>
+<div class="art-right">
+<div class="title">
+<h3><a href="http://bbs.pchome.net/forum-96-1.html">笔记本论坛</a></h3>
+</div>
+<h4><a href="http://bbs.pchome.net/thread-586448-1-1.html">镭波Firebat-F730 i7+GTX 570M游戏精英试用 </a></h4>
+<ul class="art-list">
+<li><em><a href="http://bbs.pchome.net/forum-96-1.html">分享</a>|</em><a href="http://bbs.pchome.net/thread-588333-1-1.html">原型多点触控玻璃键盘</a></li>
+<li><em><a href="http://bbs.pchome.net/forum-96-1.html">技巧</a>|</em><a href="http://bbs.pchome.net/thread-586659-1-1.html">教你如何选购Acer宏碁Aspire星锐4752G</a></li>
+<li><em><a href="http://bbs.pchome.net/forum-96-1.html">活动</a>|</em><a href="http://bbs.pchome.net/thread-585134-1-1.html">PChome黑屋测试晒图啦</a></li>
+<li><em><a href="http://bbs.pchome.net/forum-96-1.html">资讯</a>|</em><a href="http://bbs.pchome.net/thread-586710-1-1.html">HP发布新品3115m笔记本电脑</a></li>
+<li><em><a href="http://bbs.pchome.net/forum-96-1.html">资讯</a>|</em><a href="http://bbs.pchome.net/thread-587884-1-1.html">编辑硬盘被盗 囧博士原图曝光</a></li>
+<li><em><a href="http://bbs.pchome.net/forum-96-1.html">技巧</a>|</em><a href="http://bbs.pchome.net/thread-586870-1-1.html">笔记本电池节电小技巧</a></li>
+</ul>
+<dl class="brand">
+<dt>系列</dt>
+<dd><a href="http://product.pchome.net/pc_notebook/series/5322.html">联想Y470</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/series/5318.html">G470</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/series/5329.html">Z470</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/series/5150.html">华硕A43</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/series/7792.html">惠普G4</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/series/5944.html">宏碁4750G</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/series/5475.html">ThinkPad E420</a></a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/series/8735.html">E40</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/series/60328.html">东芝Z830</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/series/7422.html">华硕N55</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/series/7785.html">Acer S3</a></dd><dd><a
+href="http://product.pchome.net/pc_notebook/list_7_60_pm23986_p1.html">超级本</a></dd>
+</dl>
+</div>
+<div class="clear"></div>
+</div>
+<div class="ad760"><script>write_ad('mp_nb_tonglan');</script></div>
+</article>
+<div class="clear"></div>
+</section>
+<!-- 手机区块 -->
+<section id="mb" class="wraper wbg">
+<aside>
+<div class="title">
+<h3><a href="http://product.pchome.net/dir_3.html">手机产品快速查询</a></h3>
+</div>
+<div class="con">
+<form id="mb-search" class="side-search" name="236" target="_blank">
+<input id="mb-stext" class="side-stext" type="text" value="iPhone4S"/>
+<input id="mb-sbtn" class="side-sbtn" type="button" value="搜索"/>
+</form>
+<script>
+addSearchFn('mb-search','mb-sbtn','mb-stext','iPhone4S','http://product.pchome.net/mobile_phone_apple_iphone4s/321180.html');
+</script>
+<ul id="mb-slist" class="side-tab">
+<li class="current"><a href="http://product.pchome.net/mobile_phone/ladderclass_236.html">手机排行</a></li>
+<li><a href="http://product.pchome.net/mobile_phone/list_3_236_0_pr_pm_o3_m1_p1.html">最新手机</a></li>
+</ul>
+<ol class="side-pro-list">
+<li><a title="三星I9100" href="http://product.pchome.net/mobile_phone_samsung_galaxys2/309202.html">三星I9100</a></li>
+<li><a href="http://product.pchome.net/mobile_phone_apple_iphone4s/321180.html" title="苹果iPhone4S">苹果iPhone4S</a></li>
+<li><a href="http://product.pchome.net/mobile_phone_nokia_n9/276142.html" title="诺基亚N9 16G">诺基亚N9 16G</a></li>
+<li><a href="http://product.pchome.net/mobile_phone_m1miui/334056.html" title="小米M1（MIUI）">小米M1（MIUI）</a></li>
+<li><a href="http://product.pchome.net/mobile_phone_samsung_galaxys2/309202.html" title="三星i9100">三星i9100</a></li>
+<li><a href="http://product.pchome.net/mobile_phone_apple_iphonen994/267189.html" title="苹果iPhone4">苹果iPhone4</a></li>
+<li><a href="http://product.pchome.net/mobile_phone_htc_htcpyramid/311321.html" title="HTC G14">HTC G14</a></li>
+<li><a href="http://product.pchome.net/mobile_phone_htc_htcdesires/312086.html" title="HTC G12">HTC G12</a></li>
+<li><a href="http://product.pchome.net/mobile_phone_htc_htcincredibles/312083.html" title="HTC G11">HTC G11</a></li>
+<li><a title="三星I9000" href="http://product.pchome.net/mobile_phone_samsung_gt_i9000/261032.html">三星I9000</a></li>
+</ol>
+<ol class="side-pro-list">
+<li><a href="http://product.pchome.net/mobile_phone_samsung_t404g/346001.html" title="三星T404G">三星T404G</a></li>
+<li><a href="http://product.pchome.net/mobile_phone_nokia_meegoharmattan2/345883.html" title="诺基亚Meego Harmattan 2（概念机）">诺基亚Meego Harmatta</a></li>
+<li><a href="http://product.pchome.net/mobile_phone_lenovo_phones760/345879.html" title="联想乐Phone S760">联想乐Phone S760</a></li>
+<li><a href="http://product.pchome.net/mobile_phone_lenovo_phones2/345878.html" title="联想乐Phone S2（电信版）">联想乐Phone S2（电信</a></li>
+<li><a href="http://product.pchome.net/mobile_phone_lenovo_phones2/345877.html" title="联想乐Phone S2（移动版）">联想乐Phone S2（移动</a></li>
+<li><a href="http://product.pchome.net/mobile_phone_samsung_galaxysmini/345750.html" title="三星GALAXY S mini">三星GALAXY S mini</a></li>
+<li><a href="http://product.pchome.net/mobile_phone_lenovo_phonek2/345740.html" title="联想乐Phone K2">联想乐Phone K2</a></li>
+<li><a href="http://product.pchome.net/mobile_phone_moto_xt681/345736.html" title="摩托罗拉XT681">摩托罗拉XT681</a></li>
+<li><a href="http://product.pchome.net/mobile_phone_lg_lge510optimusglare/345306.html" title="LG E510 Optimus Glare">LG E510 Optimus Glar</a></li>
+<li><a href="http://product.pchome.net/mobile_phone_lg_lgeclypse4g/345263.html" title="LG Eclypse 4G">LG Eclypse 4G</a></li>
+</ol>
+<div class="l-brand">
+<a href="http://product.pchome.net/mobile_phone/list_3_236_196.html">诺基亚</a><a href="http://product.pchome.net/mobile_phone/list_3_236_105.html">苹果</a><a href="http://product.pchome.net/mobile_phone/list_3_236_31.html">三星</a>
+</div>
+</div>
+</aside>
+<article>
+<div class="r-wrap">
+<div class="art-left">
+<ul id="mb-art-tag" class="art-tag">
+<li class="current"><a href="http://mobile.pchome.net/">手机</a>·<a href="http://3g.pchome.net/">3G</a>·<a href="http://wap.pchome.net/">WAP</a></li>
+</ul>
+<div class="contain">
+<div class="bk-l">
+<a class="block-img" href="http://article.pchome.net/content-1433745.html"><img alt="内容" src="http://img.article.pchome.net/00/54/62/81/hotpic/546281_1.jpg"/><span>MOTO XT910首卖</span></a>
+<ul>
+<li><a href="http://article.pchome.net/content-1365118.html">GALAXY S Ⅱ首销</a></li>
+<li><a href="http://article.pchome.net/content-1387912.html">中兴活动专题</a></li>
+</ul>
+</div>
+<h4><a href="http://article.pchome.net/content-1435648.html">手机无线设置教程 近期网友问答集锦</a></h4>
+<ul class="art-list">
+<li><a href="http://article.pchome.net/content-1436095.html">家居座机也智能 触屏手机式概念电话</a></li>
+<li><a href="http://article.pchome.net/content-1434425.html">字 画 影 三星Galaxy Note全视觉体验</a></li>
+<li><a href="http://article.pchome.net/content-1433869.html">小巧玲珑社交新机 HTC达人A310e评测
+</a></li>
+<li><a href="http://article.pchome.net/content-1435203.html">戴手套也能自如操作 全键盘手机推荐</a></li>
+<li><a href="http://article.pchome.net/content-1435051.html">学生们的首选 多款时尚智能手机推荐</a></li>
+<li><a href="http://article.pchome.net/content-1434717.html">小绿人历险记 华为荣耀U8860精美图赏</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<dl class="brand">
+<dt>品牌</dt>
+<dd><a
+href="http://product.pchome.net/mobile_phone/list_3_236_5031.html">HTC</a></dd><dd><a
+href="http://product.pchome.net/mobile_phone/list_3_236_105.html">苹果</a></dd><dd><a
+href="http://product.pchome.net/mobile_phone/list_3_236_196.html">诺基亚</a></dd><dd><a href="http://product.pchome.net/mobile_phone/list_3_236_31.html">三星</a></dd><dd><a href="http://product.pchome.net/mobile_phone/list_3_236_138.html">摩托罗拉</a></dd><dd><a href="http://product.pchome.net/mobile_phone/list_3_236_775.html">索尼爱立信</a></dd><dd><a href="http://product.pchome.net/mobile_phone/list_3_236_207.html">夏普</a></dd><dd><a href="http://product.pchome.net/mobile_phone/list_3_236_164.html">联想</a></dd><dd><a href="http://product.pchome.net/mobile_phone/list_3_236_33.html">LG</a></dd><dd><a href="http://product.pchome.net/mobile_phone/list_3_236_1119.html">魅族</a></dd><dd><a
+href="http://product.pchome.net/mobile_phone/list_3_236_1255.html">黑莓</a></dd><dd><a
+href="http://product.pchome.net/mobile_phone/list_3_236_567.html">中兴</a></dd><dd><a
+href="http://product.pchome.net/mobile_phone/list_3_236_1679.html">OPPO</a></dd><dd><a href="http://product.pchome.net/mobile_phone/list_3_236_3008.html">天语</a></dd><dd><a href="http://product.pchome.net/mobile_phone/list_3_236_1699.html">步步高</a></dd><dd><a href="http://product.pchome.net/mobile_phone/list_3_236_1843.html">酷派</a></dd><dd><a href="http://product.pchome.net/mobile_phone/list_3_236_103.html">飞利浦</a></dd><dd><a href="http://product.pchome.net/mobile_phone/list_3_236_551.html">夏新</a></dd><dd class="more"><a href="http://product.pchome.net/mobile_phone/list_3_236.html">更多&gt;&gt;</a></dd>
+</dl>
+</div>
+<div class="art-right">
+<div class="title">
+<h3><a href="http://sjbbs.pchome.net/">手机产品论坛</a></h3>
+</div>
+<h4><a href="http://sjbbs.pchome.net/thread-9727-1-1.html">4强机再次升级 三星 GALAXY S2 LTE 评测</a></h4>
+<ul class="art-list">
+<li><em><a href="http://sjbbs.pchome.net/">资讯</a>|</em><a href="http://sjbbs.pchome.net/thread-9688-1-1.html">LG 双核720P新机LU6200 到站评测</a></li>
+<li><em><a href="http://sjbbs.pchome.net/">资讯</a>|</em><a href="http://sjbbs.pchome.net/thread-6338-1-1.html">	苹果固件下载！！！（已更新iOS5！！！）</a></li>
+<li><em><a href="http://sjbbs.pchome.net/">资讯</a>|</em><a href="http://sjbbs.pchome.net/thread-9370-1-1.html">【各种风格壁纸大汇总】</a></li>
+<li><em><a href="http://sjbbs.pchome.net/">资讯</a>|</em><a href="http://sjbbs.pchome.net/thread-9392-1-1.html">安卓精品游戏推荐</a></li>
+<li><em><a href="http://sjbbs.pchome.net/">资讯</a>|</em><a href="http://sjbbs.pchome.net/thread-10089-1-1.html">home键坏了？自己动手修吧！</a></li>
+<li><em><a href="http://sjbbs.pchome.net/">新品</a>|</em><a href="http://sjbbs.pchome.net/thread-9168-1-1.html">安卓应用软件集合贴</a></li>
+</ul>
+<dl class="brand">
+<dt>热门</dt>
+<dd><a href="http://product.pchome.net/mobile_phone_apple_iphone48gb/335552.html">iPhone4 8G</a></dd><dd><a
+href="http://product.pchome.net/mobile_phone_htc_htcwildfires/312087.html">HTC G13</a></dd><dd><a
+href="http://product.pchome.net/mobile_phone_samsung_galaxynote/336741.html">三星i9220</a></dd><dd><a
+href="http://product.pchome.net/mobile_phone_moto_defy/332726.html">摩托罗拉ME525+</a></dd><dd><a
+href="http://product.pchome.net/mobile_phone_nokia_n9/276142.html">诺基亚N9</a></dd><dd><a
+href="http://product.pchome.net/mobile_phone_htc_htcsensationxl/339803.html">HTC G21</a></dd><dd><a
+href="http://product.pchome.net/mobile_phone_sonyericsson_xperiaarcs/336611.html">索爱LT18i</a></dd><dd><a
+href="http://product.pchome.net/mobile_phone_lg_lgp970/317398.html">LG P970</a></dd><dd><a
+href="http://product.pchome.net/mobile_phone_htc_htcincredibles/312083.html">HTC G11</a></dd><dd><a
+href="http://product.pchome.net/mobile_phone_htc_htcsensationxe/337933.html">HTC G18</a></dd>
+</dl>
+</div>
+<div class="clear"></div>
+</div>
+<div class="ad760"><script>write_ad('mp_moblie_tonglan');</script></div>
+</article>
+<div class="clear"></div>
+</section>
+<!-- 数码区块 -->
+<section id="digi" class="wraper wbg">
+<aside>
+<div class="title">
+<h3><a href="http://product.pchome.net/dir_19.html">数码产品快速查询</a></h3>
+</div>
+<div class="con">
+<form id="digi-search" class="side-search" name="105" target="_blank">
+<input id="digi-stext" class="side-stext" type="text" value="佳能600D"/>
+<input id="digi-sbtn" class="side-sbtn" type="button" value="搜索"/>
+</form>
+<script>
+addSearchFn('digi-search','digi-sbtn','digi-stext','佳能600D','http://product.pchome.net/dc_canon_600d/270278.html');
+</script>
+<ul id="dcdv-slist" class="side-tab">
+<li class="current"><a href="http://product.pchome.net/digital_dc/ladderclass_103.html">数码相机推荐</a></li>
+<li><a href="http://product.pchome.net/digital_dv/ladder_104.html">摄像机推荐</a></li>
+</ul>
+<ol class="side-pro-list m3m">
+<li><a href="http://product.pchome.net/digital_dc_nikon_d90/118871.html" title="尼康D90">尼康D90</a></li>
+<li><a href="http://product.pchome.net/dc_canon_60d/270276.html" title="佳能60D">佳能60D</a></li>
+<li><a href="http://product.pchome.net/digital_dc_nikon_d7000/291913.html" title="尼康D7000">尼康D7000</a></li>
+<li><a href="http://product.pchome.net/digital_dc_sony_w570/307219.html" title="索尼W570">索尼W570</a></li>
+<li><a href="http://product.pchome.net/dc_canon_550d/270277.html" title="佳能550D">佳能550D</a></li>
+<li><a href="http://product.pchome.net/digital_dc_agfa_x100/297533.html" title="富士X100">富士X100</a></li>
+<li><a href="http://product.pchome.net/digital_dc_canon_eos_5d_markii/119995.html" title="佳能5D Mark II">佳能5D Mark II</a></li>
+<li><a href="http://product.pchome.net/digital_dc_pentax_kr/291912.html" title="宾得K-r">宾得K-r</a></li>
+</ol>
+<ol class="side-pro-list m3m">
+<li><a href="http://product.pchome.net/digital_dv_benq_s21/291133.html" title="明基S21">明基S21</a></li>
+<li><a href="http://product.pchome.net/digital_dv_sony_nexvg10e/288007.html" title="索尼NEX-VG10E套机（18-200mm）">索尼NEX-VG10E套机（1</a></li>
+<li><a href="http://product.pchome.net/digital_dv_panasonic_hdcmdh1/296823.html" title="松下HDC-MDH1GK">松下HDC-MDH1GK</a></li>
+<li><a href="http://product.pchome.net/digital_dv_benq_m22/291128.html" title="明基M22">明基M22</a></li>
+<li><a href="http://product.pchome.net/digital_dv_sony_dcrsr68e/273582.html" title="索尼DCR-SR68E">索尼DCR-SR68E</a></li>
+<li><a href="http://product.pchome.net/digital_dv_sony_hxrnx5c/314212.html" title="索尼HXR-NX5C">索尼HXR-NX5C</a></li>
+<li><a href="http://product.pchome.net/digital_dv_panasonic_hdctm750/296824.html" title="松下HDC-TMT750GK">松下HDC-TMT750GK</a></li>
+<li><a href="http://product.pchome.net/dv_panasonic_hdcsd60/267579.html" title="松下HDC-SD60GK">松下HDC-SD60GK</a></li>
+</ol>
+<ul id="mp3mp4-slist" class="side-tab">
+<li class="current"><a href="http://product.pchome.net/digital_dc/ladder_103_28571_4.html">卡片相机推荐</a></li>
+<li><a href="http://product.pchome.net/digital_dc/ladder_103_28571_4.html">单反相机推荐</a></li>
+</ul>
+<ol class="side-pro-list">
+<li><a href="http://product.pchome.net/digital_dc_sony_w570/307219.html" title="索尼W570">索尼W570</a></li>
+<li><a href="http://product.pchome.net/digital_dc_sony_w530/306830.html" title="索尼W530">索尼W530</a></li>
+<li><a href="http://product.pchome.net/digital_dc_fujifilm_f300/288886.html" title="富士F305EXR">富士F305EXR</a></li>
+<li><a href="http://product.pchome.net/digital_dc_canon_ixus115hs/311299.html" title="佳能IXUS115 HS">佳能IXUS115 HS</a></li>
+<li><a href="http://product.pchome.net/digital_dc_nikon_s8100/296323.html" title="尼康S8100">尼康S8100</a></li>
+<li><a href="http://product.pchome.net/digital_dc_ricoh_grd3/156394.html" title="理光GRD III">理光GRD III</a></li>
+<li><a href="http://product.pchome.net/digital_dc_sony_w570d/312085.html" title="索尼W570D">索尼W570D</a></li>
+<li><a href="http://product.pchome.net/digital_dc_canon_ixus220hs/311298.html" title="佳能IXUS220 HS">佳能IXUS220 HS</a></li>
+</ol>
+<ol class="side-pro-list">
+<li><a href="http://product.pchome.net/digital_dc_nikon_d90/118871.html" title="尼康D90">尼康D90</a></li>
+<li><a href="http://product.pchome.net/dc_canon_60d/270276.html" title="佳能60D">佳能60D</a></li>
+<li><a href="http://product.pchome.net/digital_dc_nikon_d7000/291913.html" title="尼康D7000">尼康D7000</a></li>
+<li><a href="http://product.pchome.net/dc_canon_550d/270277.html" title="佳能550D">佳能550D</a></li>
+<li><a href="http://product.pchome.net/digital_dc_canon_eos_5d_markii/119995.html" title="佳能5D Mark II">佳能5D Mark II</a></li>
+<li><a href="http://product.pchome.net/digital_dc_pentax_kr/291912.html" title="宾得K-r">宾得K-r</a></li>
+<li><a href="http://product.pchome.net/digital_dc_nikon_d700/113608.html" title="尼康D700">尼康D700</a></li>
+<li><a href="http://product.pchome.net/digital_dc_nikon_d300s/150667.html" title="尼康D300S">尼康D300S</a></li>
+</ol>
+<div class="l-brand">
+<a href="http://product.pchome.net/digital_dc/list_1_103_90.html">佳能</a><a href="http://product.pchome.net/digital_dc/list_1_103_145.html">尼康</a><a href="http://product.pchome.net/digital_dc/list_1_103_158.html">富士</a>
+</div>
+</div>
+</aside>
+<article>
+<div class="r-wrap">
+<div class="art-left">
+<ul id="digi-art-tag" class="art-tag">
+<li class="current"><a href="http://dc.pchome.net/">数码相机</a>·<a href="http://dv.pchome.net/">摄像机</a></li>
+</ul>
+<div class="contain">
+<div class="bk-l">
+<a class="block-img" href="http://article.pchome.net/content-1434794-1.html"><img alt="CBSI客户答谢会 恭祝PChome成立15周年 " src="http://img.product.pchome.net/market/photo/2011/12/01/602977.jpg"/><span>祝PChome15周年</span></a>
+<ul>
+<li><a href="http://article.pchome.net/content-1432871.html">富士X系列体验活动</a></li>
+<li><a href="http://article.pchome.net/content-1428909.html">尼康1系九州行壁纸集</a></li>
+</ul>
+</div>
+<h4><a href="http://article.pchome.net/content-1434492.html" target="_blank">索尼A65与A77固件升级 提升用户体验</a></h4>
+<ul class="art-list">
+<li><a href="http://article.pchome.net/content-1426572.html">高品质影像 尼康D系列单反试用体验</a></li>
+<li><a href="http://article.pchome.net/content-1430776.html">捕捉精彩瞬间 尼康COOLPIX新机体验
+</a></li>
+<li><a href="http://article.pchome.net/content-1433048.html">21倍光变国产小钢炮 明基GH600评测
+</a></li>
+<li><a href="http://article.pchome.net/content-1433108.html">自拍神器 三星可翻转相机MV800样张图</a></li>
+<li><a href="http://article.pchome.net/content-1433085.html">富士X系列数码相机体验活动报道
+</a></li>
+<li><a href="http://article.pchome.net/content-1432641.html">值得信赖 国产4防相机明基LM100评测</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<dl class="brand">
+<dt>品牌</dt>
+<dd><a href="http://product.pchome.net/digital_dc/list_1_103_90.html">佳能</a></dd><dd><a
+href="http://product.pchome.net/digital_dc/list_1_103_145.html">尼康</a></dd><dd><a
+href="http://product.pchome.net/digital_dc/list_1_103_32.html">索尼</a></dd><dd><a
+href="http://product.pchome.net/digital_dc/list_1_103_158.html">富士</a></dd><dd><a
+href="http://product.pchome.net/digital_dc/list_1_103_30.html">松下</a></dd><dd><a
+href="http://product.pchome.net/digital_dc/list_1_103_265.html">宾得</a></dd><dd><a
+href="http://product.pchome.net/digital_dc/list_1_103_31.html">三星</a></dd><dd><a
+href="http://product.pchome.net/digital_dc/list_1_103_146.html">奥林巴斯</a></dd><dd><a
+href="http://product.pchome.net/digital_dc/list_1_103_136.html">卡西欧</a></dd>
+</dl>
+<dl class="brand noborder">
+<dt>品牌</dt>
+<dd><a href="http://product.pchome.net/digital_dc/list_1_103_144.html">柯达</a></dd><dd><a
+href="http://product.pchome.net/digital_dc/list_1_103_135.html">理光</a></dd><dd><a
+href="http://product.pchome.net/digital_dc/list_1_103_263.html">徕卡</a></dd><dd><a
+href="http://product.pchome.net/digital_dc/list_1_103_163.html">爱国者</a></dd><dd><a
+href="http://product.pchome.net/digital_dc/list_1_103_64.html">明基</a></dd><dd><a
+href="http://product.pchome.net/digital_dc/list_1_103_77.html">惠普</a></dd><dd><a
+href="http://product.pchome.net/digital_dc/list_1_103_3200.html">哈苏</a></dd><dd><a
+href="http://product.pchome.net/digital_dc/list_1_103_150.html">三洋</a></dd><dd class="more"><a
+href="http://product.pchome.net/dc/class_103.html">更多&gt;&gt;</a></dd>
+</dl>
+</div>
+<div class="art-right">
+<div class="title">
+<h3><a href="http://dcclub.pchome.net/">数码影像俱乐部</a></h3>
+</div>
+<h4><a href="http://dcclub.pchome.net/thread-6618566-1-1.html">会いたい</a></h4>
+<ul class="art-list">
+<li><em><a href="http://dcclub.pchome.net/forum/1/t208/">人像</a>|</em><a href="http://dcclub.pchome.net/thread-6620340-1-1.html">腾龙秋日序曲 大师云集的一天</a></li>
+<li><em><a href="http://dcclub.pchome.net/forum/1/t207/">风景</a>|</em><a href="http://dcclub.pchome.net/thread-6617053-1-1.html">东拉山大峡谷、神木垒周末赏红叶</a></li>
+<li><em><a href="http://dcclub.pchome.net/forum/1/t221/">纪实</a>|</em><a href="http://dcclub.pchome.net/thread-6618911-1-1.html">尼康J1/V1的恐龙模型实景拍摄尝试</a></li>
+<li><em><a href="http://dcclub.pchome.net/forum/1/t208/">人像</a>|</em><a href="http://dcclub.pchome.net/thread-6618908-1-1.html">2012 S/S SHANGHAI FASHION WEEK</a></li>
+<li><em><a href="http://dcclub.pchome.net/forum/1/t232/">
+人文</a>|</em><a href="http://dcclub.pchome.net/thread-6620475-1-1.html">意式风情街随拍 by H.O.T</a></li>
+<li><em><a href="http://dcclub.pchome.net/forum/1/t221/">纪实</a>|</em><a href="http://dcclub.pchome.net/thread-6619011-1-1.html">今天下午雾霾天气下的秋之菊</a></li>
+</ul>
+<dl class="brand">
+<dt>热门</dt>
+<dd><a href="http://product.pchome.net/dc_canon_600d/270278.html">佳能600D</a></dd><dd><a
+href="http://product.pchome.net/dc_canon_60d/270276.html">佳能60D</a></dd><dd><a
+href="http://product.pchome.net/digital_dc_nikon_d7000/291913.html">尼康D7000</a></dd><dd><a
+href="http://product.pchome.net/digital_dc_nikon_d5100/312667.html">尼康D5100</a></dd>
+</dl>
+<dl class="brand noborder">
+<dt>新品</dt>
+<dd><a href="http://product.pchome.net/digital_dc_canon_sx40/338270.html">佳能SX40</a></dd><dd><a
+href="http://product.pchome.net/digital_dc_fujifilm_x10x50/336298.html">富士X10</a></dd><dd><a
+href="http://product.pchome.net/digital_dc_canon_eos1dx/341549.html">佳能1DX</a></dd><dd><a
+href="http://product.pchome.net/digital_dc_nikon_v1/337906.html">尼康V1</a></dd><dd><a
+href="http://product.pchome.net/digital_dc_nikon_p7100/335730.html">尼康P7100</a></dd>
+</dl>
+</div>
+<div class="clear"></div>
+</div>
+<div class="pic-show">
+<div class="t-show">
+<h3><a href="http://dcclub.pchome.net/">影像作品欣赏</a></h3>
+</div>
+<div class="show-contain">
+<ul>
+<li><a href="http://dcclub.pchome.net/thread-6621984-1-1.html"><img alt="超跑片片" src="http://img.product.pchome.net/market/photo/2011/12/01/603005.jpg"/>超跑片片</a></li>
+<li><a href="http://dcclub.pchome.net/thread-6622077-1-1.html"><img alt="逆光18格" src="http://img.product.pchome.net/market/photo/2011/12/01/603006.jpg"/>逆光18格</a></li>
+<li><a href="http://dcclub.pchome.net/thread-6622228-1-1.html"><img alt="妃子"
+src="http://img.product.pchome.net/market/photo/2011/12/01/603035.jpg"/>妃子
+</a></li>
+<li><a href="http://dcclub.pchome.net/thread-6621980-1-1.html"><img alt="私房浴室"
+src="http://img.product.pchome.net/market/photo/2011/12/01/603004.jpg"/>私房浴室</a></li>
+<li><a href="http://dcclub.pchome.net/thread-6621647-1-1.html"><img alt="初尝男模" src="http://img.product.pchome.net/market/photo/2011/11/28/602073.jpg"/>初尝男模</a></li>
+</ul>
+</div>
+</div>
+<div class="ad760"><script>write_ad('mp_dc_tonglan');</script></div>
+</article>
+<div class="clear"></div>
+</section>
+<!-- DIY硬件区块 -->
+<section id="diy" class="wraper wbg">
+<aside>
+<div class="title">
+<h3><a href="http://product.pchome.net/dir_8.html">DIY硬件产品快速查询</a></h3>
+</div>
+<div class="con">
+<form id="diy-search" class="side-search" name="36" target="_blank">
+<input id="diy-stext" class="side-stext" type="text" value="酷睿i5 2500K"/>
+<input id="diy-sbtn" class="side-sbtn" type="button" value="搜索"/>
+</form>
+<script>
+addSearchFn('diy-search','diy-sbtn','diy-stext','酷睿i5 2300','http://product.pchome.net/diy_cpu_intel_inteli52500k/293273.html');
+</script>
+<ul class="diy-type-list">
+<li><a href="http://product.pchome.net/diy_cpu/list_8_36.html"><img
+src="http://images.pchome.net/global/img2/index_2010_diy_01.jpg"></a><a href="http://cpu.pchome.net/">CPU</a><span><a
+href="http://article.pchome.net/more_417.html?styleID=3">评测</a>|<a href="http://article.pchome.net/list_2_8_36___23.html">导购</a>|<a
+href="http://article.pchome.net/region_36.html">行情</a></span></li>
+<li><a href="http://product.pchome.net/diy_mainboard/list_8_37.html"><img
+src="http://images.pchome.net/global/img2/index_2010_diy_02.jpg"></a><a href="http://mb.pchome.net/">主板</a><span><a
+href="http://article.pchome.net/more_433.html?styleID=3">评测</a>|<a href="http://article.pchome.net/list_2_8_37___23.html">导购</a>|<a
+href="http://article.pchome.net/region_37.html">行情</a></span></li>
+<li><a href="http://product.pchome.net/diy_graphics/list_8_39.html"><img
+src="http://images.pchome.net/global/img2/index_2010_diy_03.jpg"></a><a href="http://gpu.pchome.net/">显卡</a><span><a
+href="http://article.pchome.net/more_148.html?styleID=3">评测</a>|<a href="http://article.pchome.net/list_2_8_39___23.html">导购</a>|<a
+href="http://article.pchome.net/region_39.html">行情</a></span></li>
+<li><a href="http://product.pchome.net/diy_memory/list_8_38.html"><img
+src="http://images.pchome.net/global/img2/index_2010_diy_04.jpg"></a><a href="http://memory.pchome.net/">内存硬盘</a><span><a
+href="http://article.pchome.net/more_421.html?styleID=3">评测</a>|<a href="http://article.pchome.net/list_2_8_38___23.html">导购</a>|<a
+href="http://article.pchome.net/region_38.html">行情</a></span></li>
+<li><a href="http://product.pchome.net/diy_lcd/list_8_52.html"><img
+src="http://images.pchome.net/global/img2/index_2010_diy_05.jpg"></a><a href="http://lcd.pchome.net/">显示器</a><span><a
+href="http://article.pchome.net/more_151.html?styleID=3">评测</a>|<a href="http://article.pchome.net/list_2_8_52___23.html">导购</a>|<a
+href="http://article.pchome.net/region_52.html">行情</a></span></li>
+<li><a href="http://product.pchome.net/diy_mouse_and_keyboard/list_8_243.html"><img
+src="http://images.pchome.net/global/img2/index_2010_diy_06.jpg"></a><a href="http://mouse.pchome.net/">键盘鼠标</a><span><a
+href="http://article.pchome.net/more_163.html?styleID=3">评测</a>|<a href="http://article.pchome.net/more_163.html?styleID=2">导购</a>|<a
+href="http://article.pchome.net/more_163.html?styleID=6">行情</a></span></li>
+<li><a href="http://product.pchome.net/diy_cas/list_8_43.html"><img
+src="http://images.pchome.net/global/img2/index_2010_diy_07.jpg"></a><a href="http://power.pchome.net/">机箱电源</a><span><a
+href="http://article.pchome.net/more_168_1.html?styleID=3">评测</a>|<a href="http://article.pchome.net/more_153.html?styleID=2">导购</a>|<a
+href="http://article.pchome.net/region_43.html">行情</a></span></li>
+</ul>
+<span class="market"><a href="http://article.pchome.net/more_21.html?styleID=6">&#187;耳机行情</a><a
+href="http://article.pchome.net/more_442.html?styleID=6">&#187;音箱行情</a></span>
+</div>
+</aside>
+<article>
+<div class="r-wrap">
+<div class="art-left">
+<ul id="mb-art-tag" class="art-tag"><li class="current"><a href="http://hardware.pchome.net/">DIY 硬件</a></li>
+</ul>
+<span class="tit-s"><a href="http://cpu.pchome.net/">CPU</a>|<a href="http://mb.pchome.net/">主板</a>|<a href="http://gpu.pchome.net/">显卡</a>|<a href="http://audio.pchome.net/">音频</a>|<a href="http://memory.pchome.net/">存储</a>|<a href="http://power.pchome.net/">机电散热器</a>|<a href="http://lcd.pchome.net/">显示器</a>|<a href="http://mouse.pchome.net/">键鼠</a></span>
+<div class="contain">
+<div class="bk-l">
+<a class="block-img" href="http://article.pchome.net/content-1406063.html"><img alt="内容"src="http://img.product.pchome.net/market/photo/2011/10/12/591783.jpg"/><span>愤怒的显卡</span></a>
+</div>
+<h4><a href="http://article.pchome.net/content-1435624.html">到底能有多强？技嘉游戏X79深度首测</a></h4>
+<ul class="art-list">
+<li><em><a href="http://hardware.pchome.net/">攒机</a>|</em><a href="http://article.pchome.net/content-1425671.html">光棍节促销续 特价硬件全搜集!</a></li>
+<li><em><a href="http://hardware.pchome.net/">攒机</a>|</em><a href="http://article.pchome.net/content-1346518.html">7400元封顶 暑期游戏配置推荐</a></li>
+<li><em><a href="http://cpu.pchome.net/">CPU</a>|</em><a href="http://article.pchome.net/content-1424371.html">酷睿i7-3960X至尊版性能飙升</a></li>
+<li><em><a href="http://cpu.pchome.net/">CPU</a>|</em><a href="http://article.pchome.net/content-1426085.html">推土机仅899元</a><a href="http://article.pchome.net/content-1425964.html"> i7-3930K到货?</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<ul class="art-list fal-con">
+<li><em><a href="http://mb.pchome.net/">主板</a>|</em><a href="http://article.pchome.net/content-1433571.html">Intel X79平台超频指南</a><a href="http://article.pchome.net/content-1430352-1.html"> 10款A75主板年度横评</a></li>
+<li><em><a href="http://gpu.pchome.net/">显卡</a>|</em><a href="http://article.pchome.net/content-1435729.html">圣诞要送名人堂巧克力</a><a href="http://article.pchome.net/content-1435732.html"> 蓝宝HD6950破1K8</a></li>
+<li><em><a href="http://memory.pchome.net">存储</a>|</em><a
+href="http://article.pchome.net/content-1435723.html">三星出8Gb相变内存颗粒 </a><a
+href="http://article.pchome.net/content-1433559.html">希捷单碟1TB硬盘开售</a></li>
+<li><em><a href="http://power.pchome.net/">机电</a>|</em>
+<a href="http://article.pchome.net/content-1433422.html">十六款主流机箱横向评测</a>
+<a href="http://article.pchome.net/content-1434183.html">金河田红旗谱机箱图赏</a>
+</li>
+<li><em><a href="http://power.pchome.net/">散热</a>|</em>
+<a href="http://article.pchome.net/content-1416359.html">2011年排插横向评测</a>
+<a href="http://article.pchome.net/content-1432775.html">百元以下风冷散热器横评</a></li>
+<li><em><a href="http://lcd.pchome.net/">LCD</a>|</em><a href="http://article.pchome.net/content-1392750.html">三星新款快门3D很实惠 </a><a href="http://article.pchome.net/content-1391943.html">LG开启无边框时代</a></li>
+<li><em><a href="http://mouse.pchome.net/">键鼠</a>|</em><a href="http://article.pchome.net/content-1432562.html">Razer安纳西梵蛛体验</a> <a href="http://article.pchome.net/content-1432605.html">网际快车X700游戏鼠评测</a></li>
+<li><em><a href="http://cam.pchome.net/">摄像头</a>|</em><a href="
+http://article.pchome.net/content-1346721.html">CMOS与CCD性能对比 </a><a href="http://article.pchome.net/content-1346761.html">索尼平板九月份开售 </a></li>
+</ul>
+<dl class="brand">
+<dt>品牌</dt>
+<dd><a href="http://product.pchome.net/diy_cpu/list_8_36_8.html">Intel</a></dd><dd><a
+href="http://product.pchome.net/diy_cpu/list_8_36_9.html">AMD</a></dd><dd><a
+href="http://product.pchome.net/diy_mainboard/list_8_37_3.html">华硕</a></dd><dd><a
+href="http://product.pchome.net/diy_mainboard/list_8_37_4.html">技嘉</a></dd><dd><a
+href="http://product.pchome.net/diy_mainboard/list_8_37_2.html">微星</a></dd><dd><a
+href="http://product.pchome.net/diy_graphics/list_8_39_230.html">七彩虹</a></dd><dd><a
+href="http://product.pchome.net/diy_graphics/list_8_39_1174.html">索泰</a></dd><dd><a
+href="http://product.pchome.net/diy_hard_driver/list_8_76_12.html">希捷</a></dd><dd><a
+href="http://product.pchome.net/diy_lcd/list_8_52_31.html">三星</a></dd><dd><a href="http://product.pchome.net/diy_speaker/list_8_45_939.html">麦博</a></dd><dd><a
+href="http://product.pchome.net/diy_power/list_8_41_186.html">航嘉</a></dd><dd><a
+href="http://product.pchome.net/diy_cooler/list_8_239_1140.html">九州风神</a></dd><dd><a
+href="http://product.pchome.net/diy_mouse/list_8_86_133.html">罗技</a></dd><dd><a
+href="http://product.pchome.net/diy_mouse/list_8_86_526.html">双飞燕</a></dd><dd><a
+href="http://product.pchome.net/diy_mouse/list_8_86_4964.html">雷柏</a></dd><dd><a
+href="http://product.pchome.net/diy_mouse/list_8_86_5993.html">摩天手</a></dd><dd class="more"><a>关注: </a><a href="http://article.pchome.net/content-1260225.html">sandy bridge</a></dd>
+</dl>
+</div>
+<div class="art-right">
+<div class="title">
+<h3><a href="http://bbs.pchome.net">硬件论坛</a></h3>
+</div>
+<h4><a href="http://bbs.pchome.net/thread-587283-1-1.html">"百团大战"极速体验—影驰SSD团购试用活动</a></h4>
+<ul class="art-list p0m">
+<li><em><a href="http://bbs.pchome.net/">mod</a>|</em><a href="http://bbs.pchome.net/thread-584713-1-1.html">爆改四路鼠标呼吸灯 </a></li>
+<li><em><a href="http://bbs.pchome.net/">测试</a>|</em><a href="http://bbs.pchome.net/thread-583523-1-1.html">Antec KUHLER H2O 620一体化水冷</a></li>
+<li><em><a href="http://bbs.pchome.net/">硬件</a>|</em><a href="http://bbs.pchome.net/thread-585124-1-1.html">别盲目追求水冷 </a></li>
+<li><em><a href="http://bbs.pchome.net/">键盘</a>|</em><a href="http://bbs.pchome.net/thread-585171-1-1.html">罗技G100游戏套装评测 </a></li>
+<li><em><a href="http://bbs.pchome.net/forum-29-1.html">APU</a>|</em><a href="http://bbs.pchome.net/thread-495251-1-1.html">AMD E-350 APU与多处理器对比测试</a></li>
+<li><em><a href="http://bbs.pchome.net/forum-29-1.html">GPU</a>|</em><a href="http://bbs.pchome.net/thread-576757-1-1.html">GTX560Ti超级超频版组建SLI简测</a></li>
+</ul>
+<h4><a href="http://bbs.pchome.net/thread-586580-1-1.html">终极利器！intel x79主板大阅兵 整合贴</a></h4>
+<ul class="art-list p4m">
+<li><em><a href="http://bbs.pchome.net/">装机</a>|</em><a href="http://bbs.pchome.net/thread-585435-1-1.html"> 【梦想原创】晒下“顶楼抢技嘉金牌Z68主板活动”奖品Z68XP-UD3P兼四年保修注册实录</a></li>
+<li><em><a href="http://bbs.pchome.net/">资讯</a>|</em><a href="http://bbs.pchome.net/thread-538565-1-1.html"> 五年一轮回？A/N如何面对显卡岔路口</a></li>
+<li><em><a href="http://bbs.pchome.net/">资讯</a>|</em><a href="http://bbs.pchome.net/thread-574301-1-1.html">蓝宝首款Z68主板正式发布</a></li>
+<li><em><a href="http://bbs.pchome.net/">资讯</a>|</em><a href="http://bbs.pchome.net/thread-576369-1-1.html">微星A75MA-G55主板超频简测</a></li>
+<li><em><a href="http://bbs.pchome.net/">装机</a>|</em><a href="http://bbs.pchome.net/thread-585185-1-1.html">新配置奇怪的花屏 大家来分析分析</a></li>
+</ul>
+<dl class="brand">
+<dt><a href="http://product.pchome.net/dir_8.html">配件</a></dt>
+<dd><a href="http://product.pchome.net/diy_cpu/list_8_36.html">CPU</a></dd><dd><a
+href="http://product.pchome.net/diy_mainboard/list_8_37.html">主板</a></dd><dd><a
+href="http://product.pchome.net/diy_graphics/list_8_39.html">显卡</a></dd><dd><a
+href="http://product.pchome.net/diy_memory/list_8_38.html">内存</a></dd><dd><a
+href="http://product.pchome.net/diy_hard_driver/list_8_76.html">硬盘</a></dd><dd><a
+href="http://product.pchome.net/diy_flash_harddisk/list_8_290.html">固态硬盘</a></dd><dd><a
+href="http://product.pchome.net/diy_power/list_8_41.html">电源</a></dd><dd><a
+href="http://product.pchome.net/diy_cas/list_8_43.html">机箱</a></dd><dd><a
+href="http://product.pchome.net/diy_speaker/list_8_45.html">音箱</a></dd><dd><a
+href="http://product.pchome.net/diy_lcd/list_8_52.html">液晶显示器</a></dd><dd><a
+href="http://product.pchome.net/list_0_128.html">光驱</a></dd><dd><a
+href="http://product.pchome.net/diy_mouse_and_keyboard/list_8_243.html">键鼠套装</a></dd><dd><a
+href="http://product.pchome.net/diy_mouse/list_8_86.html">鼠标</a></dd><dd><a
+href="http://product.pchome.net/diy_keyboard/list_8_87.html">键盘</a></dd><dd><a
+href="http://product.pchome.net/diy_cooler/list_8_239.html">散热器</a></dd><dd><a
+href="http://product.pchome.net/diy_sound_card/list_8_44.html">声卡</a></dd><dd><a
+href="http://product.pchome.net/network_network_card/list_9_168.html">网卡</a></dd>
+</dl>
+</div>
+<div class="clear"></div>
+</div>
+<div class="ad760"><script>write_ad('mp_diy_tonglan');</script></div>
+</article>
+<div class="clear"></div>
+</section>
+<!-- 数字家庭区块 -->
+<section id="ehome" class="wraper wbg">
+<div class="asides">
+<aside>
+<div class="title">
+<h3><a href="http://product.pchome.net/dir_14.html">数字家庭产品快速查询</a></h3>
+</div>
+<div class="con">
+<form id="ehome-search" class="side-search" name="170" target="_blank">
+<input id="ehome-stext" class="side-stext" type="text" value="创维电视"/>
+<input id="ehome-sbtn" class="side-sbtn" type="button" value="搜索"/>
+</form>
+<script>
+addSearchFn('ehome-search','ehome-sbtn','ehome-stext','创维电视','http://product.pchome.net/digi_home_lcd_tv/list_14_170_1569.html');
+</script>
+<ul id="ehome-slist" class="side-tab">
+<li class="current"><a href="http://product.pchome.net/digi_home_lcd_tv/ladderclass_170.html">液晶电视</a></li>
+<li><a href="http://product.pchome.net/office_projector/ladderclass_167.html">投影机</a></li>
+</ul>
+<ol class="side-pro-list">
+<li><a href="http://product.pchome.net/digi_home_lcd_tv_sony_klv32bx320/307642.html" title="索尼KLV-32BX320">索尼KLV-32BX320</a></li>
+<li><a href="http://product.pchome.net/digi_home_lcd_tv_skyworth_32e60hr/278617.html" title="创维32E60HR">创维32E60HR</a></li>
+<li><a href="http://product.pchome.net/digi_home_lcd_tv_konka_led46is95n/295747.html" title="康佳LED46IS95N">康佳LED46IS95N</a></li>
+<li><a href="http://product.pchome.net/digi_home_lcd_tv_samsung_ua46c5000qr/276854.html" title="三星UA46C5000QR">三星UA46C5000QR</a></li>
+<li><a href="http://product.pchome.net/digi_home_lcd_tv_skyworth_32l05hr/141678.html" title="创维32L05HR">创维32L05HR</a></li>
+<li style="display:none"></li>
+</ol>
+<ol class="side-pro-list">
+<li><a href="http://product.pchome.net/office_projector_sony_ex145/298256.html" title="索尼EX145">索尼EX145</a></li>
+<li><a href="http://product.pchome.net/office_projector_sony_ex120/298255.html" title="索尼EX120">索尼EX120</a></li>
+<li><a href="http://product.pchome.net/office_projector_sony_hw20/298260.html" title="索尼HW20">索尼HW20</a></li>
+<li><a href="http://product.pchome.net/office_projector_optoma_hd20lv/295201.html" title="奥图码HD20LV">奥图码HD20LV</a></li>
+<li><a href="http://product.pchome.net/office_projector_optoma_hd20/156121.html" title="奥图码HD20">奥图码HD20</a></li>
+<li style="display:none"></li>
+</ol>
+</div>
+</aside>
+<aside id="s-biz">
+<div class="title">
+<h3><a href="http://biz.pchome.net/">企业</a>·<a href="http://product.pchome.net/dir_11.html">办公</a></h3>
+</div>
+<ul id="bizt-tag" class="side-tab">
+<li class="current"><a href="http://product.pchome.net/server/class_61.html">服务器品牌</a></li>
+<li></li>
+</ul>
+<div class="l-brand">
+<a href="http://product.pchome.net/network_server/list_9_61_108.html">戴尔</a><a
+href="http://product.pchome.net/network_server/list_9_61_6062.html">联想</a><a
+href="http://product.pchome.net/network_server/list_9_61_13.html">IBM</a>
+</div>
+<ul id="bizb-tag" class="side-tab">
+<li class="current"><a href="http://product.pchome.net/router/class_184.html">路由器品牌</a></li>
+<li><a href="http://product.pchome.net/swith/class_69.html">交换机品牌</a></li>
+</ul>
+<div class="l-brand">
+<a href="http://product.pchome.net/network_router/list_9_184_168.html">TP-LINK</a><a
+href="http://product.pchome.net/network_router/list_9_184_1776.html">H3C</a><a
+href="http://product.pchome.net/network_router/list_9_184_2946.html">思科</a>
+</div>
+<div class="l-brand">
+<a href="http://product.pchome.net/network_swith/list_9_69_1776.html">H3C</a><a
+href="http://product.pchome.net/network_swith/list_9_69_2946.html">思科</a><a
+href="http://product.pchome.net/network_swith/list_9_69_129.html">D-Link</a>
+</div>
+</aside>
+</div>
+<article>
+<div class="r-wrap">
+<div class="art-left">
+<ul id="ehome-art-tag" class="art-tag">
+<li class="current"><a href="http://ehome.pchome.net/">家电</a> · <a href="http://projector.pchome.net/">投影</a></li>
+</ul>
+<div class="contain">
+<div class="bk-l">
+<a class="block-img" href="http://article.pchome.net/content-1430824.html"><img alt="内容" src="http://img.pchome.net/2011/11/24/239642.jpg"/><span>优派PJD7382评测</span></a>
+<ul>
+<li><a href="http://article.pchome.net/content-1388672.html">TCL云电视发布会</a></li>
+<li><a href="http://article.pchome.net/content-1354286.html">TCL 3D智变发布会</a></li>
+</ul>
+</div>
+<h4><a href="http://article.pchome.net/content-1431640.html">高清智能两手抓 评忆捷M90高清播放机</a></h4>
+<ul class="art-list">
+<li><a href="http://article.pchome.net/content-1435771.html">小家电是电老虎 消费者竟浑然不觉</a></li>
+<li><a href="http://article.pchome.net/content-1435751.html">台湾明年一季度 补助30万台节能家电</a></li>
+<li><a href="http://article.pchome.net/content-1434051-1.html">高品质画质保证 索尼SX125投影机到货 </a></li>
+<li><a href="http://article.pchome.net/content-1435023.html">外观时尚佩戴舒适 LG推新款3D眼镜</a></li>
+<li><a href="http://article.pchome.net/content-1435021.html">激光投影袭来 明基2011年度新品发布</a></li>
+<li><a href="http://article.pchome.net/content-1434882.html">广电总局：3D电视频道明年将初试播</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<dl class="brand">
+<dt>品牌</dt>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_49.html">爱普生</a></dd>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_64.html">明基</a></dd>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_1422.html">奥图码</a></dd>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_137.html">日立</a></dd>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_30.html">松下</a></dd>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_150.html">三洋</a></dd>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_121.html">东芝</a></dd>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_39.html">NEC</a></dd>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_207.html">夏普</a></dd>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_155.html">Acer宏碁</a></dd>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_148.html">三菱</a></dd>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_1428.html">富可视</a></dd>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_31.html">三星</a></dd>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_32.html">索尼</a></dd>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_1407.html">3M</a></dd>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_1230.html">丽讯</a></dd>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_108.html">戴尔</a></dd>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_77.html">惠普</a></dd>
+<dd><a href="http://product.pchome.net/office_projector/list_11_167_7906.html">纽曼</a></dd>
+<dd class="more"><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170.html">更多&gt;&gt;</a></dd>
+</dl>
+</div>
+<div class="art-right">
+<div class="title">
+<h3><a href="http://bbs.pchome.net/forum-48-1.html">家电论坛</a></h3>
+</div>
+<h4><a href="http://bbs.pchome.net/thread-586689-1-1.html">你家的空调清洗了吗？</a></h4>
+<ul class="art-list">
+<li><em><a href="http://bbs.pchome.net/forum-48-1.html">家电</a>|</em><a href="http://bbs.pchome.net/thread-584864-1-1.html"> 电冰箱需定期清理</a></li>
+<li><em><a href="http://bbs.pchome.net/forum-48-1.html">家电</a>|</em><a href="http://bbs.pchome.net/thread-587162-1-1.html">冬天冷柜/冰箱注意事项以及保养方法
+</a></li>
+<li><em><a href="http://bbs.pchome.net/forum-48-1.html">家电</a>|</em><a href="http://bbs.pchome.net/thread-582078-1-1.html"> 电饭煲常见故障的检修</a></li>
+<li><em><a href="http://bbs.pchome.net/forum-48-1.html">家电</a>|</em><a href="http://bbs.pchome.net/thread-585309-1-1.html">如何选购高清机的九大心法</a></li>
+<li><em><a href="http://bbs.pchome.net/forum-48-1.html">家电</a>|</em><a href="http://bbs.pchome.net/thread-585105-1-1.html">常识：不宜放入冰箱的食物</a></li>
+<li><em><a href="http://bbs.pchome.net/forum-48-1.html">家电</a>|</em><a href="http://bbs.pchome.net/thread-586330-1-1.html">液晶电视的8个重要参数 明明白白选电视</a></li>
+</ul>
+<dl class="brand">
+<dt>品牌</dt>
+<dd><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170_1569.html">创维</a></dd>
+<dd><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170_818.html">海尔</a></dd>
+<dd><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170_237.html">TCL</a></dd>
+<dd><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170_748.html">康佳</a></dd>
+<dd><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170_712.html">海信</a></dd>
+<dd><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170_1519.html">长虹</a></dd>
+<dd><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170_31.html">三星</a></dd>
+<dd><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170_33.html">LG</a></dd>
+<dd><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170_207.html">夏普</a></dd>
+<dd><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170_32.html">索尼</a></dd>
+<dd><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170_121.html">东芝</a></dd>
+<dd><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170_30.html">松下</a></dd>
+<dd><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170_150.html">三洋</a></dd>
+<dd><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170_103.html">飞利浦</a></dd>
+<dd><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170_165.html">AOC</a></dd>
+<dd><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170_64.html">明基</a></dd>
+<dd><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170_245.html">清华同方</a></dd>
+<dd><a href="http://product.pchome.net/digi_home_lcd_tv/list_14_170_551.html">夏新</a></dd>
+<dd class="more"><a href="http://product.pchome.net/dir_14.html">更多&gt;&gt;</a></dd>
+</dl>
+</div>
+<div class="clear"></div>
+</div>
+<div class="ad760"><script>write_ad('mp_ehome_tonglan');</script></div>
+</article>
+<div class="clear"></div>
+</section>
+<!-- 软件区块 -->
+<section id="software" class="wraper wbg">
+<aside>
+<div class="title">
+<h3><a href="http://download.pchome.net/static/zjbb.php">装机必备软件</a></h3>
+</div>
+<ul id="sw-slist" class="side-tab2">
+<li class="current"><a href="http://download.pchome.net/internet/page-1-1--1.html">常用</a></li>
+<li><a href="http://download.pchome.net/multimedia/page-5-1--1.html">影音</a></li>
+<li><a href="http://download.pchome.net/mobile/page-377-1--1.html">手机</a></li>
+</ul>
+<ul class="softwares">
+<li><img width="16px" height="16px" src="http://img.pchome.net/2011/04/13/198799.jpg"><a href="http://download.pchome.net/internet/browser/browser/detail-37235.html">傲游3浏览器</a> <a href="http://mk.maxthon.cn/pchome/maxthon_pchome.exe">傲游2</a></li>
+<li><img width="16px" height="16px" src="http://img.pchome.net/2011/04/13/198791.jpg"><a href="http://download.pchome.net/home/stock/detail-12555.html">大智慧新一代(免费)</a></li>
+<li><img width="16px" height="16px" src="http://img.pchome.net/2011/04/13/198792.jpg"><a href="http://download.pchome.net/qq2011/detail-27799.html">QQ2011</a></li>
+<li><img width="16px" height="16px" src="http://img.download.pchome.net/42/10/logo.jpg"><a href="http://www.kuaizip.com/down/affiliate/KuaiZip_Setup_v2.3.3_10066.exe">快压-最快压缩软件</a></li>
+<li><img width="16px" height="16px" src="http://img.download.pchome.net/31/f6/logo.jpg"><a href="http://download.pchome.net/internet/browser/browser/detail-141810.html">谷歌浏览器</a></li>
+<li><img width="16px" height="16px" src="http://img.pchome.net/2011/04/13/198795.jpg"><a href="http://download.pchome.net/home/stock/detail-20150.html">同花顺2011</a></li>
+<li><img width="16px" height="16px" src="http://img.download.pchome.net/31/6c/logo.jpg"><a href="http://download.pchome.net/system/backup/detail-141492.html">驱动人生</a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198798.jpg"><a href="http://download.pchome.net/utility/pack/detail-3853.html">WinRAR</a></li>
+<li><img width="16px" height="16px" src="http://img.pchome.net/2011/04/13/198800.jpg"><a href="http://download.pchome.net/internet/browser/browser/detail-141469.html">IE 9.0</a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198802.jpg"><a href="http://download.pchome.net/kabasiji2011-kis/detail-18915.html">卡巴斯基安全部队</a></li>
+<li><img height="16px" width="16px" src="http://img.download.pchome.net/0n/kd/logo.gif"><a href="http://download.pchome.net/baidu/detail-30541.html">百度浏览器</a></li>
+</ul>
+<ul class="softwares">
+<li><img height="16px" width="16px" src="http://img.download.pchome.net/0f/nm/logo.gif"><a href="http://download.pchome.net/multimedia/onlineplayer/detail-20290.html">PPS网络电视</a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198801.jpg"><a href="http://download.pchome.net/multimedia/media/detail-63174.html">iTunes 多语言版</a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198809.jpg"><a href="http://download.pchome.net/multimedia/media/detail-19314.html">暴风影音</a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198812.jpg"><a href="http://download.pchome.net/multimedia/media/detail-167279.html">射手播放器</a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198813.jpg"><a href="http://download.pchome.net/multimedia/media/detail-81970.html">酷狗音乐</a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198814.jpg"><a href="http://download.pchome.net/multimedia/media/detail-35567.html">酷我音乐盒</a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198815.jpg"><a href="http://download.pchome.net/design/digipic/20642.html">光影魔术手</a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198816.jpg"><a href="http://download.pchome.net/multimedia/media/detail-10544.html">终极解码</a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198817.jpg"><a href="http://download.pchome.net/multimedia/onlineplayer/detail-2227.html">皮皮高清播放器</a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198818.jpg"><a href="http://download.pchome.net/multimedia/video/detail-139633.html">格式工厂</a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198819.jpg"><a href="http://download.pchome.net/multimedia/onlineplayer/detail-140051.html">快播(QvodPlayer)</a></li>
+</ul>
+<ul class="softwares">
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198791.jpg"><a href="http://download.pchome.net/mobile/tools/banking/detail-63980.html">大智慧超赢手机版</a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198820.jpg"><a href="http://download.pchome.net/mobile/ebook/read/detail-35521.html">Anyview 手机阅读器</a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198822.jpg"><a href="http://download.pchome.net/mobile/tools/information/detail-180198.html">HTC手机HTC Sync同步 </a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198823.jpg"><a href="http://download.pchome.net/search-91%CA%D6%BB%FA----1.html">91手机助手</a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198792.jpg"><a href="http://download.pchome.net/mobile/internet/im/detail-173963.html">手机QQ</a></li>
+<li><img height="16px" width="16px" src="http://img.download.pchome.net/3u/do/logo.jpg"><a href="http://download.pchome.net/mobile/games/act/detail-179340.html">水果忍者S60v5 中文</a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198826.jpg"><a href="http://download.pchome.net/mobile/Internet/im/detail-31557.html">飞信 for Java</a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198827.jpg"><a href="http://download.pchome.net/uc/detail-177766.html">UC浏览器 </a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198828.jpg"><a href="http://download.pchome.net/android-market/detail-27471.html">Android Market</a></li>
+<li><img height="16px" width="16px" src="http://img.pchome.net/2011/04/13/198830.jpg"><a href="http://download.pchome.net/mobile/internet/share/detail-35781.html">飞流下载 for S60v5</a></li>
+<li><img height="16px" width="16px" src="http://img.download.pchome.net/0r/40/logo.jpg"><a href="http://download.pchome.net/mobile/system/other/detail-179965.html">豌豆荚手机精灵</a></li>
+</ul>
+<a class="dl-button" href="http://download.pchome.net/">进入下载中心>></a>
+</div>
+</aside>
+<article>
+<div class="r-wrap">
+<div class="art-left">
+<ul id="sw-art-tag" class="art-tag">
+<li class="current"><a href="http://software.pchome.net/">软件应用</a> · <a href="http://antivirus.pchome.net/">病毒安全</a></li>
+</ul>
+<div class="contain">
+<div class="bk-l">
+<a class="block-img" href="http://article.pchome.net/content-1427677.html"><img alt="2011年PChome软件用户评选-评选首页" src="http://img.article.pchome.net/00/54/46/28/hotpic/544628_1.gif"/><span>2011软件用户评选</span></a>
+<ul>
+<li><a href="http://download.pchome.net/mobile/internet/network/detail-179072.html">安卓市场 正式版</a></li>
+<li><a href="http://download.pchome.net/internet/browser/browser/detail-37235.html">傲游(Maxthon)浏览器</a></li>
+<li><a href="http://download.pchome.net/home/stock/detail-20150.html">同花顺2011标准版</a></li>
+</ul>
+</div>
+<h4><a href="http://article.pchome.net/content-1435425.html">谁说路盲戒不掉！手机SOSO地图领航</a></h4>
+<ul class="art-list">
+<li><a href="http://article.pchome.net/content-1435879.html">娱乐周记 地心历险记2:神秘岛新冒险</a></li>
+<li><a href="http://article.pchome.net/content-1435165.html">一周壁纸榜单 12月桌面月历急升前三</a></li>
+<li><a href="http://article.pchome.net/content-1436164.html">安卓省电利器 延长待机时间高达50%</a></li>
+<li><a href="http://article.pchome.net/content-1434749.html">Win7专业版助富士通P771造商务旗舰</a></li>
+<li><a href="http://article.pchome.net/content-1435932.html">领跑HTML5支持 傲游3升级自主内核</a></li>
+<li><a href="http://article.pchome.net/content-1436096.html">360公司欲建立研发中心 安全总结12.3</a></li>
+<li><a href="http://article.pchome.net/content-1435371.html">GData：警惕仿冒交通银行的钓鱼诈骗</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="art-right">
+<div class="title">
+<h3><a href="http://download.pchome.net/">软件</a>·<a href="http://download.pchome.net/wallpaper/">壁纸</a>·<a href="http://download.pchome.net/game/page-7-1--1.html">游戏下载</a></h3>
+</div>
+<h4> 　<a href="http://download.pchome.net/multimedia/media/detail-19314.html">暴风影音5.07.1129 大幅提升在线视频画质</a> </li> </h4>
+<ul class="art-list">
+<li><em><a href="http://download.pchome.net/">软件</a>|</em> <a href="http://download.pchome.net/internet/browser/browser/detail-26001.html">傲游 3.3.1 Beta2</a> <a href="http://download.pchome.net/driver/hardware/vga/detail-97757.html">ATI催化剂驱动Win8预览版</a> 　 </li>
+<li><em><a href="http://download.pchome.net/">软件</a>|</em> <a href="http://download.pchome.net/office/detail-29880.html">office2010入门免费版</a>　<a href="http://download.pchome.net/utility/antivirus/others/detail-181529.html">微软免费杀毒4.0β</a> </li>
+<li><em><a href="http://download.pchome.net/wallpaper/">壁纸素材</a>|</em><a href="http://article.pchome.net/content-1433900.html">高清风景壁纸</a>　<a href="http://article.pchome.net/content-1433505.html">iPhone高清创意壁纸</a></li>
+<li><em><a href="http://download.pchome.net/wallpaper/">壁纸素材</a>|</em> <a href="http://article.pchome.net/content-1435074.html">12月闲适月历壁纸<a>　<a href="http://article.pchome.net/content-1434223.html">丰田经典跑车壁纸</a></li>
+<li><em><a href="http://download.pchome.net/yule/">娱乐下载</a>|</em> <a href="http://download.pchome.net/internet/browser/browser/detail-16538.html">Safari 5.12中文版</a>　<a href="http://download.pchome.net/uc/detail-29877.html">UC浏览器iPad 1.0</a> </li>
+<li><em><a href="http://mobile.pchome.net/software/">手机应用</a>|</em> <a href="http://download.pchome.net/qqcontacts/detail-27536.html">QQ通讯录WP7 1.0</a>　<a href="http://download.pchome.net/mobile/firmware/detail-172075.html">iOS 5.1 Beta</a></li>
+<li><em><a href="http://mobile.pchome.net/software/">手机应用</a>|</em> <a href="http://download.pchome.net/mobile/tools/information/detail-186287.html">iFunBox中文版 1.7</a>　<a href="http://download.pchome.net/ttpod/detail-26677.html">天天动听Android 2.01</a> </li>
+</ul>
+</div>
+<div class="clear"></div>
+</div>
+<div class="ad760"><script>write_ad('mp_soft_tonglan');</script></div>
+</article>
+<div class="clear"></div>
+</section>
+<!-- 下载娱乐区块 -->
+<section id="downloads" class="wraper wbg">
+<aside>
+<div class="title">
+<h3><a href="http://download.pchome.net/">软件下载快速查询</a></h3>
+</div>
+<div class="con">
+<form id="dl-search" class="side-search" name="" target="_blank">
+<input id="dl-stext" class="side-stext" type="text" value="同花顺"/>
+<input id="dl-sbtn" class="side-sbtn" type="button" value="搜索"/>
+</form>
+<script>
+addSearchFnS('dl-search','dl-sbtn','dl-stext','iPad2','http://product.pchome.net/pc_tablepc_apple_ipad2/297677.html');
+</script>
+<ul id="dl-slist" class="side-tab2">
+<li class="current"><a href="http://download.pchome.net/">最热</a></li>
+<li><a href="http://download.pchome.net/static/todays.php">杀毒</a></li>
+<li><a href="http://download.pchome.net/skins/">娱乐</a></li>
+</ul>
+<ol class="side-pro-list">
+<li><a title="同花顺免费炒股软件" href="http://download.pchome.net/home/stock/detail-20150.html">同花顺免费炒股软件2011</a></li>
+<li>
+<a href="http://download.pchome.net/multimedia/media/detail-81970.html" title="酷狗音乐(KuGou) 2011 正式版 酷狗音乐是国内知名音乐播放软件，提供音乐搜索下载播放等 下载数:1134580">酷狗音乐(KuGou) 2011 正式版 </a>
+</li>
+<li>
+<a href="http://download.pchome.net/internet/browser/browser/detail-141761.html" title="Google Chrome 谷歌浏览器 稳定版 谷歌浏览器让您快速轻松安全地使用网络的浏览器，此版为当前最稳定版 下载数:383999">Google Chrome 谷歌浏览器 稳定版 </a>
+</li>
+<li>
+<a href="http://download.pchome.net/mobile/tools/information/detail-180198.html" title="HTC手机HTC Sync同步软件 HTC手机同步软件，同步Outlook外，增加多媒体同步功能 下载数:1675068">HTC手机HTC Sync同步软件 </a>
+</li>
+<li>
+<a href="http://download.pchome.net/multimedia/onlineplayer/detail-140051.html" title="快播(QvodPlayer) 增强版 快播(QvodPlayer)是自主研发的基于准视频点播的播放器 下载数:2519630">快播(QvodPlayer) 增强版 </a>
+</li>
+<li>
+<a href="http://download.pchome.net/mobile/system/files/detail-171191.html" title="91手机助手 For iPhone 91手机助手是智能手机PC端管理工具，海量免费资源安装下载 下载数:1393018">91手机助手 For iPhone </a>
+</li>
+<li>
+<a href="http://download.pchome.net/mobile/tools/information/detail-179089.html" title="三星PC套件Kies软件 三星PC套件Kies软件可将PC与手机连接方便地同步数据 下载数:528982">三星PC套件Kies软件 </a>
+</li>
+<li>
+<a href="http://download.pchome.net/fishingjoy/detail-30341.html" title="捕鱼达人之深海狩猎 单机版 捕鱼达人之深海狩猎，新奇有趣的关卡设计，畅快刺激的射击体验。 下载数:195832">捕鱼达人之深海狩猎 单机版 </a>
+</li>
+<li>
+<a href="http://download.pchome.net/utility-lan-ime/detail-31269.html" title="搜狗拼音输入法 正式版 当前网上最流行、用户好评率最高、功能最强大的拼音输入法 下载数:3739929">搜狗拼音输入法 正式版 </a>
+</li>
+<li>
+<a href="http://download.pchome.net/system/sysenhance/detail-4673.html" title="VMware Workstation VMWare是虚拟PC软件，它使你可在一台机器上同时运行多个系统 下载数:1714182">VMware Workstation </a>
+</li>
+</ol>
+<ol class="side-pro-list">
+<li><a title="小红伞 简体中文免费版" href="http://download.pchome.net/utility/antivirus/avira/detail-8676.html">小红伞 简体中文免费版</a></li>
+<li><a title="微软安全软件 for Vista/Win7 简体中文版" href="http://download.pchome.net/detail-172371.html">微软安全软件</a></li>
+<li><a title="360杀毒 完整安装包" href="http://download.pchome.net/utility/antivirus/others/detail-140563.html">360杀毒 完整安装包</a></li>
+<li><a title="ESET NOD32 离线更新包 4.0版" href="http://download.pchome.net/utility/antivirus/eset/detail-174556.html">ESET NOD32 离线更新</a></li>
+<li><a title="金山手机卫士" href="http://download.pchome.net/mobile/safe/system/detail-171194.html">金山手机卫士</a></li>
+<li><a title="QQ安全助手" href="http://download.pchome.net/mobile/safe/system/detail-35298.html">QQ安全助手Android</a></li>
+<li><a title="瑞星杀毒软件2011永久免费" href="http://download.pchome.net/utility-antivirus-rav/detail-181933.html">瑞星杀毒2011永久免费</a></li>
+<li><a title=" QQ电脑管家" href="http://download.pchome.net/system/cleanup/detail-143349.html"> QQ电脑管家</a></li>
+<li><a title="AVG手机防病毒" href="http://download.pchome.net/avg/detail-25103.html">AVG手机防病毒</a></li>
+<li><a title="金山毒霸" href="http://download.pchome.net/utility/antivirus/kav/detail-15607.html">金山毒霸2011 永久免费</a></li>
+</ol>
+<ol class="side-pro-list">
+<li>
+<a href="http://download.pchome.net/srceensv-natural/detail-190385.html" title="雾中群马3D屏保 Fog Horses 3D Screensaver 下载数:11174">雾中群马3D屏保 </a>
+</li>
+<li>
+<a href="http://download.pchome.net/srceensv-natural/detail-190500.html" title="2011年11月自然风光精选主题屏保(4) 2011年11月自然风光精选主题屏保(4) 下载数:1766">2011年11月自然风光精选主题屏保(4) </a>
+</li>
+<li>
+<a href="http://download.pchome.net/srceensv-natural/detail-190408.html" title="2011年11月自然风光精选主题屏保(2) 2011年11月自然风光精选主题屏保(2) 下载数:5014">2011年11月自然风光精选主题屏保(2) </a>
+</li>
+<li>
+<a href="http://download.pchome.net/srceensv-joystar/detail-190522.html" title="2011年11月明星精选主题屏保(4) 2011年11月明星精选主题屏保(4) 下载数:1056">2011年11月明星精选主题屏保(4) </a>
+</li>
+<li>
+<a href="http://download.pchome.net/srceensv-brand/detail-190394.html" title="2011年11月名车汇主题屏保(1) 2011年11月名车汇主题屏保(1) 下载数:3196">2011年11月名车汇主题屏保(1) </a>
+</li>
+<li>
+<a href="http://download.pchome.net/srceensv-joystar/detail-190566.html" title="2011年11月明星精选主题屏保(5) 2011年11月明星精选主题屏保(5) 下载数:640">2011年11月明星精选主题屏保(5) </a>
+</li>
+<li><a title="水果忍者电脑版 绿色版" href="http://download.pchome.net/fruitninja/detail-30376.html">水果忍者电脑版 经典</a></li>
+<li><a title="愤怒的小鸟 完美汉化版" href="http://download.pchome.net/angry-birds/detail-8374.html">愤怒的小鸟 完美汉化版</a></li>
+<li><a title="植物大战僵尸 官方中文版" href="http://download.pchome.net/game/puzzle/detail-174488.html">植物大战僵尸 官方中文版</a></li>
+<li><a title="捕鱼达人 PC单机版" href="http://download.pchome.net/fishingjoy/detail-30341.html">捕鱼达人 PC单机版</a></li>
+</ol>
+</div>
+</aside>
+<article>
+<div class="r-wrap">
+<div class="art-left">
+<ul id="dl-art-tag" class="art-tag"><li class="current"><a href="http://game.pchome.net/">游戏娱乐</a></li></ul>
+<div class="contain">
+<div class="bk-l">
+<a class="block-img" href="http://article.pchome.net/content-1435953.html"><img src="http://img.article.pchome.net/game/00/21/85/05/hotpic/guiqi.jpg" alt="内容"><span>《鬼泣》</span></a>
+</div>
+<h4><a href="http://article.pchome.net/content-1435758.html">《俺妹P2》全民皆妹剧情确定</a></h4>
+<ul class="art-list">
+<li><a href="http://article.pchome.net/content-1435749.html">PSV《地狱军团》各游戏特色详解</a></li>
+<li><a href="http://article.pchome.net/content-1435822.html">《彩虹六号 爱国者》刺激的新战斗</a></li>
+<li><a href="http://article.pchome.net/content-1435827.html">《歌谭市 冒名顶替》丰富自定要素</a></li>
+<li><a href="http://article.pchome.net/content-1435854.html">《百兽王》简单又爽快的战斗方式</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<ul class="art-list fal-con">
+<li><em><a href="http://game.pchome.net/">网游</a>|</em><a href="http://article.pchome.net/content-1436073.html">漫画风跑酷韩游《都市狂奔》下月首测</a></li>
+<li><em><a href="http://game.pchome.net/esports/">竞技</a>|</em><a href="http://article.pchome.net/content-1436331.html">阿川跳刀BR与跳刀CG合集：国士无双加盟<BR>
+</a></li>
+<li><em><a href="http://game.pchome.net/tvg/">单机</a>|</em><a href="http://article.pchome.net/content-1435942.html">《灵魂能力5》初回特典内容公开</a></li>
+<li><em><a href="http://youxi.pchome.net/">页游</a>|</em><a href="http://mg.youxi.pchome.net">霹雷《墨攻》墨者归来 血战沙场<BR>
+</a></li>
+</ul>
+<dl class="brand">
+<dt><a href="http://game.pchome.net/">专区</a></dt>
+<dd><a href="http://article.pchome.net/content-1376310.html">战地风云OL</a></dd>
+<dd><a href="http://article.pchome.net/content-1306335.html">鹿鼎记</a></dd>
+<dd><a href="http://article.pchome.net/content-1292605.html">魔域</a></dd>
+<dd><a href="http://article.pchome.net/content-1216538.html">神话</a></dd>
+<dd><a href="http://article.pchome.net/content-1288208.html">天堂梦</a></dd>
+<dd><a href="http://game.pchome.net/tzhol/index.html">天之痕</a></dd>
+<dd><a href="http://article.pchome.net/content-1065881.html">天龙八部2</a></dd>
+<dd><a href="http://article.pchome.net/content-990935.html">仙途OL</a></dd>
+<dd><a href="http://article.pchome.net/content-1209482.html">洛汗</a></dd>
+<dd><a href="http://article.pchome.net/content-1203716.html">大唐无双</a></dd>
+<dd><a href="http://article.pchome.net/content-1209482.html">洛汗</a></dd>
+<dd><a href="http://game.pchome.net/zhyx/">中华英雄</a></dd>
+<dd><a href="http://game.pchome.net/tianxia2/">天下2</a></dd>
+<dd class="more"><a href="http://game.pchome.net/">更多&gt;&gt;</a></dd>
+</dl>
+</div>
+<div class="art-right">
+<div class="title">
+<h3><a href="http://biz.pchome.net/">企业办公</a></h3>
+</div>
+<h4><a href="http://article.pchome.net/content-1435382.html">当今Win7平台：IE9仅剩唯一对手IE8</a></h4>
+<ul class="art-list">
+<li><em><a href="http://biz.pchome.net/server/">服务器</a>|</em><a href="http://article.pchome.net/content-1435392.html">如何最大化服务器正常运行时间
+</a></li>
+<li><em><a href="http://biz.pchome.net/security/">安全</a>|</em><a href="http://article.pchome.net/content-1435375.html">Java漏洞成黑客目标 微软呼吁更新
+</a></li>
+<li><em><a href="http://biz.pchome.net/software/">软件</a>|</em><a href="http://article.pchome.net/content-1435396.html">微软不到3个月售出500万套Office 365
+</a></li>
+<li><em><a href="http://biz.pchome.net/telecom/">互联网</a>|</em><a href="http://article.pchome.net/content-1434711.html">百度有啊获投资 正式分拆独立运营</a></li>
+<li><em><a href="http://print.pchome.net/">新闻</a>|</em><a href="http://article.pchome.net/content-1424849.html">物美价廉 家用学生型喷墨打印机导购 </a></li>
+<li><em><a href="http://print.pchome.net/">新闻</a>|</em><a href="http://article.pchome.net/content-1424872.html">双墨滴技术 惠普J410a一体机售价410</a></li>
+<li><em><a href="http://print.pchome.net/">新闻</a>|</em><a href="http://article.pchome.net/content-1424890.html">专业高精度喷打 佳能ip4760售价1060</a></li>
+<li><em><a href="http://print.pchome.net/">新闻</a>|</em><a href="http://article.pchome.net/content-1424894.html">仅830元 富士施乐3117激光打印机促销</a></li>
+</ul>
+<dl class="brand">
+<dt>品牌</dt>
+<dd><a href="http://product.pchome.net/office_all_in_one/list_11_228_1533.html">兄弟</a></dd><dd><a href="http://product.pchome.net/office_all_in_one/list_11_228_31.html">三星</a></dd><dd><a href="http://product.pchome.net/office_all_in_one/list_11_228_77.html">惠普</a></dd><dd><a href="http://product.pchome.net/office_all_in_one/list_11_228_49.html">爱普生</a></dd><dd><a href="http://product.pchome.net/office_all_in_one/list_11_228_90.html">佳能</a></dd><dd><a href="http://product.pchome.net/office_all_in_one/list_11_228_6062.html">联想</a></dd><dd><a href="http://product.pchome.net/office_all_in_one/list_11_228_812.html">富士施乐</a></dd><dd><a href="http://product.pchome.net/office_all_in_one/list_11_228_30.html">松下</a></dd><dd><a href="http://product.pchome.net/office_all_in_one/list_11_228_135.html">理光</a></dd>
+<dd><a href="http://product.pchome.net/office_all_in_one/list_11_228_108.html">戴尔</a></dd><dd><a href="http://product.pchome.net/office_all_in_one/list_11_228_262.html">柯尼卡美能达</a></dd><dd><a href="http://product.pchome.net/office_all_in_one/list_11_228_132.html">利盟</a></dd><dd><a href="http://product.pchome.net/office_all_in_one/list_11_228_121.html">东芝</a></dd><dd><a href="http://product.pchome.net/office_all_in_one/list_11_228_112.html">方正</a></dd><dd class="more"><a href="http://product.pchome.net/dir_11.html">更多&gt;&gt;</a></dd>
+</dl>
+</div>
+<div class="clear"></div>
+</div>
+</article>
+<div class="clear"></div>
+</section>
+<!-- 宽带山区块 -->
+<section id="kds" class="wraper wbg">
+<aside>
+<div class="title">
+<h3><a href="http://club.pchome.net/forum_1_15___j_md.html">经典回顾</a></h3>
+</div>
+<ul id="kds-jd">
+<li><a href="http://club.pchome.net/thread_1_288_6015509__.html"><img alt="内容" src="http://img.pchome.net/2010/12/29/177413.jpg">昨天吃饭时的OOXX笑话...</a></li>
+<li><a href="http://club.pchome.net/thread_1_15_3635428__.html"><img alt="内容" src="http://img.pchome.net/2010/09/07/156630.jpg"> [原创] 晒晒~~面试这点事</a></li>
+<li><a href="http://club.pchome.net/thread_1_288_6014384__.html"><img alt="内容" src="http://img.pchome.net/2010/12/29/177412.jpg"> 昨晚和老婆喊了一个人的名字</a></li>
+</ul>
+</aside>
+<article>
+<div class="r-wrap">
+<div class="art-left">
+<ul id="dl-art-tag" class="art-tag">
+<li class="current"><a href="http://www.kdslife.com">宽带山·生活</a></li>
+</ul>
+<div class="contain">
+<div class="bk-l">
+<a class="block-img" href="http://event.kdslife.com/shanzhoukan/"><img alt="内容" src="http://img.pchome.net/2011/09/09/225551.jpg"/><span>山周刊·第11期</span></a>
+</div>
+<h4><a href="http://club.pchome.net/thread_1_15_6545018__.html">一个艾滋病女人临终前叙说人生</a></h4>
+<ul class="art-list">
+<li><a href="http://club.pchome.net/thread_1_26_6544090__.html">高速上遇见这种故意并排开的车友会</a></li>
+<li><a href="http://club.pchome.net/thread_1_20_6522784__.html">经适房看房记（泗泾，徐泾东）</a></li>
+<li><a href="http://club.pchome.net/thread_1_18_6544680___.html">新旧版本水浒 演员对比讨论贴</a></li>
+<li><a href="http://club.pchome.net/thread_1_16_6543363__.html">方便面制作过程全曝光，还敢吃吗？</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<ul class="art-list fal-con">
+<li><em><a href="http://club.pchome.net/forum_1_213.html">理财</a>|</em><a href="http://club.pchome.net/thread_1_213_6496212___.html">典当行居然不是“当铺” 太神奇了！</a></li>
+<li><em><a href="http://club.pchome.net/forum_1_212.html">爸妈</a>|</em><a href="http://club.pchome.net/thread_1_212_6496703__.html">老一辈的育婴心经，值得借鉴学习</a></li>
+</ul>
+</div>
+<div class="art-right">
+<div class="title">
+<h3><a href="http://car.kdslife.com">宽带山汽车</a></h3>
+</div>
+<h4><a href="http://event.pchome.net/kdscar2011/" target="_blank">[专题]爱车爱秀爱生活 </a></h4>
+<ul class="art-list">
+<li><em><a href="http://market.kdscar.com/" target="_blank">导购</a>|</em><a href="http://car.kdslife.com/article/content-16633.html" target="_blank">暴雨频发 长城哈弗SUV尽显安全优势 </a></li>
+<li><em><a href="http://car.kdslife.com/article/more-3-7.html" target="_blank">新车</a>|</em><a href="http://car.kdslife.com/article/content-16629.html" target="_blank">后制动卡钳缺陷 菲亚特召回1223辆博悦 </a></li>
+<li><em><a href="http://car.kdslife.com/article/more-3-7.html" target="_blank">新车</a>|</em><a href="http://car.kdslife.com/article/content-16623.html" target="_blank">汽车保险 是汽车后市场的“鸡肋”吗？ </a></li>
+<li><em><a href="http://club.pchome.net/forum_1_26.html">车友会</a>|</em><a href="http://club.pchome.net/thread_1_26_6424044_2__.html" target="_blank">要霍胖？随便你 上传爱车参加813聚会</a></li>
+<li><em><a href="http://club.pchome.net/forum_1_26.html">车友会</a>|</em><a href="http://club.pchome.net/thread_1_26_6438078__.html" target="_blank">领到金属车贴 上图</a></li>
+<li><em><a href="http://club.pchome.net/forum_1_26.html" target="_blank">车友会</a>|</em><a href="http://club.pchome.net/thread_1_26_6413215__.html" target="_blank">[懂得入]6：25分惨烈车祸</a></li>
+</ul>
+</div>
+<div class="clear"></div>
+</div>
+</article>
+<div class="clear"></div>
+</section>
+<div class="wraper wbg">
+<script>write_ad('mp_buttom_tonglan');</script>
+</div>
+<section class="wraper wbg group">
+<script src="http://images.pchome.net/global/js2/CBScopyright2011.js"></script>
+<dl>
+<dt>PChome.net 全国分站</dt>
+<dd><a href="http://sh.pchome.net">上海</a> |<a href="http://bj.pchome.net">北京</a> |<a href="http://jiangsu.pchome.net">江苏|</a><a href="http://hz.pchome.net">浙江</a> |<a href="http://cq.pchome.net">重庆 |<a href="http://fuzhou.pchome.net">福建</a> |<a href="http://daqing.pchome.net">大庆</a> |<a href="http://wuhan.pchome.net">武汉|<a href="http://wx.pchome.net">无锡</a> |<a href="http://cz.pchome.net">常州 |<a href="http://db.pchome.net">东北</a> |<a href="http://jn.pchome.net">济南</a>|<a href="http://shenyang.pchome.net">沈阳</a> |<a href="http://chengdu.pchome.net/">成都</a>|<a href="http://sz.pchome.net">苏州</a>| <a href="http://zhengzhou.pchome.net">郑州</a>|<a href="http://hf.pchome.net">合肥</a>|<a href="http://gz.pchome.net">广州</a>|<a href="http://changsha.pchome.net">长沙</a>
+</dd>
+</dl>
+</section>
+<footer class="wraper wbg index_footer">
+<ul class="company">
+<li><span><a href="http://www.pchome.net/sitemap.html">网站地图</a></span>-</li>
+<li><span><a href="http://www.pchome.net/aboutus/aboutus1.html">关于我们</a></span>-</li>
+<li><span><a href="http://www.pchome.net/aboutus/contact.html">联系我们</a></span>-</li>
+<li><span><a href="http://www.pchome.net/aboutus/joinus.html">加入我们</a></span>-</li>
+<li><span><a href="http://www.pchome.net/aboutus/business1.html">营销服务</a></span>-</li>
+<li id="flink_hd"><span><a style="" href="http://site.pchome.net/link/">友情链接</a><a href="http://www.ithaowai.com/">IT号外</a><a href="http://www.genuinewin7.com/">windows7</a></span><em>-</em></li>
+<li><span><a href="http://oem.pchome.net/">频道合作</a></span>-</li>
+<li><span><a href="http://eco.netvibes.com/widgets/229939/pchome">PChome Widget</a></span></li>
+</ul>
+上海市长宁区延安西路889号 太平洋企业中心22楼 Tel: 86-021-51757733<br><img src="http://images.pchome.net/global/img2/copyright2011_cnet.png" id="cnet_cr" /> &copy; 2011 CBS Interactive. All rights reserved. <a href="http://www.pchome.net/">电脑之家</a> 上海网策广告有限公司 版权所有 <strong style="color: rgb(204, 51, 0);">ICP证:沪B2-20090087</strong>
+<ul class="renzhen">
+<li><a href="http://sh.cyberpolice.cn/"><img width="138" height="54" src="http://images.pchome.net/global/img/police.jpg"></a><span><a href="http://www.miibeian.gov.cn/">沪ICP备08009489号</a></span></li>
+<li><a href="http://ulic.baidu.com/client/clientDetailCerInfo.do?id=1447"><img width="40" height="48" src="http://images.pchome.net/global/img/pchome-footerBaidu.gif"></a><span><a href="http://ulic.baidu.com/client/clientDetailCerInfo.do?id=1447" title="百度黄金伙伴">百度黄金伙伴</a></span></li>
+<li><a href="http://images.pchome.net/global/img/wlwh.jpg"><img width="36" height="46" src="http://images.pchome.net/global/img/gov_img1.png"></a><span><a href="http://images.pchome.net/global/img/wlwh.jpg" title="网络文化经营许可证">网络文化经营许可证</a></span></li>
+<li><a href="http://images.pchome.net/global/img/gov_video.jpg"><img width="36" height="50" src="http://images.pchome.net/global/img/gov_img2.png"></a><span><a href="http://images.pchome.net/global/img/gov_video.jpg" title="信息网络传播视听节目许可证">信息网络传播视听节目许可证</a></span></li>
+<li><a href="http://images.pchome.net/global/img/gov_zz.jpg"><img width="36" height="50" src="http://images.pchome.net/global/img/gov_img2.png"></a><span><a href="http://images.pchome.net/global/img/gov_zz.jpg" title="增值电信业务经营许可证">增值电信业务经营许可证</a></span></li>
+</ul>
+<script>
+window.addEvent('domready',function(){
+$('flink_hd').addEvent('mouseover',function(){
+$$('#flink_hd span').set('styles',{'height':'auto'})
+})
+$('flink_hd').addEvent('mouseout',function(){
+$$('#flink_hd span').set('styles',{'height':'25px'})
+})
+})
+</script>
+</footer>
+<script>write_ad('mp_end');</script>
+<script>write_ad('end');</script></body>
+</html>
+<script>
+var mySlide = new Slide({speed:4000}, 'slide', 'titles');
+var myNtab = new myTab('tglist','fxcon');
+cTab('main-tag');cTab('art-tag');cTab('nb-slist');cTab('nb-art-tag');cTab('mb-slist');cTab('dcdv-slist');cTab('mp3mp4-slist');cTab('ehome-slist');cTab('bizb-tag');cTab('sw-slist');cTab('dl-slist');
+</script>
+<script>
+$$('.sections').each(function(item){
+item.addEvent('mouseover',function(){
+this.addClass('hauto');
+})
+item.addEvent('mouseout',function(){
+this.removeClass('hauto');
+})
+});
+function loadListBg(){
+var obj = $$('.side-pro-list li');
+for(var i = 0; i<obj.length;i++){
+if((i%2)!= 0){
+$$('.side-pro-list li')[i].className='odd';
+}
+}
+}
+loadListBg();
+getLi('event-list','40');
+getLi('kds-jd','45');
+productShow('p-down','product-info');
+groupShow();
+kdsShow();
+bbsShow();
+mq('ft-inner','left-ctrl','right-ctrl');
+</script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-102533-14']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script>
+function bar10248_hidden(){
+document.getElementById('Bar10248_big').style.display = 'none'
+}
+</script>
+<script language="JavaScript">
+<!--
+var ownerId	= 'IPUB';
+var title
+= '★PCHOME首页2011';
+var extParams	= '&pid=1304';
+//-->
+</script>
+<script type="text/javascript" src="http://stat.pchome.net/stat.js"></script>
+<script src="http://dw.cbsi.com.cn/js/dw.js"></script>
+<script>
+DW.pageParams = {
+siteid: 69
+};
+DW.clear();
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-613977-25");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script src="http://js-1.pchome.net/ol.js"></script>
+<script type="text/javascript" src="http://stat.pchome.net/stat_block_pchome.js?v3"></script>
+<script type="text/javascript">
+PH.blockstat.init();
+</script>
+
+<div style="display:none;">2011-12-03 21:31:53</div>
+<!--82-->

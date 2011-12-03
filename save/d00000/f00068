@@ -1,0 +1,878 @@
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<!-- <base id="htmldom" href="http://www.theinsider.com/" /> --> <!-- This breaks links while in preview server -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Celebrity Gossip | Entertainment News | Pop Culture | TheInsider | TheInsider.com</title>
+	<meta name="description" content="Celebrity, pop culture, and entertainment…. but from an Insider perspective.  A sister to the highly popular television show ("The Insider"), providing the Insider view through our connections, access, and ability to produce and drive unique must-watch video, TheInsider.com is your one-stop shop, keeping you informed and entertained. Featuring Nicole Dabeau, a spirited, sassy, video-blogging Hollywood Insider who doesn't just report on a start story - she becomes part of it. " />
+	<meta name="keywords" content="American culture, backstage, brooke anderson, celebrities, celebrity couples, celebrity fashion, celebrity gossip, celebrity news, celebrity scandal, celebrity trends, Christina McLarty, comedy, contemporary culture, entertainment news, erin lucas, famous actors, famous actresses, famous musicians, famous people, famous stars, fashion trends, film releases, film stars, hollywood news, humor, inside scoop, Insider, Insider.com, Jarett Wieselman, Keltie Colleen, kevin frazier, lol, mikey glazer, music releases, Nicole Dabeau, Nicole Dobo, Nicole Dubaeu, Nicole Dubeau, Nicole Dubow, red carpet, red carpet fashion, star fashion, television news, television stars, television starts, the insider, The Insider TV Show, The Insider.com, trends, tv news, tv stars" />
+	<meta name="category" content="root" />
+	<meta name="date" content="2007-05-04 14:49:00" />
+
+<meta property="og:title" content="Celebrity Gossip | Entertainment News | Pop Culture | TheInsider" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.theinsider.com/index.html" />
+<meta property="og:image" content="http://www.theinsider.com/media/img/insider_logo_05172011.jpg" />
+<meta property="og:description" content="Celebrity, pop culture, and entertainment…. but from an Insider perspective.  A sister to the highly popular television show ('The Insider'), providing the Insider view through our connections, access, and ability to produce and drive unique must-watch video, TheInsider.com is your one-stop shop, keeping you informed and entertained. Featuring Nicole Dabeau, a spirited, sassy, video-blogging Hollywood Insider who doesn't just report on a start story - she becomes part of it. " />
+<meta property="og:site_name" content="www.theinsider.com" />
+<meta property="fb:app_id" content="123263397703043"/>
+
+<PageMap>
+<DataObject type="date">
+<Attribute name="displaydate" value="2007-05-04 14:49:00" />
+<Attribute name="sdate" value="20070504" />
+</DataObject>
+<DataObject type="thumbnail">
+<Attribute name="src" value="http://www.theinsider.com/media/img/insider_logo_05172011.jpg" />
+<Attribute name="width" value="150" />
+<Attribute name="height" value="150" />
+</DataObject>
+</PageMap>
+
+
+
+	<link rel="stylesheet" href="/css/main/main.css" type="text/css" />
+    <link rel="stylesheet" href="/css/nivo-slider/nivo-slider.css" type="text/css" media="screen" /> 
+	<link rel="shortcut icon" href="http://www.theinsider.com/favicon.ico" />
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> 
+	
+	<script src="http://www.theinsider.com/Scripts/swfobject_modified.js" type="text/javascript"></script> 
+	
+	<script src="/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="/scripts/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+	<script src="Scripts/swfobject_modified.js" type="text/javascript"></script>
+	
+	
+	
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#slider').nivoSlider({
+        effect:'slideInLeft', // Specify sets like: 'fold,fade,sliceDown'
+        animSpeed:200, // Slide transition speed
+        pauseTime:4000, // How long each slide will show
+        startSlide:0, // Set starting Slide (0 index)
+        directionNav:false, // Next & Prev navigation
+        directionNavHide:true, // Only show on hover
+        controlNav:true, // 1,2,3... navigation
+        controlNavThumbs:true, // Use thumbnails for Control Nav
+        controlNavThumbsFromRel:false, // Use image rel for thumbs
+        controlNavThumbsSearch: '.jpg', // Replace this with...
+        controlNavThumbsReplace: '_thumb.jpg', // ...this in thumb Image src
+        keyboardNav:true, // Use left & right arrows
+        pauseOnHover:true, // Stop animation while hovering
+        manualAdvance:false, // Force manual transitions
+        captionOpacity:1, // Universal caption opacity
+        prevText: 'Prev', // Prev directionNav text
+        nextText: 'Next', // Next directionNav text
+        beforeChange: function(){}, // Triggers before a slide transition
+        afterChange: function(){}, // Triggers after a slide transition
+        slideshowEnd: function(){}, // Triggers after all slides have been shown
+        lastSlide: function(){}, // Triggers when last slide is shown
+        afterLoad: function(){} // Triggers when slider has loaded
+    });
+
+});
+</script>
+<style type='text/css'>
+    .nivo-imageLink img{width:416px; height:234px;}
+</style>
+
+<!--[if IE]>
+	<style type="text/css">
+		#navbar li {line-height: 100% !important;}
+		#navbar li span {margin-top:0px !important;}
+	</style>
+<![endif]-->
+
+<link rel="stylesheet" href="http://detect.get.it/lb1/lightbox.css" /> 
+<script> 
+var getit_boxes = [ 
+{ id: 'lb1', width: 480, height: 235, noscroll: false, autopop: 'getit' } 
+]; 
+</script> 
+
+
+
+</head>
+<body class="body">
+
+<!--start Meebo A-->
+<script type="text/javascript">
+window.Meebo||function(c){function p(){return["<",i,' onload="var d=',g,";d.getElementsByTagName('head')[0].",
+j,"(d.",h,"('script')).",k,"='//cim.meebo.com/cim?iv=",a.v,"&",q,"=",c[q],c[l]?
+"&"+l+"="+c[l]:"",c[e]?"&"+e+"="+c[e]:"","'\"></",i,">"].join("")}var f=window,
+a=f.Meebo=f.Meebo||function(){(a._=a._||[]).push(arguments)},d=document,i="body",
+m=d[i],r;if(!m){r=arguments.callee;return setTimeout(function(){r(c)},100)}a.$=
+{0:+new Date};a.T=function(u){a.$[u]=new Date-a.$[0]};a.v=5;var j="appendChild",
+h="createElement",k="src",l="lang",q="network",e="domain",n=d[h]("div"),v=n[j](d[h]("m")),
+b=d[h]("iframe"),g="document",o,s=function(){a.T("load");a("load")};f.addEventListener?
+f.addEventListener("load",s,false):f.attachEvent("onload",s);n.style.display="none";
+m.insertBefore(n,m.firstChild).id="meebo";b.frameBorder="0";b.name=b.id="meebo-iframe";
+b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=
+d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=
+b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,
+'\\"')+'");d.close();'}a.T(1)}({network:"theinsider"});
+</script>
+<!--end Meebo A-->
+
+<body class="body">	<!-- TOP LEADERBOARD AD -->
+
+<div id='leaderboard-top-box'><div class="ad_center">
+
+<!-- begin ad tag (tile=1) -->
+<div class="dart_ad">
+<script language="JavaScript" type="text/javascript">
+//<![CDATA[
+ord=Math.random()*10000000000000000;
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/theinsider.com/home;tile=1;sz=960x50,728x90;ord=' + ord + '?"><\/script>');
+
+//]]>
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/theinsider.com/home;tile=1;sz=960x50,728x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/theinsider.com/home;tile=1;sz=960x50,960x50;ord=123456789?" border="0" alt="" /></a>
+</noscript>
+</div>
+<!-- end ad tag -->
+</div>
+</div>
+<!-- END TOP LEADERBOARD AD -->
+    
+    <div id="container"> 
+	<!-- HEADER --> 
+        <!-- HEADER --> 
+        <div id="header"> 
+            <!-- LOGO --> 
+            <div id="logo"><a href="/index.html" title="The Insider.com"><span>The Insider.com</span></a></div> 
+            <!-- END LOGO --> 
+            
+            <!-- SEARCH & SOCIAL BOX -->
+            <div id="header_search_social">
+            
+            	<!-- SOCIAL BOX -->
+                <div id="social_wrapper">
+                	  
+<a  href="http://www.twitter.com/home?status=The+Insider+Homepage+http://insdr.co/nGAq50+via+@theinsider" target="_blank" style="float:left; margin-right: 2px;"><img src="/media/img/header_twitter_icon.jpg" alt="twitter"></a>
+                         <div class="addthis_toolbox addthis_default_style" addthis:url="http://www.theinsider.com"  addthis:title="The Insider Homepage">
+                        
+                        <a class="addthis_button_stumbleupon"></a>                         
+                        <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                         </div>
+                 </div>
+                  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8e37c800be6a9a"></script>
+                  <!-- AddThis Button END -->   
+                <!-- END SOCIAL BOX -->
+                
+                <!-- SEARCH BOX --> 
+                <div id="search"> 
+                    <div id="search_wrapper"> 
+                        <form action="/search/index.html?sort=date-sdate" id="" method="POST"> 
+                            <div> 
+                                <input type="text" class="searchbox" name="q" value="SEARCH" onclick="javascript:if(this.value == 'SEARCH THE INSIDER.COM'){this.value = '';}" /> 
+                                <input type="image" src="http://www.theinsider.com/media/img/search_mag.jpg" class="searchbox_submit" value="" name="sa" /> 
+                                <input type="hidden" name="hq" value="more:recent4" /> 
+                            </div> 
+                        </form> 
+                    <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=en"></script> 
+                    </div> 
+              	</div>
+                <!-- END SEARCH BOX --> 
+            </div>
+            <!-- END SEARCH & SOCIAL BOX -->
+            
+            <!-- NAVIGATION -->
+                <div id="navbar">
+                    <ul>
+                        <li class="navtab gossip"> <a href="/gossip/index.html">GOSSIP</a> </li>
+                        <li class="navtab tv"> <a href="/tv/index.html">TV</a> </li>
+                        <li class="navtab movies"> <a href="/movies/index.html">MOVIES</a> </li>
+                        <li class="navtab fashion"> <a href="/fashion/index.html">FASHION</a> </li>
+                        <li class="navtab music"> <a href="/music/index.html">MUSIC</a> </li>
+                        <li class="navtab photos"> <a href="/photos/index.html">PHOTOS</a> </li>
+                        <li class="navtab video"> <a href="/video/index.html">VIDEOS</a> </li>
+                        <!-- Date to include TBD <li class="navtab celebs"> <a href="/celebs">CELEBS</a> </li> -->
+                    </ul>
+                </div>
+                <!-- END NAVIGATION -->   
+            
+            <div class="clearfix"></div> 
+                         
+            <h1>The Insider.com</h1> 
+            </div> 
+            
+            <!-- TRENDING BOX -->
+           <link rel="stylesheet" href="/css/main/main.css" type="text/css" />
+<!-- TRENDING BOX -->
+<div id="trending_wrapper">
+<ul id="trending_list">
+<li><a href='/fashion/46930_Happy_Birthday_Britney/index.html'><img src='/media/photo/2011/12/99737/britney_spears_416.jpg' alt='' width='138' height='70' /></a><a href='/fashion/46930_Happy_Birthday_Britney/index.html' class='trending_links'>A Birthday Photo Gallery for Britney</a></li><li class='dotted_separator'></li><li><a href='/gossip/46959_La_La_Anthony_s_Reality_Show_Renewed_for_2012/index.html'><img src='/media/photo/2011/12/99972/lala_vazquez_416.jpg' alt='' width='138' height='70' /></a><a href='/gossip/46959_La_La_Anthony_s_Reality_Show_Renewed_for_2012/index.html' class='trending_links'>La La Anthony's Reality Show Renewed for 2012!</a></li><li class='dotted_separator'></li><li><a href='/gossip/46962_First_Look_at_Katy_Perry_as_a_Barbie/index.html'><img src='/media/photo/2011/12/100007/katy_416.jpg' alt='' width='138' height='70' /></a><a href='/gossip/46962_First_Look_at_Katy_Perry_as_a_Barbie/index.html' class='trending_links'>First Look at Katy Perry as a Barbie!</a></li><li class='dotted_separator'></li><li><a href='/visitcalifornia/46918_Star_Ballers_and_their_Celeb_Fans/index.html'><img src='/media/photo/2011/12/99690/vid_kobe_bryant_416_112759001.jpg' alt='' width='138' height='70' /></a><a href='/visitcalifornia/46918_Star_Ballers_and_their_Celeb_Fans/index.html' class='trending_links'>Star Ballers and their Celeb Fans</a></li><li class='dotted_separator'></li></ul>
+</div>
+<!-- END HEADER --> 
+<!-- BREAKING NEWS BOX -->
+
+
+
+   
+
+
+
+<!-- END BREAKING NEWS BOX -->        
+        <!-- END HEADER -->        
+        <!-- END HEADER --> 
+
+
+<style>
+.hideme{ visibility: hidden}
+</style>
+   
+
+   <!-- MAIN CONTENT --> 
+  	<div id="main_content" class="home"> 
+
+  		<!-- LEFT COLUMN --> 
+    	<div id="left_col"> 
+        	<div id="column_split">
+            	<div id="left_col_split">
+                <!-- SPOTLIGHT --> 
+                <div id="spotlight_container">
+                    <div id="slider">
+					 <a href='http://www.etonline.com/news/116442_Conrad_Murray_to_Appeal_Manslaughter_Conviction/index.html' target='_blank'><img src="/media/photo/conrad_murray_110927_pool_127273886_416.jpg" alt="Dr. Conrad Murray Set to Appeal" title="Dr. Conrad Murray Set to Appeal"/></a><a href='/gossip/46965_What_The_The_Insider_s_Best_Of_the_Week_Awards/index.html'><img src="/media/photo/2011/11/99469/scott_disick_kourtney_kardashian_416.jpg" alt="What The ...?! Best Of the Week Awards" title="What The ...?! Best Of the Week Awards"/></a><a href='/gossip/46962_First_Look_at_Katy_Perry_as_a_Barbie/index.html'><img src="/media/photo/2011/12/100007/katy_416.jpg" alt="First Look at Katy Perry as a Barbie!" title="First Look at Katy Perry as a Barbie!"/></a><a href='http://www.etonline.com/tv/116435_Chad_Michael_Murray_Talks_Everlast_and_One_Tree_Hill/index.html' target='_blank'><img src="/media/photo/2011/12/99991/cmm_416.jpg" alt="'OTH' 2012 Preview!" title="'OTH' 2012 Preview!"/></a><a href='/gossip/46959_La_La_Anthony_s_Reality_Show_Renewed_for_2012/index.html'><img src="/media/photo/2011/12/99972/lala_vazquez_416.jpg" alt="La La Anthony's Reality Show Renewed for 2012!" title="La La Anthony's Reality Show Renewed for 2012!"/></a>                    </div>
+                    <div id=spotlight_caption_1 class=nivo-html-caption><a href=#>Dr. Conrad Murray Set to Appeal</a></div><div id=spotlight_caption_2 class=nivo-html-caption><a href=#>What The ...?! Best Of the Week Awards</a></div><div id=spotlight_caption_3 class=nivo-html-caption><a href=#>First Look at Katy Perry as a Barbie!</a></div><div id=spotlight_caption_4 class=nivo-html-caption><a href=#>'OTH' 2012 Preview!</a></div><div id=spotlight_caption_5 class=nivo-html-caption><a href=#>La La Anthony's Reality Show Renewed for 2012!</a></div>                </div>
+                <!-- END SPOTLIGHT -->
+                
+                <!-- HOMEPAGE NEWSFEED -->
+                <link rel="stylesheet" href="/4249800758/insider_v3/css/main/main.css" type="text/css" />
+<div id="homepage_newsfeed">
+                            <style>
+	.ins_img_sized {width: 340; height: auto;}
+.more_featured_stories li {
+    border-bottom: 1px dotted #CCCCCC;
+    font-family: 'AvalonDemi',Futura,"Futura BT","Century Gothic",Helvetica,"Helvetica Neue",Arial,sans-serif !important;
+    font-size: 15px;
+    padding: 2px 0 !important;
+    text-align: left;
+    text-transform: capitalize;
+    border-bottom: 1px dotted #CCCCCC;
+    overflow: hidden;
+    text-align: left;
+    padding: 0px;
+}
+
+.more_featured_stories li {
+    font-family: 'AvalonDemi',Futura,"Futura BT","Century Gothic",Helvetica,"Helvetica Neue",Arial,sans-serif !important;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: left;
+    text-transform: capitalize;
+
+}
+</style>
+<div class='news_section news_gossip_top'><a href='/gossip' class='news_section_hub_link'>gossip</a><a href='http://www.etonline.com/tv/116435_Chad_Michael_Murray_Talks_Everlast_and_One_Tree_Hill/index.html'><img src='/media/photo/2011/12/99990/cmm_112.jpg' class='ins_img_sized news_img_right' style='height: 112px; width: 112px;' alt=''OTH' 2012 Preview!' /></a><ul class='newsfeed_list left_list'><li><a href='http://www.etonline.com/news/116442_Conrad_Murray_to_Appeal_Manslaughter_Conviction/index.html' target='_blank' >Dr. Conrad Murray Set to Appeal</a></li><li><a href='/gossip/46965_What_The_The_Insider_s_Best_Of_the_Week_Awards/index.html' target='_self' >What The ...?! Best Of the Week Awards</a></li><li><a href='/gossip/46962_First_Look_at_Katy_Perry_as_a_Barbie/index.html' target='_self' >First Look at Katy Perry as a Barbie!</a></li></ul><div class='newsfeed_mainquote_wrapper quote_left'><a href='http://www.etonline.com/tv/116435_Chad_Michael_Murray_Talks_Everlast_and_One_Tree_Hill/index.html' class='newsfeed_mainquote'>'OTH' 2012 Preview!</a></div></div><style>
+	.ins_img_sized {width: 340; height: auto;}
+.more_featured_stories li {
+    border-bottom: 1px dotted #CCCCCC;
+    font-family: 'AvalonDemi',Futura,"Futura BT","Century Gothic",Helvetica,"Helvetica Neue",Arial,sans-serif !important;
+    font-size: 15px;
+    padding: 2px 0 !important;
+    text-align: left;
+    text-transform: capitalize;
+    border-bottom: 1px dotted #CCCCCC;
+    overflow: hidden;
+    text-align: left;
+    padding: 0px;
+}
+
+.more_featured_stories li {
+    font-family: 'AvalonDemi',Futura,"Futura BT","Century Gothic",Helvetica,"Helvetica Neue",Arial,sans-serif !important;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: left;
+    text-transform: capitalize;
+
+}
+</style>
+<div class='news_section news_tv_top'><a href='/tv' class='news_section_hub_link'>tv</a><a href='http://www.etonline.com/tv/116420_Simon_Cowell_Responds_to_Nicole_Scherzinger_Kelly_Rowland_s_X_Factor_Switch_up_Rumors/index.html'><img src='/media/photo/2011/12/99851/simon_cowell_111202_112.jpg' class='ins_img_sized news_img_right' style='height: 112px; width: 112px;' alt='Simon Cowell Responds to Kelly Rowland Rumors ' /></a><ul class='newsfeed_list left_list'><li><a href='/tv/46956_Tom_Hardy_in_The_Take/index.html' target='_self' >Tom Hardy, Before Bane</a></li><li><a href='http://www.etonline.com/tv/116427_Tori_Spelling_Reveals_Baby_News_to_Mom/index.html' target='_blank' >Tori Spelling Reveals Baby News to Mom</a></li><li><a href='/tv/46943_Chord_Overstreet_Returns_To_Glee/index.html' target='_self' >Watch Sam's 'Glee' Return!</a></li></ul><div class='newsfeed_mainquote_wrapper quote_left'><a href='http://www.etonline.com/tv/116420_Simon_Cowell_Responds_to_Nicole_Scherzinger_Kelly_Rowland_s_X_Factor_Switch_up_Rumors/index.html' class='newsfeed_mainquote'>Simon Cowell Responds to Kelly Rowland Rumors </a></div></div><style>
+	.ins_img_sized {width: 340; height: auto;}
+.more_featured_stories li {
+    border-bottom: 1px dotted #CCCCCC;
+    font-family: 'AvalonDemi',Futura,"Futura BT","Century Gothic",Helvetica,"Helvetica Neue",Arial,sans-serif !important;
+    font-size: 15px;
+    padding: 2px 0 !important;
+    text-align: left;
+    text-transform: capitalize;
+    border-bottom: 1px dotted #CCCCCC;
+    overflow: hidden;
+    text-align: left;
+    padding: 0px;
+}
+
+.more_featured_stories li {
+    font-family: 'AvalonDemi',Futura,"Futura BT","Century Gothic",Helvetica,"Helvetica Neue",Arial,sans-serif !important;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: left;
+    text-transform: capitalize;
+
+}
+</style>
+<div class='news_section news_movies_top'><a href='/movies' class='news_section_hub_link'>movies</a><a href='/movies/46940_Matt_Damon_and_Scarlett_Johansson_on_We_Bought_a_Zoo/index.html'><img src='/media/photo/2011/12/99855/we_bought_a_zoo_epk_20th_111202_112.jpg' class='ins_img_sized news_img_right' style='height: 112px; width: 112px;' alt='Meet Scarlett Johansson, Zookeeper' /></a><ul class='newsfeed_list left_list'><li><a href='/movies/46948_Dark_Knight_IMAX_theaters/index.html' target='_self' >Catch 'Dark Knight Rises' Early!</a></li><li><a href='/movies/46945_Carrie_Preston_Talks_Good_Wife_return_Thats_What_She_Said_in_Sundance/index.html' target='_self' >Carrie Preston: From Bon Temps to Sundance</a></li><li><a href='http://www.etonline.com/movies/116421_Charlize_Theron_Diablo_Cody_and_Patton_Oswalt_on_Young_Adult/index.html' target='_blank' >A Charlize Theron You've Never Seen</a></li></ul><div class='newsfeed_mainquote_wrapper quote_left'><a href='/movies/46940_Matt_Damon_and_Scarlett_Johansson_on_We_Bought_a_Zoo/index.html' class='newsfeed_mainquote'>Meet Scarlett Johansson, Zookeeper</a></div></div><style>
+	.ins_img_sized {width: 340; height: auto;}
+.more_featured_stories li {
+    border-bottom: 1px dotted #CCCCCC;
+    font-family: 'AvalonDemi',Futura,"Futura BT","Century Gothic",Helvetica,"Helvetica Neue",Arial,sans-serif !important;
+    font-size: 15px;
+    padding: 2px 0 !important;
+    text-align: left;
+    text-transform: capitalize;
+    border-bottom: 1px dotted #CCCCCC;
+    overflow: hidden;
+    text-align: left;
+    padding: 0px;
+}
+
+.more_featured_stories li {
+    font-family: 'AvalonDemi',Futura,"Futura BT","Century Gothic",Helvetica,"Helvetica Neue",Arial,sans-serif !important;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: left;
+    text-transform: capitalize;
+
+}
+</style>
+<div class='news_section news_fashion_bottom'><a href='/fashion' class='news_section_hub_link'>fashion</a><a href='/fashion/43162_Trend_Spotting/index.html'><img src='/media/photo/2011/11/99484/jill_zarin_emma_watson_chloe_moretz_112.jpg' class='ins_img_sized news_img_left' style='height: 112px; width: 112px;' alt='Fall Trend Spotting: Winter Plaid' /></a><ul class='newsfeed_list right_list'><li><a href='/fashion/46944_Lady_Gaga_s_X_Rated_Secret_to_Good_Skin/index.html' target='_self' >Lady Gaga's X Rated Secret to Good Skin</a></li><li><a href='/fashion/46942_That_s_Enough_Chloe_Moretz/index.html' target='_self' >That's Enough Chloe Moretz</a></li><li><a href='/fashion/46930_Happy_Birthday_Britney/index.html' target='_self' >A Birthday Photo Gallery for Britney</a></li></ul><div class='newsfeed_mainquote_wrapper quote_right'><a href='/fashion/43162_Trend_Spotting/index.html' class='newsfeed_mainquote'>Fall Trend Spotting: Winter Plaid</a></div></div><style>
+	.ins_img_sized {width: 340; height: auto;}
+.more_featured_stories li {
+    border-bottom: 1px dotted #CCCCCC;
+    font-family: 'AvalonDemi',Futura,"Futura BT","Century Gothic",Helvetica,"Helvetica Neue",Arial,sans-serif !important;
+    font-size: 15px;
+    padding: 2px 0 !important;
+    text-align: left;
+    text-transform: capitalize;
+    border-bottom: 1px dotted #CCCCCC;
+    overflow: hidden;
+    text-align: left;
+    padding: 0px;
+}
+
+.more_featured_stories li {
+    font-family: 'AvalonDemi',Futura,"Futura BT","Century Gothic",Helvetica,"Helvetica Neue",Arial,sans-serif !important;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: left;
+    text-transform: capitalize;
+
+}
+</style>
+<div class='news_section news_music_bottom'><a href='/music' class='news_section_hub_link'>music</a><a href='/music/46912_Jersey_Shore_Star_Pauly_D_Teams_Up_with_50_Cent/index.html'><img src='/media/photo/2011/12/99632/pauly_d_50cent_112.jpg' class='ins_img_sized news_img_left' style='height: 112px; width: 112px;' alt='Pauly D Teams Up with 50 Cent' /></a><ul class='newsfeed_list right_list'><li><a href='/music/46957_Nicki_Minaj_drops_Roman_in_Moscow/index.html' target='_self' >New Nicki Minaj Massacres 'Moscow'</a></li><li><a href='/music/46958_Javier_Colon_Exclusive_sneak_peek/index.html' target='_self' >On the Set of Javier Colon's First Music Video!</a></li><li><a href='/music/46926_Lady_Gaga_Marry_The_Night_Video/index.html' target='_self' >Gaga's 'Marry The Night' Explodes Online</a></li></ul><div class='newsfeed_mainquote_wrapper quote_right'><a href='/music/46912_Jersey_Shore_Star_Pauly_D_Teams_Up_with_50_Cent/index.html' class='newsfeed_mainquote'>Pauly D Teams Up with 50 Cent</a></div></div><style>
+	.ins_img_sized {width: 340; height: auto;}
+.more_featured_stories li {
+    border-bottom: 1px dotted #CCCCCC;
+    font-family: 'AvalonDemi',Futura,"Futura BT","Century Gothic",Helvetica,"Helvetica Neue",Arial,sans-serif !important;
+    font-size: 15px;
+    padding: 2px 0 !important;
+    text-align: left;
+    text-transform: capitalize;
+    border-bottom: 1px dotted #CCCCCC;
+    overflow: hidden;
+    text-align: left;
+    padding: 0px;
+}
+
+.more_featured_stories li {
+    font-family: 'AvalonDemi',Futura,"Futura BT","Century Gothic",Helvetica,"Helvetica Neue",Arial,sans-serif !important;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: left;
+    text-transform: capitalize;
+
+}
+</style>
+<div class='news_section news_lol_bottom'><a href='/lol' class='news_section_hub_link'>lol</a><a href='/lol/46900_Natalie_Portman_Stamp_For_PETA/index.html'><img src='/media/photo/2011/11/99358/Natalie_Portman_300_112_peta.jpg' class='ins_img_sized news_img_left' style='height: 112px; width: 112px;' alt='Stars on Stamps!' /></a><ul class='newsfeed_list right_list'><li><a href='/lol/46947_Tom_Cruise_dances_with_Stacy_Francis/index.html' target='_self' >Tom Cruise & Stacy Francis Duet?!?</a></li><li><a href='/lol/46919_Virgin_Diaries_Trailer/index.html' target='_self' >How 'The Virgin Diaries' is like 'Titanic'</a></li><li><a href='/lol/46909_Very_Mary_Kate_Returns/index.html' target='_self' >Mary-Kate Is Back!</a></li></ul><div class='newsfeed_mainquote_wrapper quote_right'><a href='/lol/46900_Natalie_Portman_Stamp_For_PETA/index.html' class='newsfeed_mainquote'>Stars on Stamps!</a></div></div></div>                <!-- END HOMEPAGE NEWSFEED -->
+                
+                <!-- HP VIDEO PLAYER -->
+                <div id="hp_video_player" class='hideme'>
+                    <iframe id='vid_frame' width='398' height='305' src='http://www.theinsider.com/media/flash/coincident/popOutPlayer.html?media=http://www.theinsider.com/tv/46956_Tom_Hardy_in_The_Take/embed.ctv' border='0' scrolling='no' style='border:0px none;'></iframe>
+            
+                </div>
+                <!-- END HP VIDEO PLAYER -->
+                
+            </div>
+            <script>
+            $("#hp_video_player").ready(function(){
+            //alert("here");
+            $("#hp_video_player").removeClass("hideme");
+
+            });
+            </script>
+            <!-- END LEFT COL SPLIT -->
+        	
+            <div id="right_col_split">
+                <!-- HOT NEWS BOX -->
+                 
+			<div id="hotnews_hp_outer_wrapper">
+                	<div id="hotnews_hp_inner_wrapper">
+                    	<div id="hotnews_hp_title"></div>
+                        <div id="hotnews_date">
+                        	<p>03 December, 2011</p>
+                        </div>
+                        <div id="hotnews_hp_list">
+                       	<ul>
+                               <li><a href='/movies/46940_Matt_Damon_and_Scarlett_Johansson_on_We_Bought_a_Zoo/index.html'><img src='/media/photo/2011/12/99856/we_bought_a_zoo_epk_20th_111202_416.jpg' alt=''/>Meet Scarlett Johansson, Zookeeper</a></li><li class='hp_separator'></li><li><a href='/fashion/46930_Happy_Birthday_Britney/index.html'>A Birthday Photo Gallery for Britney</a></li><li class='hp_separator'></li><li><a href='/fashion/46942_That_s_Enough_Chloe_Moretz/index.html'>That's Enough Chloe Moretz</a></li><li class='hp_separator'></li><li><a href='http://www.etonline.com/tv/116427_Tori_Spelling_Reveals_Baby_News_to_Mom/index.html' target='_blank'><img src='/media/photo/2011/12/99947/tori_spelling_360.jpg' alt=''/>Tori Spelling Reveals Baby News to Mom</a></li><li class='hp_separator'></li><li><a href='http://www.etonline.com/tv/116435_Chad_Michael_Murray_Talks_Everlast_and_One_Tree_Hill/index.html' target='_blank'>'OTH' 2012 Preview!</a></li><li class='hp_separator'></li><li><a href='http://www.etonline.com/news/116442_Conrad_Murray_to_Appeal_Manslaughter_Conviction/index.html' target='_blank'>Dr. Conrad Murray Set to Appeal</a></li><li class='hp_separator'></li><li><a href='/tv/46943_Chord_Overstreet_Returns_To_Glee/index.html'><img src='/media/photo/2011/12/99864/glee_416.jpg' alt=''/>Watch Sam's 'Glee' Return!</a></li><li class='hp_separator'></li><li><a href='/fashion/46944_Lady_Gaga_s_X_Rated_Secret_to_Good_Skin/index.html'>Lady Gaga's X Rated Secret to Good Skin</a></li><li class='hp_separator'></li><li><a href='/lol/46947_Tom_Cruise_dances_with_Stacy_Francis/index.html'>Tom Cruise & Stacy Francis Duet?!?</a></li><li class='hp_separator'></li><li><a href='/movies/46945_Carrie_Preston_Talks_Good_Wife_return_Thats_What_She_Said_in_Sundance/index.html'><img src='/media/photo/2011/12/99885/carrie_416.jpg' alt=''/>Carrie Preston: From Bon Temps to Sundance</a></li><li class='hp_separator'></li><li><a href='/movies/46948_Dark_Knight_IMAX_theaters/index.html'>Catch 'Dark Knight Rises' Early!</a></li><li class='hp_separator'></li><li><a href='/gossip/46949_Five_Things_About_Michael_Fassbender/index.html'>Five Things About Michael Fassbender</a></li><li class='hp_separator'></li><li><a href='/music/46958_Javier_Colon_Exclusive_sneak_peek/index.html'><img src='/media/photo/2011/12/99956/keltie_colleen_javier_colon_416.jpg' alt=''/>On the Set of Javier Colon's First Music Video!</a></li><li class='hp_separator'></li> 
+                            </ul>
+                        </div>
+                    </div>
+                </div>            	<!-- END HOT NEWS BOX -->
+            
+         </div>
+         <!-- END RIGHT COL SPLIT -->
+        
+        </div>
+        <!-- END COLUMN SPLIT -->
+        
+        
+
+        <div class="clearfix"></div>
+        <!-- WIDE MODULE / OUTBRAIN --> 
+		<div id="outbrain_suggestions_wide"> <img src="/media/img/outbrainheader.gif" alt="" /> 
+		<script type="text/JavaScript"> var OB_permalink= 'http://www.theinsider.com'; var OB_Template="insider"; var OB_widgetId= 'AR_1'; var OB_langJS ='http://widgets.outbrain.com/lang_en.js'; if ( typeof(OB_Script)!='undefined' ) OutbrainStart(); else { var OB_Script = true; var str = "<script src='http://widgets.outbrain.com/outbrainWidget.js'; type='text/javascript'></"+"script>"; document.write(str); } </script> <div class="clearfix">
+		</div> </div> 
+	<!-- WIDE MODULE / OUTBRAIN -->
+ 
+       <!-- FROM AROUND THE WEB / OUTBRAIN -->
+        <div id="from_around_the_web_hp">
+            <img src="/media/img/fromaroundtheweb_small.jpg" alt="" class="from_around_the_web_title_hp" />
+
+            <script type="text/JavaScript">
+var OB_permalink= 'http://www.theinsider.com';
+var OB_Template="insider";
+var OB_widgetId= 'SB_2';
+var OB_langJS ='http://widgets.outbrain.com/lang_en.js';
+if ( typeof(OB_Script)!='undefined' )
+OutbrainStart();
+else
+{
+var OB_Script = true;
+var str = "<script src='http://widgets.outbrain.com/outbrainWidget.js'; type='text/javascript'></"+"script>";
+document.write(str);
+}
+</script>
+
+        </div>
+        <!-- END FROM AROUND THE WEB -->
+         
+        <!-- HUFFINGTON POST -->
+        <!-- START Javascript For scrolling behavior -->
+<script type="text/javascript">
+//js object that holds scroll information
+var scrollanim = {time:0, begin:0, change:0.0, duration:0.0, element:null, timer:null};
+
+function reset(elem)
+{
+  clearInterval(scrollanim.timer);
+  scrollanim.timer = null; 
+  elem.scrollTop = 0;
+}
+
+function doScroll(elem)
+{
+  //alert("scrollHeight: " + elem.scrollHeight + "\n" + "offsetHeight: " + elem.offsetHeight)
+  if(elem.scrollHeight > 32)
+  {
+    if (scrollanim.timer != null)
+    {
+      clearInterval(scrollanim.timer);
+      scrollanim.timer = null;
+    }
+
+    var finish = 32;
+    var start = 0;
+    scrollanim.time = 0;
+    scrollanim.begin = 0;
+    //alert("end:" + end + " start:" +  start);
+    scrollanim.change = finish - start;
+    scrollanim.duration = 450;
+    scrollanim.element = elem;
+    scrollanim.timer = setInterval("scrollTopAnim();", 15);
+  }
+}
+
+function scrollTopAnim()
+{
+  if (scrollanim.time > scrollanim.duration) 
+  {
+    clearInterval(scrollanim.timer);
+    scrollanim.timer = null;
+  }
+  else
+  {
+    move = sineInOut(scrollanim.time, scrollanim.begin, scrollanim.change, scrollanim.duration);
+    //alert(move);
+    scrollanim.element.scrollTop = move;
+    //alert(scrollanim.element.scrollLeft);
+    scrollanim.time++;
+  }
+}
+function sineInOut(t, b, c, d) { return c*t/d+b; }
+</script>
+<!-- End Javascript For scrolling behavior -->
+
+
+
+<div id="popeater_module_horizontal" ><div id="huffpost_header"  style="background-image:url('http://www.etonline.com/media/img/huffPo700px.jpg');width:690px;height:50px;background-position:top center;"><a href="http://www.popeater.com" target="_blank"></a></div><div id="popeater_module_vertical"><ul id="popeater_list"><li><div class='title'><a href='/inc/huffpost/display/43462_Huffpost_Display/index.html?entryid=1126389' >Couldn't Be Cuter!</a></div>
+<div class='editor'>Kiki Von Glinow</div><div class='postimage'><a href='/inc/huffpost/display/43462_Huffpost_Display/index.html?entryid=1126389' ><img src='http://i.huffpost.com/gen/425573/thumbs/s-NEIL-PATRICK-HARRIS-TWINS-mini.jpg' /></a></div><div class='excerpt'>Neil Patrick Harris' Twins: Actor, David Burtka's Daddy Day Care</div></li><li><div class='title'><a href='/inc/huffpost/display/43462_Huffpost_Display/index.html?entryid=1125862' >Win A Date With ScarJo!</a></div>
+<div class='editor'>Kiki Von Glinow</div><div class='postimage'><a href='/inc/huffpost/display/43462_Huffpost_Display/index.html?entryid=1125862' ><img src='http://i.huffpost.com/gen/425147/thumbs/s-SCARLETT-JOHANSSON-mini.jpg' /></a></div><div class='excerpt'>Scarlett Johansson Auctions Herself Off For Charity</div></li><li><div class='title'><a href='/inc/huffpost/display/43462_Huffpost_Display/index.html?entryid=1125391' >The Big 3-0</a></div>
+<div class='editor'>Youyoung Lee</div><div class='postimage'><a href='/inc/huffpost/display/43462_Huffpost_Display/index.html?entryid=1125391' ><img src='http://i.huffpost.com/gen/424922/thumbs/s-B-mini.jpg' /></a></div><div class='excerpt'>Britney Spears Birthday: Big 30 For Pop Singer</div></li><li><div class='title'><a href='/inc/huffpost/display/43462_Huffpost_Display/index.html?entryid=1125212' >ON TOP OF THE WORLD</a></div>
+<div class='editor'>Kiki Von Glinow</div><div class='postimage'><a href='/inc/huffpost/display/43462_Huffpost_Display/index.html?entryid=1125212' ><img src='http://i.huffpost.com/gen/424696/thumbs/s-KARDASHIAN-EMPIRE-mini.jpg' /></a></div><div class='excerpt'>Kardashian Family: How Do They Maintain Their Empire?</div></li><li><div class='title'><a href='/inc/huffpost/display/43462_Huffpost_Display/index.html?entryid=1125337' >Mommy Practice</a></div>
+<div class='editor'>Katelyn Mullen</div><div class='postimage'><a href='/inc/huffpost/display/43462_Huffpost_Display/index.html?entryid=1125337' ><img src='http://i.huffpost.com/gen/424781/thumbs/s-PREGNANT-JESSICA-SIMPSON-mini.jpg' /></a></div><div class='excerpt'>Pregnant Jessica Simpson Spotted Out With Ashlee Simpson And Son Bronx (PHOTOS)</div></li><li><div class='title'><a href='/inc/huffpost/display/43462_Huffpost_Display/index.html?entryid=1124568' >Oscars 2012: Reading This Week's Critical Tea Leaves</a></div>
+<div class='editor'>John Lopez</div><div class='postimage'><a href='/inc/huffpost/display/43462_Huffpost_Display/index.html?entryid=1124568' ><img src='http://i.huffpost.com/gen/382654/thumbs/s-RYAN-GOSLING-DRIVE-mini.jpg' /></a></div><div class='excerpt'>John Lopez: Oscars 2012: Reading This Week's Critical Tea Leaves</div></li></ul></div> 
+</div>        <!-- HUFFINGTON POST -->
+
+	<!-- YOU'LL LOVE THIS BOX -->
+        <!-- YOU'LL LOVE THIS BOX --><div id="lovethis_linkbox"><div id="lovethis_linkbox_innercontainer"><div class="lovethis_column "><div class="lovethis_logoimg"><a href="http://www.usmagazine.com" target="_blank"><img src="/media/img/logo_usmag.jpg" alt="" border="0" /></a></div><div class="lovethis_storylist" ><ul><li onmouseover='doScroll(this);' onmouseout='reset(this);'><a href='http://www.usmagazine.com/celebrity-news/news/khloe-kardashian-judged-for-makeup-free-post-workout-look-2011212' target='_blank'>Khloe Kardashian "Judged" for Makeup-Free, Post-Workout Look</a></li><li onmouseover='doScroll(this);' onmouseout='reset(this);'><a href='http://www.usmagazine.com/celebrity-news/news/pic-glum-kim-kardashian-wears-white-i-am-love-sweatshirt-2011212' target='_blank'>PIC: Glum Kim Kardashian Wears White "I Am Love" Sweatshirt</a></li><li onmouseover='doScroll(this);' onmouseout='reset(this);'><a href='http://www.usmagazine.com/celebrity-news/news/britney-spears-jason-trawick-go-ice-skating-on-her-30th-birthday-2011212' target='_blank'>Britney Spears, Jason Trawick Go Ice Skating on Her 30th Birthday!</a></li><li onmouseover='doScroll(this);' onmouseout='reset(this);'><a href='http://www.usmagazine.com/celebrity-body/news/scarlett-johanssons-secrets-to-staying-slim-2011212' target='_blank'>Scarlett Johansson's Secrets to Staying Slim</a></li></ul><a href="http://www.usmagazine.com" target="_blank" class="lovethis_more_link">MORE FROM US MAGAZINE</a></div></div><div class="lovethis_column  middle_columns"><div class="lovethis_logoimg"><a href="http://www.celebuzz.com/" target="_blank"><img src="/media/img/logo_celebuzz.jpg" alt="" border="0" /></a></div><div class="lovethis_storylist" ><ul><li onmouseover='doScroll(this);' onmouseout='reset(this);'><a href='http://www.celebuzz.com/2011-12-02/baby-bump-watch-kourtney-kardashian-rocks-menswear-for-lunch-photos/' target='_blank'>Baby Bump Watch! Kourtney Kardashian Rocks Menswear for Lunch (PHOTOS)</a></li><li onmouseover='doScroll(this);' onmouseout='reset(this);'><a href='http://www.celebuzz.com/2011-12-02/britney-spears-turns-the-big-3-0-check-out-her-most-risque-performances/' target='_blank'>Britney Spears Turns The Big 3-0, Check Out Her Most Risque Performances</a></li><li onmouseover='doScroll(this);' onmouseout='reset(this);'><a href='http://www.celebuzz.com/2011-12-02/demi-lovato-it%e2%80%99s-a-big-responsibility-dating-me/' target='_blank'>Demi Lovato: It’s a Big Responsibility Dating Me</a></li><li onmouseover='doScroll(this);' onmouseout='reset(this);'><a href='http://www.celebuzz.com/2011-12-02/prince-harry-and-chelsy-davy-back-on-or-friendly-night-out-photos/' target='_blank'>Prince Harry and Chelsy Davy: Back On or Friendly Night Out? (PHOTOS)</a></li></ul><a href="http://www.celebuzz.com/" target="_blank" class="lovethis_more_link">MORE FROM CELEBUZZ</a></div></div><div class="lovethis_column  middle_columns"><div class="lovethis_logoimg"><a href="http://www.buzzfeed.com" target="_blank"><img src="/media/img/logo_buzzfeed.png" alt="" border="0" /></a></div><div class="lovethis_storylist" ><ul><li onmouseover='doScroll(this);' onmouseout='reset(this);'><a href='http://www.buzzfeed.com/conorlastowka/supercut-of-every-time-wu-tang-says-wu-tang-1ayv' target='_blank'>Supercut: Every Time The Wu-Tang Clan Says "Wu-Tang"</a></li><li onmouseover='doScroll(this);' onmouseout='reset(this);'><a href='http://www.buzzfeed.com/mrawesome/istanbul-not-constantinople-techno-remix-2w45' target='_blank'>They Might Be Giants Have A New Music Video</a></li><li onmouseover='doScroll(this);' onmouseout='reset(this);'><a href='http://www.buzzfeed.com/daveandthomas/marshawn-lynch-eats-skittles-candy-after-each-touc-2i8' target='_blank'>Marshawn Lynch Eats Skittles After Each Touchdown</a></li><li onmouseover='doScroll(this);' onmouseout='reset(this);'><a href='http://www.buzzfeed.com/txblacklabel/school-portrait-28m7' target='_blank'>School Portrait Experimentation</a></li></ul><a href="http://www.buzzfeed.com" target="_blank" class="lovethis_more_link">MORE FROM BUZZFEED</a></div></div><div class="lovethis_column  last_column"><div class="lovethis_logoimg"><a href="http://www.popsugar.com" target="_blank"><img src="/media/img/logo_popsugar.jpg" alt="" border="0" /></a></div><div class="lovethis_storylist" ><ul><li onmouseover='doScroll(this);' onmouseout='reset(this);'><a href='http://www.popsugar.com/Reese-Witherspoon-Chelsea-Handler-Filming-Pictures-20682388' target='_blank'>Reese and Chelsea Return to Work on War</a></li><li onmouseover='doScroll(this);' onmouseout='reset(this);'><a href='http://www.popsugar.com/Best-2011-Pictures-Brad-Pitt-Angelina-Jolie-Kids-20529783' target='_blank'>The Best Jolie-Pitt Pictures From Their Globe-Trotting 2011</a></li><li onmouseover='doScroll(this);' onmouseout='reset(this);'><a href='http://www.popsugar.com/Sexy-Britney-Spears-Stage-Pictures-20644746' target='_blank'>See Britney Spears's Sexiest Stage Moments For Her 30th!</a></li><li onmouseover='doScroll(this);' onmouseout='reset(this);'><a href='http://www.popsugar.com/Pregnant-Jessica-Simpson-Leopard-Dress-New-York-20682113' target='_blank'>Video: Jessica Simpson and Eric Johnson's Baby Gender Battle</a></li></ul><a href="http://www.popsugar.com" target="_blank" class="lovethis_more_link">MORE FROM POPSUGAR</a></div></div></div></div>  
+				
+
+
+<!-- START Javascript For scrolling behavior -->
+<script type="text/javascript">
+
+
+//js object that holds scroll information
+ var scrollanim = {time:0, begin:0, change:0.0, duration:0.0, element:null, timer:null};
+
+function reset(elem){
+ clearInterval(scrollanim.timer);
+ scrollanim.timer = null; 
+ elem.scrollTop = 0;
+
+}
+
+function doScroll(elem){
+ //alert("scrollHeight: " + elem.scrollHeight + "\n" + "offsetHeight: " + elem.offsetHeight)
+ if(elem.scrollHeight > 70){
+  if (scrollanim.timer != null) {
+ 		clearInterval(scrollanim.timer);
+ 		scrollanim.timer = null; 
+  }
+	var finish = 70;
+        var start = 0;
+ 	scrollanim.time = 0;
+ 	scrollanim.begin = 0;
+ 	//alert("end:" + end + " start:" +  start);
+ 	scrollanim.change = finish - start;
+ 	scrollanim.duration = 510;
+ 	scrollanim.element = elem;
+ 	scrollanim.timer = setInterval("scrollTopAnim();", 15);
+ }
+}
+
+function scrollTopAnim()
+ {
+ 	if (scrollanim.time > scrollanim.duration) {
+ 	 	
+ 		clearInterval(scrollanim.timer);
+ 		scrollanim.timer = null;
+ 	}
+ 	else {
+ 		move = sineInOut(scrollanim.time, scrollanim.begin, scrollanim.change, scrollanim.duration);
+ 		//alert(move);
+ 		scrollanim.element.scrollTop = move;
+ 		//alert(scrollanim.element.scrollLeft);
+ 		scrollanim.time++;
+ 	}
+ }
+function sineInOut(t, b, c, d)
+ { 
+ 	return c*t/d+b;
+ }
+
+</script>
+<!-- End Javascript For scrolling behavior -->        <!-- YOU'LL LOVE THIS BOX -->
+
+        </div>
+        <!--END LEFT COLUMN -->
+        
+        <!-- RIGHT SIDEBAR COLUMN -->
+        <div id="right_col">
+        	<!-- 300 AD MED REC -->
+                <div class="ad med_rectangle">
+                <!-- begin ad tag (tile=1) -->
+                   
+<!-- begin ad tag (tile=1) -->
+<div class="dart_ad">
+<script language="JavaScript" type="text/javascript">
+//<![CDATA[
+
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/theinsider.com/home;tile=1;sz=300x600,300x250;ord=' + ord + '?"><\/script>');
+
+//]]>
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/theinsider.com/home;tile=1;sz=300x600,300x250;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/theinsider.com/home;tile=1;sz=960x50,300x250;ord=123456789?" border="0" alt="" /></a>
+</noscript>
+</div>
+<!-- end ad tag -->
+                <!-- end ad tag -->
+                </div>
+                <!-- END 300 AD MED REC -->
+
+                <!-- VISIT CA MODULE -->
+                <style>
+#visitca_box {
+    background: url("/media/img/channelBoxVisitCA.png") no-repeat scroll right center transparent;
+    height: 204px;
+    left: -14px;
+    margin-bottom: 10px;
+    overflow: visible;
+    position: relative;
+    width: 316px;
+    z-index: 0;
+}
+.inner_rail_channel_container {
+    margin-left: 16px;
+    width: 300px;
+}
+.channel_img {
+    height: 164px;
+    margin-left: 3px;
+    margin-top: 32px;
+    width: 292px;
+}
+</style>
+
+<!-- VISIT CALIFORNIA  -->
+<div id="visitca_box">
+	<div class="inner_rail_channel_container">
+	<a href="/visitcalifornia"><img src="http://www.theinsider.com/media/img/hp_button_feature_ins_week11_v2.jpg" alt="" class="channel_img" /></a>
+	</div>
+</div>
+<!-- END VISIT CALIFORNIA -->                <!-- END: VISIT CA MODULE --> 
+
+                <!-- HOLIDAY SWEEPS BTN -->
+                <div style="width:300px; margin:10px 0; height:144px;">
+                   <a href="http://www.facebook.com/theinsider/posts/10150430312900480" target="_blank"><img src="http://www.theinsider.com/media/img/general_holiday_ins_btn.jpg" alt="The Insiders Daily Holiday Gift Guide" /></a>
+                </div>
+
+                <!-- SWEEPS
+                <div style="width:300px; margin:10px 0; height:100%; display:inline;">
+	            <div style="width:300px; height:195px; position:relative; margin-bottom:10px;">
+
+<a href="http://www.facebook.com/theinsider?sk=app_28134323652" target="_blank"><img src="http://www.theinsider.com/media/img/hp_button_hcr.jpg" border="0" alt="Win an Autographed Hot Chelle Rae CD" /></a>
+ 
+    	            <p><a href="http://www.theinsider.com/sweepstakes/sweepstakesrules_hcr.pdf" target="_blank" style="font-size:8px; letter-spacing:0px; font-family:sans-serif; color:#CCCCCC; font-weight:bold; position:absolute; bottom:-1px; right:5px; text-decoration:none; height:16px;">CLICK HERE FOR OFFICIAL RULES</a></p>
+                    </div>
+                 </div> -->
+                <!-- END: SWEEPS --> 
+ 
+                <!-- INSIDERONTV MODULE -->
+                                <!-- INSIDER ON TV -->
+                <div id="insiderontv_box">
+                	<div class="inner_rail_channel_container">
+                    <a href="/insiderontv/"><img src="/media/img/insiderontv_rev2_pic.jpg" alt="" class="channel_img_tv" /></a>
+                    </div>
+                </div>
+                <!-- END INSIDER ON TV  -->                <!-- END: INSIDERONTV MODULE -->  
+
+                <!-- GOTD MODULE -->
+                <div id='gotd_box'><div class='inner_rail_channel_container'><a class='seegallery' href='/gossip/38451_Double_Take_Celebrity_Look_Alikes/index.html'>SEE GALLERY</a><a href='/gossip/38451_Double_Take_Celebrity_Look_Alikes/index.html'><img src='/media/photo/2011/12/99574/peter_jackson_jason_segal_416_94139531_85864525.jpg' alt='' width='292' height='164' style='width: 292px; height: 164px; margin: 34px 0 0 3px;'/></a></div></div>                <!-- END: GOTD MODULE -->  
+               
+                <!-- GOSSIP MODULE -->
+                <div id='intheknow_box'><div class='inner_rail_channel_container'><a href='/gossip/46949_Five_Things_About_Michael_Fassbender/index.html'><img src='/media/photo/michael_fassbender_fharrison_171111_133254745_416.jpg' alt='' width='292' height='164' style='width: 292px; height: 164px; margin: 34px 0 0 3px;'/></a></div></div>                <!-- END: GOSSIP MODULE -->  
+
+                <!-- FASHION MODULE -->
+                <div id='thelook_box'><div class='inner_rail_channel_container'><a href='/fashion/46942_That_s_Enough_Chloe_Moretz/index.html'><img src='/media/photo/2011/12/99860/chloe_moretz_416_swilson_134440279.jpg' alt='' width='292' height='164' style='width: 292px; height: 164px; margin: 34px 0 0 3px;'/></a></div></div>                <!-- END: FASHION MODULE -->
+
+                <!-- TV MODULE -->
+                <div id='didyousee_box'><div class='inner_rail_channel_container'><a href='/movies/46940_Matt_Damon_and_Scarlett_Johansson_on_We_Bought_a_Zoo/index.html'><img src='/media/photo/2011/12/99856/we_bought_a_zoo_epk_20th_111202_416.jpg' alt='' width='292' height='164' style='width: 292px; height: 164px; margin: 34px 0 0 3px;'/></a></div></div>                <!-- END: TV MODULE -->
+
+<!-- Contributor module -->
+          <div class="contributor">
+<a href="/contributor/erin_lucas">
+<img alt="Erin Lucas Playlist" src="/media/img/channelBoxErin_rev2.png">
+</a>
+</div><div class="contributor">
+<a href="/contributor/keltie_colleen/index.html">
+<img src="/media/img/channelBoxKeltie_rev2.png" alt="Keltie Colleen">
+</a>
+</div>        <!-- End contributor module -->
+
+		<!-- 160 AD SKYSCRAPER -->
+		<div class="ad skyscraper">
+		<!-- begin ad tag (tile=1) -->
+		 
+<!-- begin ad tag (tile=1) -->
+<div class="dart_ad">
+<script language="JavaScript" type="text/javascript">
+//<![CDATA[
+
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/theinsider.com/home;tile=1;sz=160x600;ord=' + ord + '?"><\/script>');
+
+//]]>
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/theinsider.com/home;tile=1;sz=160x600;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/theinsider.com/home;tile=1;sz=160x600;ord=123456789?" border="0" alt="" /></a>
+</noscript>
+</div>
+<!-- end ad tag -->
+			<!-- end ad tag -->
+		</div>
+		<!-- END 160 AD SKYSCRAPER -->
+		
+        </div>
+ <!-- END RIGHT SIDEBAR COLUMN -->        
+    </div>
+    <!-- END MAIN CONTENT -->    
+	<!-- FOOTER --> 
+  	<div id="footer"> 
+  		<div class="ad_center">
+		<!-- begin ad tag (tile=1) -->
+		 
+<!-- begin ad tag (tile=1) -->
+<div class="dart_ad">
+<script language="JavaScript" type="text/javascript">
+//<![CDATA[
+
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/theinsider.com/home;tile=1;sz=728x90;ord=' + ord + '?"><\/script>');
+
+//]]>
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/theinsider.com/home;tile=1;sz=728x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/theinsider.com/home;tile=1;sz=728x90;ord=123456789?" border="0" alt="" /></a>
+</noscript>
+</div>
+<!-- end ad tag -->
+		<!-- end ad tag -->
+	</div> 
+    <div class="clearfix"></div> 
+        <style type="text/css">
+/* FOOTER */
+#footer {width:728px; margin:20px auto 10px auto; padding-bottom:10px; font-family:Tahoma, Helvetica, Arial, sans-serif;}
+#footer_text {width:750px; margin-left:-7px; margin-right:auto;}
+	#footer_text ul {list-style-type:none;}
+		#footer_text ul li {float:left; border-right:1px solid #000000; padding: 0 5px; font-size:10px;}
+		#footer_text ul li:last-child {border-right:none;}
+		#footer_text a, a:active {font-weight:normal; color:#000000; font-size:10px;}
+		#footer_text a:hover, a:active {font-weight:normal; color:#C03344; font-size:10px;}
+	#footer_text p {font-size:10px; text-align:left; display:block; margin-left:110px; margin-top:5px;}
+.footer_logo {float: left; display:inline; margin-right:5px;}
+.last_child {border-right: none !important;}
+</style>
+
+<div id="footer_text" style="margin-top: 10px;">  
+        	<ul> 
+                <li><a href="http://www.theinsider.com">HOME</a></li> 
+                <li><a href="/gossip">GOSSIP</a></li> 
+                <li><a href="/tv">TV</a></li> 
+                <li><a href="/movies">MOVIES</a></li> 
+                <li><a href="/fashion">FASHION</a></li> 
+                <li><a href="/music">MUSIC</a></li> 
+                <li><a href="/lol">LOL</a></li>   
+                <li><a href="/photos">PHOTOS</a></li>    
+                <li><a href="/video">VIDEO</a></li>  
+                <li><a href="/jarett">JARETT'S POPINION</a></li>    
+                <li><a href="/keltie">KELTIE COLLEEN FANGIRL</a></li>  
+                <li class="last_child"><a href="/erin">ERIN LUCAS' PLAYLIST</a></li> 
+        	</ul> 
+        	<div class="clearfix"></div> 
+        	<p><img src="http://www.theinsider.com/media/img/insider_footer_logo.jpg" width="64" height="22" alt="The Insider.com" class="footer_logo" />© 2011 CBS Studios Inc. All Rights Reserved. <a href="http://www.cbsinteractive.com/terms_of_use_b.php">Terms of Use</a> | <a href="http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1265">Privacy Policy</a> | <a href="/mediakit">Advertise With Us</a></p> 
+    	</div>     </div> 
+  	<!-- END FOOTER --> 
+</div>
+<!-- END CONTAINER -->
+</body>
+
+
+<script type="text/javascript">
+<!--
+swfobject.registerObject("FlashID");
+//-->
+</script>
+
+<script id="myscript" type="text/javascript" src="/includes/s_code.js"></script>
+<script language="JavaScript" type="text/javascript">
+s.pageName="Celebrity Gossip | Entertainment News | Pop Culture | TheInsider";
+s.server="www.theinsider.com"
+s.referrer=document.referer
+s.prop1="root"
+s.pageURL="http://www.theinsider.com/index.html";
+var s_code=s.t();if(s_code)document.write(s_code);
+</script>
+<script language="JavaScript" type="text/javascript"> if(navigator.appVersion.indexOf('MSIE')>=0) document.write(unescape('%3C')+'\!-'+'-'); </script>
+<noscript><img src="http://cbset.112.2O7.net/b/ss/cbset/1/H.1--NS/0" height="1" width="1" border="0" alt="" /></noscript>
+
+<!--BEGIN GOOGLE ANALYTICS -->
+<script type="text/javascript">  var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-1191690-3']);  _gaq.push(['_trackPageview']);  (function() {    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();</script>
+<!--END GOOGLE ANALYTICS -->
+
+<!-- BELOW: Chartbeat -->
+<script type="text/javascript">
+var _sf_async_config={uid:20200,domain:"theinsider.com"};
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src',
+(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+"js/chartbeat.js");
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+<!-- ABOVE: Chartbeat -->
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({
+qacct:"p-8aDQIJR0hCO6U"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-8aDQIJR0hCO6U.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+<!--Start Meebo B-->
+<script type="text/javascript">
+Meebo('domReady');
+</script>
+<!--End Meebo B-->
+
+<!--  BuzzFeed code begins -->
+<div id="BF_WIDGET_1"> </div>
+<script type="text/javascript">
+(function( ){
+BF_WIDGET_JS=document.createElement('script'); BF_WIDGET_JS.type="text/javascript";
+BF_WIDGET_SRC="http://ct.buzzfeed.com/wd/UserWidget?u=theinsider.com&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=" + (new Date()).getTime();
+setTimeout(function() {document.getElementById('BF_WIDGET_1').appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1);
+})();
+</script>
+<!-- / BuzzFeed code ends -->
+
+<script type="text/javascript" src="http://www.pixazza.com/widget/2e90edd03a/"></script>
+
+
+</body>
+</html>
+ <!-- staticized on 12/03/11 09:04:02 AM -->

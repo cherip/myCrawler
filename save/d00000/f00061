@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- ss416 -->
+<html><head>
+<title>Metasearch Search Engine - Search.com</title>
+<meta name="description" content="Search the Web by searching the best engines from one place." />
+<meta name="keywords" content="search results, search engine, search engines, search, metasearch, cnet, search.com" /> 
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="google-site-verification" content="i9x8zjLM4vCOb4dR9QCKKBQDKTpbplkWhdFHWTs-ThQ" />
+<link rel="shortcut icon" href="http://i.i.com.com/cnwk.1d/i/se/ico/favicon.ico" />
+<link rel="stylesheet" href="http://i.i.com.com/cnwk.1d/css/se/base.css?v=1.2" />
+<link rel="stylesheet" href="http://i.i.com.com/cnwk.1d/css/se/door.css?v=1.2" />
+
+<script>
+function img_track(url) {
+    var i = new Image(1,1);
+    i.src = url;
+}
+</script>
+</head>
+<body onLoad="document.forms[0].q.focus()">
+	<div id="toplinks">
+          <div id="options">
+		<a href="/top" title="Weekly listing of the most popular search terms at Search.com.">top searches</a>|
+		<a href="http://www.webferret.com" title="Free download: WebFerret search software">free search software</a>|
+                <a href="/adv" title="Advanced search" name="adv">advanced search</a>|
+                <a href="/prefs" title="Customize your search.com experience" name="prefs">settings</a>|
+		<a href="/help/" title="Help using the advanced features of Search.com, Answers to frequently asked questions, and more.">help</a>
+          </div>
+	</div>
+    
+	<!-- rounded box -->
+    <div id="box">
+        <div class="top"><div></div></div>
+        <div class="left">
+            <div class="content">        
+                <div id="logo"><a href="/"><img src="http://i.i.com.com/cnwk.1d/i/se/c.gif" /></a></div>
+		        <div id="tabnav"><b>Web</b><a href="/images" title="Find the perfect picture, photo, or drawing.">Images</a><a href="/news" title="Search the top news sites for the latest stories.">News</a><a href="/shop/search" title="Find products and prices and buy online or at your local store.">Shopping</a><a href="/downloads" title="Find and download software for your Windows PC or Mac.">Downloads</a><a href="/services" title="A complete list of all our services">more&nbsp;&raquo;</a></div>
+                <form action="/search" method="get" onsubmit="if (this.q.value=='') return false;" autocapitalize="off">
+                    <input type="text" name="q" maxlength="256" value="" id="searchbox"/>
+                    <button type="submit" id="searchbutton">Search the Web</button>
+                </form>
+                <p id="promo"><a href="/dir">Browse the Web by category in the Search.com Directory.</a></p>
+                 <p id="desc">Search the Web by searching the best engines from one place.</p> 
+            </div>
+        </div>
+        <div class="bottom"><div></div></div>
+    </div>
+<div id="cbsi_f">
+<form>
+<script language="javascript">
+document.write("<div><label for=\"cbsi_footer_menu\">Visit other CBS Interactive Sites</label><select name=\"cbsi_footer_menu\" id=\"cbsi_footer_menu\"><option value=\"\">Select Site</option><option value=\"http://www.bnet.com\">BNET</option><option value=\"http://www.cbscares.com\">CBS Cares</option><option value=\"http://www.cbsfilms.com\">CBS Films</option><option value=\"http://www.cbsradio.com/streaming/index.html\">CBS Radio</option><option value=\"http://www.cbs.com\">CBS.com</option><option value=\"http://www.cbsinteractive.com\">CBSInteractive</option><option value=\"http://www.cbsnews.com\">CBSNews.com</option><option value=\"http://www.cbssports.com\">CBSSports.com</option><option value=\"http://www.chow.com\">CHOW</option><option value=\"http://www.clicker.com\">Clicker</option><option value=\"http://www.cnet.com\">CNET</option><option value=\"http://collegenetwork.cbssports.com\">College Network</option><option value=\"http://findarticles.com\">Find Articles</option><option value=\"http://www.gamespot.com\">GameSpot</option><option value=\"http://www.help.com\">Help.com</option><option value=\"http://www.last.fm\">Last.fm</option><option value=\"http://www.maxpreps.com\">MaxPreps</option><option value=\"http://www.metacritic.com\">Metacritic.com</option><option value=\"http://moneywatch.bnet.com\">Moneywatch</option><option value=\"http://www.mysimon.com\">mySimon</option><option value=\"http://www.radio.com\">Radio.com</option><option value=\"http://www.search.com\">Search.com</option><option value=\"http://www.shopper.com\">Shopper.com</option><option value=\"http://www.sho.com\">Showtime</option><option value=\"http://www.smartplanet.com\">SmartPlanet</option><option value=\"http://www.techrepublic.com\">TechRepublic</option><option value=\"http://www.theinsider.com\">The Insider</option><option value=\"http://www.tv.com\">TV.com</option><option value=\"http://www.urbanbaby.com\">UrbanBaby.com</option><option value=\"http://www.zdnet.com\">ZDNet</option></select><input type=\"button\" value=\"Go\" onClick=\"window.location=document.getElementById('cbsi_footer_menu').options[document.getElementById('cbsi_footer_menu').selectedIndex].value;\" /></div>");
+</script>
+</form>
+  <noscript>
+  <div>
+	<a href="http://www.bnet.com">BNET</a>  | <a href="http://www.cbscares.com">CBS Cares</a>  | <a href="http://www.cbsfilms.com">CBS Films</a>  | <a href="http://www.cbsradio.com/streaming/index.html">CBS Radio</a>  | <a href="http://www.cbs.com">CBS.com</a>  | <a href="http://www.cbsinteractive.com">CBSInteractive</a>  | <a href="http://www.cbsnews.com">CBSNews.com</a>  | <a href="http://www.cbssports.com">CBSSports.com</a>  | <a href="http://www.chow.com">CHOW</a>  | <a href="http://www.clicker.com">Clicker</a>  | <a href="http://www.cnet.com">CNET</a>  | <a href="http://collegenetwork.cbssports.com">College Network</a>  | <a href="http://findarticles.com">Find Articles</a>  | <a href="http://www.gamespot.com">GameSpot</a>  | <a href="http://www.help.com">Help.com</a>  | <a href="http://www.last.fm">Last.fm</a>  | <a href="http://www.maxpreps.com">MaxPreps</a>  | <a href="http://www.metacritic.com">Metacritic.com</a>  | <a href="http://moneywatch.bnet.com">Moneywatch</a>  | <a href="http://www.mysimon.com">mySimon</a>  | <a href="http://www.radio.com">Radio.com</a>  | <a href="http://www.search.com">Search.com</a>  | <a href="http://www.shopper.com">Shopper.com</a>  | <a href="http://www.sho.com">Showtime</a>  | <a href="http://www.smartplanet.com">SmartPlanet</a>  | <a href="http://www.techrepublic.com">TechRepublic</a>  | <a href="http://www.theinsider.com">The Insider</a>  | <a href="http://www.tv.com">TV.com</a>  | <a href="http://www.urbanbaby.com">UrbanBaby.com</a>  | <a href="http://www.zdnet.com">ZDNet</a> 
+  </div>
+  </noscript>
+<p>
+<a href='http://www.cnetnetworks.com/?tag=footer;link'>About CBS Interactive</a> | <a href='http://www.cnetnetworks.com/careers/?tag=footer;link'>Jobs</a> | <a href='http://www.cnetnetworks.com/advertise/?tag=footer;link'>Advertise</a>
+</p>
+<p>
+&copy; 2011 CBS Interactive Inc.  All rights reserved. | <a href='http://legalterms.cbsinteractive.com/privacy'>Privacy Policy</a> | <a href='http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1272/'>Ad Choice</a> | <a href='http://legalterms.cbsinteractive.com/terms-of-use'>Terms of Use</a>
+</p>
+</div>
+
+<script src="http://i.i.com.com/cnwk.1d/html/js/se/search_uncompressed.js?v=3.14"></script>
+
+<!-- dw tracking -->
+<script type="text/javascript" src="http://dw.com.com/js/dw.js"></script>
+<script type="text/javascript">
+DW.pageParams = {
+    siteid: '25',
+    onid: '1',
+    edid: '1399',
+    ptid: '6204',
+    tag: ''
+};
+DW.clear();
+</script>
+
+<!-- google analytics for  edition -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write("\<script src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'>\<\/script>" );
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-285660-3");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+</body></html>
+

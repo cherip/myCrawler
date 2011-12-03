@@ -1,0 +1,1379 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>首席财务官</title>
+<meta name="verify-v1" content="cXwAUiGnMvDo6GRDCkKXuhguc09vdfekBtsm6IFsXv4=" />
+<meta name="title" content="首席财务官 - 财务人员门户网" />
+<meta name="keywords"content="首席财务官 CFO PE IRO 风险管理 内部控制 成本管理 预算管理 绩效管理 内部审计 税法 投资融资 资金管理 整合并购 信息财务 开发区" />
+<meta name="description" content="首席财务官网站致力于以全天向首席财务官提供及时、准确、全面、专业的财经金融信息，我们提供的信息以CFO为核心覆盖税法，绩效管理 预算管理 内部控制 内部审计 投资 融资 IRO PE 整合并购 信息财务等内容，提供多种面向个人和企业的财经金融资讯及服务。" />
+<link type="text/css" rel="stylesheet" href="http://icon.zdnet.com.cn/bnet/images/bnet_stork/css/bnet_stork.css" media="screen" />
+
+
+<link href="/Public/Css/index.css" rel="stylesheet" type="text/css" />
+<link href="/Public/Css/head.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/Public/Js/swfobject.js"></script>
+<script type="text/javascript" src="/Public/Js/easytabs.js"></script>
+<style>
+
+body {
+margin-left:10px;
+background-color:#FFFFFF;
+}
+
+ul, li, p {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+#gz {
+	float:left
+}
+#tab_1_1{	border:solid #CCCCCC;
+    border-width:1px; }
+	
+	
+	
+	
+	
+	
+ul{margin:0;}
+.info_box{position:relative;}
+.info_box li{float:left;margin-right:8px; white-space:nowrap;}
+.info_box li a{font-weight:bold;font-size:12px;}
+.info_box li a:hover{font-size:12px;}
+
+.subnav {
+    position: absolute;
+	z-index:1000;
+    top: 25px;
+    float: left;
+    line-height: 20px;
+    white-space: normal;
+	border:1px solid #ccc;
+	background-color:#fff;
+	width:958px;
+	
+}
+.info_box .subnav a{
+	font-weight:lighter;
+	font-size:12px;
+	}
+* html .subnav {
+    margin: 0 10px 0 -10px; /* IE 6 and below */
+}
+
+[class~="subnav"] a {
+    padding: 0 2px;
+	
+}
+.subnav, .subnav a:link, .subnav a:visited {
+    color: #235e99;
+}
+.subnav a:hover, .subnav a:active {
+    color: #235e99;
+}
+
+#subnav1, #subnav2 {
+    min-width: 110px;
+	_left: -880px;
+	position: absolute;
+}
+.disable{
+	display:none;
+	}
+	
+</style>
+<!--友连代码 -->
+<script type="text/javascript">
+ function isMatch(str1,str2) 
+{  
+var index = str1.indexOf(str2); 
+if(index==-1) return false; 
+return true; 
+} 
+
+function ResumeError() { 
+return true; 
+} 
+window.onerror = ResumeError; 
+
+function $(id) {
+    return document.getElementById(id);
+}
+// 相对尺寸
+function GetOffsetTop (el, p) {
+    var _t = el.offsetTop;
+    var _p = el.offsetParent;
+
+    while (_p) {
+        if (_p == p) break;
+        _t += _p.offsetTop;
+        _p = _p.offsetParent;
+    }
+
+    return _t;
+};
+function GetOffsetLeft (el, p) {
+    var _l = el.offsetLeft;
+    var _p = el.offsetParent;
+
+    while (_p) {
+        if (_p == p) break;
+        _l += _p.offsetLeft;
+        _p = _p.offsetParent;
+    }
+
+    return _l;
+};
+function showMenu (baseID, divID) {
+    baseID = $(baseID);
+    divID  = $(divID);
+
+    //var l = GetOffsetLeft(baseID);
+    //var t = GetOffsetTop(baseID);
+
+    //divID.style.left = l + 'px';
+//    divID.style.top = t + baseID.offsetHeight + 'px';
+    if (showMenu.timer) clearTimeout(showMenu.timer);
+	hideCur();
+    divID.style.display = 'block';
+	showMenu.cur = divID;
+
+    if (! divID.isCreate) {
+        divID.isCreate = true;
+        //divID.timer = 0;
+        divID.onmouseover = function () {
+            if (showMenu.timer) clearTimeout(showMenu.timer);
+			hideCur();
+            divID.style.display = 'block';
+        };
+
+        function hide () {
+            showMenu.timer = setTimeout(function () {divID.style.display = 'none';}, 1000);
+        }
+
+        divID.onmouseout = hide;
+        baseID.onmouseout = hide;
+    }
+	function hideCur () {
+		showMenu.cur && (showMenu.cur.style.display = 'none');
+	}
+}
+
+function doClick_down(o){
+	 o.className="current";
+	 var j;
+	 var id;
+	 var e;
+	 for(var i=1;i<=4;i++){
+	   id ="down"+i;
+	   j = document.getElementById(id);
+	   e = document.getElementById("d_con"+i);
+	   if(id != o.id){
+	   	 j.className="";
+	   	 e.style.display = "none";
+	   }else{
+		e.style.display = "block";
+	   }
+	 }
+	 }
+	 
+
+
+
+</script>
+<script type=text/javascript><!--//--><![CDATA[//><!--
+function menuFix() {
+ var sfEls = document.getElementById("nav").getElementsByTagName("li");
+ for (var i=0; i<sfEls.length; i++) {
+  sfEls[i].onmouseover=function() {
+  this.className+=(this.className.length>0? " ": "") + "sfhover";
+  }
+  sfEls[i].onMouseDown=function() {
+  this.className+=(this.className.length>0? " ": "") + "sfhover";
+  }
+  sfEls[i].onMouseUp=function() {
+  this.className+=(this.className.length>0? " ": "") + "sfhover";
+  }
+  sfEls[i].onmouseout=function() {
+  this.className=this.className.replace(new RegExp("( ?|^)sfhover\\b"), 
+"");
+  }
+ }
+}
+window.onload=menuFix;
+//--><!]]></script>
+<link rel="shortcut icon" type="image/x-icon" href="/Public/Images/favicon.ico" /> 
+</head>
+<body>
+ 
+<script src="DWConfiguration/ActiveContent/IncludeFiles/AC_RunActiveContent.js" type="text/javascript"></script>
+<div id="page">
+
+<div id="ad1">
+ <object type="application/x-shockwave-flash" data="/Public/1.swf" width="970" height="90">
+<param name="movie" value="/Public/1.swf" /></object>
+ 
+ 
+</div>
+<div id="top">
+<script type="text/javascript" src="/Public/Js/base64.js"></script>
+<script type="text/javascript" src="/Public/Js/islogin.js"></script>
+</div>
+<div id="dh">
+  <div id="d2">
+
+<embed height="73" width="972" flashvars="bannerWidth=972&bannerHeight=73&bannerSID=http://img.uu1001.cn/x3/2011-10-24/16-41/2011-10-24_f86fb6c214eaa94b7c7d7b0e776ce4b0_0.xml&bannerXML=&bannerLink=http%3A%2F%2Fwww.topcfo.net%2FOrder&dataSource=&bid=25998095&appSource=default" wmode="transparent" allowscriptaccess="always" quality="high" name="25998095" id="25998095" style="" src="http://img.uu1001.cn/bcv3.swf?v=20111012" type="application/x-shockwave-flash"/></embed>
+
+ 
+ </div>
+  <div id="daoh">
+    <ul>
+     <li><a href="/index.php/List/index/type/2.html" target="_blank">每日资讯</a></li><li><a href="/index.php/List/index/type/27.html"  target="_blank">财政动态</a></li><li><a href="/index.php/List/index/type/3.html" target="_blank">宏观经济</a></li>
+     <li><a href="/index.php/List/index/type/5.html" target="_blank">证券市场</a></li>
+     <li><a href="/index.php/List/index/type/28.html"  target="_blank">投资融资</a></li>
+      <li><a href="/index.php/List/index/type/13.html"  target="_blank">财务战略</a></li>
+     <li><a href="/index.php/List/index/type/8.html" target="_blank">税务新政</a></li>
+     <li><a href="/index.php/List/index/type/29.html"  target="_blank">资金管理</a></li>
+     <li><a href="/index.php/List/index/type/31.html"  target="_blank">绩效管理</a></li>
+     <li><a href="/index.php/List/index/type/11.html"  target="_blank">成本管理</a></li>
+      <li><a href="/index.php/List/index/type/18.html"  target="_blank">CFO会议</a></li>
+     <li><a href="/index.php/List/index/type/19.html"  target="_blank">CFO生活</a></li>
+     <li><a href="/index.php/List/index/type/6.html" target="_blank">CFO人物</a></li>
+     <li><a href="/index.php/List/index/type/20.html"  target="_blank" class="color12red">全球资讯</a></li>
+     <li><a href="/index.php/List/index/type/30.html"  target="_blank">风管内控</a></li>
+     <li><a href="/index.php/List/index/type/32.html"  target="_blank">名家解读</a></li>
+     <li><a href="/index.php/List/index/type/16.html"  target="_blank">全面预算</a></li>
+     <li><a href="/index.php/List/index/type/17.html"  target="_blank">整合并购</a></li>
+     <li><a href="/index.php/List/index/type/23.html"  target="_blank">开发区</a></li>
+     <li><a href="/index.php/List/index/type/24.html"  target="_blank">人才猎头</a></li>
+          <li><a href="/index.php/List/index/type/22.html" target="_blank">法律实务</a></li>
+     <li><a href="/index.php/List/index/type/33.html"  target="_blank">信息化财务</a></li>
+     <li><a href="/index.php/List/index/type/26.html"  target="_blank">认证培训</a></li>
+     <li><a href="/index.php/List/index/type/9.html"  target="_blank">特约专栏</a></li>
+    <li><a href="/index.php/List/index/type/35.html"  target="_blank">CFO实战</a></li>
+    <li><a href="http://www.topcfo.net/index.php/Stock/zs.html"  target="_blank">实时行情</a></li>
+    </ul>
+  </div>
+</div>
+
+<div id="zhengwen">
+  <div id="zuo">
+    <div id="tu" class="red3" > </div>
+    <script type="text/javascript">
+// <![CDATA[
+		var so = new SWFObject("/Public/viewer.swf", "sotester34", "330", "220", "9", "#FFFFFF");
+		so.addVariable("xmlPath", '/index.php/Ads/createIndexXml');
+		so.write("tu");
+		// ]]>
+</script>
+    <div id="hg" class="red2"><a href="/index.php/List/index/type/2.html" target="_blank"><img src="/Public/Images/cz.gif" width="333" height="26" class="btt" border="0"/></a>
+      <ul class="xinwen">
+        <li> <img src="/Public/Images/dian.gif" class="top"/>
+		  		<a href="/index.php/News/index/id/22949.html" target="_blank" style="color:#000000; font-weight:bolder;" > 证监会首开杀戒 解聘重组委违规持股委员 				
+				</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/dian.gif" class="top"/>
+		  		<a href="/index.php/News/index/id/22950.html" target="_blank" style="color:#000000; font-weight:bolder;" > 阿里巴巴牵头发起对雅虎250亿美元并购案				
+				</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/dian.gif" class="top"/>
+		  		<a href="/index.php/News/index/id/22955.html" target="_blank" style="" > 银监会：城商行ＩＰＯ或重启 约十家拟上市				
+				</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/dian.gif" class="top"/>
+		  		<a href="/index.php/News/index/id/22946.html" target="_blank" style="" > 吉野家香港借壳上市 ３５亿元卖身合兴集团				
+				</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/dian.gif" class="top"/>
+		  		<a href="/index.php/News/index/id/22945.html" target="_blank" style="" > 民生银行行长：银行利润太高 不好意思公布				
+				</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/dian.gif" class="top"/>
+		  		<a href="/index.php/News/index/id/22944.html" target="_blank" style="" > 中国行业收入差距超４：１ 金融业工资第一				
+				</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/dian.gif" class="top"/>
+		  		<a href="/index.php/News/index/id/22947.html" target="_blank" style="" > 建行回应分行爆炸案 运钞车在爆炸前已开走				
+				</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/dian.gif" class="top"/>
+		  		<a href="/index.php/News/index/id/22925.html" target="_blank" style="" > 阿里全盘收购雅虎再添筹码 黑石贝恩或加盟				
+				</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/dian.gif" class="top"/>
+		  		<a href="/index.php/News/index/id/22922.html" target="_blank" style="" > ９４家公司１０５位高管年末闪人 减持套现				
+				</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/dian.gif" class="top"/>
+		  		<a href="/index.php/News/index/id/22912.html" target="_blank" style="" > 林毅夫驳中国崩溃论 ２０年ＧＤＰ增速８％				
+				</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table>      </ul>
+    </div>
+    <div id="ss" class="red"><a href="/index.php/List/index/type/20.html" target="_blank"><img src="/Public/Images/ss.gif" width="330" height="26" border="0"/></a>
+      <ul class="xinwen">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22930.html" target="_blank" style="">德法公布欧盟条约调整提案 统一财政成重点</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22929.html" target="_blank" style="">国际三大评级机构齐下调美国信用评级至负面</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22920.html" target="_blank" style="">美联储携手五央行联合救市 欧股欧元齐飙升</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22915.html" target="_blank" style="">全球六大央行联手救市 流动性支持金融体系</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22904.html" target="_blank" style="">全球碳交易模式生死关头 中国碳市场受冲击</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22902.html" target="_blank" style="">三大评级围剿欧元 法国降级是否进入倒计时</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22890.html" target="_blank" style="">曼氏清算人谋求释放２１亿美元冻结客户资金</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22874.html" target="_blank" style="">欧元区财长会议将向希腊发放８０亿欧元贷款</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table>      </ul>
+    </div>
+    <div id="zq" class="red"><a href="/index.php/List/index/type/5.html" target="_blank"><img src="/Public/Images/hj.gif" width="333" height="26" border="0"/></a>
+      <ul class="xinwen">
+        <li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22954.html" target="_blank" style=""> 郭树清：对内幕交易坚持零容忍 开烧三把火</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22943.html" target="_blank" style=""> 沪指放量上涨２．２９％ 下跌风险仍未消除</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22942.html" target="_blank" style=""> 光大银行否认Ｈ股上市重启说 窗口或在明年</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22941.html" target="_blank" style=""> 证监会负责人:市场上关于国际板传闻不属实…</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22919.html" target="_blank" style=""> 郭树清严控入市 十一月１３家公司上市被否</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22905.html" target="_blank" style=""> 李旭利老鼠仓案被捕 最高或面临１０年刑期</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22893.html" target="_blank" style=""> 绿城中投合资公司尚未注册 代建能力遭质疑</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22889.html" target="_blank" style=""> 审核力度趋严 １１月ＩＰＯ通过率降至六成</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table>      </ul>
+    </div>
+    <div id="zilian">
+      <table width="650" border="0">
+        <tr>
+          <td><img src="/Public/Images/dian3.gif" class="top"/><a href="http://www.topcfo.net/index.php/News/index/id/8149.html" target="_blank">《首席财务官》杂志招贤纳士</a></td>
+          <td><img src="/Public/Images/dian3.gif" class="top"/><a href="http://www.topcfo.net/index.php/News/index/id/14971.html" target="_blank">2011年广告刊例及市场活动手册</a><a href="/News/index/id/3725" target="_blank"></a></td>
+          <td><img src="/Public/Images/dian3.gif" class="top"/><a href="http://www.topcfo.net/index.php/News/index/id/5365.html" target="_blank">在线三大品牌营销简介（网站、EDM、手机报）</a><a href="/News/index/id/3725" target="_blank"></a></td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div id="you">
+    <div id="topx"> <a href="/index.php/List/index/type/2.html" target="_blank"><img src="/Public/Images/zx.gif" width="280" height="28" border="0"/></a> 
+      <ul class="xinwen">
+        <li> <img src="/Public/Images/001.gif" class="top"/><a href="/index.php/News/index/id/22955.html" target="_blank"> 银监会：城商行ＩＰＯ或重启 约十家拟…</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/002.gif" class="top"/><a href="/index.php/News/index/id/22954.html" target="_blank"> 郭树清：对内幕交易坚持零容忍 开烧三…</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/003.gif" class="top"/><a href="/index.php/News/index/id/22953.html" target="_blank"> 宋丽萍：基金公司应该理性参与新股发行…</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/004.gif" class="top"/><a href="/index.php/News/index/id/22952.html" target="_blank"> 中国企业首次完胜美国双反调查 获双零…</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/005.gif" class="top"/><a href="/index.php/News/index/id/22949.html" target="_blank"> 证监会首开杀戒 解聘重组委违规持股委…</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/006.gif" class="top"/><a href="/index.php/News/index/id/22950.html" target="_blank"> 阿里巴巴牵头发起对雅虎250亿美元并…</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/007.gif" class="top"/><a href="/index.php/News/index/id/22948.html" target="_blank"> 余斌：当前宏观经济政策应着力消除体制…</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li> <img src="/Public/Images/008.gif" class="top"/><a href="/index.php/News/index/id/22946.html" target="_blank"> 吉野家香港借壳上市 ３５亿元卖身合兴…</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table>      </ul>
+   </div>
+    <div id="gz">
+    <iframe scrolling="no" width="280" height="360" frameborder="0" align="top" marginwidth="0" marginheight="0" allowtransparency="true" background-color="transparent" src="http://q.stock.sohu.com/cn/bnet_index1.shtml" style=" margin:0 0 0 0; overflow:hidden;"></iframe>
+          
+       </div>
+  </div>
+  <div id="ad2">
+    <a href="http://www.topcfo.net/index.php/News/index/id/22808.html" target="_blank"><img src="/uploadfile/ads/2011-11/4ecf5b5193bc5.jpg" /></a><a href=" http://www.cncima.com/index.php?c=116&a=279" target="_blank"><img src="/uploadfile/ads/2011-11/4ed2e3556e620.jpg" /></a><a href="http://www.ccb.com/cn/corporate/cashmanage/mini_set.html" target="_blank"><img src="/uploadfile/ads/2011-11/4ecf5c9ca2109.jpg" /></a>  </div>
+
+  <div id="renu" class="lan"><a href="/index.php/List/index/type/6.html" target="_blank"><img src="/Public/Images/renwu.gif" width="330" height="26" border="0"/></a>
+    <div class="event">
+        <p class="ren"><a href="/index.php/News/index/id/22612.html"><img src="/Public/Images/renwu1.gif" border="0" alt="" width="70" height="90"/></a></p>
+        <h3><a href="/index.php/News/index/id/22612.html" target="_blank" style="">方军：软件CFO的硬道理</a></h3>
+        <p id="ren2">在规模快速成长的同时，如何持续提升本土软件公司的盈利能力？“发现价值，创造价值，实现价值和管理价值”，这就是其坚信的CFO价值的“硬道理”。</p>
+      </div><div class="event">
+        <p class="ren"><a href="/index.php/News/index/id/22703.html"><img src="/Public/Images/renwu2.gif" border="0" alt="" width="70" height="90"/></a></p>
+        <h3><a href="/index.php/News/index/id/22703.html" target="_blank" style="">谭擘：生物医药并购时间</a></h3>
+        <p id="ren2">面临跻身七大战略新兴产业的历史性机遇，囿于高投入、高风险、高科技、开发时间长等产业特点，在资本市场推动下，国内生物制药进入“并购时间”。
+
+</p>
+      </div>  </div>
+  <div id="shuw" class="red2"><a href="/index.php/List/index/type/8.html" target="_blank"><img src="/Public/Images/sz.gif" width="333" height="26" border="0"/></a>
+    <ul class="xinwen">
+      <li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/21328.html" target="_blank" style=""> 国务院修改资源税条例 从价计征全国将推开</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22952.html" target="_blank" style=""> 中国企业首次完胜美国双反调查 获双零税率</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22933.html" target="_blank" style=""> 税改当前征管信息化建设必须加快统筹步伐</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22932.html" target="_blank" style=""> 调整完善税收优惠政策 鼓励资源的综合利用</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22931.html" target="_blank" style=""> 营业税改增值税试点启动 结构性减税减在哪</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22869.html" target="_blank" style=""> 中国可考虑征收碳排放交易税 促进节能减排</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22867.html" target="_blank" style=""> 小排量车购置税减免取消 购车环保方向不变</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22865.html" target="_blank" style=""> 预计我国２０１３年或将在局部区域开征碳税</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22877.html" target="_blank" style=""> 工商总局九大新措施 降低企业兼并重组成本</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table>    </ul>
+  </div>
+  <div id="teyue" class="lantt"><a href="/index.php/List/index/type/9.html"  target="_blank"><img src="/Public/Images/ty.gif" width="285" height="26" border="0"/></a> 
+  <img src="/Public/Images/teyue.gif" border="5" class="tu"/>
+ <p class="bt"><strong><a href="/index.php/News/index/id/21320.html" target="_blank">中信银行推出现金管理云服务</a></strong></p>
+      <p class="duanluo">中信银行率先在业内推出基于云计算技术的现金管理云服务，为广大中小集团企业提供低成…</p>
+<ul class="xinwen">
+	<li><img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/21320.html" style=""> 中信银行推出现金管理云服务</a></li>
+	 <table class="xian" cellspacing=0 cellpadding=0><tr><td></td></tr></table><li><img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/21037.html" style=""> 深发展推出“财富1+N”现金管理</a></li>
+	 <table class="xian" cellspacing=0 cellpadding=0><tr><td></td></tr></table><li><img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/19372.html" style=""> 摩根大通全球贸易业务获四项大奖</a></li>
+	 <table class="xian" cellspacing=0 cellpadding=0><tr><td></td></tr></table><li><img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/15832.html" style=""> 中国工商银行现金管理创新之道</a></li>
+	 <table class="xian" cellspacing=0 cellpadding=0><tr><td></td></tr></table><li><img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/12094.html" style=""> 摩根大通海外区域资金管理中心</a></li>
+	 <table class="xian" cellspacing=0 cellpadding=0><tr><td></td></tr></table><li><img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/8133.html" style=""> 民生银行荣获中国银行业成就奖</a></li>
+	 <table class="xian" cellspacing=0 cellpadding=0><tr><td></td></tr></table>    </ul>
+
+  </div>
+  
+  <div id="renu" class="lan"><a href="/index.php/List/index/type/27.html" target="_blank"><img src="/Public/Images/caizh.gif" width="330" height="26" border="0"/></a>
+    <ul class="xinwen">
+      <li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22926.html" target="_blank" style=""> 央行下调准备金率 意在释放流动性求稳增长</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22914.html" target="_blank" style=""> 财政部：两月支出２．２万亿 严禁突击花钱</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22903.html" target="_blank" style=""> ３万亿支出难解流动紧张 存准率或随时下调</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22897.html" target="_blank" style=""> 公开市场本周提前净回笼 下调存准率可能大</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22861.html" target="_blank" style=""> 商务部部长：明年中国经济或将面临下行风险</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22860.html" target="_blank" style=""> 国资委本年度部门决算结转和结余近２６亿元</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22859.html" target="_blank" style=""> 预测ＣＰＩ跌破５％ 存准率下调预期再升温</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22824.html" target="_blank" style=""> 人民币升值预期减弱 银行结售汇顺差创新低</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22822.html" target="_blank" style=""> ３月期央票地量发行 公开市场本周回净投放</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table>    </ul>
+  </div>
+  <div id="shuw" class="red2"><a href="/index.php/List/index/type/3.html" target="_blank"><img src="/Public/Images/hguan.gif" width="333" height="26" border="0"/></a>
+    <ul class="xinwen">
+      <li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22918.html" target="_blank" style=""> １１月ＰＭＩ为４９％ 三年来首度降至线下</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22917.html" target="_blank" style=""> 数据显示人民币现贬值预期 趋势改变待观察</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22916.html" target="_blank" style=""> 海外投资移民妖魔化：资产安全成为关键推手</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22913.html" target="_blank" style=""> 货币政策微调启动 存准率１３次上调后转向</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22911.html" target="_blank" style=""> 存准率三年来首降 货币政策是否转向引激辩</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22906.html" target="_blank" style=""> 金融ＰＯＳ市场增长率４０％呈寡头竞争格局</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22899.html" target="_blank" style=""> 电价上调方案窗口临近 预计将上涨２．５分</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22898.html" target="_blank" style=""> 中央经济工作会议前瞻：下调存准率箭在弦上</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22894.html" target="_blank" style=""> 有报告分析称未来中国外商投资撤离风险加大</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table>    </ul>
+  </div>
+  <div id="teyue" class="lantt"><a href="/index.php/List/index/type/36.html"  target="_blank"><img src="/Public/Images/tzh.gif" width="285" height="26" border="0"/></a> <img src="/Public/images/touzi.gif" border="5" class="tu"/><p>
+ <p class="bt"><strong><a href="/index.php/News/index/id/22710.html" target="_blank">打破信息披露魔咒</a></strong></p>
+      <p class="duanluo">对在美上市的中国公司来说，充分认识美国资本市场对信息披露的规则、要求及可能的后果…</p>
+    <ul class="xinwen">
+      <li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22709.html" target="_blank" style=""> 赢在IR</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/21921.html" target="_blank" style=""> “公关”危机</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/20391.html" target="_blank" style=""> 反猎杀进行中</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/19325.html" target="_blank" style=""> 反思八菱科技之殇</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/18456.html" target="_blank" style=""> 资本的左手</a></li>
+        <table class="xian" cellspacing=0 cellpadding=0>
+          <tr>
+            <td></td>
+          </tr>
+        </table>    </ul>
+  </div>
+  
+  <div id="ad3">
+    <a href="http://weibo.com/topcfo" target="_blank"><img src="/uploadfile/ads/2011-07/4e1ac82f31a35.jpg" /></a><a href="http://t.qq.com/topcfo2010" target="_blank"><img src="/uploadfile/ads/2011-07/4e1ac839a5b31.jpg" /></a><a href="http://weibo.com/pub/star/g/topcfo" target="_blank"><img src="/uploadfile/ads/2011-08/4e51f1015f6c6.jpg" /></a>  </div>
+
+  <div id="zuo2">
+    <div id="hg1" class="hui"><a href="/index.php/List/index/type/28.html"  target="_blank"><img src="/Public/Images/trz.gif" width="330" height="40" border="0"/></a><img src="/Public/Images/caiwu.gif" border="5" class="tu"/>
+      <ul class="xinwen2">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22887.html" target="_blank" style="">中小企业融资难看好非银行金融机构</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22850.html" target="_blank" style="">ＣＦＯ实战：价值投资者的三个代表</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22844.html" target="_blank" style="">一日三并购：中航集团开启整合序幕</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22841.html" target="_blank" style="">电商创新融资模式小微企业本小利大</a></li>      </ul>
+      <ul class="xinwen">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22805.html" target="_blank" style="">中小企业寻求集合信托融资风生水起</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22756.html" target="_blank" style="">ＣＦＯ实战：鞋企ＩＰＯ的财务命门</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table>      </ul>
+    </div>
+    <div id="ss" class="hui"><a href="/index.php/List/index/type/29.html"  target="_blank"><img src="/Public/Images/cbg.gif" width="180" height="40" border="0"/></a><a href="http://www.bytter.com/ "  target="_blank"><img src="/Public/Images/cbg2.gif" width="150" height="40" border="0"/></a><img src="/Public/Images/chengben.gif" border="5" class="tu"/>
+      <ul class="xinwen2">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22840.html" target="_blank" style="">影响ＣＦＯ企业资金管理的十大趋势</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22777.html" target="_blank" style="">国内现金业务管理的“三步走”历程</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22676.html" target="_blank" style="">外管局：严厉打击跨境资金违规流动</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22666.html" target="_blank" style="">ＣＦＯ更加关注财务分析和现金管控</a></li>      </ul>
+      <ul class="xinwen">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22629.html" target="_blank" style="">ＩＦＲＳ１０新控制概念一语定乾坤</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22628.html" target="_blank" style="">国际化又迈一步 跨境直投新规解读</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table>      </ul>
+    </div>
+    <div id="hg1" class="hui"><a href="/index.php/List/index/type/13.html"  target="_blank"><img src="/Public/Images/cwz.gif" width="330" height="40" border="0"/></a><img src="/Public/Images/caizhan.gif" border="5" class="tu"/>
+      <ul class="xinwen2">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22885.html" target="_blank" style="">ＣＦＯ实务：企业如何预防财务危机</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22848.html" target="_blank" style="">ＣＦＯ实战：财务主管是做什么的？</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22846.html" target="_blank" style="">联想：财务如何跟上企业走出去步伐</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22778.html" target="_blank" style="">ＰＣ市场变动 联想高增长背后隐忧</a></li>      </ul>
+      <ul class="xinwen">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22707.html" target="_blank" style="">ＣＦＯ战略解读：财务智慧共享之道</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22706.html" target="_blank" style="">挡不住浪潮 ＩＰＯ回归诚信与理性</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table>      </ul>
+    </div>
+    <div id="hg1" class="hui"><a href="/index.php/List/index/type/17.html"  target="_blank"><img src="/Public/Images/zhb.gif" width="330" height="40" border="0"/></a><img src="/Public/Images/zhenghbg.gif" border="5" class="tu"/>
+      <ul class="xinwen2">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22551.html" target="_blank" style="">巴菲特斥资１０７亿美元收购ＩＢＭ</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22886.html" target="_blank" style="">联想集团将并购承德乾隆醉酒业公司</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22774.html" target="_blank" style="">退而优化整合 盛大私有化品牌套利</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22659.html" target="_blank" style="">雀巢收购银鹭落定合资公司正式启动</a></li>      </ul>
+      <ul class="xinwen">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22531.html" target="_blank" style="">央企并购重组中的三大问题值得关注</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22458.html" target="_blank" style="">并购：公司上市资格究竟意味着什么</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table>      </ul>
+    </div>
+    <div id="ss" class="hui"><a href="/index.php/List/index/type/11.html"  target="_blank"><img src="/Public/Images/nbs.gif" width="330" height="40" border="0"/></a><img src="/Public/Images/neibu.gif" border="5" class="tu"/>
+      <ul class="xinwen2">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22883.html" target="_blank" style="">论现代企业战略成本管理的发展趋势</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22849.html" target="_blank" style="">知识经济时代如何改进企业成本管理</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22769.html" target="_blank" style="">浅论中国汽车工业的质量成本管理经</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22700.html" target="_blank" style="">麦包包的电子商务运营成本管理之道</a></li>      </ul>
+      <ul class="xinwen">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22614.html" target="_blank" style="">低成本无门槛主动服务中小企业融资</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22534.html" target="_blank" style="">权金城：控制成本的炭火燃烧得正旺</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table>      </ul>
+    </div>
+    <div id="ss" class="hui"><a href="/index.php/List/index/type/31.html"  target="_blank"><img src="/Public/Images/jxg.gif" width="330" height="40" border="0"/></a><img src="/Public/Images/zhaiq.gif" border="5" class="tu"/>
+      <ul class="xinwen2">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22838.html" target="_blank" style="">裁员受困考核结果 绩效结果成大棒</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22776.html" target="_blank" style="">年终业绩审查中 管理者的绩效任务</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22689.html" target="_blank" style="">国企战略绩效管理可以“先繁后简”</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22660.html" target="_blank" style="">使企业绩效管理信息失真的四大原因</a></li>      </ul>
+      <ul class="xinwen">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22481.html" target="_blank" style="">企业如何与员工构建忠诚信任的关系</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22420.html" target="_blank" style="">使绩效管理实现客户导向的三个准备</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table>      </ul>
+    </div>
+    <div id="zq1" class="hui"><a href="/index.php/List/index/type/16.html"  target="_blank"><img src="/Public/Images/qmy.gif" width="330" height="40" border="0"/></a><img src="/Public/Images/quanm.gif" border="5" class="tu"/>
+      <ul class="xinwen2">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22884.html" target="_blank" style="">预则立不预则废 预算管理的重要性</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22845.html" target="_blank" style="">国资委８条锁链 看牢央企全面预算</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22773.html" target="_blank" style="">全面预算ＩＴ内控 向信息化要效益</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22699.html" target="_blank" style="">盘点全面预算管理五大主要模式类型</a></li>      </ul>
+      <ul class="xinwen">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22606.html" target="_blank" style="">预算制度改革 体制外收入纳入预算</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22532.html" target="_blank" style="">全面预算出现拐点 企业信息化逢时</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table>      </ul>
+    </div>
+    <div id="zq1" class="hui"><a href="/index.php/List/index/type/30.html"  target="_blank"><img src="/Public/Images/fxt.gif" width="330" height="40" border="0"/></a><img src="/Public/Images/fengtou.gif" border="5" class="tu"/>
+      <ul class="xinwen2">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22839.html" target="_blank" style="">企业投资风险管理比边界拓展更重要</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22792.html" target="_blank" style="">国资委警示境外投资高危风险期到来</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22775.html" target="_blank" style="">确保上市公司内控审计的业务独立性</a></li><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22690.html" target="_blank" style="">内部控制审计业务缘何受到企业追捧</a></li>      </ul>
+      <ul class="xinwen">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22625.html" target="_blank" style="">全程信用管理 赢在风险掌控三部曲</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22607.html" target="_blank" style="">确保上市公司内控审计业务的独立性</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table>      </ul>
+    </div>
+  </div>
+  <div id="you2">
+    <div id="hy">
+      <div id="htu">
+        <ul>
+       	   <li><a href="/index.php/List/index/type/35.html" id="tablink3"   onmouseover="easytabs('1', '3');" target="_blank" >CFO实战</a></li>
+           <li><a href="/index.php/List/index/type/18.html"  class="select" id="tablink1" onmouseover="easytabs('1', '1');" target="_blank"  >CFO会议</a></li>
+           <li><a href="/index.php/List/index/type/19.html" id="tablink2" onmouseover="easytabs('1', '2');"  target="_blank"  >CFO生活</a></li>
+          
+        </ul>
+      </div>
+      <div id="tabcontent1"> <img src="/Public/Images/zhengh1.gif" width="280" height="100" class="huiyitu"/>
+        <ul class="xinwen">
+          <li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22585.html" target="_blank" style=""> 中国企业金融创新论坛落幕</a></li>
+            <table class="xian" cellspacing=0 cellpadding=0>
+              <tr>
+                <td></td>
+              </tr>
+            </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22882.html" target="_blank" style=""> 2011中国管理会计实践奖在京揭晓</a></li>
+            <table class="xian" cellspacing=0 cellpadding=0>
+              <tr>
+                <td></td>
+              </tr>
+            </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22808.html" target="_blank" style=""> 摩根大通CFO论坛(广州)</a></li>
+            <table class="xian" cellspacing=0 cellpadding=0>
+              <tr>
+                <td></td>
+              </tr>
+            </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22704.html" target="_blank" style=""> 2011中国大学生创业与就业高峰论坛</a></li>
+            <table class="xian" cellspacing=0 cellpadding=0>
+              <tr>
+                <td></td>
+              </tr>
+            </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22562.html" target="_blank" style=""> 兴业银行召开现金管理企业CFO高峰会</a></li>
+            <table class="xian" cellspacing=0 cellpadding=0>
+              <tr>
+                <td></td>
+              </tr>
+            </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/22521.html" target="_blank" style=""> 2011中国蓝筹地产第八届年会召开</a></li>
+            <table class="xian" cellspacing=0 cellpadding=0>
+              <tr>
+                <td></td>
+              </tr>
+            </table>        </ul>
+      </div>
+      <div id="tabcontent2" style="display:none;"> <img src="/Public/Images/zhengh2.gif" width="280" height="100" class="huiyitu"/>
+        <ul class="xinwen">
+          <li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/21894.html" target="_blank" style=""> 策划：空降ＣＦＯ的“月球逃生计划”</a></li>
+            <table class="xian" cellspacing=0 cellpadding=0>
+              <tr>
+                <td></td>
+              </tr>
+            </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/21730.html" target="_blank" style=""> ＣＦＯ眼中的老总与财务官六大关系</a></li>
+            <table class="xian" cellspacing=0 cellpadding=0>
+              <tr>
+                <td></td>
+              </tr>
+            </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/21370.html" target="_blank" style=""> “量产”艺术</a></li>
+            <table class="xian" cellspacing=0 cellpadding=0>
+              <tr>
+                <td></td>
+              </tr>
+            </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/21369.html" target="_blank" style=""> 收藏是一种境界</a></li>
+            <table class="xian" cellspacing=0 cellpadding=0>
+              <tr>
+                <td></td>
+              </tr>
+            </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/19579.html" target="_blank" style=""> 看着装识女人：裙装女性较强悍</a></li>
+            <table class="xian" cellspacing=0 cellpadding=0>
+              <tr>
+                <td></td>
+              </tr>
+            </table><li> <img src="/Public/Images/dian.gif" class="top"/><a href="/index.php/News/index/id/19244.html" target="_blank" style=""> 中国企业家：创业者婚姻指南</a></li>
+            <table class="xian" cellspacing=0 cellpadding=0>
+              <tr>
+                <td></td>
+              </tr>
+            </table>        </ul>
+      </div>
+      <div id="tabcontent3" style="display:none;"> <img src="/Public/Images/zhengh3.gif" width="280" height="100" class="huiyitu"/>
+        <ul class="xinwen">
+          <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/21645.html" target="_blank"  style="">财务总监在商业智能ＢＩ中的重要性</a></li>
+            <table class="xian" cellspacing=0 cellpadding=0>
+              <tr>
+                <td></td>
+              </tr>
+            </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/20389.html" target="_blank"  style="">京能集团ＣＦＯ：警惕实业有毒资产</a></li>
+            <table class="xian" cellspacing=0 cellpadding=0>
+              <tr>
+                <td></td>
+              </tr>
+            </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/20385.html" target="_blank"  style="">南国置业ＣＦＯ：学院派的地产逻辑</a></li>
+            <table class="xian" cellspacing=0 cellpadding=0>
+              <tr>
+                <td></td>
+              </tr>
+            </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/19311.html" target="_blank"  style="">ＣＦＯ实战：企业为何开经营分析会</a></li>
+            <table class="xian" cellspacing=0 cellpadding=0>
+              <tr>
+                <td></td>
+              </tr>
+            </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/18461.html" target="_blank"  style="">ＣＦＯ实战：看儒家思想与和谐财务</a></li>
+            <table class="xian" cellspacing=0 cellpadding=0>
+              <tr>
+                <td></td>
+              </tr>
+            </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/17211.html" target="_blank"  style="">ＣＦＯ实战：解读三井住友财务保险</a></li>
+            <table class="xian" cellspacing=0 cellpadding=0>
+              <tr>
+                <td></td>
+              </tr>
+            </table>        </ul>
+      </div>
+    </div>
+    <div id="zz"> <img src="/uploadfile/magazine/4eca1a5c85a4a.jpg" border="3" class="ztu"/>
+      <ul class="xinwen3">
+          <li><img src="/Public/Images/dian2.gif" class="top1"/><a href="http://www.topcfo.net/News/index/id/22705" target="_blank" style="">360第二张资产负债表</a></li><li><img src="/Public/Images/dian2.gif" class="top1"/><a href="http://www.topcfo.net/News/index/id/22703" target="_blank" style="">生物医药进入并购时间</a></li><li><img src="/Public/Images/dian2.gif" class="top1"/><a href="http://www.topcfo.net/News/index/id/22612" target="_blank" style="">方军：软件CFO硬道理</a></li><li><img src="/Public/Images/dian2.gif" class="top1"/><a href="http://www.topcfo.net/News/index/id/22711" target="_blank" style="">浅析证券化资产池构建</a></li><li><img src="/Public/Images/dian2.gif" class="top1"/><a href="http://www.topcfo.net/News/index/id/22623" target="_blank" style="">狙击应收账款的六部曲</a></li><li><img src="/Public/Images/dian2.gif" class="top1"/><a href="http://www.topcfo.net/News/index/id/22620" target="_blank" style="">红海行业里的财务天平</a></li>      </ul>
+
+    <div id="daoh1"> 
+     <ul>
+     <li><a href="/Order" target="_blank">&nbsp;在线订阅</a></li>
+     <li><a href="/index.php/Service/adsService.html"  target="_blank">&nbsp;广告招商</a></li>
+     <li><a href="/index.php/Service/intr.html" target="_blank">&nbsp;杂志介绍</a></li>
+     <li><a href="http://www.topcfo.net//html/email11/topcfo.html" target="_blank">&nbsp;电子杂志</a></li>
+     <li><a href="/index.php/Service/received.html"  target="_blank">&nbsp;在线投稿</a></li>
+      <li><a href="/index.php/Service/received.htm"  target="_blank">&nbsp;过往期刊</a></li>
+     </ul>
+     </div></div>
+<div id="adx"> <a href="http://www.topcfo.net/Order"><img src="/uploadfile/ads/2009-10/4ad59232911b4.jpg" width="280" height="260" /></a> </div>
+  </div>
+  <div id="ad4">
+    <a href="http://www.topcfo.net/resources/2011/03/21/1300694807.pdf" target="_blank"><img src="/uploadfile/ads/2011-09/4e7affd0eed73.jpg" /></a><a href="http://www.topcfo.net/resources/2011/03/21/1300694807.pdf" target="_blank"><img src="/uploadfile/ads/2011-09/4e7affe205a02.jpg" /></a><a href="http://www.bivision.com.cn/" target="_blank"><img src="/uploadfile/ads/2011-09/4e7afdf8426df.jpg" /></a>  </div>
+  <div id="dibu">
+    <div id="jr" class="lan2"> <a href="/index.php/List/index/type/32.html"  target="_blank"><img src="/Public/Images/qiy.gif" width="330" height="26" border="0"/></a>
+      <ul class="xinwen">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22953.html" target="_blank" style="">宋丽萍：基金公司应该理性参与新股发行询价</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22948.html" target="_blank" style="">余斌：当前宏观经济政策应着力消除体制扭曲</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22928.html" target="_blank" style="">许小年：抽鸦片上瘾 通胀刚刚回落就摸烟枪</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22923.html" target="_blank" style="">郭树清：投资者多向证监会提供内幕交易线索</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22866.html" target="_blank" style="">吴敬琏：财政收入增３０％不正常 制度矛盾</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22864.html" target="_blank" style="">吴晓求：创业板退市制度对股市三高不起作用</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22821.html" target="_blank" style="">郎咸平：中国内地房企资产负债率列世界前茅</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22798.html" target="_blank" style="">李国平：中国股市乱象丛生终导迫证监会改革</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table>      </ul>
+    </div>
+    <div id="fv" class="lan2"> <a href="/index.php/List/index/type/22.html" target="_blank"><img src="/Public/Images/falv.gif" width="330" height="26" border="0"/></a>
+      <ul class="xinwen">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22896.html" target="_blank" style="">证监会今年以来已立案调查３９起内幕交易案</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22878.html" target="_blank" style="">美国商界抵触《海外反腐败法》 企业纷争论</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22852.html" target="_blank" style="">上市公司辞职套现上演疯狂潮 急需法规遏制</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22788.html" target="_blank" style="">工商总局:公司债权转股权登记管理办法发布</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22555.html" target="_blank" style="">环保法修订稿上报人大 按日计罚条款或消失</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22467.html" target="_blank" style="">证监会证实正研究针对ＶＩＥ模式的监管规定</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22424.html" target="_blank" style="">保监会严查险资涉足民间借贷 限期险企自查</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22423.html" target="_blank" style="">证监会：拟完善ＩＰＯ管理办法和再融资办法</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table>      </ul>
+    </div>
+    <div id="kfq" class="lant"><a href="/index.php/List/index/type/23.html"  target="_blank"><img src="/Public/Images/kfq.gif" width="280" height="26" border="0"/></a><img src="/Public/Images/kaifa.gif" border="5" class="tu"/>
+      <ul class="xinwen2">
+        <li><img src="/Public/Images/dian1.gif" class="top"/> <a href="/index.php/News/index/id/22712.html" target="_blank" style="">长三角实施多国家区域发展</a></li><li><img src="/Public/Images/dian1.gif" class="top"/> <a href="/index.php/News/index/id/22694.html" target="_blank" style="">大连港集团财务公司已揭牌</a></li><li><img src="/Public/Images/dian1.gif" class="top"/> <a href="/index.php/News/index/id/22523.html" target="_blank" style="">沙城开发区完成投资二十亿</a></li><li><img src="/Public/Images/dian1.gif" class="top"/> <a href="/index.php/News/index/id/22522.html" target="_blank" style="">徐州开发区已完成财政收入</a></li>      </ul>
+      <ul class="xinwen">
+        <li><img src="/Public/Images/dian1.gif" class="top"/> <a href="/index.php/News/index/id/22350.html" target="_blank" style="">海归在杭开发区办企４８家</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian1.gif" class="top"/> <a href="/index.php/News/index/id/22348.html" target="_blank" style="">南堡开发区１４个项目开工</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian1.gif" class="top"/> <a href="/index.php/News/index/id/22347.html" target="_blank" style="">山东国家级开发区增至９家</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table>      </ul>
+    </div>
+    <div id="rz" class="lan2"><a href="/index.php/List/index/type/26.html"  target="_blank"><img src="/Public/Images/rzh.gif" width="330" height="26" border="0"/></a>
+      <ul class="xinwen">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22484.html" target="_blank" style="">ＣＩＭＡ：财务人如何应对现代财务转型要求</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22482.html" target="_blank" style="">ＣＩＭＡ沙龙活动——葡萄酒品鉴会（北京）</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22190.html" target="_blank" style="">“会计文化节”进学校 打造未来时尚会计人</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22106.html" target="_blank" style="">讲堂：中华大唐企业财务战略管理讲堂将开幕</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/21528.html" target="_blank" style="">ＣＩＭＡ深圳注会协会：战略平衡平衡计分卡</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/21527.html" target="_blank" style="">ＣＩＭＡ考试技巧交流会-１０月１５日深圳</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/21368.html" target="_blank" style="">ＣＭＡ认证考试新改革 全方位助力加速晋级</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/20782.html" target="_blank" style="">ＣＩＭＡ商业论坛：企业成本管理（上海站）</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table>      </ul>
+    </div>
+    <div id="lt" class="lan2"><a href="/index.php/List/index/type/24.html"  target="_blank"><img src="/Public/Images/lt.gif" width="330" height="26" border="0"/></a>
+      <ul class="xinwen">
+        <li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22940.html" target="_blank" style="">中国基建港口宣布辞任首席财务长、公司秘书</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22939.html" target="_blank" style="">华谊兄弟财务总监辞职 限售股１２月底解禁</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22938.html" target="_blank" style="">大元股份董事长、财务总监辞职 总经理代理</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22937.html" target="_blank" style="">成都普天电缆更换财务总监 新继任者已上任</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22935.html" target="_blank" style="">博耳电力联席首席财务官辞任 系因个人发展</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22875.html" target="_blank" style="">王洪章建行履新 曾在央行以低调却敢言著称</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22873.html" target="_blank" style="">阔别１５年后 蒋超良重新回农行或任董事长</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian.gif" class="top"/> <a href="/index.php/News/index/id/22732.html" target="_blank" style="">思捷环球获ＣＦＯ增持１０万股 涉资９１万</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table>      </ul>
+    </div>
+    <div id="rj" class="lant"><a href="/index.php/List/index/type/33.html"  target="_blank"><img src="/Public/Images/cwr.gif" width="280" height="26" border="0"/></a><img src="/Public/Images/ruanj.gif" border="5" class="tu"/>
+      <ul class="xinwen2">
+        <li><img src="/Public/Images/dian1.gif" class="top"/> <a href="/index.php/News/index/id/22708.html" target="_blank" style="">信息化：摩根大通的Ｅ动力</a></li><li><img src="/Public/Images/dian1.gif" class="top"/> <a href="/index.php/News/index/id/22525.html" target="_blank" style="">制造企业供应链信息化融合</a></li><li><img src="/Public/Images/dian1.gif" class="top"/> <a href="/index.php/News/index/id/22524.html" target="_blank" style="">企业管理信息化的六大痛苦</a></li><li><img src="/Public/Images/dian1.gif" class="top"/> <a href="/index.php/News/index/id/22345.html" target="_blank" style="">财务信息化管理难题待破解</a></li>      </ul>
+      <ul class="xinwen">
+        <li><img src="/Public/Images/dian1.gif" class="top"/> <a href="/index.php/News/index/id/22273.html" target="_blank" style="">中小企业信息化的三大制约</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian1.gif" class="top"/> <a href="/index.php/News/index/id/21948.html" target="_blank" style="">信息化考验ＣＦＯ应变能力</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table><li><img src="/Public/Images/dian1.gif" class="top"/> <a href="/index.php/News/index/id/21902.html" target="_blank" style="">实战：ＴＶ财务的ＩＴ动力</a></li>
+          <table class="xian" cellspacing=0 cellpadding=0>
+            <tr>
+              <td></td>
+            </tr>
+          </table>      </ul>
+    </div>
+  </div>
+</div>
+<div class="footee">
+<div class="foo"><strong>友情链接:</strong></div>
+           <div class="foo">
+          
+       
+
+
+
+                </div>
+            </li>
+            
+        
+
+                      
+           </li> 
+          
+        </ul>
+        
+        <ul class="info_box">
+
+
+           <li> <a href="http://finance.qq.com/" target="_blank" title="腾讯财经">腾讯财经</a>&nbsp;&nbsp;</li>
+           <li>  <a href="http://money.caixun.com/" target="_blank" title="财讯.com 个人理财">财讯理财</a>&nbsp;&nbsp;</li>
+              <li>     <a href="http://www.eastmoney.com/" target="_blank" title="东方财富网">东方财富网</a>&nbsp;&nbsp;</li>
+           <li>   <a href="http://money.hexun.com/" target="_blank" title="和讯理财">和讯理财</a>&nbsp;&nbsp;</li>
+        
+        <li>   <a href="http://www.bjnews.com.cn/" target="_blank" title="新京报网">新京报网</a>&nbsp;&nbsp;</li><li>   <a href="http://cn.msn.com/" target="_blank" title="MSN中文网">MSN中文网</a>&nbsp;&nbsp;</li>
+   <li>              <a href="http://www.topoint.com.cn/" target="_blank" title="支点网">支点网</a>&nbsp;&nbsp;</li>
+      <li>              <a href="http://www.ccstock.cn/" target="_blank" title="中国资本证券网">中国资本证券网</a>&nbsp;&nbsp;</li>
+          <li>          <a href="http://www.eeo.com.cn/" target="_blank" title="经济观察网">经济观察网</a>&nbsp;&nbsp;</li>
+         <li>              <a href="http://www.ceo.hc360.com" target="_blank" title="慧聪企业管理网">慧聪企业管理网</a>&nbsp;&nbsp;</li>
+         <li>         <a href="http://www.ibtimes.com.cn/" target="_blank" title="国际财经时报">国际财经时报</a>&nbsp;&nbsp;</li>
+       <li>            <a href="http://www.chinaemba.cn/" target="_blank" title="中国EMBA网">中国EMBA网</a>&nbsp;&nbsp;</li>
+       <li>             <a onclick='window.open("http://www.cxo1.com/","_black");' href="#">高层经理网</a>&nbsp;&nbsp;</li>
+          <li>          <a href="http://www.ceeh.com.cn/" target="_blank" title="城市经济导报">城市经济导报</a>&nbsp;&nbsp;</li>
+                   
+        <li>            <a href="http://www.ileader.com.cn/" target="_blank" >CIO发展中心</a>&nbsp;&nbsp;</li>
+          <li>        <a href="http://www.chinaventure.com.cn" target="_blank" title="投资中国">投资中国</a>&nbsp;&nbsp;</li>
+         <li>             <a href="http://www.iceo.com.cn/" target="_blank" alt="中国企业家网">中国企业家</a>&nbsp;&nbsp;</li>
+       <li>     <a onclick='window.open("http://www.manage.org.cn","_black");' href="#">中国管理传播网</a>&nbsp;&nbsp;   </li>
+         
+        
+       <li>    <a href="http://www.e521.com/" target="_blank" title="中华财会网">中华财会网</a>&nbsp;&nbsp;</li>
+        <li>    <a href="http://semwatch.org/" target="_blank" title="搜索引擎营销观察">搜索引擎营销观察</a>&nbsp;&nbsp;</li>
+        <li>   <a href="http://www.zdnet.com.cn/" target="_blank" title="ZDNet至顶网">ZDNet至顶网</a>&nbsp;&nbsp;</li>         
+        <li>  <a href="http://www.vip168168.com/" target="_blank" title="慧股时空网">慧股时空网</a>&nbsp;&nbsp;</li>
+            <li>     <a href="http://www.diggner.com/" target="_blank" title="掘帮网">掘帮网</a>&nbsp;&nbsp;</li>
+         <li>  <a href="http://www.cnetnews.com.cn/" target="_blank" title="CNET科技资讯网">CNET科技资讯网</a>&nbsp;&nbsp;</li>
+      <li>    <a onclick='window.open("http://www.guopeiwang.com/","_black");' href="#">高端财务培训</a>&nbsp;&nbsp;</li>
+      <li>     <a href="http://news.jinku.com/" target="_blank" title="金库网资讯">金库网资讯</a>&nbsp;&nbsp;</li>
+
+           <li><a onclick='window.open("http://www.geichina.cn/","_black");' href="#">创世纪教育机构</a>&nbsp;&nbsp;</li>
+ 
+           
+ 
+      <li>     <a href="http://www.budgethome.org/" target="_blank" title="全面预算管理网">全面预算管理网</a>&nbsp;&nbsp;</li>
+   
+           
+       <li>      <a href="http://www.joynews.cn/" target="_blank" title="中新游戏">中新游戏</a>&nbsp;&nbsp;</li>
+         <li>    <a href="http://www.pe-fund.com/" target="_blank" title="国际融资服务网">国际融资服务网</a>&nbsp;&nbsp;</li>
+          <li>      <a href="http://www.mbachina.net/" target="_blank" title="MBA中国网">MBA中国网</a>&nbsp;&nbsp;</li>
+ 
+            <li>   <a onclick='window.open("http://www.5aigu.com/","_black");' href="#">我爱股网</a>&nbsp;&nbsp;</li>
+      <li>     <a href="http://www.bnet.com.cn" target="_blank" title="BNET商业英才网">BNET商业英才网</a>&nbsp;&nbsp;</li>
+        <li>     <a href="http://www.ucfo.com.cn" target="_blank" title="优财CMA培训中心">优财CMA培训中心</a>&nbsp;&nbsp;</li>   
+           
+  
+  
+
+          
+    <li><a href="http://www.huangjinlian.com/" id="nav_1" onmouseover="showMenu('nav_1','subnav1')">黄金链</a>
+                <div class="subnav disable" id="subnav1">
+
+ <a href="http://www.m1905.com/mdb/film/410063" target="_blank">金陵十三钗</a>
+ <a href="http://www.bai120.net" target="_blank">白癜风医院</a>
+ <a href="http://www.m1905.com/mdb/film/2207489/" target="_blank">恋爱恐慌症电影</a>
+ <a href="http://www.wjmapc.com" target="_blank">北京整形医院</a>
+
+
+ 
+ <a href="http://www.mayau.net/" target="_blank">隆鼻</a>
+
+   <a href="http://www.458pf.com" target="_blank">广州皮肤病医院</a>
+
+ <a href="http://cn.babycenter.com/pregnancy/huaiyun-zaoqi/" target="_blank">怀孕初期症状</a>
+ 
+   <a href="http://www.masamasuo.cc" target="_blank">玛萨玛索</a>
+   <a href="http://www.007swz.com" target="_blank">007商务网</a>
+ <a href="http://www.buqi.cc" target="_blank">布琪小说网</a>
+<a href="http://www.letyo.com/tianjin/" target="_blank">天津团购网</a>
+<a href="http://www.sh-yuheng.cn" target="_blank">红五环</a>
+
+<a href="http://www.amazon.cn/Nikon-尼康COOLPIX-L120-数码相机/dp/B004QTQBSG" target="_blank">尼康L120</a>
+
+ <a href="http://www.66xh.com/" target="_blank">武动乾坤</a>
+
+  
+   
+
+
+<a href="http://www.fkcpw.com" target="_blank">凡客诚品</a>
+
+                    <a href="http://www.cairenhui.com" target="_blank">财经微博</a>
+                    
+                 <a href="http://www.4455.com.cn" target="_blank">4399小游戏</a>
+ 
+                      <a href="http://www.yiyi.cc/film9/bubujingxing/" target="_blank">步步惊心</a>
+ 
+           
+           
+                     <a href="http://www.91nes.cn" target="_blank">苹果手机论坛</a>
+                      <a href="http://woshao.com/hot/fun/ " target="_blank">我烧趣味</a>
+                      <a href="http://www.xiu.com/luxury.html" target="_blank">奢侈品</a>
+               
+
+
+      <a href="http://www.pipiflash.com " target="_blank">43399小游戏</a>
+              <a href="http://www.51rrkan.com" target="_blank">人人看电影</a>
+                    
+                               
+                               
+                                <a href="http://www.92to.com/files/article/html/73/73313/" target="_blank">异世药神</a>
+                                   <a href="http://www.yx009.com" target="_blank">4399小游戏</a>
+                                     <a href="http://www.ku2144.com " target="_blank">美女小游戏</a>
+                                      <a href="http://www.yx009.com" target="_blank">7k7k小游戏大全</a>
+                            
+                                
+                                         <a href="http://www.kanshu.la/" target="_blank">吞噬星空</a>
+                                
+                                    
+                                    <a href="http://wuhan.55tuan.com/" target="_blank">武汉团购</a>
+                                      <a href="http://www.v6v6.net" target="_blank">k7k7小游戏</a>
+                                         <a href="http://www.fxopenasia.com/" target="_blank">MT4外汇交易</a>
+                                    <a href="http://top.kanshu.com/" target="_blank">小说排行榜</a>
+                                      <a href="http://quanben.kanshu.com/" target="_blank">全本小说</a>
+                                      
+                                      
+                   
+                                      <a href="http://www.7129.com" target="_blank">成人小游戏</a>
+                                
+                                    
+                </div>
+            </li>      
+          
+        </ul>
+        
+            
+</div>
+<div style="clear:both;"></div>
+
+<div class="footee">
+<div class="foo"><strong>合作链接:</strong></div>
+  <a href="http://finance.sina.com.cn/" target="_blank"><img src="/uploadfile/links/4ab6d5a3ad082.jpg" width="88" height="31" class="lj" /></a><a href="http://business.sohu.com/" target="_blank"><img src="/uploadfile/links/4ab6d52d3db72.jpg" width="88" height="31" class="lj" /></a><a href="http://www.eastmoney.com/" target="_blank"><img src="/uploadfile/links/4cecb832a0c6a.jpg" width="88" height="31" class="lj" /></a><a href="http://money.hexun.com/" target="_blank"><img src="/uploadfile/links/4ab6d56073310.jpg" width="88" height="31" class="lj" /></a><a href="http://cn.reuters.com/" target="_blank"><img src="/uploadfile/links/4d65bbb06e392.jpg" width="88" height="31" class="lj" /></a><a href="http://www.ecfo.com.cn/index.html" target="_blank"><img src="/uploadfile/links/4b15e145d95f3.png" width="88" height="31" class="lj" /></a><a href="http://www.cncima.com/" target="_blank"><img src="/uploadfile/links/4c047cbabba1e.jpg" width="88" height="31" class="lj" /></a><a href="http://www.jrj.com.cn/" target="_blank"><img src="/uploadfile/links/4ab6d515136fa.jpg" width="88" height="31" class="lj" /></a><a href="http://news.cnfol.com/" target="_blank"><img src="/uploadfile/links/4ae9562b17fc4.gif" width="88" height="31" class="lj" /></a><a href="http://www.imanet.org.cn/" target="_blank"><img src="/uploadfile/links/4b1de30510310.gif" width="88" height="31" class="lj" /></a><a href="http://www.cfoworld.com.cn/" target="_blank"><img src="/uploadfile/links/4ae5387bc815b.gif" width="88" height="31" class="lj" /></a><a href="http://www.cmbchina.com/corporate+business/gofortune" target="_blank"><img src="/uploadfile/links/4aa851b44d746.jpg" width="88" height="31" class="lj" /></a><a href="http://www.xucpa.net/" target="_blank"><img src="/uploadfile/links/4aa852b6d32ad.gif" width="88" height="31" class="lj" /></a><a href="http://www.china-ife.com/" target="_blank"><img src="/uploadfile/links/4aa8537e36bf6.jpg" width="88" height="31" class="lj" /></a><a href="http://www.wowa.cn/" target="_blank"><img src="/uploadfile/links/4af2747f28826.jpg" width="88" height="31" class="lj" /></a><a href="http://www.ceocio.com.cn/" target="_blank"><img src="/uploadfile/links/4b1342371725f.gif" width="88" height="31" class="lj" /></a><a href="http://www.treasurer.org.cn/" target="_blank"><img src="/uploadfile/links/4b1770dc43a63.jpg" width="88" height="31" class="lj" /></a><a href="http://www.cnnsr.com.cn/" target="_blank"><img src="/uploadfile/links/4b1db7172e256.jpg" width="88" height="31" class="lj" /></a><a href="http://www.caiwu.net/" target="_blank"><img src="/uploadfile/links/4b185d291001d.jpg" width="88" height="31" class="lj" /></a><a href="http://www.dongshihui.com.cn/" target="_blank"><img src="/uploadfile/links/4b31bee2084ab.jpg" width="88" height="31" class="lj" /></a><a href="http://www.haiguan.info/Default.aspx" target="_blank"><img src="/uploadfile/links/4b418b1039bd4.gif" width="88" height="31" class="lj" /></a><a href="http://www.cb.com.cn/" target="_blank"><img src="/uploadfile/links/4b580376a1a8b.gif" width="88" height="31" class="lj" /></a><a href="http://www.shufe-cec.com/" target="_blank"><img src="/uploadfile/links/4ec0cb26c0ee4.jpg" width="88" height="31" class="lj" /></a><a href="http://www.prnasia.com/" target="_blank"><img src="/uploadfile/links/4b691157f0f7b.jpg" width="88" height="31" class="lj" /></a><a href="http://sd-cfc.com/" target="_blank"><img src="/uploadfile/links/4b8b6e64813e8.jpg" width="88" height="31" class="lj" /></a><a href="http://www.uniwire.cn/" target="_blank"><img src="/uploadfile/links/4ba04dc487f0b.jpg" width="88" height="31" class="lj" /></a><a href="http://www.gfinance.cn" target="_blank"><img src="/uploadfile/links/4ec0cab368f18.gif" width="88" height="31" class="lj" /></a><a href="http://www.cbevent.com/" target="_blank"><img src="/uploadfile/links/4c493f6992a0c.jpg" width="88" height="31" class="lj" /></a><a href="http://www.treasury.com.cn/treasury/" target="_blank"><img src="/uploadfile/links/4c4e791cb0cad.jpg" width="88" height="31" class="lj" /></a><a href="http://www.hq88.com/" target="_blank"><img src="/uploadfile/links/4cbd2868442ac.jpg" width="88" height="31" class="lj" /></a></div>
+
+<hr size="1" noshade="noshade" />
+           <div id="footer" class="clearfix"> 
+<a href="/index.php/Index/about.html" target="_blank">关于我们</a>| 
+<a href="/index.php/Index/ads.html" target="_blank">广告服务</a>| 
+<a href="#" target="_blank">合作伙伴</a>| 
+<a href="#" target="_blank">免责条款</a>| 
+<a href="/index.php/Service/message.html" target="_blank">意见反馈</a>
+</div>
+<div id="dx">
+  <br />
+  <p>《首席财务官》杂志社文章及图片版权所有 未经许可不得转载 法律顾问：Kangde Law House<br /> 
+  杂志合作热线：010-6825 6686 &nbsp;&nbsp;&nbsp;&nbsp;网站合作热线： 010-6825 8216&nbsp;&nbsp;&nbsp;&nbsp;<br />
+   传真： 010-6825 5976&nbsp;&nbsp; &nbsp;&nbsp; 互动邮箱：admin-w@topcfo.net<br />
+  地址：北京万寿路翠微中里16号院15号楼北3层  京ICP备09081152号 &nbsp;&nbsp;邮编： 100036&nbsp;&nbsp;
+  <script src="http://s87.cnzz.com/stat.php?id=1655372&web_id=1655372&show=pic" language="JavaScript" charset="gb2312"></script>
+  <script language="javascript" type="text/javascript" src="http://js.users.51.la/3753448.js"></script>
+<noscript><a href="http://www.51.la/" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la" style="border:none" /></a></noscript>
+</p>
+</div>
+<br />
+</div>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12601202-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+<script type="text/javascript" src="http://s1.biz.itc.cn/cn/script/ppv.js"></script>
+<script type="text/javascript" src="http://s2.biz.itc.cn/cn/script/pwrating.js"></script>
+</html>

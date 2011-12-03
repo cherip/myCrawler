@@ -1,0 +1,1142 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>chocolatekiller |  拼范网 - 分类收藏每一个新发现！</title>
+	<meta name="Description" content="拼范网是一个图微博社区，刚刚开始测试，并将在接下来的一段时间里,和你一起不断创造惊喜. 你会发现，原来有这么个地方我可以分享任何我喜欢的东东，你可以关注我，这样就可以看到我的分享了。一旦加入拼范网，就可以创建你自己的账户来和大家分享你自己所喜欢的东东了。" />
+	<meta name="Keywords" content="拼范,图片分享,家居,服饰,美食,设计,艺术,时尚,摄影,电影" />
+	<link rel="stylesheet" href="http://static.pinfun.com/css/conf/frame.css?t=1314982261" />
+	<link rel="stylesheet" href="http://static.pinfun.com/css/conf/Mypanel_left.css?t=1314982261" />
+	<link rel="stylesheet" href="http://static.pinfun.com/css/module/component/loading.css?t=1314982261" />
+	<link rel="Shortcut Icon" href="http://static.pinfun.com/images/common/16.ico" />
+	<script type="text/javascript" src="http://static.pinfun.com/js/pf.min.js?t=1314982261"></script>
+	<script type="text/javascript" src="http://static.pinfun.com/js/ui/layout/layout.min.js?t=1314982261"></script>
+</head>
+<body>
+	<div class="top02wrap">
+	<div class="header02">
+		<!--logo-->
+		<h1>
+			<a class="logo" href="/">
+				PINFUN
+				<span class="beta">BETA</span>
+				<span class="home">HOME</span>
+			</a>
+		</h1>
+		<!--logo-->
+		<!--search-->
+		<div class="search">
+			<form action="/search" method="get">
+				<fieldset>
+					<legend>搜索</legend>
+					<input class="searchtext" type="text" value="寻拼客" name="keyword" />
+					<button class="searchgo" type="submit">搜索</button>
+				</fieldset>
+			</form>
+		</div>
+		<!--search-->
+		<!--board-->
+				<div class="board">
+			<ul class="menubar">
+				<li class="menu first posi">
+					<a class="menutitle PF_linkga homer" href="/">
+						<img src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon PF_icon36" align="absmiddle" width="20" height="23" />首页
+					</a>
+					<a class="update_h2" style="display:none" href="//activity/list" id="remindTotal"></a>
+				</li>
+								<li class="menu">
+					<a class="menutitle PF_linkga" href="/all">
+						创意墙
+						<img src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon imgease" alt="" align="absmiddle" width="20" height="23" />
+					</a>
+					<div class="menucontent">
+						<ul>
+							<li class="first"><a href="/all">发现</a></li>
+							<li><a href="/hot">讨论</a></li>
+							<li class="last"><a href="/latest">潘多拉</a></li>
+						</ul>
+					</div>
+				</li>
+				<li class="menu">
+					<a class="menutitle PF_linkga" href="/boards?tabs=all">
+						随便看看
+						<img src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon imgease" alt="" align="absmiddle" width="20" height="23" />
+					</a>
+					<div class="menucontent">
+						<ul>
+							<li><a href="/boards?tabs=all">热门主题</a></li>
+							<li class="first"><a href="/boards?tabs=lately">流行主题</a></li>
+													</ul>
+					</div>
+				</li>
+				<li class="menu">
+					<a class="menutitle PF_linkga" href="/people">
+						拼客
+						<img src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon imgease" alt="" align="absmiddle" width="20" height="23" />
+					</a>
+					<div class="menucontent">
+						<ul>
+							<li class="first"><a href="/people">潮人榜</a></li>
+							<li><a href="/find_friends">寻找好友</a></li>
+							<li class="last"><a href="/invites">邀请好友</a></li>
+						</ul>
+					</div>
+				</li>
+				
+				<li class="menu">
+					<a class="menutitle PF_linkga" href="/about" target="_blank">
+						帮助
+						<img src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon imgease" 	align="absmiddle" width="20" height="23" />
+					</a>
+					<div class="menucontent">
+						<ul>
+							<li class="first"><a href="/about#pf_tool" target="_blank">拼范工具</a></li>
+							<li><a href="/feedback" target="_blank">建议反馈</a></li>
+							<li><a href="/job" target="_blank">工作机会</a></li>
+							<li><a href="/about" target="_blank">关于我们</a></li>
+							<li class="last"><a href="http://blog.pinfun.com" target="_blank">官方博客</a></li>
+						</ul>
+					</div>
+				</li>
+								<li class="menu">
+					<a class="menutitle PF_linkga" href="/login">
+						登录
+					</a>
+				</li>
+							</ul>
+			<div class="PF_clearb"></div>
+		</div>
+		<!--board-->
+	</div>
+<div>
+<script type="text/javascript">
+    var menu = $C(".menu");
+    for (var i = 0; i < menu.length; i++) { (function() {
+            var that = menu[i];
+            $_addHandler(that, "mouseover",
+            function() {
+                $_addClass(that, "current");
+            });
+            $_addHandler(that, "mouseout",
+            function() {
+                $_removeClass(that, "current");
+            });
+        })(i);
+    }
+    var menuLi = $(".menu li");
+    for (var i = 0; i < menuLi.length; i++) { (function() {
+            var that = menuLi[i];
+            $_addHandler(that, "mouseover",
+            function() {
+                $_addClass(that, "hover");
+            });
+            $_addHandler(that, "mouseout",
+            function() {
+                $_removeClass(that, "hover");
+            });
+        })(i);
+    }
+var searchtext = $C('.searchtext')[0];
+$_addHandler(searchtext, "focus", function() {
+	if(searchtext.value == '寻拼客')
+	searchtext.value='';
+});
+$_addHandler(searchtext, "blur", function() {
+	if(searchtext.value == '')
+	searchtext.value='寻拼客';
+});
+searchtext.value='寻拼客';
+</script>
+
+	<div class="PF_body">
+		<div class="PF_floatl">
+	<div class="panel item tags PF_w_line">
+		<p class="topdeco"></p>
+		<p class="title_p PF_textga PF_fontd" title="chocolatekiller">
+			<img alt="" align="absmiddle" src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon PF_icon02" width="20" height="20"/>
+			chocolatekiller		</p>
+		<a  href="/angie/" class="image"><img src="http://img1.pinfun.com/avatars/angie-883_c.jpg" alt="chocolatekiller" title="chocolatekiller"/></a>
+				<p class="panel_latest_bg">
+			<a href="/angie/followers">粉丝(281)</a>
+			<a href="/angie/following">关注(51)</a>
+		</p>
+		<p class="panel_latest_bg_weilian">
+						<a href="http://www.weibo.com/2055155301" class="PF_floatl" target="_blank">
+				<img alt="chocolatekiller的新浪微博" title="chocolatekiller的新浪微博" align="absmiddle"  src="http://static.pinfun.com/images/common/PF_trans.gif" class="logo_icon logo_icon_sina"/>
+			</a>
+						<!-- <a href="#" class="PF_floatl">
+				<img alt="" title="腾讯微薄" align="absmiddle"  src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon PF_icon06" height="22" width="20"/>
+			</a> -->
+		</p>
+		<div class="item02 PF_w_line ">
+	<ul >
+	<li >
+	<a href="/pin/91580" class="headimg PF_clearb PF_floatl" target="_blank" title="Jure Kravanja摄影作品2" >
+		<img src="http://img1.pinfun.com/upload/91580_cjHNE9nk_t.jpg" alt="" class='head_p' />
+	</a>
+	<p class="PF_floatl PF_textgb trends">
+		choc		评论了
+		<a href="/pin/91580" title="Jure Kravanja摄影作品2" class="PF_textgc" target='_blank'>
+		Jure Krava		</a>
+	</p>
+	<s class="update PF_floatl">
+		<img src="http://static.pinfun.com/images/common/PF_trans.gif"  class="PF_icon PF_icon39"  alt="" title=""  align="absmiddle"  width="20"  height="20" />
+	</s>
+</li>
+	<li >
+	<a href="/pin/91580" class="headimg PF_clearb PF_floatl" target="_blank" title="Jure Kravanja摄影作品2" >
+		<img src="http://img1.pinfun.com/upload/91580_cjHNE9nk_t.jpg" alt="" class='head_p' />
+	</a>
+	<p class="PF_floatl PF_textgb trends">
+		<a target='_blank' href="/angie" class="PF_textgc" title="chocolatekiller">
+		choc		</a>
+		很喜欢
+		<a href="/pin/91580" title="Jure Kravanja摄影作品2" class="PF_textgc" target="_blank">
+		Jure Kravanj		</a>
+	</p>
+	<s class="update PF_floatl">
+		<img src="http://static.pinfun.com/images/common/PF_trans.gif"  class="PF_icon PF_icon11"  alt="" title=""  align="absmiddle"  width="20"  height="20" />
+	</s>
+</li>
+	<li >
+			<a class="headimg PF_clearb PF_floatl" href="/lpl185" target="_blank">
+			<img src="http://img1.pinfun.com/avatars/lpl185-265_t.jpg" alt="" class='head_p' />
+		</a>
+		<p class="PF_floatl PF_textgb trends">
+			chocolatek			正在关注
+			<a href="/lpl185" class="PF_textgc" target="_blank" title="风云">
+			风云			</a>
+		</p>
+		<s class="update PF_floatl">
+			<img src="http://static.pinfun.com/images/common/PF_trans.gif"  class="PF_icon PF_icon33"  alt="" title=""  align="absmiddle"  width="20"  height="20" />
+		</s>
+	</li>
+	<li >
+	<a href="/pin/91593" class="headimg PF_clearb PF_floatl" target="_blank" title="动漫情侣图 不知道这种素材你会喜欢吗？" >
+		<img src="http://img1.pinfun.com/upload/91593_j95ndCHq_t.jpg" alt="" class='head_p' />
+	</a>
+	<p class="PF_floatl PF_textgb trends">
+		choc		评论了
+		<a href="/pin/91593" title="动漫情侣图 不知道这种素材你会喜欢吗？" class="PF_textgc" target='_blank'>
+		动漫情侣图 不知道这		</a>
+	</p>
+	<s class="update PF_floatl">
+		<img src="http://static.pinfun.com/images/common/PF_trans.gif"  class="PF_icon PF_icon39"  alt="" title=""  align="absmiddle"  width="20"  height="20" />
+	</s>
+</li>
+	<li >
+	<a href="/pin/91593" class="headimg PF_clearb PF_floatl" target="_blank" title="动漫情侣图 不知道这种素材你会喜欢吗？" >
+		<img src="http://img1.pinfun.com/upload/91593_j95ndCHq_t.jpg" alt="" class='head_p' />
+	</a>
+	<p class="PF_floatl PF_textgb trends">
+		<a target='_blank' href="/angie" class="PF_textgc" title="chocolatekiller">
+		choc		</a>
+		很喜欢
+		<a href="/pin/91593" title="动漫情侣图 不知道这种素材你会喜欢吗？" class="PF_textgc" target="_blank">
+		动漫情侣图 不知道这种素		</a>
+	</p>
+	<s class="update PF_floatl">
+		<img src="http://static.pinfun.com/images/common/PF_trans.gif"  class="PF_icon PF_icon11"  alt="" title=""  align="absmiddle"  width="20"  height="20" />
+	</s>
+</li>
+	<li >
+	<a href="/pin/91423" class="headimg PF_clearb PF_floatl" target="_blank" title="中国渔民大战韩国武警" >
+		<img src="http://img1.pinfun.com/upload/91423_KfLzK9qN_t.jpg" alt="" class='head_p' />
+	</a>
+	<p class="PF_floatl PF_textgb trends">
+		choc		评论了
+		<a href="/pin/91423" title="中国渔民大战韩国武警" class="PF_textgc" target='_blank'>
+		中国渔民大战韩国武警		</a>
+	</p>
+	<s class="update PF_floatl">
+		<img src="http://static.pinfun.com/images/common/PF_trans.gif"  class="PF_icon PF_icon39"  alt="" title=""  align="absmiddle"  width="20"  height="20" />
+	</s>
+</li>
+	<li >
+	<a href="/pin/91423" class="headimg PF_clearb PF_floatl" target="_blank" title="中国渔民大战韩国武警" >
+		<img src="http://img1.pinfun.com/upload/91423_KfLzK9qN_t.jpg" alt="" class='head_p' />
+	</a>
+	<p class="PF_floatl PF_textgb trends">
+		<a target='_blank' href="/angie" class="PF_textgc" title="chocolatekiller">
+		choc		</a>
+		很喜欢
+		<a href="/pin/91423" title="中国渔民大战韩国武警" class="PF_textgc" target="_blank">
+		中国渔民大战韩国武警		</a>
+	</p>
+	<s class="update PF_floatl">
+		<img src="http://static.pinfun.com/images/common/PF_trans.gif"  class="PF_icon PF_icon11"  alt="" title=""  align="absmiddle"  width="20"  height="20" />
+	</s>
+</li>
+	<li >
+	<a href="/pin/91525" class="headimg PF_clearb PF_floatl" target="_blank" title="以上名为《Eternity of the moment》（不朽的瞬间），是一幅街头摄影" >
+		<img src="http://img1.pinfun.com/upload/91525_vHB996et_t.jpg" alt="" class='head_p' />
+	</a>
+	<p class="PF_floatl PF_textgb trends">
+		choc		评论了
+		<a href="/pin/91525" title="以上名为《Eternity of the moment》（不朽的瞬间），是一幅街头摄影" class="PF_textgc" target='_blank'>
+		以上名为《Etern		</a>
+	</p>
+	<s class="update PF_floatl">
+		<img src="http://static.pinfun.com/images/common/PF_trans.gif"  class="PF_icon PF_icon39"  alt="" title=""  align="absmiddle"  width="20"  height="20" />
+	</s>
+</li>
+	<li >
+	<a href="/pin/91525" class="headimg PF_clearb PF_floatl" target="_blank" title="以上名为《Eternity of the moment》（不朽的瞬间），是一幅街头摄影" >
+		<img src="http://img1.pinfun.com/upload/91525_vHB996et_t.jpg" alt="" class='head_p' />
+	</a>
+	<p class="PF_floatl PF_textgb trends">
+		<a target='_blank' href="/angie" class="PF_textgc" title="chocolatekiller">
+		choc		</a>
+		很喜欢
+		<a href="/pin/91525" title="以上名为《Eternity of the moment》（不朽的瞬间），是一幅街头摄影" class="PF_textgc" target="_blank">
+		以上名为《Eternit		</a>
+	</p>
+	<s class="update PF_floatl">
+		<img src="http://static.pinfun.com/images/common/PF_trans.gif"  class="PF_icon PF_icon11"  alt="" title=""  align="absmiddle"  width="20"  height="20" />
+	</s>
+</li>
+	<li >
+	<a href="/pin/91522" class="headimg PF_clearb PF_floatl" target="_blank" title="开着小巴周游世界！" >
+		<img src="http://img1.pinfun.com/upload/91522_Oh0DrW4v_t.jpg" alt="" class='head_p' />
+	</a>
+	<p class="PF_floatl PF_textgb trends">
+		choc		评论了
+		<a href="/pin/91522" title="开着小巴周游世界！" class="PF_textgc" target='_blank'>
+		开着小巴周游世界！		</a>
+	</p>
+	<s class="update PF_floatl">
+		<img src="http://static.pinfun.com/images/common/PF_trans.gif"  class="PF_icon PF_icon39"  alt="" title=""  align="absmiddle"  width="20"  height="20" />
+	</s>
+</li>
+	</ul>
+<p class="btmdeco"></p>
+</div>
+		<div class="PF_clearb"></div>
+		
+	</div>
+</div>
+
+		<div class="PF_floatl PF_width_r" style="margin-left:10px;">
+			<script type="text/javascript">
+(function(l){
+		var flag = 'p';
+	//屏幕分辨率
+	var s = {a:1024,b:1280,c:1366,d:1440,e:1680,f:1920,g:2160,h:2400,i:2640,j:2880};
+	//初始化页面宽度
+	var p = {a:933,b:1170,c:1408,d:1644,e:1889,f:2127,g:2365,h:2603,i:2853};
+	//初始化页面宽度,但不包含页面左侧第一列宽度
+	var f = {a:697,b:933,c:1172,d:1410,e:1651,f:1891,g:2130,h:2369,i:2617};
+	//导航左边距宽度
+	var m = {a:221,b:300};
+	//屏幕宽度默认值
+	var df = p.b;
+	//屏幕宽度默认值,但不包含页面左侧第一列宽度
+	var ff = f.b;
+	//导航左边距默认值
+	var bml = m.b;
+	//计算宽度
+	function count() {
+		var w = getCW();
+		if(w <= s.a || w <= p.b) {//４列
+			df = p.a;
+			ff = f.a;
+			bml = m.a;
+       	} else if((w <= s.b && w >= s.a) || w <= s.c || w < p.c) {//5列
+			df = p.b;
+			ff = f.b;
+			bml = m.b;
+        	} else if((w <= s.d && w >= s.c) || w <= s.d || w < p.d) {//6列
+			df = p.c;
+			ff = f.c;
+			bml = m.b;
+        	} else if((w <= s.e && w >= s.d) || w <= s.e || w < p.e) {//7列
+        		df = p.d;
+			ff = f.d;
+			bml = m.b;
+        	} else if((w <= s.f && w >= s.e) || w <= s.f || w < p.f) {//8列
+        		df = p.e;
+			ff = f.e;
+			bml = m.b;
+        	} else if((w <= s.g && w >= s.f) || w <= s.g || w < p.g) {//9列
+			df = p.f;
+			ff = f.f;
+			bml = m.b;
+	 	} else if((w <= s.h && w >= s.g) || w <= s.h || w < p.h) {//10列
+			df = p.g;
+			ff = f.g;
+			bml = m.b;
+	 	} else if((w <= s.i && w >= s.h) || w <= s.i || w < p.i) {//11列
+			df = p.h;
+			ff = f.h;
+			bml = m.b;
+	 	} else {//12列
+			df = p.i;
+			ff = f.i;
+			bml = m.b;
+	 	}
+	}
+	//设置页面整体宽度
+	function setW() {
+		var bo = $C('.PF_body')[0];
+		if(bo != undefined) {
+			$_setStyle($C('.PF_body')[0], 'width', df + 'px');
+		}
+		var w = getCW();
+		if(w <= s.a || w <= p.b) {
+			$_setStyle($C('.header02')[0], 'width','auto');	
+		} else {
+			$_setStyle($C('.header02')[0], 'width', df + 'px');
+		}
+	}
+	//设置个人页面（版块，拼图，喜欢，提到）宽度，不包含左侧第一列宽度
+	function setBW() {
+		$_setStyle($C('.PF_width_r')[0], 'width', ff + 'px');
+	}
+	//获取浏览器宽度
+   	function getCW() {
+		return l.body.clientWidth
+   	}
+	function init() {
+		count();
+		setW();
+        if(flag == 'p') {
+	        setBW();
+        }
+	}
+	//当浏览宽度改变时执行
+	window.onresize = function(){
+        init();
+        if(flag != 'o') {
+		if(layout) {
+	        layout._init();
+	        layout.reload();
+		}
+        }
+   	}
+   	init();
+})(document);
+</script>
+	
+			<!--导航-->
+<div class="navwrap">
+	<ul class="classify PF_floatl">
+		<li id="nav" >
+			<a href="http://www.pinfun.com/angie"><span>拼板</span></a>
+		</li>
+		<li id="navpins">
+			<a href="http://www.pinfun.com/angie/pins"><span>拼图<cite>[ 1613 ]</cite></span></a>
+		</li>
+		<li id="navlikes">
+			<a href="http://www.pinfun.com/angie/likes"><span>喜欢<cite>[ 414 ]</cite></span></a>
+		</li>
+		<li id="navmentions" class="last">
+			<a href="http://www.pinfun.com/angie/mentions"><span>提到<cite>[ 25 ]</cite></span></a>
+		</li>
+	</ul>
+	<ul class="options PF_floatr">
+				<a href="/login?redirectURL=http%3A%2F%2Fwww.pinfun.com%2Fangie" class="b_friend"></a>
+		<a href="/login?redirectURL=http%3A%2F%2Fwww.pinfun.com%2Fangie" class="b_friend01"></a>
+	</ul>
+</div>
+<script>
+	var nav = 'angie';
+	var index = nav.indexOf("/");
+	if(index != -1) {
+		nav = nav.substring(index + 1, nav.length);
+	} else {
+		nav = '';
+	}
+	$_addClass($I('#nav' + nav), 'current');
+</script>
+			<div class="container" id="container">
+				<div class="dashboard-item PF_floatl alpha" >
+	<ul class="diplanner planner">
+		<li>
+						<span class="PF_floatl">
+				<img src="http://static.pinfun.com/images/common/item_lefttop_deco.png" alt="" />
+			</span>
+			<p>
+				<span class="PF_floatl PF_fontb">宝贝和狗狗的那点事</span>
+			</p>
+					</li>
+		<li>
+			<span class="diplanner_un">
+				<img src="http://static.pinfun.com/images/common/PF_trans.gif" width="192" height="2"/>
+			</span>
+		</li>
+	</ul>
+	<div class="diplanner_pc">
+			<a href="/angie/bao-bei-he-gou-gou-de-na-dian-shi?t=1322817394">
+								<img src="http://img1.pinfun.com/upload/91592_1MF66gFh_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/91488_dBtEdBIx_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/91482_iyYPzUfe_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/91480_gFjl4udS_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/90361_N2HNDXwC_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/90358_zb2QW4Qn_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86272_AhTC2s4g_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86271_QNLMwjHN_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86124_RI57YY8k_t.jpg" width="55" height="55" />
+							</a>
+	</div>	
+	<span class="planner-bt">
+			</span>
+</div>
+	<div class="dashboard-item PF_floatl alpha" >
+	<ul class="diplanner planner">
+		<li>
+						<span class="PF_floatl">
+				<img src="http://static.pinfun.com/images/common/item_lefttop_deco.png" alt="" />
+			</span>
+			<p>
+				<span class="PF_floatl PF_fontb">啊不大人的拼板</span>
+			</p>
+					</li>
+		<li>
+			<span class="diplanner_un">
+				<img src="http://static.pinfun.com/images/common/PF_trans.gif" width="192" height="2"/>
+			</span>
+		</li>
+	</ul>
+	<div class="diplanner_pc">
+			<a href="/abudaren/a-bu-da-ren-de-pin-ban?t=1322731981">
+								<img src="http://img1.pinfun.com/upload/90864_3jIc4rOW_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/90863_oSRQPCUS_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/90862_pUhx0KNs_t.jpg" width="55" height="55" />
+							</a>
+	</div>	
+	<span class="planner-bt">
+			</span>
+</div>
+	<div class="dashboard-item PF_floatl alpha" >
+	<ul class="diplanner planner">
+		<li>
+						<span class="PF_floatl">
+				<img src="http://static.pinfun.com/images/common/item_lefttop_deco.png" alt="" />
+			</span>
+			<p>
+				<span class="PF_floatl PF_fontb">小仓优司日系摄影作品</span>
+			</p>
+					</li>
+		<li>
+			<span class="diplanner_un">
+				<img src="http://static.pinfun.com/images/common/PF_trans.gif" width="192" height="2"/>
+			</span>
+		</li>
+	</ul>
+	<div class="diplanner_pc">
+			<a href="/angie/xiao-cang-you-si-ri-xi-she-ying-zuo-pin?t=1322207591">
+								<img src="http://img1.pinfun.com/upload/90399_NOAJAoZm_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/90397_bzch3YGX_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/90396_pa30wHN9_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/90395_LJEMxUYB_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/90393_NfC268oe_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/90392_PisKT1Lt_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/90391_jt4nciNi_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/90390_7QxNShof_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/90389_kWWED4bM_t.jpg" width="55" height="55" />
+							</a>
+	</div>	
+	<span class="planner-bt">
+			</span>
+</div>
+	<div class="dashboard-item PF_floatl alpha" >
+	<ul class="diplanner planner">
+		<li>
+						<span class="PF_floatl">
+				<img src="http://static.pinfun.com/images/common/item_lefttop_deco.png" alt="" />
+			</span>
+			<p>
+				<span class="PF_floatl PF_fontb">Roberto Cavalli男士时装</span>
+			</p>
+					</li>
+		<li>
+			<span class="diplanner_un">
+				<img src="http://static.pinfun.com/images/common/PF_trans.gif" width="192" height="2"/>
+			</span>
+		</li>
+	</ul>
+	<div class="diplanner_pc">
+			<a href="/angie/roberto-cavalli-nan-shi-shi-zhuang?t=1322195907">
+								<img src="http://img1.pinfun.com/upload/90405_uKxppDGz_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/90404_S9uQQGFF_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/90402_ldTEoewM_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/87673_qUZ2En3C_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/87672_zb4klPeC_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/87671_QxxEAUtw_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/87670_GTPlXlEC_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/87669_9MVTcCPG_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/87668_8zXhzUZo_t.jpg" width="55" height="55" />
+							</a>
+	</div>	
+	<span class="planner-bt">
+			</span>
+</div>
+	<div class="dashboard-item PF_floatl alpha" >
+	<ul class="diplanner planner">
+		<li>
+						<span class="PF_floatl">
+				<img src="http://static.pinfun.com/images/common/item_lefttop_deco.png" alt="" />
+			</span>
+			<p>
+				<span class="PF_floatl PF_fontb">Roberto Cavalli 女士时装</span>
+			</p>
+					</li>
+		<li>
+			<span class="diplanner_un">
+				<img src="http://static.pinfun.com/images/common/PF_trans.gif" width="192" height="2"/>
+			</span>
+		</li>
+	</ul>
+	<div class="diplanner_pc">
+			<a href="/angie/roberto-cavalli--nv-shi-shi-zhuang?t=1322123734">
+								<img src="http://img1.pinfun.com/upload/86629_DZZXxQii_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86619_LMYj8zBa_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86618_UT1NCTOG_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86617_KUZK2iA5_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86616_ZTZUomrU_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86615_zcgdQQGp_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86614_IYeLj935_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86613_xWHb677Y_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86612_W5wnObJl_t.jpg" width="55" height="55" />
+							</a>
+	</div>	
+	<span class="planner-bt">
+			</span>
+</div>
+	<div class="dashboard-item PF_floatl alpha" >
+	<ul class="diplanner planner">
+		<li>
+						<span class="PF_floatl">
+				<img src="http://static.pinfun.com/images/common/item_lefttop_deco.png" alt="" />
+			</span>
+			<p>
+				<span class="PF_floatl PF_fontb">时尚插画</span>
+			</p>
+					</li>
+		<li>
+			<span class="diplanner_un">
+				<img src="http://static.pinfun.com/images/common/PF_trans.gif" width="192" height="2"/>
+			</span>
+		</li>
+	</ul>
+	<div class="diplanner_pc">
+			<a href="/angie/shi-shang-cha-hua?t=1321930261">
+								<img src="http://img1.pinfun.com/upload/86125_SSYUPPoU_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86012_eTJZTgCf_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/85873_eNA5GaP4_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/85872_GUVMTf6g_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/85870_aROitAOT_t.jpg" width="55" height="55" />
+							</a>
+	</div>	
+	<span class="planner-bt">
+			</span>
+</div>
+	<div class="dashboard-item PF_floatl alpha" >
+	<ul class="diplanner planner">
+		<li>
+						<span class="PF_floatl">
+				<img src="http://static.pinfun.com/images/common/item_lefttop_deco.png" alt="" />
+			</span>
+			<p>
+				<span class="PF_floatl PF_fontb">中国的那些帝王们</span>
+			</p>
+					</li>
+		<li>
+			<span class="diplanner_un">
+				<img src="http://static.pinfun.com/images/common/PF_trans.gif" width="192" height="2"/>
+			</span>
+		</li>
+	</ul>
+	<div class="diplanner_pc">
+			<a href="/zhoujun/zhong-guo-de-na-xie-di-wang-men?t=1321884862">
+								<img src="http://img1.pinfun.com/upload/85586_qcoKtt7h_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/85585_h9vOxY5h_t.jpg" width="55" height="55" />
+							</a>
+	</div>	
+	<span class="planner-bt">
+			</span>
+</div>
+	<div class="dashboard-item PF_floatl alpha" >
+	<ul class="diplanner planner">
+		<li>
+						<span class="PF_floatl">
+				<img src="http://static.pinfun.com/images/common/item_lefttop_deco.png" alt="" />
+			</span>
+			<p>
+				<span class="PF_floatl PF_fontb">混拼</span>
+			</p>
+					</li>
+		<li>
+			<span class="diplanner_un">
+				<img src="http://static.pinfun.com/images/common/PF_trans.gif" width="192" height="2"/>
+			</span>
+		</li>
+	</ul>
+	<div class="diplanner_pc">
+			<a href="/wongkakui/hun-pin?t=1321634954">
+								<img src="http://img1.pinfun.com/upload/85594_GW0crui6_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/85198_iVTByS6d_t.jpg" width="55" height="55" />
+							</a>
+	</div>	
+	<span class="planner-bt">
+			</span>
+</div>
+	<div class="dashboard-item PF_floatl alpha" >
+	<ul class="diplanner planner">
+		<li>
+						<span class="PF_floatl">
+				<img src="http://static.pinfun.com/images/common/item_lefttop_deco.png" alt="" />
+			</span>
+			<p>
+				<span class="PF_floatl PF_fontb">叼起小烟卷</span>
+			</p>
+					</li>
+		<li>
+			<span class="diplanner_un">
+				<img src="http://static.pinfun.com/images/common/PF_trans.gif" width="192" height="2"/>
+			</span>
+		</li>
+	</ul>
+	<div class="diplanner_pc">
+			<a href="/angie/diao-qi-xiao-yan-juan?t=1321600869">
+								<img src="http://img1.pinfun.com/upload/87991_bIHvQsRA_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/87052_0ZFI49Wt_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/87051_uOWKa97E_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/85884_xLtEULyr_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/85499_tEbgG47I_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/85498_V00ViiV2_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/85062_i1RpBVTF_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/85061_0HBwMry6_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/85060_34nFqaoZ_t.jpg" width="55" height="55" />
+							</a>
+	</div>	
+	<span class="planner-bt">
+			</span>
+</div>
+	<div class="dashboard-item PF_floatl alpha" >
+	<ul class="diplanner planner">
+		<li>
+						<span class="PF_floatl">
+				<img src="http://static.pinfun.com/images/common/item_lefttop_deco.png" alt="" />
+			</span>
+			<p>
+				<span class="PF_floatl PF_fontb">性感 你懂的</span>
+			</p>
+					</li>
+		<li>
+			<span class="diplanner_un">
+				<img src="http://static.pinfun.com/images/common/PF_trans.gif" width="192" height="2"/>
+			</span>
+		</li>
+	</ul>
+	<div class="diplanner_pc">
+			<a href="/doudou/xing-gan--ni-dong-de?t=1317088730">
+								<img src="http://img1.pinfun.com/upload/91607_0sfmsHst_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/91606_zLtya6pV_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/91577_wjQOOKdB_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/89572_oBM6Ri04_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/87758_7a3y0NC4_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/87746_7AsRJ7Y6_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/87741_XLUQCZEw_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86289_QE0AyEbK_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86285_GoOTWWT2_t.jpg" width="55" height="55" />
+							</a>
+	</div>	
+	<span class="planner-bt">
+			</span>
+</div>
+	<div class="dashboard-item PF_floatl alpha" >
+	<ul class="diplanner planner">
+		<li>
+						<span class="PF_floatl">
+				<img src="http://static.pinfun.com/images/common/item_lefttop_deco.png" alt="" />
+			</span>
+			<p>
+				<span class="PF_floatl PF_fontb">kiss and sex</span>
+			</p>
+					</li>
+		<li>
+			<span class="diplanner_un">
+				<img src="http://static.pinfun.com/images/common/PF_trans.gif" width="192" height="2"/>
+			</span>
+		</li>
+	</ul>
+	<div class="diplanner_pc">
+			<a href="/josh/kiss-and-sex?t=1318919241">
+								<img src="http://img1.pinfun.com/upload/86046_etG62Fz0_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/85021_PAmVcVCn_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/85015_WBCnHWW6_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/84705_U3g8z6H2_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/84698_fmfdmHmS_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/84692_YRFStjqg_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/84691_Mlz6kn8Z_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/84074_c8Wp6j4a_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/83530_ihr9u0M7_t.jpg" width="55" height="55" />
+							</a>
+	</div>	
+	<span class="planner-bt">
+			</span>
+</div>
+	<div class="dashboard-item PF_floatl alpha" >
+	<ul class="diplanner planner">
+		<li>
+						<span class="PF_floatl">
+				<img src="http://static.pinfun.com/images/common/item_lefttop_deco.png" alt="" />
+			</span>
+			<p>
+				<span class="PF_floatl PF_fontb">好吃的</span>
+			</p>
+					</li>
+		<li>
+			<span class="diplanner_un">
+				<img src="http://static.pinfun.com/images/common/PF_trans.gif" width="192" height="2"/>
+			</span>
+		</li>
+	</ul>
+	<div class="diplanner_pc">
+			<a href="/shuaiguo/hao-chi-de?t=1309770674">
+								<img src="http://img1.pinfun.com/upload/90113_UW45RNzF_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/84315_1mXnuo25_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/84275_Il6N6vWS_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/84162_84HCOh6E_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/84049_fPS5biP6_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/84016_FyaSiOhw_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/83639_cy9DaTIC_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/83634_0DE3DobY_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/83630_W2JiK4SB_t.jpg" width="55" height="55" />
+							</a>
+	</div>	
+	<span class="planner-bt">
+			</span>
+</div>
+	<div class="dashboard-item PF_floatl alpha" >
+	<ul class="diplanner planner">
+		<li>
+						<span class="PF_floatl">
+				<img src="http://static.pinfun.com/images/common/item_lefttop_deco.png" alt="" />
+			</span>
+			<p>
+				<span class="PF_floatl PF_fontb">美食</span>
+			</p>
+					</li>
+		<li>
+			<span class="diplanner_un">
+				<img src="http://static.pinfun.com/images/common/PF_trans.gif" width="192" height="2"/>
+			</span>
+		</li>
+	</ul>
+	<div class="diplanner_pc">
+			<a href="/PinFun/mei-shi?t=1309771093">
+								<img src="http://img1.pinfun.com/upload/91084_2Cn1o1ep_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/90775_1gX5TkJB_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/90334_2qnu5ZUO_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86559_vaSNU72Y_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86310_mpje4UBA_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86309_6DcpSHvT_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86308_TeDCvXmX_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/86132_w7mUB3iv_t.png" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/85928_TQu3l49Q_t.jpg" width="55" height="55" />
+							</a>
+	</div>	
+	<span class="planner-bt">
+			</span>
+</div>
+	<div class="dashboard-item PF_floatl alpha" >
+	<ul class="diplanner planner">
+		<li>
+						<span class="PF_floatl">
+				<img src="http://static.pinfun.com/images/common/item_lefttop_deco.png" alt="" />
+			</span>
+			<p>
+				<span class="PF_floatl PF_fontb">时尚美包包</span>
+			</p>
+					</li>
+		<li>
+			<span class="diplanner_un">
+				<img src="http://static.pinfun.com/images/common/PF_trans.gif" width="192" height="2"/>
+			</span>
+		</li>
+	</ul>
+	<div class="diplanner_pc">
+			<a href="/xiaobei/shi-shang-mei-bao-bao?t=1320724033">
+								<img src="http://img1.pinfun.com/upload/85950_h9naTDUo_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/84152_cxPrjLGQ_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/84077_mY13QCKx_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/80908_Hp2YMxxn_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/80907_KkWTumoY_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/80885_Liu9snTY_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/80881_BQLaFeVY_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/80880_52WlqXSS_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/80879_J8oBoVQj_t.jpg" width="55" height="55" />
+							</a>
+	</div>	
+	<span class="planner-bt">
+			</span>
+</div>
+	<div class="dashboard-item PF_floatl alpha" >
+	<ul class="diplanner planner">
+		<li>
+						<span class="PF_floatl">
+				<img src="http://static.pinfun.com/images/common/item_lefttop_deco.png" alt="" />
+			</span>
+			<p>
+				<span class="PF_floatl PF_fontb">FUNNY PIC</span>
+			</p>
+					</li>
+		<li>
+			<span class="diplanner_un">
+				<img src="http://static.pinfun.com/images/common/PF_trans.gif" width="192" height="2"/>
+			</span>
+		</li>
+	</ul>
+	<div class="diplanner_pc">
+			<a href="/angie/funny-pic?t=1321235195">
+								<img src="http://img1.pinfun.com/upload/89683_GriXtfaV_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/89680_Ob0tNUE8_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/89676_eRPcJv1Y_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/89500_hc3BojjY_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/89082_coliIn9L_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/89013_ukv10mRi_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/89006_E1aNRnuS_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/87593_huOo2XG7_t.jpg" width="55" height="55" />
+								<img src="http://img1.pinfun.com/upload/87591_10cHvvwh_t.jpg" width="55" height="55" />
+							</a>
+	</div>	
+	<span class="planner-bt">
+			</span>
+</div>
+			<a id="next" href="/angie?page=2" style="display: none">next</a>
+				</div>
+			<a target='_blank' href="/pin/7610" class="advise_button">意见反馈</a>
+			<div id="loadingtip" class="loadingtip" style="left:50%;visibility:hidden;">
+			<a href="/angie?page=2"></a>
+			</div>
+			<a href="#top" id="top_button" class="top_button" style="display:none;"></a>
+		</div>
+	</div>
+	<script type="text/javascript" src="http://static.pinfun.com/js/pinfun_follow.js" charset="utf-8"></script>
+<script>
+var ajaxStart = false;
+PF_follow_board();
+var ajaxRequest = function() {
+	if (pf.bom.isPageBottom() && !ajaxStart) {
+		var elements = [],
+			container = layout ? layout._container : null,
+			nextpage = $I("#next"), // 获得请求地址
+			nexturl = nextpage ? nextpage.href : "#",
+			loading = $I("#loadingtip");
+		if(!nextpage) {
+			return;
+		}
+		ajaxStart = true; // 说明ajax开始执行 
+		$_setStyle(loading, "visibility", "visible"); // 显示loading提示
+		//f.ajax = f.core.ajax.request;
+		$_ajaxXmlHeader(nextpage, {
+			onsuccess: function(data) {
+				$_setStyle(loading, "visibility", "hidden"); // 关闭loading提示
+				$_remove(nextpage);	// 当返回数据后，删除节点
+				// 创建一个临时div，用于插入获得的数据
+				var div = $_create("div", {"id": "temp"});
+				div.innerHTML = data;
+				// 将临时div插入到容器里
+				container.appendChild(div);
+				// 只有插入到页面后才可以获得子元素
+				var tempChildren = $_children($I("#temp"));
+				// 获得关注对象数组
+				var fwBoards = $C(".fwboard", div);
+				// 获得子元素后删除临时div
+				$_remove(div);
+				
+				for (var i = 0, j = tempChildren.length; i < j; i++) {
+					var temp = tempChildren[i];
+					container.appendChild(temp);
+					if (i < (j -1)) {
+						elements.push(temp);
+					}
+				}
+				
+				//给动态加载的关注按钮绑定事件
+				for(var index in fwBoards){
+					(function(){
+						var self = fwBoards[index];
+						$_addHandler(self, "click", function (event) {
+							var fw_url = PF.dom.getAttr(self, "href");
+							$_ajaxXmlHeader(fw_url, {
+								onsuccess: function (data) {
+									var fw_id = parseInt(data);
+									if(fw_id > 0){
+										var butText = $_children(self);
+										var className = PF.dom.getAttr(butText[0],"className");
+										if(!className)
+											className = PF.dom.getAttr(butText[0],"class");
+										if(className == '' || className == null){
+											$_addClass(butText[0], "PF_textga");
+											$_addClass(self, "nofwboard");
+											butText[0].innerHTML = "关注"
+										}else{
+											$_removeClass(butText[0], "PF_textga");
+											$_removeClass(self, "nofwboard");
+											butText[0].innerHTML = "取消关注"
+										}
+									}else{
+										alert("操作失败, 请重新操作");
+									}
+								}
+							});
+							PF.event.preventDefault(event);
+						});
+					 })(index);
+				}
+				
+				div = null;
+				ajaxStart = false;
+				if (elements) {
+					layout.append(elements);
+				} else {
+					$_removeHandler(window, "scroll", function() {}); // 如果数据返回小于一定数值，取消window对象的scroll事件绑定
+				}
+				if (elements.length <= 15) {
+					//ajaxStart = true;
+					$_removeHandler(window, "scroll", function() {}); // 如果数据返回小于一定数值，取消window对象的scroll事件绑定
+				}
+				if(pf.bom.isPageBottom())
+					ajaxRequest();
+			}
+		});
+	}
+}
+$_addHandler(window, "scroll", ajaxRequest);
+
+$_addHandler(window, "scroll", function() {
+    if (pf.bom.getScrollTop() > 0) {
+        $_setStyle($I("#top_button"), "display", "block");
+    } else {
+        $_setStyle($I("#top_button"), "display", "none");
+    }
+});
+
+$_addHandler($I('#top_button'), "click", function() {
+	goTop(2, 20);
+	return false;
+});
+function goTop(acceleration, time) {
+
+	window.onscroll = function(){
+		return false;
+	}
+	
+	acceleration = acceleration || 0.1;
+	time = time || 16;
+ 
+	var x1 = 0;
+	var y1 = 0;
+	var x2 = 0;
+	var y2 = 0;
+	var x3 = 0;
+	var y3 = 0;
+ 
+	if (document.documentElement) {
+		x1 = document.documentElement.scrollLeft || 0;
+		y1 = document.documentElement.scrollTop || 0;
+	}
+	if (document.body) {
+		x2 = document.body.scrollLeft || 0;
+		y2 = document.body.scrollTop || 0;
+	}
+	var x3 = window.scrollX || 0;
+	var y3 = window.scrollY || 0;
+ 
+	// 滚动条到页面顶部的水平距离
+	var x = Math.max(x1, Math.max(x2, x3));
+	// 滚动条到页面顶部的垂直距离
+	var y = Math.max(y1, Math.max(y2, y3));
+ 
+	// 滚动距离 = 目前距离 / 速度, 因为距离原来越小, 速度是大于 1 的数, 所以滚动距离会越来越小
+	var speed = 1 + acceleration;
+	window.scrollTo(Math.floor(x / speed), Math.floor(y / speed));
+ 
+	// 如果距离不为零, 继续调用迭代本函数
+	if(x > 0 || y > 0) {
+		var invokeFunction = "goTop(" + acceleration + ", " + time + ")";
+		window.setTimeout(invokeFunction, time);
+	}
+}
+
+function layoutFade() {
+	if(this.tagName != 'A'){
+		$_fadeIn(this, 10);
+		var as = $C('.alpha', this);
+		for(var i = 0;i < as.length;i++) {
+			if(!PF.browser.is360se && !PF.browser.ie) {
+				$_fadeIn(as[i], 10);
+			} else {
+				$_removeClass(as[i], 'alpha');
+			}
+		}
+	}
+}
+</script>
+<script type="text/javascript" src="http://static.pinfun.com/js/pinfun_follow.js" charset="utf-8"></script>
+<script type="text/javascript" charset="utf-8">
+	PF_follow_user();
+</script>
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://stat.pinfun.com/" : "http://stat.pinfun.com/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+
+</script><noscript><p><img src="http://stat.pinfun.com/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+	<script>
+		var layout = new Layout("#container", {
+			spaceWidth: 13,
+			callback: layoutFade
+		});
+		ajaxRequest();
+
+		var text = $I('#textarea');
+		var p = $I('#p');
+		var p1 = $I('#p1');
+		var texta = $I('#texta');
+		$_addHandler(text, 'blur', function(){
+			if(text.value == ''){
+				text.value = "发送私信";
+			}
+			$_setStyle(text, 'color', '');
+		});
+		$_addHandler(text, 'focus', function(){
+			if(text.value == '发送私信'){
+				text.value = '';
+			}
+			$_setStyle(text, 'color', 'black');
+			$_setStyle(text, 'height', '39px');
+			$_setStyle(p1,'display', 'block');
+		});
+
+		$_addHandler(texta, 'click', function(event){
+			//alert(texta.href);
+			pf.event.preventDefault(event); // 取消默认行为
+			pf.event.stopPropagation(event); // 防止冒泡
+			if(text.value == '' || text.value == null || text.value == '发送私信'){
+				alert('内容不能为空！');
+			}else{
+				$_ajaxXmlHeader(texta.href, {
+					data:'content=' + text.value + '&root=' + '',
+					onsuccess: function (data){
+						if(data != ''){
+							text.value = '发送私信';
+						}else{
+							alert(texta_int);
+						}
+					}
+				});
+			}
+		});
+	</script>
+</body>
+</html>

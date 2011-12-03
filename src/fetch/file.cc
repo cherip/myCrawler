@@ -526,6 +526,11 @@ int html::endInput () {
   buffer[pos] = 0;
   _endOfInput();
   // now parse the html
+
+  printf("one html file is complete, and try to parse it!\n");
+  this->here->print();
+  printf("**********************************\n");
+
   parseHtml();
   return 0;
 }
@@ -628,6 +633,8 @@ void html::parseTag () {
   }
 }
 
+const char baseUrl[] = "http://www.pinfun.com";
+
 /** read the content of an interesting tag */
 void html::parseContent (int action) {
   posParse++;
@@ -652,7 +659,18 @@ void html::parseContent (int action) {
     switch (action) {
     case LINK:
       // try to understand this new link
+    //  printf("%s\n", area);
+
+      if (strncmp(area, "http:", 5 ) != 0) {
+          char *urlStr = new char[128];
+          strcpy(urlStr, baseUrl);
+          strcat(urlStr, area);
+          printf("%s\n", urlStr);
+        manageUrl(new url(urlStr, here->getDepth()-1, base), false);
+      } else {
+
       manageUrl(new url(area, here->getDepth()-1, base), false);
+      }
       break;
     case BASE:
       // This page has a BASE HREF tag

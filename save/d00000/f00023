@@ -1,0 +1,1388 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>创业者和风险投资人的资讯门户与互动平台—创业网络社区|风险投资资讯 - 创业邦</title>
+<meta name="keywords" content="创业，资本，风险投资，VC，IPO，PE，私募，风险投资公司，私募股权，上市，融资，天使投资，创业故事,创业项目">
+<meta name="description" content="创业邦致力于成为中国创业者的资讯门户和互动平台，帮助中国创业者实现创业梦想。创业邦为创业者和风险投资人提供各种创业类最新资讯和实用知识手册，打造创业者和投资人的社交平台。">
+<link type="text/css" href="http://www.cyzone.cn/statics/css/cyzonev1/ver2/css/common.css" rel="stylesheet" />
+<link type="text/css" href="http://www.cyzone.cn/statics/css/cyzonev1/ver2/css/index.css" rel="stylesheet" />
+<script type="text/javascript" src="http://www.cyzone.cn/statics/css/cyzonev1/js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="http://www.cyzone.cn/statics/js//cookie.js"></script>
+<script type="text/javascript" src="http://www.cyzone.cn/statics/css/cyzonev1/js/common.js"></script>
+<script type="text/javascript" src="http://www.cyzone.cn/statics/css/cyzonev1/js/index.focus.js"></script>
+</head>
+<body>
+<!--header 整体-->
+<div class="header clearfix">
+  <!--header 上部分（导航链接、登陆、查询等）-->
+    <div class="top_header clearfix">
+    <!--header 导航链接-->
+    <div class="quick_menu">  <a title="" href="http://www.cyzone.cn/">创业邦</a>　|　 <a title=""  href="http://magazine.cyzone.cn/subscription.html" target="_blank">订阅杂志</a>　|　 <a title=""  href="http://conference.cyzone.cn/club/join.html" target="_blank">加入俱乐部</a>　|　 <a target="_blank" href="http://m.cyzone.cn/" title="创业邦新媒体">创业邦新媒体</a> </div>
+
+	<div class="search_menu">
+      <form action="http://www.cyzone.cn/index.php" id="search-myform" name="search-myform" type="get">
+	    <input type="hidden" name="m" value="search" />
+		<input type="hidden" name="c" value="index" />
+		<input type="hidden" name="a" value="init" />
+		<input type="hidden" name="typeid" value="" id="typeid" />
+		<input type="hidden" name="siteid" value="1" id="siteid" />
+        <input class="inp_search" style="border:1px solid #ccc; color:#666;height:20px;line-height:20px;" name="s" type="text" size="20" />
+        <input name="dosubmit" id="dosubmit" value="搜索" type="submit" class="btn_search" />
+      </form>
+    </div>
+    <!--header 登陆、注册-->
+    <div class="loginbar_menu" id="login">  <a title=""  href="http://u.cyzone.cn/do.php?ac=60169cd0bb5698a0db526f0e3b23e498&refer=" target="_blank"><span class="login_back">登录</span></a>| <a title=""  href="http://u.cyzone.cn/do.php?ac=f9b3facc9897fd84daaf13c2956eec70&refer=" target="_blank"><span class="login_back">注册</span></a>| <a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cyzone.cn/');" style="cursor:pointer;">设为首页</a>| <a onClick="window.external.addFavorite('http://www.cyzone.cn/','创业邦')" style="cursor:pointer;">收藏本站</a> </div>
+  </div>  <!--header 中部分（logo、banner、text等）-->
+  <div class="middle_header">
+    <!--header 中部线（top_line）-->
+    <div class="top_line"></div>
+    <!--header 中部（logo、banner）-->
+    <div class="lo_ban clearfix">
+      <div class="fleft">  <a title="" href="http://www.cyzone.cn/"><img alt="" src="http://img.cyzone.com.cn/index/cyzone_logo.gif" /></a> </div>
+      <div class="fright"><script type='text/javascript'>
+   var m3_u = (location.protocol=='https:'?'https://poddy.cn/openx2/www/delivery/ajs.php':'http://poddy.cn/openx2/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=8");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+</script><noscript><a href='http://poddy.cn/openx2/www/delivery/ck.php?n=a3f81624&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://poddy.cn/openx2/www/delivery/avw.php?zoneid=8&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a3f81624' border='0' alt='' /></a></noscript></div>
+    </div>
+<!--header 中部图片、文章-->
+<div class="infomation clearfix">
+	<div class="in_news fleft clearfix">
+		<div class="in_img">
+			<a href="http://news.cyzone.cn/news/2011/12/02/219353.html" target="_blank" title=""><img alt="" src="http://www.cyzone.cn/uploadfile/2011/1202/20111202073912889.jpg" /></a></div>
+		<div class="in_text">
+			<a href="http://news.cyzone.cn/news/2011/12/02/219353.html" target="_blank" title=""><b>徐小平：创业需要True Passion</b>Passion是激情也是受难，创业需要 True Passion。<br />
+</a></div>
+	</div>
+	<div class="in_news_space fleft clearfix">
+		<div class="in_img">
+			<a href="http://news.cyzone.cn/news/2011/12/01/219317.html" target="_blank" title=""><img alt="" src="http://www.cyzone.cn/uploadfile/2011/1201/20111201042837302.jpg" /></a></div>
+		<div class="in_text">
+			<a href="http://news.cyzone.cn/news/2011/12/01/219317.html" target="_blank" title=""><b>雷军：创新本质是容忍失败 </b>小公司想生存和突破，就必须得创新。社会需要提供容忍失败的环境。</a></div>
+	</div>
+	<div class="in_news_space fleft clearfix">
+		<div class="in_img">
+			<a href="http://news.cyzone.cn/news/2011/12/01/219312.html" target="_blank" title=""><img alt="" src="http://www.cyzone.cn/uploadfile/2011/1201/20111201022333512.jpg" /></a></div>
+		<div class="in_text">
+			<a href="http://news.cyzone.cn/news/2011/12/01/219312.html" target="_blank" title=""><b>阎焱：未来十年的创业机会</b>考虑创业的风险，一定要弄清楚你所选择的这种商业模式的可扩充性。</a></div>
+	</div>
+</div><!--header 中部线（bottom_line）-->
+  <div class="bottom_line"></div>
+</div>
+<!--header 下部分（导航链接）-->
+  <div class="nav">
+    <div class="nav_top">
+      <ul id="nav" class="clearfix">
+        <li id="tab_nav_1" num="1"><a href="http://www.cyzone.cn/" title=""><span>首页</span></a></li>
+        <li id="tab_nav_2" num="2"> <a href="http://news.cyzone.cn/" title=""><span>行业资讯</span></a></li>
+        <li id="tab_nav_3" num="3"> <a href="http://capital.cyzone.cn/" title=""><span>资本钱经</span></a></li>
+        <li id="tab_nav_4" num="4"> <a href="http://xueyuan.cyzone.cn/" title=""><span>创业学院</span></a></li>
+        <li id="tab_nav_5" num="5"> <a href="http://liansuo.cyzone.cn/" title=""><span>连锁加盟</span></a></li>
+        <li id="tab_nav_6" num="6"> <a href="http://u.cyzone.cn/" title="" target="_blank"><span>创业吧</span></a></li>
+        <li id="tab_nav_7" num="7"> <a href="http://magazine.cyzone.cn/" title=""><span>《创业邦》杂志</span></a></li>
+        <li id="tab_nav_8" num="8"> <a href="http://conference.cyzone.cn/" title=""><span>会议活动</span></a></li>
+        <li id="tab_nav_9" num="9"> <a href="http://www.cyzone.cn/cyzone100/2011/" title="" target="_blank"><span>创业邦100</span></a></li>
+        <li id="tab_nav_10" num="10"> <a href="http://conference.cyzone.cn/features/annual2011/" title="" target="_blank"><span>创业邦年会</span></a></li>
+      </ul>
+    </div>
+    <div class="nav_bottom" id="snav">
+      <ul id="div_nav_1" class="clearfix">
+        <li> <a href="http://overseas.cyzone.cn/" class="white" title="">原创/编译</a></li>
+        <li> <a class="white" href="http://news.cyzone.cn/vpeople/" title="">创业人物</a></li>
+        <li> <a href="http://news.cyzone.cn/vcompany/" class="white" title="">创业公司</a></li>
+       <li> <a href="http://show.cyzone.cn/" class="white" title="">创业项目</a></li>
+        <li> <a href="http://xueyuan.cyzone.cn/gushi/" class="white" title="">创业故事</a></li>
+        <li> <a href="http://ask.cyzone.cn/" class="white" title="">创业帮帮帮</a></li>
+        <li> <a class="white" href="http://capital.cyzone.cn/people/" title="">投资人物</a></li>
+        <li> <a href="http://capital.cyzone.cn/company/" class="white" title="">投资机构</a></li>
+        <li> <a href="http://capital.cyzone.cn/eventlist.aspx" class="white" title="">投资事件</a></li>
+        <li> <a href="http://www.cyzone.cn/yqdh/" class="white" title="">园区导航</a></li>
+      </ul>
+      <ul id="div_nav_2" class="clearfix" style="display:none;">
+                <li> <a href="http://news.cyzone.cn/industry/33/" class="white" title="互联网">互联网</a></li>
+                <li> <a href="http://news.cyzone.cn/industry/34/" class="white" title="传媒/新媒体">传媒/新媒体</a></li>
+                <li> <a href="http://news.cyzone.cn/industry/35/" class="white" title="通信/无线">通信/无线</a></li>
+                <li> <a href="http://news.cyzone.cn/industry/36/" class="white" title="软件/硬件/半导体">软件/硬件/半导体</a></li>
+                <li> <a href="http://news.cyzone.cn/industry/37/" class="white" title="IT数码">IT数码</a></li>
+                <li> <a href="http://news.cyzone.cn/industry/38/" class="white" title="医疗健康">医疗健康</a></li>
+                <li> <a href="http://news.cyzone.cn/industry/39/" class="white" title="教育培训">教育培训</a></li>
+                <li> <a href="http://news.cyzone.cn/industry/40/" class="white" title="消费品/餐饮/酒店">消费品/餐饮/酒店</a></li>
+                <li> <a href="http://news.cyzone.cn/industry/42/" class="white" title="环保新能源">环保新能源</a></li>
+                <li> <a href="http://news.cyzone.cn/industry/43/" class="white" title="其它">其它</a></li>
+              </ul>
+      <ul id="div_nav_3" class="clearfix" style="display:none;">
+                <li> <a href="http://capital.cyzone.cn/detaillist/392/" class="white" title="风险投资">风险投资</a></li>
+                <li> <a href="http://capital.cyzone.cn/detaillist/393/" class="white" title="天使投资">天使投资</a></li>
+                <li> <a href="http://capital.cyzone.cn/detaillist/394/" class="white" title="PE">PE</a></li>
+                <li> <a href="http://capital.cyzone.cn/detaillist/395/" class="white" title="并购">并购</a></li>
+                <li> <a href="http://capital.cyzone.cn/detaillist/396/" class="white" title="IPO">IPO</a></li>
+                <li> <a href="http://capital.cyzone.cn/detaillist/397/" class="white" title="投资银行">投资银行</a></li>
+                <li> <a href="http://capital.cyzone.cn/detaillist/643/" class="white" title="创业板">创业板</a></li>
+              </ul>
+      <ul id="div_nav_4" class="clearfix" style="display:none;">
+                <li> <a href="http://xueyuan.cyzone.cn/qibu/" class="white" title="创业起步">创业起步</a></li>
+                        <li> <a href="http://xueyuan.cyzone.cn/moshi/" class="white" title="商业模式">商业模式</a></li>
+                        <li> <a href="http://xueyuan.cyzone.cn/yingxiao/" class="white" title="市场营销">市场营销</a></li>
+                        <li> <a href="http://xueyuan.cyzone.cn/guanli/" class="white" title="企业管理">企业管理</a></li>
+                        <li> <a href="http://xueyuan.cyzone.cn/caiwu/" class="white" title="财务管理">财务管理</a></li>
+                        <li> <a href="http://xueyuan.cyzone.cn/chouzi/" class="white" title="融资/贷款">融资/贷款</a></li>
+                        <li> <a href="http://xueyuan.cyzone.cn/zhengce/" class="white" title="创业政策">创业政策</a></li>
+                        <li> <a href="http://xueyuan.cyzone.cn/ebusiness/" class="white" title="电子商务">电子商务</a></li>
+                        <li> <a href="http://xueyuan.cyzone.cn/ceshi/" class="white" title="创业测试">创业测试</a></li>
+                        <li> <a href="http://xueyuan.cyzone.cn/shuping/" class="white" title="读书评书">读书评书</a></li>
+                        <li> <a href="http://xueyuan.cyzone.cn/jishu/" class="white" title="技术">技术</a></li>
+                        <li> <a href="http://xueyuan.cyzone.cn/shenghuo/" class="white" title="工作/生活">工作/生活</a></li>
+              </ul>
+      <ul id="div_nav_5" class="clearfix" style="display:none;">
+                <li> <a href="http://liansuo.cyzone.cn/canyin/" class="white" title="餐饮食品">餐饮食品</a></li>
+                        <li> <a href="http://liansuo.cyzone.cn/lingshou/" class="white" title="零售">零售</a></li>
+                        <li> <a href="http://liansuo.cyzone.cn/peixun/" class="white" title="教育培训">教育培训</a></li>
+                        <li> <a href="http://liansuo.cyzone.cn/yiliao/" class="white" title="医疗健康">医疗健康</a></li>
+                        <li> <a href="http://liansuo.cyzone.cn/jiudian/" class="white" title="连锁酒店">连锁酒店</a></li>
+                        <li> <a href="http://liansuo.cyzone.cn/qiche/" class="white" title="汽车服务">汽车服务</a></li>
+                        <li> <a href="http://liansuo.cyzone.cn/fangchan/" class="white" title="房产家居">房产家居</a></li>
+                        <li> <a href="http://liansuo.cyzone.cn/ertong/" class="white" title="儿童生意">儿童生意</a></li>
+                        <li> <a href="http://liansuo.cyzone.cn/yule/" class="white" title="休闲娱乐">休闲娱乐</a></li>
+                        <li> <a href="http://liansuo.cyzone.cn/chongwu/" class="white" title="宠物服务">宠物服务</a></li>
+                        <li> <a href="http://liansuo.cyzone.cn/fuwu/" class="white" title="一般服务">一般服务</a></li>
+                        <li> <a href="http://liansuo.cyzone.cn/qita/" class="white" title="其他">其他</a></li>
+              </ul>
+      <ul id="div_nav_7" class="clearfix" style="display:none;">
+                <li> <a href="http://magazine.cyzone.cn/c33.html" class="white" title="编者的话">编者的话</a></li>
+                        <li> <a href="http://magazine.cyzone.cn/c1.html" class="white" title="封面故事">封面故事</a></li>
+                        <li> <a href="http://magazine.cyzone.cn/c31.html" class="white" title="特别报道">特别报道</a></li>
+                        <li> <a href="http://magazine.cyzone.cn/c3.html" class="white" title="前沿">前沿</a></li>
+                        <li> <a href="http://magazine.cyzone.cn/c30.html" class="white" title="创业鉴">创业鉴</a></li>
+                        <li> <a href="http://magazine.cyzone.cn/c26.html" class="white" title="公司/人物">公司/人物</a></li>
+                        <li> <a href="http://magazine.cyzone.cn/c32.html" class="white" title="模式/趋势">模式/趋势</a></li>
+                        <li> <a href="http://magazine.cyzone.cn/c6.html" class="white" title="资本">资本</a></li>
+                        <li> <a href="http://magazine.cyzone.cn/c4.html" class="white" title="技术">技术</a></li>
+                        <li> <a href="http://magazine.cyzone.cn/c8.html" class="white" title="管理">管理</a></li>
+                        <li> <a href="http://magazine.cyzone.cn/c9.html" class="white" title="起步">起步</a></li>
+                        <li> <a href="http://magazine.cyzone.cn/c11.html" class="white" title="生活">生活</a></li>
+              </ul>
+      <ul id="div_nav_8" class="clearfix" style="display:none;">
+                <li> <a href="http://conference.cyzone.cn/demochina/" class="white" title="创新中国">创新中国</a></li>
+                        <li> <a href="http://conference.cyzone.cn/club/" class="white" title="CEO俱乐部">CEO俱乐部</a></li>
+                        <li> <a href="http://conference.cyzone.cn/annual/" class="white" title="创业邦年会">创业邦年会</a></li>
+                        <li> <a href="http://conference.cyzone.cn/yearlist/" class="white" title="全部活动">全部活动</a></li>
+      </ul>
+    </div>
+  </div></div>
+<!-- header  end --><!-----------content----------->
+<div class="content clearfix">
+  <!-----------content left----------->
+  <div class="top_1 clearfix">
+    <div class="left">
+      <!-----------帮内聚焦----------->
+      <div class="cyfocus clearfix">
+        <!-----------帮内聚焦左----------->
+        <!--静态碎片-->
+        <div class="cyfocus_left clearfix">
+	      <div class="title"><span class="span_tr">邦内聚焦</span></div>
+            <div class="art_top1 clearfix">
+<div class="title16"><a class="blue_1" href="http://conference.cyzone.cn/features/annual2011/" target="_blank">2011&ldquo;创业邦100&rdquo;、年度创业人物等奖项揭晓 </a></div>
+<div class="art14">2011年12月1日-2日，&ldquo;2011创业邦年会暨创业邦100年度颁奖典礼&rdquo;在京举行。梦芭莎、多利农庄、好乐买、乐元素、海纳信息等100家企业跻身&ldquo;创业邦100&rdquo;，陈一舟、龚海燕、徐小平、薛蛮子、李开复分别获得中国年度创业人物、年度女性创业人物、年度天使投资人、年度创业公益人物和年度创业导师等奖项。 <a class="blue" href="http://conference.cyzone.cn/features/annual2011/" target="_blank">直播专题&gt;&gt;</a>&nbsp;&nbsp;<a class="blue" href="http://news.cyzone.cn/industry/667/" target="_blank">年会报道&gt;&gt; </a></div>
+</div>
+<div class="clearfix">
+<ul class="box clearfix">
+<li><a href="http://news.cyzone.cn/news/2011/12/02/219353.html" target="_blank">&ldquo;2011中国年度天使投资人&rdquo;徐小平：创业需要 True Passion</a></li>
+<li><a href="http://news.cyzone.cn/news/2011/12/02/219350.html" target="_blank">天使投资大佬最爱投什么样的创业者</a></li>
+<li><a href="http://news.cyzone.cn/news/2011/12/03/219363.html">世纪佳缘CEO龚海燕当选&ldquo;2011年度女性创业人物&rdquo;</a></li>
+<li><a href="http://news.cyzone.cn/news/2011/12/03/219362.html">薛蛮子当选&ldquo;2011中国年度创业公益人物&rdquo;</a></li>
+<li><a href="http://news.cyzone.cn/news/2011/12/02/219339.html" target="_blank">电商的战争：拼物流？拼模式？拼细分？</a></li>
+<li><a href="http://news.cyzone.cn/news/2011/12/02/219334.html" target="_blank">平台上的创业者：如何从寄生转为共生</a></li>
+<li><a href="http://news.cyzone.cn/news/2011/12/01/219305.html" target="_blank">IDG创始合伙人熊晓鸽：下个十年移动互联将称霸中国</a></li>
+<li><a href="http://news.cyzone.cn/news/2011/12/01/219312.html" target="_blank">赛富亚洲阎焱：潮向何方？中国经济未来十年的创业机会</a></li>
+<li><a href="http://news.cyzone.cn/news/2011/12/01/219317.html" target="_blank">雷军：小公司要生存就必须要创新</a></li>
+<li><a href="http://news.cyzone.cn/news/2011/12/02/219332.html" target="_blank">陶闯：2.5小时拿到2.5亿美元投资的秘诀</a></li>
+<li><a href="http://news.cyzone.cn/news/2011/12/02/219336.html" target="_blank">九安医疗刘毅：一个创业CEO的苦与乐</a></li>
+<li><a href="http://news.cyzone.cn/news/2011/12/01/219319.html" target="_blank">创业企业成长的烦恼：CEO的领导力</a></li>
+</ul>
+</div>
+            <div class="grey_bor clearfix">
+<ul class="grey_back clearfix">
+<li><a href="http://conference.cyzone.cn/features/annual2011/" target="_blank" title="">2011创业邦年会 专题直播</a></li>
+<li><a href="http://news.cyzone.cn/industry/667/" target="_blank" title="">2011创业邦年会 新闻报道</a></li>
+<li><a href="http://www.cyzone.cn/cyzone100/2011/" target="_blank">创业邦100 评选活动</a></li>
+<li><a href="http://daren.cyzone.cn/final.html" target="_blank" title="">新新创业达人总决赛回顾</a></li>
+</ul>
+</div>        </div>
+        <!-----------帮内聚焦右----------->
+        <div class="cyfocus_right clearfix">
+  		  <!--幻灯片开始-->
+  		  <!--幻灯片开始-->
+        		<div class="focus_1" id="lantern_pic">
+        		 <div class="focus_con" style="display:block;">
+		  <div class="focus_top">
+            <div class="focus_pic"> <a title="陈一舟当选 “2011中国年度创业人物”"  href="http://news.cyzone.cn/news/2011/12/02/219354.html" target="_blank"><img src="http://www.cyzone.cn/uploadfile/2011/1202/20111202072919438.jpg" alt="陈一舟当选 “2011中国年度创业人物”" width="260"/></a></div>
+          </div>
+		  <div class="focus_title">
+            <div class="focus_art"><a title="陈一舟当选 “2011中国年度创业人物”"  href="http://news.cyzone.cn/news/2011/12/02/219354.html" target="_blank">陈一舟当选 “2011中国年度创业人物”</a></div>
+          </div>
+		 </div>
+         		 <div class="focus_con" style="display:none;">
+		  <div class="focus_top">
+            <div class="focus_pic"> <a title="李善友发问张永琪：环球天下被卖掉会不会没面子？"  href="http://news.cyzone.cn/news/2011/12/01/219324.html" target="_blank"><img src="http://www.cyzone.cn/uploadfile/2011/1201/20111201081219661.jpg" alt="李善友发问张永琪：环球天下被卖掉会不会没面子？" width="260"/></a></div>
+          </div>
+		  <div class="focus_title">
+            <div class="focus_art"><a title="李善友发问张永琪：环球天下被卖掉会不会没面子？"  href="http://news.cyzone.cn/news/2011/12/01/219324.html" target="_blank">李善友发问张永琪：环球天下被卖掉会不会没面子？</a></div>
+          </div>
+		 </div>
+         		 <div class="focus_con" style="display:none;">
+		  <div class="focus_top">
+            <div class="focus_pic"> <a title="陶闯融资秘诀：卖自己、卖行业、卖时间"  href="http://news.cyzone.cn/news/2011/12/02/219332.html" target="_blank"><img src="http://www.cyzone.cn/uploadfile/2011/1201/20111201054623710.jpg" alt="陶闯融资秘诀：卖自己、卖行业、卖时间" width="260"/></a></div>
+          </div>
+		  <div class="focus_title">
+            <div class="focus_art"><a title="陶闯融资秘诀：卖自己、卖行业、卖时间"  href="http://news.cyzone.cn/news/2011/12/02/219332.html" target="_blank">陶闯融资秘诀：卖自己、卖行业、卖时间</a></div>
+          </div>
+		 </div>
+         		 <div class="focus_con" style="display:none;">
+		  <div class="focus_top">
+            <div class="focus_pic"> <a title="平台上的创业无国界 创新不“恐美”"  href="http://news.cyzone.cn/news/2011/12/02/219337.html" target="_blank"><img src="http://www.cyzone.cn/uploadfile/2011/1202/20111202121458133.jpg" alt="平台上的创业无国界 创新不“恐美”" width="260"/></a></div>
+          </div>
+		  <div class="focus_title">
+            <div class="focus_art"><a title="平台上的创业无国界 创新不“恐美”"  href="http://news.cyzone.cn/news/2011/12/02/219337.html" target="_blank">平台上的创业无国界 创新不“恐美”</a></div>
+          </div>
+		 </div>
+                     <ul id="lantern_list" class="focus_changebtn clearfix">
+                          <li onmouseover="ohpage(0)" class="current"><a title="陈一舟当选 “2011中国年度创业人物”" href="http://news.cyzone.cn/news/2011/12/02/219354.html" target="_blank">1</a></li>
+                          <li onmouseover="ohpage(1)" class=""><a title="李善友发问张永琪：环球天下被卖掉会不会没面子？" href="http://news.cyzone.cn/news/2011/12/01/219324.html" target="_blank">2</a></li>
+                          <li onmouseover="ohpage(2)" class=""><a title="陶闯融资秘诀：卖自己、卖行业、卖时间" href="http://news.cyzone.cn/news/2011/12/02/219332.html" target="_blank">3</a></li>
+                          <li onmouseover="ohpage(3)" class=""><a title="平台上的创业无国界 创新不“恐美”" href="http://news.cyzone.cn/news/2011/12/02/219337.html" target="_blank">4</a></li>
+                        </ul>
+        <script type="text/javascript">$(function(){ohpage();});</script>
+        </div>
+         		  <!--幻灯片结束-->
+          <!--独家编译-->
+                    <div class="cyfocus_exclu clearfix">
+	<div class="title_exclu">
+		<a href="http://overseas.cyzone.cn/" target="_blank" title="">原创/编译</a></div>
+    	                <div class="compilation clearfix">
+                 <h3> <a title="创业邦周报202期：解密美国农业" target="_blank" href="http://www.cyzone.cn/features/111128/?pc_hash=k71t2v" class="blue_1">创业邦周报202期：解密美国农业</a></h3>
+                <a title="创业邦周报202期：解密美国农业" href="http://www.cyzone.cn/features/111128/?pc_hash=k71t2v" target="_blank"><img alt="创业邦周报202期：解密美国农业" src="http://www.cyzone.cn/uploadfile/2011/1129/20111129110033871.jpg" /></a>
+                  <p>创业邦周报202期：《解密美国新农业：本地农场》《手机游戏的代理生...<span class="space_5px"> <a title="创业邦周报202期：解密美国农业" href="http://www.cyzone.cn/features/111128/?pc_hash=k71t2v" class="blue" target="_blank">详细>></a></span></p>
+           </div>
+    	<div class="art_top3">
+    			<div class="black_title">
+			<a href="http://overseas.cyzone.cn/20111125/218993.html" target="_blank" title="11.19-11.25风险投资清单 投资事件18起">11.19-11.25风险投资清单 投资事件18起</a></div>
+		<p>最近有哪些新技术、新平台颇得资本青睐？上周共发生投资事件18起。<span><a class="blue" href="http://overseas.cyzone.cn/20111125/218993.html" target="_blank" title="11.19-11.25风险投资清单 投资事件18起">详细&gt;&gt;</a></span></p>
+	</div>
+<div class="clearfix">
+	<ul class="top_space" style="margin-top:8px;">
+    		<li><a class="sky_blue" href="http://overseas.cyzone.cn/20111125/218998.html" target="_blank" title="11.19-11.25并购、IPO清单">11.19-11.25并购、IPO清单</a></li>
+    		<li><a class="sky_blue" href="http://www.cyzone.cn/features/111121/?pc_hash=7v8DM1" target="_blank" title="创业邦周报201期：温州“商人”">创业邦周报201期：温州“商人”</a></li>
+    		<li><a class="sky_blue" href="http://overseas.cyzone.cn/20111118/218530.html" target="_blank" title="11.12-11.18并购、IPO清单">11.12-11.18并购、IPO清单</a></li>
+    	</ul>
+</div>
+</div>
+	          <!--独家编译-->
+        </div>
+      </div>
+      <!-----------广告位----------->
+      <div class="ad"><script type='text/javascript'>
+   var m3_u = (location.protocol=='https:'?'https://poddy.cn/openx2/www/delivery/ajs.php':'http://poddy.cn/openx2/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=12");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+</script><noscript><a href='http://poddy.cn/openx2/www/delivery/ck.php?n=a0ea1b74&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://poddy.cn/openx2/www/delivery/avw.php?zoneid=12&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0ea1b74' border='0' alt='' /></a></noscript></div>
+      <!-----------行业资讯----------->
+      <div class="cynews clearfix">
+        <div class="title_news"><span class="space_5px"> <a title="" href="http://news.cyzone.cn/" target="_blank">行业资讯</a></span></div>
+        <div class="cyfocus_box clearfix">
+          <!-----------行业资讯左----------->
+          <div class="cynews_left clearfix">
+            <div class="fleft art_top3">
+                            <div class="title14"> <a title="凡客的“远虑”和“近忧”"  href="http://news.cyzone.cn/news/2011/12/03/219358.html" target="_blank" class="blue_1">凡客的“远虑”和“近忧”</a></div>
+              <p>吴声的一纸辞文将凡客再次推到风口浪尖。市场上频传凡客将推迟IPO计划的消息，内部高层震动，外部市场环境不景气，使得凡客这个被外界寄予深厚期望的电商，让人们不得不为其捏...<span> <a title=""   href="http://news.cyzone.cn/news/2011/12/03/219358.html" class="blue" target="_blank">详细>></a></span></p>
+                          </div>
+            <div class="fleft padt_1 clearfix">
+              <ul class="box">
+                                            <li> <a title="i美股方三文：中概股分化严重 VIE仍行得通" href="http://news.cyzone.cn/news/2011/12/01/219321.html" class="sky_blue" target="_blank">i美股方三文：中概股分化严重 VIE仍行得通</a></li>
+                              <li> <a title="个人云存储：下一波淘金潮" href="http://news.cyzone.cn/news/2011/12/03/219361.html" class="sky_blue" target="_blank">个人云存储：下一波淘金潮</a></li>
+                              <li> <a title="盛大CEO陈天桥：将加大云计算投入" href="http://news.cyzone.cn/news/2011/12/03/219360.html" class="sky_blue" target="_blank">盛大CEO陈天桥：将加大云计算投入</a></li>
+                              <li> <a title="“魔卡”真磨蹭 高朋团购一个月不发货" href="http://news.cyzone.cn/news/2011/12/03/219357.html" class="sky_blue" target="_blank">“魔卡”真磨蹭 高朋团购一个月不发货</a></li>
+                              <li> <a title="薛蛮子：天使投资没有季节" href="http://news.cyzone.cn/news/2011/12/02/219351.html" class="sky_blue" target="_blank">薛蛮子：天使投资没有季节</a></li>
+                              <li> <a title="社交搜索成为新趋势" href="http://news.cyzone.cn/news/2011/12/02/219344.html" class="sky_blue" target="_blank">社交搜索成为新趋势</a></li>
+                              <li> <a title="徐易容：美丽说每月为淘宝带去7亿交易额" href="http://news.cyzone.cn/news/2011/12/02/219341.html" class="sky_blue" target="_blank">徐易容：美丽说每月为淘宝带去7亿交易额</a></li>
+                              <li> <a title="易购网、一淘网是兄是敌？" href="http://news.cyzone.cn/news/2011/11/30/219292.html" class="sky_blue" target="_blank">易购网、一淘网是兄是敌？</a></li>
+                              <li> <a title="果粉十大不靠谱观点：苹果硬件最佳 微软不算啥" href="http://news.cyzone.cn/news/2011/11/30/219299.html" class="sky_blue" target="_blank">果粉十大不靠谱观点：苹果硬件最佳 微软不算啥</a></li>
+                              <li> <a title="新浪腾讯布局微购物探寻商业化 微博营销噱头高过创新" href="http://news.cyzone.cn/news/2011/11/30/219295.html" class="sky_blue" target="_blank">新浪腾讯布局微购物探寻商业化 微博营销噱头高过创新</a></li>
+                                      </ul>
+            </div>
+          </div>
+          <!-----------行业资讯右----------->
+          <div class="cynews_right clearfix">
+            <div class="title_1"> <a title="酷站" href="http://overseas.cyzone.cn/hangye/kuzhan/" target="_blank">酷站</a></div>
+                        <div class="border_bot clearfix">
+              <div class="fleft clearfix">
+                                <div class="fleft cool_img"> <a title="LaunchNow：把创业过程变成一个游戏" href="http://overseas.cyzone.cn/20111130/219265.html" target="_blank"><img width="60" alt="LaunchNow：把创业过程变成一个游戏" src="http://www.cyzone.cn/uploadfile/2011/1130/thumb_60_60_thumb_593_292_20111130103434609.jpg" /></a></div>
+                <div class="cool_text">
+                  <h1> <a title="LaunchNow：把创业过程变成一个游戏" target="_blank" href="http://overseas.cyzone.cn/20111130/219265.html" class="blue_1">LaunchNow：把创业过程变成一个游戏</a></h1>
+                  <p>LaunchNow.co是一家新的初创公司，它旨在把创建初创公...<span class="space_5px"> <a title="LaunchNow：把创业过程变成一个游戏" href="http://overseas.cyzone.cn/20111130/219265.html" class="blue" target="_blank">详细>></a></span></p>
+                </div>
+              </div>
+              <div class="fleft clearfix">
+                <ul class="box_3">
+                                    <li> <a title="Get Gifted：让用户浏览“虚拟房间”赢大奖" href="http://overseas.cyzone.cn/20111129/219219.html" class="sky_blue" target="_blank">Get Gifted：让用户浏览“虚拟房间”赢大奖</a></li>
+                                    <li> <a title="HouseTrip：点对点度假公寓预订网站" href="http://overseas.cyzone.cn/20111128/219132.html" class="sky_blue" target="_blank">HouseTrip：点对点度假公寓预订网站</a></li>
+                                  </ul>
+              </div>
+            </div>
+                        <div class="title_1"> <a title="应用" href="http://overseas.cyzone.cn/hangye/yingyong/" target="_blank">酷应用</a></div>
+                        <div class="border_bot_1 clearfix">
+              <div class="fleft clearfix">
+  				                <div class="fleft cool_img"> <a title="Foursquare 塞班版本新功能：摇摇手机 签到轻松搞定" href="http://overseas.cyzone.cn/20111130/219300.html" target="_blank"><img width="60" alt="Foursquare 塞班版本新功能：摇摇手机 签到轻松搞定" src="http://www.cyzone.cn/uploadfile/2011/1130/thumb_60_60_20111130034947284.jpg" /></a></div>
+                <div class="cool_text">
+                  <h1> <a title="Foursquare 塞班版本新功能：摇摇手机 签到轻松搞定" target="_blank" href="http://overseas.cyzone.cn/20111130/219300.html" class="blue_1">Foursquare 塞班版本新功能：摇摇手机 签到轻松搞定</a></h1>
+                  <p>Foursquare推出的新功能利用NFC技术，用户只要摇一摇...<span class="space_5px"><a title="Foursquare 塞班版本新功能：摇摇手机 签到轻松搞定" href="http://overseas.cyzone.cn/20111130/219300.html" class="blue" target="_blank">详细>></a></span></p>
+                </div>
+              </div>
+              <div class="fleft clearfix">
+                <ul class="box_3">
+                                    <li> <a title="网易云相册: 备份与同步你的手机照片" href="http://overseas.cyzone.cn/20111129/219212.html" class="sky_blue" target="_blank">网易云相册: 备份与同步你的手机照片</a></li>
+                                    <li> <a title="MonkeyContact：私人智能搜索引擎" href="http://overseas.cyzone.cn/20111128/219131.html" class="sky_blue" target="_blank">MonkeyContact：私人智能搜索引擎</a></li>
+                                  </ul>
+              </div>
+            </div>
+                      </div>
+        </div>
+      </div>
+      <!-----------行业资讯创业人物----------->
+      <div class="cynews_peo clearfix">
+        <div class="fleft clearfix">
+          <div class="title_news_3"><span class="space_5px"> <a title="" href="http://news.cyzone.cn/vpeople/" target="_blank">创业人物</a></span></div>
+                  <div class="busin_text clearfix">
+		   <ul>
+                      <li> <a title="刘毅" href="http://news.cyzone.cn/vpeople/86.html" target="_blank"><img src="http://www.cyzone.cn/uploadfile/2011/1122/20111122085011594.jpg" alt="" width="135" height="100"/></a>
+              <div class="busin_title"><a title="刘毅" target="_blank" href="http://news.cyzone.cn/vpeople/86.html">刘毅</a></div>
+            </li>
+                      <li> <a title="蒋磊" href="http://news.cyzone.cn/vpeople/46.html" target="_blank"><img src="http://www.cyzone.cn/uploadfile/2011/1103/20111103080951956.jpg" alt="" width="135" height="100"/></a>
+              <div class="busin_title"><a title="蒋磊" target="_blank" href="http://news.cyzone.cn/vpeople/46.html">蒋磊</a></div>
+            </li>
+                      <li> <a title="徐易容" href="http://news.cyzone.cn/vpeople/43.html" target="_blank"><img src="http://www.cyzone.cn/uploadfile/2011/1102/20111102040202302.jpg" alt="" width="135" height="100"/></a>
+              <div class="busin_title"><a title="徐易容" target="_blank" href="http://news.cyzone.cn/vpeople/43.html">徐易容</a></div>
+            </li>
+                      <li> <a title="杨浩涌" href="http://news.cyzone.cn/vpeople/68.html" target="_blank"><img src="http://www.cyzone.cn/uploadfile/2011/1110/20111110083935719.jpg" alt="" width="135" height="100"/></a>
+              <div class="busin_title"><a title="杨浩涌" target="_blank" href="http://news.cyzone.cn/vpeople/68.html">杨浩涌</a></div>
+            </li>
+            			</ul>
+           </div>
+           
+        </div>
+        <div class="fleft clearfix">
+          <div class="title_news_4"><span class="space_5px"><a title=""  href="http://news.cyzone.cn/vcompany/" target="_blank">创业公司</a></span></div>
+                  <div class="busin_text clearfix">
+		   <ul>
+                      <li> <a title="鲜果网" href="http://news.cyzone.cn/vcompany/2.html" target="_blank"><img src="http://www.cyzone.cn/uploadfile/2011/0819/20110819013653431.jpg" alt="" width="135" height="100"/></a>
+              <div class="busin_title"> <a title="鲜果网" href="http://news.cyzone.cn/vcompany/2.html" target="_blank">鲜果网</a></div>
+            </li>
+                      <li> <a title="土豆网" href="http://news.cyzone.cn/vcompany/17.html" target="_blank"><img src="http://www.cyzone.cn/uploadfile/2011/1129/thumb_135_100_20111129111024294.jpg" alt="" width="135" height="100"/></a>
+              <div class="busin_title"> <a title="土豆网" href="http://news.cyzone.cn/vcompany/17.html" target="_blank">土豆网</a></div>
+            </li>
+                      <li> <a title="第九城市" href="http://news.cyzone.cn/vcompany/18.html" target="_blank"><img src="http://www.cyzone.cn/uploadfile/2011/1129/thumb_135_100_20111129114450639.jpg" alt="" width="135" height="100"/></a>
+              <div class="busin_title"> <a title="第九城市" href="http://news.cyzone.cn/vcompany/18.html" target="_blank">第九城市</a></div>
+            </li>
+                      <li> <a title="奇艺网" href="http://news.cyzone.cn/vcompany/16.html" target="_blank"><img src="http://www.cyzone.cn/uploadfile/2011/1129/thumb_135_100_20111129104756735.jpg" alt="" width="135" height="100"/></a>
+              <div class="busin_title"> <a title="奇艺网" href="http://news.cyzone.cn/vcompany/16.html" target="_blank">奇艺网</a></div>
+            </li>
+            			</ul>
+           </div>
+           
+        </div>
+      </div>
+      <!-----------广告位----------->
+      <div class="ad"><script type='text/javascript'>
+   var m3_u = (location.protocol=='https:'?'https://poddy.cn/openx2/www/delivery/ajs.php':'http://poddy.cn/openx2/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=13");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+</script><noscript><a href='http://poddy.cn/openx2/www/delivery/ck.php?n=a2afab7f&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://poddy.cn/openx2/www/delivery/avw.php?zoneid=13&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a2afab7f' border='0' alt='' /></a></noscript></div>
+      <!-----------资本钱经----------->
+      <div class="cynews clearfix">
+        <div class="title_news"><span class="space_5px"><a title=""  href="http://capital.cyzone.cn/" target="_blank">资本钱经</a></span></div>
+        <div class="cyfocus_box">
+          <!-----------资本钱经左----------->
+          <div class="cynews_left clearfix">
+            <div class="fleft art_top3">
+                            <div class="title14"> <a title="周大福：计划15日港交所上市 或成年内港股最大IPO"  href="http://capital.cyzone.cn/article/219328/" target="_blank" class="blue_1">周大福：计划15日港交所上市 或成年内港股最大IPO</a></div>
+              <p>根据最新销售文件，周大福珠宝预计在全球发售10.5亿股，相当于上市后股本的10.5%，招股价为15港元-21港元，募集资金总额为150亿港元-220亿港元。<span> <a title=""   href="http://capital.cyzone.cn/article/219328/" class="blue" target="_blank">详细>></a></span></p>
+                          </div>
+            <div class="fleft padt_1 clearfix">
+              <ul class="box">
+                                          <li> <a title="IDG合伙人李丰：今年已投资六家移动互联网企业" href="http://capital.cyzone.cn/article/219343/" class="sky_blue" target="_blank">IDG合伙人李丰：今年已投资六家移动互联网企业</a></li>
+                              <li> <a title="社交电视应用Miso融资400万美元" href="http://capital.cyzone.cn/article/219342/" class="sky_blue" target="_blank">社交电视应用Miso融资400万美元</a></li>
+                              <li> <a title="徐小平联合红杉成立新真格基金" href="http://capital.cyzone.cn/article/219333/" class="sky_blue" target="_blank">徐小平联合红杉成立新真格基金</a></li>
+                              <li> <a title="Zynga曾拟出价25亿美元收购Rovio" href="http://capital.cyzone.cn/article/219331/" class="sky_blue" target="_blank">Zynga曾拟出价25亿美元收购Rovio</a></li>
+                              <li> <a title="艺龙宣布收购社交游戏开发商KlickNation" href="http://capital.cyzone.cn/article/219330/" class="sky_blue" target="_blank">艺龙宣布收购社交游戏开发商KlickNation</a></li>
+                              <li> <a title="郑渊洁之子引风投欲上市 将做“皮皮鲁集团”" href="http://capital.cyzone.cn/article/219329/" class="sky_blue" target="_blank">郑渊洁之子引风投欲上市 将做“皮皮鲁集团”</a></li>
+                              <li> <a title="李开复：创新就是抓准趋势创造用户价值" href="http://capital.cyzone.cn/article/219302/" class="sky_blue" target="_blank">李开复：创新就是抓准趋势创造用户价值</a></li>
+                                        </ul>
+            </div>
+          </div>
+          <!-----------资本钱经右----------->
+          <div class="cynews_right clearfix">
+            <div class="invest_table">
+              <div class="title_1"><a title=""  target="_blank" href="http://capital.cyzone.cn/eventlist.aspx">投资事件</a></div>
+              <div class="table">
+                <div class="title_table">
+                  <ul class="clearfix">
+                    <li class="table_left_1"><span>企业名称</span></li>
+                    <li class="table_left_2"><span>金额</span></li>
+                    <li class="table_left_2"><span>时间</span></li>
+                    <li class="table_left_4"><span>行业</span></li>
+                  </ul>
+                </div>
+                <div id="event-ul" class="content_table">
+                                                  <ul class="content_line clearfix">
+                    <li class="content_table1"><span><a href="http://capital.cyzone.cn/article/219266/" target="_blank">有啊</a></span></li>
+                    <li class="content_table2"><span>人民币</span></li>
+                    <li class="content_table2"><span>2011-11-30</span></li>
+                    <li class="content_table4"><span>互联网</span></li>
+                  </ul>
+                                    <ul class="content_line clearfix">
+                    <li class="content_table1"><span><a href="http://capital.cyzone.cn/article/219187/" target="_blank">21世纪中国不动产</a></span></li>
+                    <li class="content_table2"><span>2500万美元</span></li>
+                    <li class="content_table2"><span>2011-11-29</span></li>
+                    <li class="content_table4"><span>房产及家居</span></li>
+                  </ul>
+                                    <ul class="content_line clearfix">
+                    <li class="content_table1"><span><a href="http://capital.cyzone.cn/article/219194/" target="_blank">租房宝</a></span></li>
+                    <li class="content_table2"><span>人民币</span></li>
+                    <li class="content_table2"><span>2011-11-29</span></li>
+                    <li class="content_table4"><span>软件/硬件/半导体</span></li>
+                  </ul>
+                                    <ul class="content_line clearfix">
+                    <li class="content_table1"><span><a href="http://capital.cyzone.cn/article/218984/" target="_blank">115网盘</a></span></li>
+                    <li class="content_table2"><span>人民币</span></li>
+                    <li class="content_table2"><span>2011-11-25</span></li>
+                    <li class="content_table4"><span>通信/无线</span></li>
+                  </ul>
+                                    <ul class="content_line clearfix">
+                    <li class="content_table1"><span><a href="http://capital.cyzone.cn/article/218850/" target="_blank">Zinio</a></span></li>
+                    <li class="content_table2"><span>2000万美元</span></li>
+                    <li class="content_table2"><span>2011-11-24</span></li>
+                    <li class="content_table4"><span>传媒/新媒体</span></li>
+                  </ul>
+                                    <ul class="content_line clearfix">
+                    <li class="content_table1"><span><a href="http://capital.cyzone.cn/article/218865/" target="_blank">酷运动</a></span></li>
+                    <li class="content_table2"><span>3000万美元</span></li>
+                    <li class="content_table2"><span>2011-11-24</span></li>
+                    <li class="content_table4"><span>互联网</span></li>
+                  </ul>
+                                    <ul class="content_line clearfix">
+                    <li class="content_table1"><span><a href="http://capital.cyzone.cn/article/218798/" target="_blank">乐年</a></span></li>
+                    <li class="content_table2"><span>2000万人民币</span></li>
+                    <li class="content_table2"><span>2011-11-23</span></li>
+                    <li class="content_table4"><span>互联网</span></li>
+                  </ul>
+                                    <ul class="content_line clearfix">
+                    <li class="content_table1"><span><a href="http://capital.cyzone.cn/article/218763/" target="_blank">[a]list</a></span></li>
+                    <li class="content_table2"><span>930万美元</span></li>
+                    <li class="content_table2"><span>2011-11-22</span></li>
+                    <li class="content_table4"><span>互联网</span></li>
+                  </ul>
+                                    <ul class="content_line clearfix">
+                    <li class="content_table1"><span><a href="http://capital.cyzone.cn/article/218722/" target="_blank">Klip</a></span></li>
+                    <li class="content_table2"><span>800万美元</span></li>
+                    <li class="content_table2"><span>2011-11-22</span></li>
+                    <li class="content_table4"><span>互联网</span></li>
+                  </ul>
+                                                  <script>$(function(){$("#event-ul > ul").mouseover(function(){$(this).addClass('content_line_hover');}).mouseout(function(){$(this).removeClass('content_line_hover');}).click(function(){window.open($(this).find("a").attr("href")); return false;});})</script>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-----------资本钱经创业人物----------->
+      <div class="cynews_peo clearfix">
+        <div class="fleft clearfix">
+          <div class="title_news_3"><span class="space_5px"><a title=""  href="http://capital.cyzone.cn/people/" target="_blank">投资人物</a></span></div>
+          		  <div class="busin_text clearfix">
+		   <ul>
+                      <li style="text-align:center;"><a title="" href="" target="_blank"><img src="http://www.cyzone.cn/uploadfile/2011/1011/20111011040030255.jpg" alt="" height="100"/></a>
+              <div class="busin_title"><a title="童士豪" target="_blank" href="">童士豪</a></div>
+            </li>
+                       <li style="text-align:center;"><a title="" href="http://capital.cyzone.cn/people/449/" target="_blank"><img src="http://www.cyzone.cn/uploadfile/2011/0817/20110817085832880.jpg" alt="" height="100"/></a>
+              <div class="busin_title"><a title="沈劲" target="_blank" href="http://capital.cyzone.cn/people/449/">沈劲</a></div>
+            </li>
+                       <li style="text-align:center;"><a title="" href="http://capital.cyzone.cn/people/213/" target="_blank"><img src="http://img.cyzone.com.cn/peopleLib/76fb9e2f-d660-46b2-9fea-2c6334e36cac.jpg" alt="" height="100"/></a>
+              <div class="busin_title"><a title="熊晓鸽" target="_blank" href="http://capital.cyzone.cn/people/213/">熊晓鸽</a></div>
+            </li>
+                       <li style="text-align:center;"><a title="" href="http://capital.cyzone.cn/people/37/" target="_blank"><img src="http://img.cyzone.com.cn/peopleLib/a36f2a8e-df18-479b-b95f-e9b53201c3cf.jpg" alt="" height="100"/></a>
+              <div class="busin_title"><a title="阎焱" target="_blank" href="http://capital.cyzone.cn/people/37/">阎焱</a></div>
+            </li>
+             			</ul>
+           </div>
+		          </div>
+        <div class="fleft clearfix">
+          <div class="title_news_4"><span class="space_5px"><a title=""  href="http://capital.cyzone.cn/company/" target="_blank">投资公司</a></span></div>
+                    <div class="busin_text clearfix">
+		   <ul>
+                       <li><a title="" href="http://capital.cyzone.cn/company/159/" target="_blank"><img src="http://www.cyzone.cn/uploadfile/2011/1124/20111124113255219.jpg" alt="http://www.cyzone.cn/uploadfile/2011/1124/20111124113255219.jpg" height="100" width="135"/></a>
+              <div class="busin_title"><a title="" href="http://capital.cyzone.cn/company/159/" target="_blank">昆吾九鼎投资管理有限公司</a></div>
+            </li>
+                       <li><a title="" href="http://capital.cyzone.cn/company/91/" target="_blank"><img src="http://img.cyzone.com.cn/companyLib/1675fe8a-a5cd-4bbd-ba8b-c5e8b7aba572.jpg" alt="http://img.cyzone.com.cn/companyLib/1675fe8a-a5cd-4bbd-ba8b-c5e8b7aba572.jpg" height="100" width="135"/></a>
+              <div class="busin_title"><a title="" href="http://capital.cyzone.cn/company/91/" target="_blank">经纬中国</a></div>
+            </li>
+                       <li><a title="" href="http://capital.cyzone.cn/company/11/" target="_blank"><img src="http://img.cyzone.com.cn/companyLib/c4ea6ba5-87d2-442a-a487-4edea820953b.jpg" alt="http://img.cyzone.com.cn/companyLib/c4ea6ba5-87d2-442a-a487-4edea820953b.jpg" height="100" width="135"/></a>
+              <div class="busin_title"><a title="" href="http://capital.cyzone.cn/company/11/" target="_blank">红杉资本中国基金</a></div>
+            </li>
+                       <li><a title="" href="http://capital.cyzone.cn/company/9/" target="_blank"><img src="http://img.cyzone.com.cn/companyLib/12e28d98-c126-4f53-8465-296ce50c902f.jpg" alt="http://img.cyzone.com.cn/companyLib/12e28d98-c126-4f53-8465-296ce50c902f.jpg" height="100" width="135"/></a>
+              <div class="busin_title"><a title="" href="http://capital.cyzone.cn/company/9/" target="_blank">IDG资本</a></div>
+            </li>
+           			</ul>
+           </div>
+                   </div>
+      </div>
+      <!-----------广告位----------->
+      <div class="ad"><script type='text/javascript'>
+   var m3_u = (location.protocol=='https:'?'https://poddy.cn/openx2/www/delivery/ajs.php':'http://poddy.cn/openx2/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=14");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+</script><noscript><a href='http://poddy.cn/openx2/www/delivery/ck.php?n=ae268317&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://poddy.cn/openx2/www/delivery/avw.php?zoneid=14&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ae268317' border='0' alt='' /></a></noscript></div>
+      <!-----------创业学院----------->
+      <div class="cynews clearfix">
+        <div class="title_news"><span class="space_5px"><a title=""  href="http://xueyuan.cyzone.cn/" target="_blank">创业学院</a></span></div>
+		
+        <div class="cyfocus_box">
+          <!-----------创业学院左----------->
+          <div class="cynews_left clearfix">
+            <div class="fleft art_top3">
+                            <div class="title14"> <a title="企业盛衰观察：杨汛桥Vs店口上市公司盘点"  href="http://xueyuan.cyzone.cn/guanli-yunying/219257.html" target="_blank" class="blue_1">企业盛衰观察：杨汛桥Vs店口上市公司盘点</a></div>
+              <p>店口会不会成为下一个杨汛桥？ 杨汛桥教训又对店口有着怎样的借鉴？两个资本小镇的对比， 两地上市公司的盘点，比的是资本传奇的门道，参的是企业盛衰的道理。<span> <a title="企业盛衰观察：杨汛桥Vs店口上市公司盘点" href="http://xueyuan.cyzone.cn/guanli-yunying/219257.html" class="blue" target="_blank">详细>></a></span></p>
+                          </div>
+            <div class="fleft padt_1 clearfix">
+              <ul class="box">
+                                            <li> <a title="根据定位 为网站寻找完美的配色" href="http://xueyuan.cyzone.cn/jishu-gongju/219286.html" class="sky_blue" target="_blank">根据定位 为网站寻找完美的配色</a></li>
+                              <li> <a title="准确预测苹果趋势  手机游戏赚到2000万美元" href="http://xueyuan.cyzone.cn/gushi-gushi2/219247.html" class="sky_blue" target="_blank">准确预测苹果趋势  手机游戏赚到2000万美元</a></li>
+                              <li> <a title="船王长女包陪庆谈企业管理与优秀企业家素质" href="http://xueyuan.cyzone.cn/guanli-yunying/219274.html" class="sky_blue" target="_blank">船王长女包陪庆谈企业管理与优秀企业家素质</a></li>
+                              <li> <a title="企业预算与实际花费比例中的学问" href="http://xueyuan.cyzone.cn/caiwu-caiwuguanli/219263.html" class="sky_blue" target="_blank">企业预算与实际花费比例中的学问</a></li>
+                              <li> <a title="顶级高管领导力修炼：如何得到需要的反馈" href="http://xueyuan.cyzone.cn/guanli-lingdaoli/219270.html" class="sky_blue" target="_blank">顶级高管领导力修炼：如何得到需要的反馈</a></li>
+                              <li> <a title="知名企业的品牌名称是如何创造出来的？" href="http://xueyuan.cyzone.cn/qibu-qiming/219267.html" class="sky_blue" target="_blank">知名企业的品牌名称是如何创造出来的？</a></li>
+                              <li> <a title="从对苹果的痴迷看如何建立品牌忠诚度" href="http://xueyuan.cyzone.cn/yingxiao-pinpai/219259.html" class="sky_blue" target="_blank">从对苹果的痴迷看如何建立品牌忠诚度</a></li>
+                              <li> <a title="创业公司不善于从失败中学习 才是真的失败" href="http://xueyuan.cyzone.cn/guanli-yunying/219254.html" class="sky_blue" target="_blank">创业公司不善于从失败中学习 才是真的失败</a></li>
+                              <li> <a title="中国民企平均寿命2.9年 美国平均达40年" href="http://xueyuan.cyzone.cn/guanli-zhanlve/219252.html" class="sky_blue" target="_blank">中国民企平均寿命2.9年 美国平均达40年</a></li>
+                                          </ul>
+            </div>
+          </div>
+          <!-----------创业学院右----------->
+		  <div class="cynews_right clearfix">
+            <div class="title_1"> <a title="创业故事" href="http://xueyuan.cyzone.cn/gushi/" target="_blank">创业故事</a></div>
+                        <div class="border_bot clearfix">
+              <div class="fleft clearfix">
+                                <div class="cool_text" style="width:100%;margin-left:10px;">
+                  <h1> <a title="布隆伯格：创业时请美林员工喝咖啡发展人脉" target="_blank" href="http://xueyuan.cyzone.cn/gushi-jingdian/219275.html" class="blue_1">布隆伯格：创业时请美林员工喝咖啡发展人脉</a></h1>
+                  <p>离开所罗门兄弟公司后，布隆伯格开始自己创业，他说：&ldquo;没有人主动...<span class="space_5px"> <a title="布隆伯格：创业时请美林员工喝咖啡发展人脉" href="http://xueyuan.cyzone.cn/gushi-jingdian/219275.html" class="blue" target="_blank">详细>></a></span></p>
+                </div>
+              </div>
+              <div class="fleft clearfix">
+                <ul class="box_3">
+                                    <li> <a title="准确预测苹果趋势  手机游戏赚到2000万美元" href="http://xueyuan.cyzone.cn/gushi-gushi2/219247.html" class="sky_blue" target="_blank">准确预测苹果趋势  手机游戏赚到2000万美元</a></li>
+                                    <li> <a title="华人海外创业：低调坚韧务实的成功基因" href="http://xueyuan.cyzone.cn/gushi-jingdian/219200.html" class="sky_blue" target="_blank">华人海外创业：低调坚韧务实的成功基因</a></li>
+                                  </ul>
+              </div>
+            </div>
+                        <div class="title_1"> <a title="名家观点" href="http://xueyuan.cyzone.cn/guandian/" target="_blank">名家观点</a></div>
+                        <div class="border_bot_1 clearfix">
+              <div class="fleft clearfix">
+  				                <div class="cool_text" style="width:100%;margin-left:10px;">
+                  <h1> <a title="俞敏洪：尽快确立未来30年人生的奋斗方向" target="_blank" href="http://xueyuan.cyzone.cn/guandian-guandian2/219191.html" class="blue_1">俞敏洪：尽快确立未来30年人生的奋斗方向</a></h1>
+                  <p>第一，尽快摆脱新东方的&ldquo;纠缠&rdquo;，这个&ldquo;纠缠&rdquo;是具体事务上，精神...<span class="space_5px"><a title="俞敏洪：尽快确立未来30年人生的奋斗方向" href="http://xueyuan.cyzone.cn/guandian-guandian2/219191.html" class="blue" target="_blank">详细>></a></span></p>
+                </div>
+              </div>
+              <div class="fleft clearfix">
+                <ul class="box_3">
+                                    <li> <a title="马云：一定要在很赚钱的时候去融资" href="http://xueyuan.cyzone.cn/guandian-guandian2/218981.html" class="sky_blue" target="_blank">马云：一定要在很赚钱的时候去融资</a></li>
+                                    <li> <a title="百度CEO李彦宏的经典语录" href="http://xueyuan.cyzone.cn/guandian-guandian2/218523.html" class="sky_blue" target="_blank">百度CEO李彦宏的经典语录</a></li>
+                                  </ul>
+              </div>
+            </div>
+                      </div>
+         </div>
+      </div>
+      <!--连锁加盟-->
+      <div class="chain clearfix">
+        <div class="cychain_join">
+          <div class="title_news clearfix"><span class="space_5px"><a title=""  href="http://liansuo.cyzone.cn/" target="_blank">连锁加盟</a></span></div>
+		  <!--block start-->
+          <div class="cychain_brand clearfix">
+	推荐品牌：<a href="http://liansuo.cyzone.cn/pinpai/424.htm" target="_blank" title="">一茶一坐</a>　|　<a href="http://liansuo.cyzone.cn/pinpai/422.htm" target="_blank" title="">哈根达斯</a>　|　<a href="http://liansuo.cyzone.cn/pinpai/358.htm" target="_blank" title="">半亩园</a>　|　<a href="http://liansuo.cyzone.cn/pinpai/327.htm" target="_blank" title="">东方爱婴</a>　|　<a href="http://liansuo.cyzone.cn/pinpai/352.htm" target="_blank" title="">爱康国宾</a>　|　<a href="http://liansuo.cyzone.cn/pinpai/318.htm" target="_blank" title="">如家酒店</a></div>
+<div class="join_box clearfix">
+	<div class="join_box_1 clearfix">
+		<ul>
+			<li class="clearfix">
+				<div class="join_box_img">
+					<span><a href="http://liansuo.cyzone.cn/pinpai/419.htm" target="_blank" title=""><img alt="" src="http://img.cyzone.cn/brand/11432/633807681409380436.jpg" /></a></span></div>
+				<div class="join join_bg">
+					<h1>
+						品牌名称：<a class="blue_1" href="http://liansuo.cyzone.cn/pinpai/419.htm" target="_blank" title="">水果捞</a>　　所属行业：<a class="blue_1" href="http://liansuo.cyzone.cn/canyin/" target="_blank" title="">餐饮食品</a>　　投资金额：<a class="blue_1" href="#" target="_blank" title="">20-50万</a></h1>
+					<p>
+						<span class="black">业务简介</span>：《Fruity Mix 水果捞》所开创的健康水果饮食文化已经逐步受到大家的喜爱，水果捞在5年间进入中国20个城市，包括北京、上海、广州、深圳、天津、长沙、武汉、昆明、南宁、珠海、中山、西安 、福州、南昌、佛山、玉林、义乌、汕头等，超过50间分店。<span><a class="blue" href="http://liansuo.cyzone.cn/pinpai/419.htm" target="_blank" title="">详细&gt;&gt;</a></span></p>
+				</div>
+			</li>
+			<li class="clearfix">
+				<div class="join_box_img">
+					<span><a href="http://liansuo.cyzone.cn/pinpai/341.htm" target="_blank" title=""><img alt="" src="http://img.cyzone.cn/brand/11432/633737752463157500.jpg" /></a></span></div>
+				<div class="join">
+					<h1>
+						品牌名称：<a class="blue_1" href="http://liansuo.cyzone.cn/pinpai/341.htm" target="_blank" title="">酷迪宠物</a>　　所属行业：<a class="blue_1" href="http://liansuo.cyzone.cn/chongwu/" target="_blank" title="">宠物服务</a>　　投资金额：<a class="blue_1" href="#" target="_blank" title="">5-20万</a></h1>
+					<p>
+						<span class="black">业务简介</span>：酷迪宠物用品连锁专卖店成立于2001年初。以优质的产品，全方位的服务，为顾客营造出一个充满乐趣、令人兴奋的消费环境。自成立以来，现已在全国拥有店面近五十家。拥有营业面积1500余平米的宠物用品城。<span><a class="blue" href="http://liansuo.cyzone.cn/pinpai/341.htm" target="_blank" title="">详细&gt;&gt;</a></span></p>
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>		  <!--block end-->
+        </div>
+      </div>
+    </div>
+    <!-----------content right----------->
+    <div class="right clearfix">
+      <!-----------杂志----------->
+      <div class="cymag">
+        <div class="title"><a title=""  href="http://magazine.cyzone.cn/" target="_blank">《创业邦》杂志</a></div>
+        <!--静态碎片-->
+        <ul class="top_space clearfix">
+	<li class="cymag_right">
+		<a href="http://magazine.cyzone.cn/m49.html" target="_blank"> <img src="http://www.cyzone.cn/uploadfile/2011/1107/20111107070540314.jpg" width="77" /></a><br />
+		<div>
+			2011年11月刊</div>
+	</li>
+	<li class="title14">
+		<a class="blue_1" href="http://magazine.cyzone.cn/articles/201111/2327.html" target="_blank" title="">解密美国新农业：本地农场　</a></li>
+	<li class="cymagtext">
+		美国新农业从田园到餐桌的一条龙式流程在全美风行。而消费者享受这种田园到餐桌的品质产品，愿意为绿色、环保的有机食品买单!　<span><a class="blue" href="http://magazine.cyzone.cn/articles/201111/2327.html" target="_blank" title="">详细&gt;&gt;</a></span>　</li>
+	<li>
+		<a class="sky_blue" href="http://magazine.cyzone.cn/articles/201111/2322.html" target="_blank" title="">【管理】完美演讲工具秘籍 </a>　</li>
+	<li>
+		<a class="sky_blue" href="http://magazine.cyzone.cn/articles/201111/2328.html" target="_blank" title="">【专栏】方军：如何听专家的意见 </a></li>
+	<li>
+		<a class="sky_blue" href="http://magazine.cyzone.cn/articles/201111/2325.html" target="_blank" title="">【起步】新加盟项目:雇佣祖母 </a></li>
+	<li>
+		<a class="sky_blue" href="http://magazine.cyzone.cn/articles/201111/2329.html" target="_blank" title="">【资本】寻找配偶保险计划的最大效应 </a>　　</li>
+</ul>        <!--静态碎片结束-->
+        <form>
+	<div class="magsearch">
+		<div class="search fleft">
+			往期查询 <select id="selmag" name="selmag">  <option if="" issue="=$r['issue']}" value="49">2011年11月</option><option if="" issue="=$r['issue']}" value="48">2011年10月</option><option if="" issue="=$r['issue']}" value="47">2011年09月</option><option if="" issue="=$r['issue']}" value="46">2011年08月</option><option if="" issue="=$r['issue']}" value="45">2011年07月</option><option if="" issue="=$r['issue']}" value="44">2011年06月</option><option if="" issue="=$r['issue']}" value="43">2011年05月</option><option if="" issue="=$r['issue']}" value="42">2011年04月</option><option if="" issue="=$r['issue']}" value="41">2011年03月</option><option if="" issue="=$r['issue']}" value="40">2011年02月</option><option if="" issue="=$r['issue']}" value="39">2011年01月</option><option if="" issue="=$r['issue']}" value="38">2010年12月</option><option if="" issue="=$r['issue']}" value="37">2010年11月</option><option if="" issue="=$r['issue']}" value="36">2010年10月</option><option if="" issue="=$r['issue']}" value="35">2010年09月</option><option if="" issue="=$r['issue']}" value="34">2010年08月</option><option if="" issue="=$r['issue']}" value="33">2010年07月</option><option if="" issue="=$r['issue']}" value="32">2010年06月</option><option if="" issue="=$r['issue']}" value="31">2010年05月</option><option if="" issue="=$r['issue']}" value="30">2010年04月</option><option if="" issue="=$r['issue']}" value="29">2010年03月</option><option if="" issue="=$r['issue']}" value="28">2010年02月</option><option if="" issue="=$r['issue']}" value="27">2010年01月</option><option if="" issue="=$r['issue']}" value="26">2009年12月</option><option if="" issue="=$r['issue']}" value="25">2009年11月</option><option if="" issue="=$r['issue']}" value="24">2009年10月</option><option if="" issue="=$r['issue']}" value="23">2009年09月</option><option if="" issue="=$r['issue']}" value="22">2009年08月</option><option if="" issue="=$r['issue']}" value="21">2009年07月</option><option if="" issue="=$r['issue']}" value="20">2009年06月</option><option if="" issue="=$r['issue']}" value="19">2009年05月</option><option if="" issue="=$r['issue']}" value="18">2009年04月</option><option if="" issue="=$r['issue']}" value="17">2009年03月</option><option if="" issue="=$r['issue']}" value="16">2009年02月</option><option if="" issue="=$r['issue']}" value="15">2009年01月</option><option if="" issue="=$r['issue']}" value="14">2008年12月</option><option if="" issue="=$r['issue']}" value="13">2008年11月</option><option if="" issue="=$r['issue']}" value="12">2008年10月</option><option if="" issue="=$r['issue']}" value="11">2008年09月</option><option if="" issue="=$r['issue']}" value="10">2008年08月</option><option if="" issue="=$r['issue']}" value="9">2008年07月</option><option if="" issue="=$r['issue']}" value="8">2008年06月</option><option if="" issue="=$r['issue']}" value="7">2008年05月</option><option if="" issue="=$r['issue']}" value="6">2008年04月</option><option if="" issue="=$r['issue']}" value="5">2008年03月</option><option if="" issue="=$r['issue']}" value="4">2008年02月</option><option if="" issue="=$r['issue']}" value="3">2008年01月</option><option if="" issue="=$r['issue']}" value="2">2007年12月</option><option if="" issue="=$r['issue']}" value="1">2007年10月</option>  </select></div>
+		<div class="fleft padd1">
+			<input class="btn_search1" name="sa" onclick="Setddl(document.getElementById('selmag').value)" style="cursor: pointer" type="button" value="查询" /></div>
+		<div class="fleft padd">
+			<a href="http://magazine.cyzone.cn/subscription.html" target="_blank" title=""><img alt="" src="http://www.cyzone.cn/statics/css/cyzonev1/ver2/images/sub.gif" /></a></div>
+	</div>
+</form>
+<script type="text/javascript">
+function Setddl(id) {
+    window.open('http://magazine.cyzone.cn/m'+id+'.html');
+}
+</script>        <div class="border_line">
+	关注我们： <a href="http://t.sina.com.cn/cyzone" target="_blank" title=""><img src="images/sina.gif" title="创业邦-新浪微博" /></a> <a href="http://t.qq.com/cyzone" target="_blank" title=""><img src="images/qq.gif" title="创业邦-腾讯微博" /></a> <a href="http://www.kaixin001.com/home/?uid=63597953" target="_blank" title=""><img src="images/kaixin.gif" title="创业邦-开心网" /></a></div>      </div>
+      <!-----------广告位----------->
+      <div class="ad_1"><script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://poddy.cn/openx2/www/delivery/ajs.php':'http://poddy.cn/openx2/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=9");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+//]]>--></script><noscript><a href='http://poddy.cn/openx2/www/delivery/ck.php?n=a2163f04&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://poddy.cn/openx2/www/delivery/avw.php?zoneid=9&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a2163f04' border='0' alt='' /></a></noscript></div>
+      <!-----------专题报道----------->
+      <div class="cyreports">
+        <div class="title_news"><a title=""  href="http://www.cyzone.cn/features/" target="_blank">专题报道</a></div>
+		<div class="cyreports_top clearfix">
+	<div class="cyreports_img">
+		<a href="http://daren.cyzone.cn/final.html" target="_blank"><img alt="" src="http://img.cyzone.cn/features/chuangyezhou_281x81.gif" /></a></div>
+	<div class="cyreports_text">
+		<a href="http://daren.cyzone.cn/final.html" target="_blank">2011全球创业周 新新创业达人总决赛</a></div>
+</div>
+<div class="fleft clearfix">
+	<ul class="top_space1">
+		<li>
+			<a class="sky_blue" href="http://daren.cyzone.cn/" target="_blank" title="">新新创业达人：新青年 新创意 新商业 新未来</a></li>
+		<li>
+			<a class="sky_blue" href="http://conference.cyzone.cn/features/annual2011/" target="_blank" title="">2011创业邦年会 暨创业邦100颁奖盛典</a></li>
+		<li>
+			<a class="sky_blue" href="http://conference.cyzone.cn/201108/68.html" target="_blank" title="">CEO俱乐部第56期-成长型企业的营销策略</a></li>
+		<li>
+			<a class="sky_blue" href="http://conference.cyzone.cn/201108/87.html" target="_blank" title="">中国特许经营50强暨直营连锁20强颁奖典礼</a></li>
+		<li>
+			<a class="sky_blue" href="http://www.cyzone.cn/demoday/201110/" target="_blank" title="">Demo Day: IOS上的应用开发</a></li>
+		<li>
+			<a class="sky_blue" href="http://www.bnet.com.cn/2011/1101/2063745.shtml" target="_blank" title="">IT规划如何不变成鬼话</a></li>
+	</ul>
+</div>      </div>
+      <!-----------广告位----------->
+  	 <div class="ad_1"><script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://poddy.cn/openx2/www/delivery/ajs.php':'http://poddy.cn/openx2/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=10");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+//]]>--></script><noscript><a href='http://poddy.cn/openx2/www/delivery/ck.php?n=a77b215a&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://poddy.cn/openx2/www/delivery/avw.php?zoneid=10&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a77b215a' border='0' alt='' /></a></noscript></div>
+      <!-----------专栏----------->
+      <div class="cycolumn clearfix">
+        <div class="title_news"><span class="space_5px"><a title="" href="http://magazine.cyzone.cn/c28.html" target="_blank">专栏</a></span></div>
+                        <div class="art_top clearfix">
+		<div class="title12"><a title="方军：如何听专家的意见" href="http://magazine.cyzone.cn/articles/201111/2328.html" target="_blank" class="blue_1">方军：如何听专家的意见</a></div>
+          <div class="gray_colu_line clearfix"><div class="fright"><a title="方军：如何听专家的意见" href="http://magazine.cyzone.cn/articles/201111/2328.html" target="_blank" ><img width="51" height="51" alt="" src="http://www.cyzone.cn/uploadfile/2011/1121/20111121033548114.jpg" /></a></div>
+	有些不负责任的实践者，往往就把专家的观点直接投入使用，其实他们并不尊重专家，他们不过是找到一根救命稻...<span><a title="方军：如何听专家的意见"  href="http://magazine.cyzone.cn/articles/201111/2328.html" class="blue" target="_blank">详细>></a></span></div>
+        </div>
+                <div class="art_top clearfix">
+		<div class="title12"><a title="王定标：我学乔布斯" href="http://magazine.cyzone.cn/articles/201111/2312.html" target="_blank" class="blue_1">王定标：我学乔布斯</a></div>
+          <div class="gray_colu_line clearfix"><div class="fright"><a title="王定标：我学乔布斯" href="http://magazine.cyzone.cn/articles/201111/2312.html" target="_blank" ><img width="51" height="51" alt="" src="http://www.cyzone.cn/uploadfile/2011/1114/20111114074006106.jpg" /></a></div>
+	虽然我们可以不断地学习乔布斯，但他是无法复制的，任何人都不会成为第二个乔布斯。学习乔布斯的态度而不是...<span><a title="王定标：我学乔布斯"  href="http://magazine.cyzone.cn/articles/201111/2312.html" class="blue" target="_blank">详细>></a></span></div>
+        </div>
+                <div class="art_top clearfix">
+		<div class="title12"><a title="左右：做像乔布斯一样的创业者" href="http://magazine.cyzone.cn/articles/201111/2302.html" target="_blank" class="blue_1">左右：做像乔布斯一样的创业者</a></div>
+          <div class="gray_colu_line clearfix"><div class="fright"><a title="左右：做像乔布斯一样的创业者" href="http://magazine.cyzone.cn/articles/201111/2302.html" target="_blank" ><img width="51" height="51" alt="" src="http://www.cyzone.cn/uploadfile/2011/0926/20110926091007525.jpg" /></a></div>
+	乔布斯的成功一方面离不开他所在的平等、开放、自由的商业环境，更重要的是离不开他本人的梦想、投入和坚持。
+<span><a title="左右：做像乔布斯一样的创业者"  href="http://magazine.cyzone.cn/articles/201111/2302.html" class="blue" target="_blank">详细>></a></span></div>
+        </div>
+                <div class="art_top clearfix">
+		<div class="title12"><a title="左右：如此VC系列: 三年河东，三年河西" href="http://magazine.cyzone.cn/articles/201110/2291.html" target="_blank" class="blue_1">左右：如此VC系列: 三年河东，三年河西</a></div>
+          <div class="gray_colu_line clearfix"><div class="fright"><a title="左右：如此VC系列: 三年河东，三年河西" href="http://magazine.cyzone.cn/articles/201110/2291.html" target="_blank" ><img width="51" height="51" alt="" src="http://www.cyzone.cn/uploadfile/2011/0926/20110926091007525.jpg" /></a></div>
+	不到三年的时间就创造了一个造富神话，这是这个年代特有的产物。
+<span><a title="左右：如此VC系列: 三年河东，三年河西"  href="http://magazine.cyzone.cn/articles/201110/2291.html" class="blue" target="_blank">详细>></a></span></div>
+        </div>
+                      </div>
+      <!-----------数据报告----------->
+            <div class="cydata_rep clearfix">
+        <div class="title_exclu"><a title=""  href="http://www.cyzone.cn/report/" target="_blank">数据报告</a></div>
+        <div class="art_top">
+                    <div class="title14"><a title="11月IPO融资额继续走低 VC/PE支持企业唱主角" href="http://www.cyzone.cn/20111202/219327.html" target="_blank" class="blue_1">11月IPO融资额继续走低 VC/PE支持企业唱主角</a></div>
+          <div class="gray_colu_line1">根据清科数据库统计，2011年11月共有24家中国企业在境内外资本市场实现IPO，环比增...<span><a title="11月IPO融资额继续走低 VC/PE支持企业唱主角" href="http://www.cyzone.cn/20111202/219327.html" class="blue" target="_blank">详细>></a></span></div>
+        </div>
+        <div class="num_lists clearfix">
+          <ul class="top_space1">
+                        <li><a title="创业板退市征求意见稿出台 实际执行恐难立竿见影" href="http://www.cyzone.cn/20111130/219271.html" class="sky_blue" target="_blank">创业板退市征求意见稿出台 实际执行恐难...</a></li>
+                        <li><a title="“直线”与“曲线”并行 证券公司从事直接投资热情高涨" href="http://www.cyzone.cn/20111128/219122.html" class="sky_blue" target="_blank">&ldquo;直线&rdquo;与&ldquo;曲线&rdquo;并行 证券公司从事直...</a></li>
+                        <li><a title="12家企业首次上会未通过 券商直投并非无往不利" href="http://www.cyzone.cn/20111124/218906.html" class="sky_blue" target="_blank">12家企业首次上会未通过 券商直投并非无往不利</a></li>
+                        <li><a title="清科观察：平台类与自营类电商相互依存，电商投资难遇冷" href="http://www.cyzone.cn/20111122/218701.html" class="sky_blue" target="_blank">清科观察：平台类与自营类电商相互依存，...</a></li>
+                        <li><a title="清科观察：中国团购企业还能否HOLD住" href="http://www.cyzone.cn/20111121/218629.html" class="sky_blue" target="_blank">清科观察：中国团购企业还能否HOLD住</a></li>
+                        <li><a title="分析师快评：盛大文学携资本搏击移动互联网" href="http://www.cyzone.cn/20111114/218261.html" class="sky_blue" target="_blank">分析师快评：盛大文学携资本搏击移动互联网</a></li>
+                        <li><a title="分析师快评：当PE基金遇到”结构化概念”" href="http://www.cyzone.cn/20111111/218148.html" class="sky_blue" target="_blank">分析师快评：当PE基金遇到”结构化概念”</a></li>
+                      </ul>
+        </div>
+      </div>
+           <!-----------广告位----------->
+   <div class="ad_1"><script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://poddy.cn/openx2/www/delivery/ajs.php':'http://poddy.cn/openx2/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=11");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+//]]>--></script><noscript><a href='http://poddy.cn/openx2/www/delivery/ck.php?n=a736b279&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://poddy.cn/openx2/www/delivery/avw.php?zoneid=11&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a736b279' border='0' alt='' /></a></noscript></div>
+      <!-----------top排行榜----------->
+      <div class="cytop clearfix">
+        <div class="cytop_title clearfix">
+          <ul>
+            <li id="tab_hot_1" class="cytop_on" onmouseover="SwapTab('hot','cytop_on','',2,1)">48小时热文排行</li>
+            <li id="tab_hot_2" onmouseover="SwapTab('hot','cytop_on','',2,2)">一周热文排行</li>
+          </ul>
+        </div>
+        <div id="div_hot_1" class="clearfix">
+                  <ul class="num_space1">
+                      <li><a title="细数中国十大美女总裁（组图）" href="http://news.cyzone.cn/news/2009/02/24/73112.html" class="sky_blue" target="_blank">细数中国十大美女总裁（组图）</a></li>
+                      <li><a title="阎焱：潮向何方？中国经济未来十年的创业机会" href="http://news.cyzone.cn/news/2011/12/01/219312.html" class="sky_blue" target="_blank">阎焱：潮向何方？中国经济未来十年的创...</a></li>
+                      <li><a title="小心这些创业点子：8个最糟糕创业开局" href="http://xueyuan.cyzone.cn/qibu-dianzi/217099.html" class="sky_blue" target="_blank">小心这些创业点子：8个最糟糕创业开局</a></li>
+                      <li><a title="测试：你能奋斗成富一代吗？" href="http://xueyuan.cyzone.cn/ceshi-ceshi2/209560.html" class="sky_blue" target="_blank">测试：你能奋斗成富一代吗？</a></li>
+                      <li><a title="全球范围内20项最热门创业项目" href="http://xueyuan.cyzone.cn/qibu-dianzi/217767.html" class="sky_blue" target="_blank">全球范围内20项最热门创业项目</a></li>
+                      <li><a title="雷军：创新的本质问题是要容忍失败" href="http://news.cyzone.cn/news/2011/12/01/219317.html" class="sky_blue" target="_blank">雷军：创新的本质问题是要容忍失败</a></li>
+                      <li><a title="聚焦五谷道场等12家企业失败教训" href="http://xueyuan.cyzone.cn/guanli-yunying/218694.html" class="sky_blue" target="_blank">聚焦五谷道场等12家企业失败教训</a></li>
+                      <li><a title="熊晓鸽：下个十年 移动互联将称霸中国" href="http://news.cyzone.cn/news/2011/12/01/219305.html" class="sky_blue" target="_blank">熊晓鸽：下个十年 移动互联将称霸中国</a></li>
+                      <li><a title="陶闯融资秘诀：卖自己、卖行业、卖时间" href="http://news.cyzone.cn/news/2011/12/02/219332.html" class="sky_blue" target="_blank">陶闯融资秘诀：卖自己、卖行业、卖时间</a></li>
+                      <li><a title="天使投资大佬最爱投什么样的创业者" href="http://news.cyzone.cn/news/2011/12/02/219350.html" class="sky_blue" target="_blank">天使投资大佬最爱投什么样的创业者</a></li>
+                    </ul>
+                </div>
+        <div id="div_hot_2" class="clearfix" style="display:none;">
+                  <ul class="num_space1">
+                      <li><a title="细数中国十大美女总裁（组图）" href="http://news.cyzone.cn/news/2009/02/24/73112.html" class="sky_blue" target="_blank">细数中国十大美女总裁（组图）</a></li>
+                      <li><a title="电商群雄并起：淘宝遭威胁 物流成决胜点" href="http://news.cyzone.cn/news/2011/11/29/219158.html" class="sky_blue" target="_blank">电商群雄并起：淘宝遭威胁 物流成决胜点</a></li>
+                      <li><a title="小心这些创业点子：8个最糟糕创业开局" href="http://xueyuan.cyzone.cn/qibu-dianzi/217099.html" class="sky_blue" target="_blank">小心这些创业点子：8个最糟糕创业开局</a></li>
+                      <li><a title="全球范围内20项最热门创业项目" href="http://xueyuan.cyzone.cn/qibu-dianzi/217767.html" class="sky_blue" target="_blank">全球范围内20项最热门创业项目</a></li>
+                      <li><a title="测试：你能奋斗成富一代吗？" href="http://xueyuan.cyzone.cn/ceshi-ceshi2/209560.html" class="sky_blue" target="_blank">测试：你能奋斗成富一代吗？</a></li>
+                      <li><a title="聚焦五谷道场等12家企业失败教训" href="http://xueyuan.cyzone.cn/guanli-yunying/218694.html" class="sky_blue" target="_blank">聚焦五谷道场等12家企业失败教训</a></li>
+                      <li><a title="汪华：未来三年的移动互联网创业" href="http://news.cyzone.cn/news/2011/11/28/219075.html" class="sky_blue" target="_blank">汪华：未来三年的移动互联网创业</a></li>
+                      <li><a title="阎焱：潮向何方？中国经济未来十年的创业机会" href="http://news.cyzone.cn/news/2011/12/01/219312.html" class="sky_blue" target="_blank">阎焱：潮向何方？中国经济未来十年的创...</a></li>
+                      <li><a title="鲜果网：靠数据优势获得投资 移动终端带来出路" href="http://capital.cyzone.cn/article/219145/" class="sky_blue" target="_blank">鲜果网：靠数据优势获得投资 移动终端...</a></li>
+                      <li><a title="乔布斯导演的最后一幕：死亡是最好的发明" href="http://news.cyzone.cn/news/2011/11/29/219152.html" class="sky_blue" target="_blank">乔布斯导演的最后一幕：死亡是最好的发明</a></li>
+                    </ul>
+                </div>
+      </div>
+      <!-----------实用工具----------->
+      <div class="tool clearfix">
+<!--			<div class="title_column dashed">实用工具</div>-->	<div class="title tool_title">
+		<a href="#" target="_blank" title="">实用工具</a></div>
+	<div class="clearfix">
+		<div class="title12">
+			<a class="blue_1" href="http://capital.cyzone.cn/CorpList2.aspx" target="_blank" title="">投资机构导航</a></div>
+		<div class="list_4 dashed_1">
+			<ul class="clearfix">
+				<li class="box_li1">
+					<a class="sky_blue" href="http://capital.cyzone.cn/company/156/" target="_blank" title="">创东方</a></li>
+				<li class="box_li2">
+					<a class="sky_blue" href="http://capital.cyzone.cn/company/95/" target="_blank" title="">弘毅投资</a></li>
+				<li class="box_li2">
+					<a class="sky_blue" href="http://capital.cyzone.cn/company/161/" target="_blank" title="">清科</a></li>
+			</ul>
+			<ul class="clearfix">
+				<li class="box_li1">
+					<a class="sky_blue" href="http://capital.cyzone.cn/company/91/" target="_blank" title="">经纬中国</a></li>
+				<li class="box_li2">
+					<a class="sky_blue" href="http://capital.cyzone.cn/company/155/" target="_blank" title="">华睿投资</a></li>
+				<li class="box_li2">
+					<a class="sky_blue" href="http://capital.cyzone.cn/company/16/" target="_blank" title="">联想投资</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="clearfix">
+		<div class="title12">
+			<a class="blue_1" href="http://xueyuan.cyzone.cn/cidian-cidian/" target="_blank">创业词典速查</a><span style="display: none">&nbsp;</span></div>
+		<div class="list_4 dashed_1">
+			<ul class="clearfix">
+				<li class="box_li1">
+					<a class="sky_blue" href="http://xueyuan.cyzone.cn/cidian-zibencidian/216707.html" target="_blank" title="">VIE</a></li>
+				<li class="box_li2">
+					<a class="sky_blue" href="http://xueyuan.cyzone.cn/cidian-cidian/185128.html" target="_blank" title="">对赌协议</a></li>
+				<li class="box_li2">
+					<a class="sky_blue" href="http://xueyuan.cyzone.cn/cidian-zibencidian/188766.html" target="_blank" title="">term sheet</a></li>
+			</ul>
+			<ul class="clearfix">
+				<li class="box_li1">
+					<a class="sky_blue" href="http://xueyuan.cyzone.cn/cidian-guanlicidian/195789.html" target="_blank" title="">商业模式</a></li>
+				<li class="box_li2">
+					<a class="sky_blue" href="http://xueyuan.cyzone.cn/cidian-zibencidian/57746.html" target="_blank" title="">有限合伙</a></li>
+				<li class="box_li2">
+					<a class="sky_blue" href="http://xueyuan.cyzone.cn/cidian-zibencidian/57717.html" target="_blank" title="">尽职调查</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="clearfix">
+		<div class="title12">
+			<a class="blue_1" href="http://xueyuan.cyzone.cn/xiazai/" target="_blank" title="">热门资料下载</a></div>
+		<div class="list_4 dashed_1">
+			<ul class="clearfix">
+				<li class="box_li2">
+					<a class="sky_blue" href="http://www.cyzone.cn/uploadfile/2011/0905/20110905013847707.rar" target="_blank" title="">商业计划书</a></li>
+				<li class="box_li2">
+					<a class="sky_blue" href="http://img.cyzone.cn/downfile/201101No.106.doc" target="_blank" title="">合作开发合同</a></li>
+				<li class="box_li2">
+					<a class="sky_blue" href="http://img.cyzone.cn/downfile/201001No.196.doc" target="_blank" title="">股东出资协议书</a></li>
+				<li class="box_li1">
+					<a class="sky_blue" href="http://img.cyzone.cn/downfile/20110113No.030.doc" target="_blank" title="">合同意向书</a></li>
+				<li class="box_li2">
+					<a class="sky_blue" href="http://img.cyzone.cn/downfile/201101No.007.doc" target="_blank" title="">店铺租赁合同</a></li>
+				<li class="box_li2">
+					<a class="sky_blue" href="http://img.cyzone.cn/downfile/201101No.011.doc" target="_blank" title="">股权转让协议书</a></li>
+			</ul>
+		</div>
+	</div>
+</div>    </div>
+  </div>
+
+  <div class="club clearfix">
+    <div class="title_2 grey clearfix"><span class="fright more"><a title="" href="http://u.cyzone.cn/" target="_blank">更多 &gt;&gt;</a></span><span class="space_5px"><a title=""  target="_blank" href="http://u.cyzone.cn/">创业吧</a></span></div>
+    <div class="fleft art_pre_title">
+      <div class="dashed title1">在线用户</div>
+      <div class="dashed clearfix">
+	   <ul class="users clearfix">
+                        <li><a title="" href="http://u.cyzone.cn/ghylouis" target="_blank"><img src="http://ucenter.cyzone.com.cn/data/avatar/000/13/23/49_avatar_small.jpg" onerror="this.onerror=null;this.src='http://ucenter.cyzone.com.cn/images/noavatar_small.gif'"></a>
+          <div class="pic_title"><a title="" target="_blank" href="http://u.cyzone.cn/ghylouis">ghylouis</a></div>
+        </li>
+                 <li><a title="" href="http://u.cyzone.cn/taoyuqi123" target="_blank"><img src="http://ucenter.cyzone.com.cn/data/avatar/000/13/23/25_avatar_small.jpg" onerror="this.onerror=null;this.src='http://ucenter.cyzone.com.cn/images/noavatar_small.gif'"></a>
+          <div class="pic_title"><a title="" target="_blank" href="http://u.cyzone.cn/taoyuqi123">taoyuqi123</a></div>
+        </li>
+                 <li><a title="雨田" href="http://u.cyzone.cn/yutiandyl" target="_blank"><img src="http://ucenter.cyzone.com.cn/data/avatar/000/13/23/58_avatar_small.jpg" onerror="this.onerror=null;this.src='http://ucenter.cyzone.com.cn/images/noavatar_small.gif'"></a>
+          <div class="pic_title"><a title="雨田" target="_blank" href="http://u.cyzone.cn/yutiandyl">雨田</a></div>
+        </li>
+                 <li><a title="一言" href="http://u.cyzone.cn/爱家物语" target="_blank"><img src="http://ucenter.cyzone.com.cn/data/avatar/000/11/92/19_avatar_small.jpg" onerror="this.onerror=null;this.src='http://ucenter.cyzone.com.cn/images/noavatar_small.gif'"></a>
+          <div class="pic_title"><a title="一言" target="_blank" href="http://u.cyzone.cn/爱家物语">一言</a></div>
+        </li>
+                 <li><a title="" href="http://u.cyzone.cn/fysg7978" target="_blank"><img src="http://ucenter.cyzone.com.cn/data/avatar/000/12/91/98_avatar_small.jpg" onerror="this.onerror=null;this.src='http://ucenter.cyzone.com.cn/images/noavatar_small.gif'"></a>
+          <div class="pic_title"><a title="" target="_blank" href="http://u.cyzone.cn/fysg7978">fysg7978</a></div>
+        </li>
+                 <li><a title="小林" href="http://u.cyzone.cn/小小海盗" target="_blank"><img src="http://ucenter.cyzone.com.cn/data/avatar/000/12/72/55_avatar_small.jpg" onerror="this.onerror=null;this.src='http://ucenter.cyzone.com.cn/images/noavatar_small.gif'"></a>
+          <div class="pic_title"><a title="小林" target="_blank" href="http://u.cyzone.cn/小小海盗">小林</a></div>
+        </li>
+                 <li><a title="" href="http://u.cyzone.cn/cbaihuiw16" target="_blank"><img src="http://ucenter.cyzone.com.cn/data/avatar/000/13/23/59_avatar_small.jpg" onerror="this.onerror=null;this.src='http://ucenter.cyzone.com.cn/images/noavatar_small.gif'"></a>
+          <div class="pic_title"><a title="" target="_blank" href="http://u.cyzone.cn/cbaihuiw16">cbaihuiw16</a></div>
+        </li>
+                		</ul>
+      </div>
+      <div class="dashed title1">推荐日志</div>
+                  <div class="dashed clearfix">
+        <ul>
+          <li class="clearfix">
+            <div class="join_box_img"><a title="刘杰克老师" href="http://u.cyzone.cn/刘杰克老师" target="_blank"><img src="http://ucenter.cyzone.com.cn/data/avatar/000/10/94/13_avatar_small.jpg" onerror="this.onerror=null;this.src='http://ucenter.cyzone.com.cn/images/noavatar_small.gif'"></a></div>
+            <div class="pic_art">
+              <p><a title=""  href="http://u.cyzone.cn/blog/253778" target="_blank" class="orange">刘杰克：资本市场需要做空专家“浑水摸鱼”吗？</a><p>
+              <p>
+刘杰克：资本市场需要做空专家&ldquo;浑水摸鱼&rdquo;吗？
+文 / 刘杰克
+ 
+最近，以专业做空中国概念股而闻名并被国人冠以中文名&ldquo;浑水摸鱼&rdquo;的MUDDY WATERS 因为发布...<span><a title="刘杰克：资本市场需要做空专家“浑水摸鱼”吗？" target="_blank" class="blue" href="http://u.cyzone.cn/blog/253778">详细&gt;&gt;</a></span></p>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="clearfix">
+        <ul>
+                   <li class="clearfix">
+            <div class="join_box_img"><a title="物联网创业" href="http://u.cyzone.cn/物联网创业" target="_blank"><img src="http://ucenter.cyzone.com.cn/data/avatar/000/12/72/74_avatar_small.jpg" onerror="this.onerror=null;this.src='http://ucenter.cyzone.com.cn/images/noavatar_small.gif'"></a></div>
+            <div class="pic_art">
+              <p><a title=""  href="http://u.cyzone.cn/blog/253517" target="_blank" class="orange">分享我的十年创业历程</a><p>
+              <p>    说明：原文名称为我的十年工控人生，通过本文一可以更深入了解我的过去十年，二可以给一些同样一穷二白的朋友在创业时有一个实例，三是我们可以一起思考，...<span><a title="分享我的十年创业历程" target="_blank" class="blue" href="http://u.cyzone.cn/blog/253517">详细&gt;&gt;</a></span></p>
+            </div>
+          </li>
+        </ul>
+      </div>
+          </div>
+    <div class="pic_right clearfix">
+      <div class="fina_title"><a title="" target="_blank" href="http://u.cyzone.cn/space-show.html">创业项目</a><a title="创业项目：我要发布创业项目" target="_blank" href="http://u.cyzone.cn/cp.php?ac=show" class="pro_back">我要发布创业项目</a></div>
+          <div class="fina_box clearfix">
+        <div class="fina"><a title=""  href="http://u.cyzone.cn/space.php?do=show&view=all&purpose=32&name=寻找加盟" class="orange" target="_blank">[寻找加盟]</a> <a title="美家美户空气净化屋" href="http://u.cyzone.cn/spaces-132307-do-show-id-7904.html" >美家美户空气净化屋</a></div>
+		<dl class="clearfix fina_pic">
+		 <dt><a title=""  href="http://u.cyzone.cn/spaces-132307-do-show-id-7904.html" target="_blank"><img alt="" src="http://www.cyzone.cn/statics/images/nopic.gif" width="51" height="51"></a></dt>
+		 <dd>
+		  <ul class="fina_lie">
+            <li>行业：<a title="环保新能源" href="http://u.cyzone.cn/space.php?do=show&view=all&hangye=42&name=环保新能源" >环保新能源</a></li>
+            <li>地区：<a title=""  href="http://u.cyzone.cn/space.php?do=show&view=all&province=北京" >北京</a></li>
+            <li>规模：50人-100人</li>
+          </ul>
+		 </dd>
+		</dl> 
+      </div>
+           <div class="fina_title_1"><a title="" target="_blank" href="http://u.cyzone.cn/space-question.html">创业帮帮帮</a><a title="创业帮帮帮：我要提问" target="_blank" href="http://u.cyzone.cn/cp.php?ac=question"  class="pro_back pro_ask">我要提问</a></div>
+          <div class="fina_box clearfix">
+      	  <dl class="clearfix fina_pic">
+		 <dt><a title="有没有吴炯或薛蛮子等相关投资知名人士的联系邮件？" href="http://u.cyzone.cn/spaces-127274-do-question-id-10434.html" target="_blank"><img src="http://ucenter.cyzone.com.cn/data/avatar/000/12/72/74_avatar_small.jpg" onerror="this.onerror=null;this.src='http://ucenter.cyzone.com.cn/images/noavatar_small.gif'"></a></dt>
+		 <dd>
+		  <div class="cy_person"><a title="" href="http://u.cyzone.cn/127274" target="_blank" class="orange">夏红健</a>问：<a title="有没有吴炯或薛蛮子等相关投资知名人士的联系邮件？" href="http://u.cyzone.cn/spaces-127274-do-question-id-10434.html" target="_blank" class="orange">有没有吴炯或薛蛮子等相关投资知名人士...</a></div>
+          <div class="cy_person_con">在物联网的行业里十多年的职业生涯，想和著名投资人接触接触...</div>
+		 </dd>
+		</dl>
+	  
+        <div class="clearfix">
+          <ul class="question">
+                                  <li><a title="有什么好的项目可以加盟的" href="http://u.cyzone.cn/1394892752" target="_blank" class="orange">吖吖</a>问：<a title="有什么好的项目可以加盟的" href="http://u.cyzone.cn/spaces-1394892752-do-question-id-10433.html" target="_blank" class="orange">有什么好的项目可以加盟的</a></li>
+                                  <li><a title="哪位知道室温导电银胶BQ6880E参数？" href="http://u.cyzone.cn/mmmvhb" target="_blank" class="orange">劉志</a>问：<a title="哪位知道室温导电银胶BQ6880E参数？" href="http://u.cyzone.cn/spaces-mmmvhb-do-question-id-10432.html" target="_blank" class="orange">哪位知道室温导电银胶BQ6880E参数？</a></li>
+                                  <li><a title="是创业还是继续打工" href="http://u.cyzone.cn/long273613877" target="_blank" class="orange">成龙</a>问：<a title="是创业还是继续打工" href="http://u.cyzone.cn/spaces-long273613877-do-question-id-10431.html" target="_blank" class="orange">是创业还是继续打工</a></li>
+                    </ul>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+
+  <div class="mag clearfix">
+    <div class="mod_title clearfix">
+	<h3 class="mod_title_txt clearfix">
+		<span><a href="http://magazine.cyzone.cn/" target="_blank" title="">《创业邦》杂志</a></span></h3>
+	<div class="mag_t_note">
+		2011年 第11期 总第49期 出版日期：11月5日 下期出版：12月5日</div>
+	<div class="mag_t_btn">
+		<a href="http://magazine.cyzone.cn/subscription.html" title="">订阅杂志</a> <a href="http://magazine.cyzone.cn/" title="">在线阅读</a></div>
+	<div class="a_more">
+		<a href="http://magazine.cyzone.cn/" title="">更多&gt;&gt;</a></div>
+</div>	<div class="mag_content clearfix">
+    	  
+   <div class="mag_con_left">
+	<div class="mag_pic_mod">
+		<div class="mag_pic_con">
+			<a href="http://magazine.cyzone.cn/m49.html" title="" target="_blank"><img alt="" src="http://www.cyzone.cn/uploadfile/2011/1107/20111107070540314.jpg" width="133" height="174"/></a></div>
+		<div class="mag_pic_con_txt">
+			<a href="http://magazine.cyzone.cn/m49.html" title="" target="_blank">2011年  第11期</a></div>
+		<div class="weibo_mag">
+			<a href="http://weibo.com/cyzone" target="_blank" title="加关注_创业邦杂志"><img alt="" src="images/gz_sina_samll.gif" /></a></div>
+	</div>
+	<div class="mag_con_txt">
+	<dl class="clearfix">
+		<dt>
+			<a class="orange" href="http://magazine.cyzone.cn/articles/201111/2326.html" target="_blank" title="">一个酒盖引发的创业 </a></dt>
+		<dd class="mag_con_piece">
+			来自 <a class="line_through" href="http://magazine.cyzone.cn/c9.html" target="_blank" title="">起步</a>_文/Michelle Juergen</dd>
+		<dd class="mag_con_note mag_con_note_bot">
+			勒妮(Ren&eacute;e )和格雷格&middot;普拉姆利(Greg Plumlee)设计的BevHat是一种防止飞虫落入酒中的网状杯盖。&hellip;&hellip; <a class="blue" href="http://magazine.cyzone.cn/articles/201111/2326.html" target="_blank" title="">详细&gt;&gt;</a></dd>
+		<dd class="mag_con_piece">
+			[<a class="line_through" href="http://magazine.cyzone.cn/c9.html" target="_blank" title="">起步</a>] <a class="line_through" href="http://magazine.cyzone.cn/articles/201111/2324.html" target="_blank" title="">小号玉米饼带来商业大成功 </a></dd>
+		<dd class="mag_con_note">
+			菜品创新对餐厅的意义在哪?劳拉正在带领Moe&#39;s餐厅的菜品发展委员会成员进行探究。&hellip;&hellip;<a class="blue" href="http://magazine.cyzone.cn/articles/201111/2324.html" target="_blank" title="">详细&gt;&gt;</a></dd>
+		<dd class="mag_con_piece">
+			[<a class="line_through" href="http://magazine.cyzone.cn/c9.html" target="_blank" title="">起步</a>] <a class="line_through" href="http://magazine.cyzone.cn/articles/201111/2323.html" target="_blank" title="">边上学边创业 </a></dd>
+		<dd class="mag_con_note">
+			哈佛大学的两个MBA学生利用难得的人脉资源包装自己的创意。&hellip;&hellip;<a class="blue" href="http://magazine.cyzone.cn/articles/201111/2323.html" target="_blank" title="">详细&gt;&gt;</a></dd>
+	</dl>
+	<ul>
+		<li>
+			[<a href="http://magazine.cyzone.cn/c8.html" target="_blank" title="">管理</a>] <a class="orange" href="http://magazine.cyzone.cn/articles/201111/2321.html" target="_blank" title="">头脑风暴的秘密 </a></li>
+	</ul>
+</div>  </div>
+		<div class="mag_con_right">
+			<div class="mag_list_title">
+				<a href="http://magazine.cyzone.cn/" title="" target="_blank">往期杂志</a></div>
+			<div class="mag_list clearfix">
+            				<dl>
+					<dt>
+						<a href="http://magazine.cyzone.cn/m48.html" title="" target="_blank"><img alt="" src="http://www.cyzone.cn/uploadfile/2011/1010/20111010083835960.jpg" height="156" width="119" /></a></dt>
+					<dd>
+						<a class="blue" href="http://magazine.cyzone.cn/m48.html" title="" target="_blank">2011年10月</a></dd>
+				</dl>
+            				<dl>
+					<dt>
+						<a href="http://magazine.cyzone.cn/m47.html" title="" target="_blank"><img alt="" src="http://www.cyzone.cn/uploadfile/2011/0913/20110913083613663.jpg" height="156" width="119" /></a></dt>
+					<dd>
+						<a class="blue" href="http://magazine.cyzone.cn/m47.html" title="" target="_blank">2011年09月</a></dd>
+				</dl>
+            			</div>
+		</div>
+	</div>
+</div>
+  <!-----------end of magzine --------->
+  <!-----------content bottom--------->
+  <div class="club clearfix">
+    <div class="title_2 grey clearfix"><span class="fright more"><a title="" target="_blank" href="http://conference.cyzone.cn/">更多 &gt;&gt;</a></span><span class="space_5px"><a title=""  href="http://conference.cyzone.cn/" target="_blank">会议活动</a></span></div>
+    <div class="club_top clearfix">
+      <div class="fleft art_pre_title">
+        <div class="dashed title1_act">活动预告</div>
+        <div class="art_pre fleft clearfix">
+	<div class="fleft">
+		<a href="http://conference.cyzone.cn/features/annual2011/" target="_blank"><img alt="demo day" src="http://www.cyzone.cn/uploadfile/2011/1115/20111115102845688.jpg" style="width: 240px; height: 140px;" /></a></div>
+	<div class="art_text fleft">
+		<ul class="clearfix">
+			<li class="art_title">
+				[创业邦年会]<span class="city"><a class="orange" href="http://conference.cyzone.cn/features/annual2011/" target="_blank">2011创业邦年会</a></span></li>
+			<li class="art_txt">
+				<div>
+					<strong>时间</strong>：2011年12月1-2日（星期四-星期五）</div>
+				<div>
+					<strong>地点</strong>：北京天伦王朝酒店</div>
+				<div>
+					　　对中国的创业者来说，现在究竟是最好的时代还是最坏的时代？热闹的2011正在渐行渐远，中国正在迎来新一波创业热潮，有人用高速成长拥抱未来，有人用极致创新挥别过去，有人用行动浇灌梦想。伴随着传说中世界末日的到来，谁能抓住移动互联网崛起的大机会？新能源产业是否能破茧成蝶？消费服务行业能否成为持续的增长点？2011创业邦年会暨第三届&ldquo;创业邦100&rdquo;年度颁奖盛典是新一波创业明星的展示平台；年度创新高成长企业的风向标；顶级天使投资人的思想盛宴以及未来商业趋势的&ldquo;认证&rdquo;大会。</div>
+			</li>
+		</ul>
+<!--<div class="clearfix dashed_2 title_share title_space" id="share_div">
+			<span>分享到：</span></div>
+	</div>-->	</div>
+</div>      </div>
+      <div class="fleft cale">
+        <div class="art_cale">
+          <div class="solid">　相关活动</div>
+		  <ul class="about_activity">
+	<li>
+		<a class="sky_blue" href="http://conference.cyzone.cn/features/annual2011/" target="_blank" title="">2011创业邦年会暨创业邦100年度颁奖典礼</a></li>
+	<li>
+		<a class="sky_blue" href="http://www.cyzone.cn/cyzone100/2011/" target="_blank" title="">2011&ldquo;创业邦100&rdquo;&mdash;中国年度创新成长企业100强评选</a></li>
+	<li>
+		<a class="sky_blue" href="http://daren.cyzone.cn/" target="_blank" title="">2011新新创业达人总决赛</a></li>
+	<li>
+		<a class="sky_blue" href="http://daren.cyzone.cn/week.html" target="_blank" title="">2011全球创业周中国站开幕式暨天使投资峰会</a></li>
+	<li>
+		<a class="sky_blue" href="http://www.cyzone.cn/demoday/201110/" target="_blank" title="">Demo Day: IOS上的应用开发</a></li>
+	<li>
+		<a class="sky_blue" href="http://show.cyzone.cn/qualcomm.html" target="_blank" title="">高通-红杉杯创新中国 无线创业项目提交</a></li>
+	<li>
+		<a class="sky_blue" href="http://events.pedaily.cn/2011/bj2011/" target="_blank" title="">第十一届中国创业投资暨私募股权投资年度论坛</a></li>
+	<li>
+		<a class="sky_blue" href="http://www.hkuspacechina.com/news_detail.php?c=2&amp;id=322" target="_blank" title="">管理者分享会暨香港大学课程宣讲</a></li>
+</ul>        </div>
+      </div>
+    </div>
+    <div class="club_bottom clearfix">
+      <div class="solid_1">活动回顾</div>
+             <div class="activities clearfix">
+	   <ul>
+               <li><a title="创业邦CEO俱乐部第56期-成长型企业的营销策略" target="_blank" href="http://conference.cyzone.cn/201108/68.html"><img src="http://www.cyzone.cn/uploadfile/2011/0906/thumb_135_76_20110906031734294.jpg" alt="创业邦CEO俱乐部第56期-成长型企业的营销策略" /></a>
+          <div class="rev_title"><a title="创业邦CEO俱乐部第56期-成长型企业的营销策略"  target="_blank" href="http://conference.cyzone.cn/201108/68.html">创业邦CEO俱乐部第56期-成长型企业的营销策略</a></div>
+        </li>
+                <li><a title="2011中国特许经营50强暨直营连锁20强颁奖典礼" target="_blank" href="http://conference.cyzone.cn/201108/87.html"><img src="http://www.cyzone.cn/uploadfile/2011/0820/thumb_135_76_20110820033544851.jpg" alt="2011中国特许经营50强暨直营连锁20强颁奖典礼" /></a>
+          <div class="rev_title"><a title="2011中国特许经营50强暨直营连锁20强颁奖典礼"  target="_blank" href="http://conference.cyzone.cn/201108/87.html">2011中国特许经营50强暨直营连锁20强颁奖典礼</a></div>
+        </li>
+                <li><a title="创新中国2011软件专场" target="_blank" href="http://demochina.cyzone.cn/demochina2011/bizspark/index.html"><img src="http://www.cyzone.cn/uploadfile/2011/0819/thumb_135_76_20110819060204998.jpg" alt="创新中国2011软件专场" /></a>
+          <div class="rev_title"><a title="创新中国2011软件专场"  target="_blank" href="http://demochina.cyzone.cn/demochina2011/bizspark/index.html">创新中国2011软件专场</a></div>
+        </li>
+                <li><a title="创业邦CEO俱乐部第54期-创业初期的产品设计" target="_blank" href="http://www.cyzone.cn/club/ceo54.html"><img src="http://www.cyzone.cn/uploadfile/2011/0819/thumb_135_76_20110819095155894.jpg" alt="创业邦CEO俱乐部第54期-创业初期的产品设计" /></a>
+          <div class="rev_title"><a title="创业邦CEO俱乐部第54期-创业初期的产品设计"  target="_blank" href="http://www.cyzone.cn/club/ceo54.html">创业邦CEO俱乐部第54期-创业初期的产品设计</a></div>
+        </li>
+                <li><a title="创新中国2011总决赛" target="_blank" href="http://demochina.cyzone.cn/demochina2011/hangzhou/"><img src="http://www.cyzone.cn/uploadfile/2011/0901/thumb_135_76_20110901033309620.jpg" alt="创新中国2011总决赛" /></a>
+          <div class="rev_title"><a title="创新中国2011总决赛"  target="_blank" href="http://demochina.cyzone.cn/demochina2011/hangzhou/">创新中国2011总决赛</a></div>
+        </li>
+        		</ul>
+      </div>
+           </div>
+  </div>
+  <!--content bottom partlink-->
+  <div class="partlink clearfix">
+    <div class="partlink_space">
+	<div class="partlink_1">
+		<ul class="line-h18">
+			<li class="partlink_title">
+				<a class="pl_title" href="http://www.cyzone.cn/" target="_blank" title="">首页</a></li>
+			<li>
+				<a class="pl_color" href="http://magazine.cyzone.cn/subscription.html" target="_blank" title="">杂志订阅</a></li>
+			<li>
+				<a class="pl_color" href="http://overseas.cyzone.cn/" target="_blank" title="">编译/原创</a></li>
+			<li>
+				<a class="pl_color" href="http://www.cyzone.cn/features/" target="_blank" title="">专题/访谈</a></li>
+			<li>
+				<a class="pl_color" href="http://www.cyzone.cn/report/" target="_blank" title="">数据报告</a></li>
+			<li>
+				<a class="pl_color" href="http://news.cyzone.cn/vpeople/" target="_blank" title="">创业人物</a></li>
+			<li>
+				<a class="pl_color" href="http://news.cyzone.cn/vcompany/" target="_blank" title="">创业公司</a></li>
+			<li>
+				<a class="pl_color" href="http://show.cyzone.cn/" target="_blank" title="">创业项目</a></li>
+			<li>
+				<a class="pl_color" href="http://capital.cyzone.cn/people/" target="_blank" title="">投资人物</a></li>
+			<li>
+				<a class="pl_color" href="http://capital.cyzone.cn/company/" target="_blank" title="">投资机构</a></li>
+			<li>
+				<a class="pl_color" href="http://capital.cyzone.cn/eventlist.aspx" target="_blank" title="">投资事件</a></li>
+			<li>
+				<a class="pl_color" href="http://capital.cyzone.cn/dicall.aspx" target="_blank" title="">投资词典</a></li>
+			<li>
+				<a class="pl_color" href="http://www.cyzone.cn/yqdh/" target="_blank" title="">园区导航</a></li>
+		</ul>
+	</div>
+	<div class="partlink_1">
+		<ul class="line-h18">
+			<li class="partlink_title">
+				<a class="pl_title" href="http://news.cyzone.cn/" target="_blank" title="">行业资讯</a></li>
+			<li>
+				<a class="pl_color" href="http://news.cyzone.cn/industry/33/" target="_blank" title="">互联网</a></li>
+			<li>
+				<a class="pl_color" href="http://news.cyzone.cn/industry/34/" target="_blank" title="">传媒/新媒体</a></li>
+			<li>
+				<a class="pl_color" href="http://news.cyzone.cn/industry/35/" target="_blank" title="">通信/无线</a></li>
+			<li>
+				<a class="pl_color" href="http://news.cyzone.cn/industry/36/" target="_blank" title="">软件/硬件/半导体</a></li>
+			<li>
+				<a class="pl_color" href="http://news.cyzone.cn/industry/37/" target="_blank" title="">数码电子</a></li>
+			<li>
+				<a class="pl_color" href="http://news.cyzone.cn/industry/38/" target="_blank" title="">医疗健康</a></li>
+			<li>
+				<a class="pl_color" href="http://news.cyzone.cn/industry/39/" target="_blank" title="">教育培训</a></li>
+			<li>
+				<a class="pl_color" href="http://news.cyzone.cn/industry/40/" target="_blank" title="">消费品/餐饮/酒店</a></li>
+			<li>
+				<a class="pl_color" href="http://news.cyzone.cn/industry/42/" target="_blank" title="">环保新能源</a></li>
+			<li>
+				<a class="pl_color" href="http://news.cyzone.cn/industry/43/" target="_blank" title="">其它行业</a></li>
+			<li>
+				<a class="pl_color" href="http://news.cyzone.cn/industry/637/" target="_blank" title="">创业人物</a></li>
+			<li>
+				<a class="pl_color" href="http://news.cyzone.cn/industry/638/" target="_blank" title="">创业公司</a></li>
+		</ul>
+	</div>
+	<div class="partlink_1">
+		<ul class="line-h18">
+			<li class="partlink_title">
+				<a class="pl_title" href="http://capital.cyzone.cn/" target="_blank" title="">资本钱经</a></li>
+			<li>
+				<a class="pl_color" href="http://capital.cyzone.cn/detaillist/393/" target="_blank" title="">天使投资</a></li>
+			<li>
+				<a class="pl_color" href="http://capital.cyzone.cn/detaillist/392/" target="_blank" title="">风险投资</a></li>
+			<li>
+				<a class="pl_color" href="http://capital.cyzone.cn/detaillist/394/" target="_blank" title="">PE</a></li>
+			<li>
+				<a class="pl_color" href="http://capital.cyzone.cn/detaillist/395/" target="_blank" title="">并购</a></li>
+			<li>
+				<a class="pl_color" href="http://capital.cyzone.cn/detaillist/397/" target="_blank" title="">投资银行</a></li>
+			<li>
+				<a class="pl_color" href="http://capital.cyzone.cn/detaillist/396/" target="_blank" title="">IPO</a></li>
+			<li>
+				<a class="pl_color" href="http://capital.cyzone.cn/detaillist/643/" target="_blank" title="">创业板</a></li>
+			<li>
+				<a class="pl_color" href="http://capital.cyzone.cn/people/" target="_blank" title="">投资人物</a></li>
+			<li>
+				<a class="pl_color" href="http://capital.cyzone.cn/company/" target="_blank" title="">投资机构</a></li>
+			<li>
+				<a class="pl_color" href="http://capital.cyzone.cn/eventlist.aspx" target="_blank" title="">投资事件</a></li>
+		</ul>
+	</div>
+	<div class="partlink_1">
+		<ul class="line-h18">
+			<li class="partlink_title">
+				<a class="pl_title" href="http://xueyuan.cyzone.cn/" target="_blank" title="">创业学院</a></li>
+			<li>
+				<a class="pl_color" href="http://xueyuan.cyzone.cn/qibu/" target="_blank" title="">创业起步</a></li>
+			<li>
+				<a class="pl_color" href="http://xueyuan.cyzone.cn/moshi/" target="_blank" title="">商业模式</a></li>
+			<li>
+				<a class="pl_color" href="http://xueyuan.cyzone.cn/yingxiao/" target="_blank" title="">市场营销</a></li>
+			<li>
+				<a class="pl_color" href="http://xueyuan.cyzone.cn/guanli/" target="_blank" title="">企业管理</a></li>
+			<li>
+				<a class="pl_color" href="http://xueyuan.cyzone.cn/caiwu/" target="_blank" title="">财务管理</a></li>
+			<li>
+				<a class="pl_color" href="http://xueyuan.cyzone.cn/chouzi/" target="_blank" title="">融资/贷款</a></li>
+			<li>
+				<a class="pl_color" href="http://xueyuan.cyzone.cn/zhengce/" target="_blank" title="">创业政策</a></li>
+			<li>
+				<a class="pl_color" href="http://xueyuan.cyzone.cn/ebusiness/" target="_blank" title="">电子商务</a></li>
+			<li>
+				<a class="pl_color" href="http://xueyuan.cyzone.cn/ceshi/" target="_blank" title="">创业测试</a></li>
+			<li>
+				<a class="pl_color" href="http://xueyuan.cyzone.cn/shuping/" target="_blank" title="">读书评书</a></li>
+			<li>
+				<a class="pl_color" href="http://xueyuan.cyzone.cn/jishu/" target="_blank" title="">技术</a></li>
+			<li>
+				<a class="pl_color" href="http://xueyuan.cyzone.cn/shenghuo/" target="_blank" title="">工作/生活</a></li>
+			<li>
+				<a class="pl_color" href="http://xueyuan.cyzone.cn/cidian/" target="_blank" title="">创业词典</a></li>
+			<li>
+				<a class="pl_color" href="http://xueyuan.cyzone.cn/xiazai/" target="_blank" title="">资料下载</a></li>
+			<li>
+				<a class="pl_color" href="http://xueyuan.cyzone.cn/guandian/" target="_blank" title="">名家观点</a></li>
+			<li>
+				<a class="pl_color" href="http://xueyuan.cyzone.cn/gushi/" target="_blank" title="">创业故事</a></li>
+			<li>
+				<a class="pl_color" href="http://xueyuan.cyzone.cn/chuangyezhenyan/" target="_blank" title="">创业箴言</a></li>
+		</ul>
+	</div>
+	<div class="partlink_1">
+		<ul class="line-h18">
+			<li class="partlink_title">
+				<a class="pl_title" href="http://u.cyzone.cn/" target="_blank" title="">创业吧</a></li>
+			<li>
+				<a class="pl_color" href="http://u.cyzone.cn/space-doing.html" target="_blank" title="">说说</a></li>
+			<li>
+				<a class="pl_color" href="http://u.cyzone.cn/space-blog.html" target="_blank" title="">日志</a></li>
+			<li>
+				<a class="pl_color" href="http://u.cyzone.cn/space-show.html" target="_blank" title="">创业项目</a></li>
+			<li>
+				<a class="pl_color" href="http://u.cyzone.cn/space-question.html" target="_blank" title="">创业帮帮帮</a></li>
+			<li>
+				<a class="pl_color" href="http://u.cyzone.cn/space-poll.html" target="_blank" title="">投票</a></li>
+			<li>
+				<a class="pl_color" href="http://u.cyzone.cn/space-event.html" target="_blank" title="">活动</a></li>
+			<li>
+				<a class="pl_color" href="http://u.cyzone.cn/space.html" target="_blank" title="">个人主页</a></li>
+			<li>
+				<a class="pl_color" href="http://u.cyzone.cn/space-friend.html" target="_blank" title="">好友</a></li>
+			<li>
+				<a class="pl_color" href="http://u.cyzone.cn/network.html" target="_blank" title="">随便看看</a></li>
+		</ul>
+	</div>
+	<div class="partlink_2">
+		<ul class="line-h18">
+			<li class="partlink_title">
+				<a class="pl_title" href="http://conference.cyzone.cn/" target="_blank" title="">会议活动</a></li>
+			<li>
+				<a class="pl_color" href="http://conference.cyzone.cn/demochina/" target="_blank" title="">创新中国</a></li>
+			<li>
+				<a class="pl_color" href="http://demochina.cyzone.cn/index.html" target="_blank" title="">创新中国2011</a></li>
+			<li>
+				<a class="pl_color" href="http://conference.cyzone.cn/club/" target="_blank" title="">创业邦CEO俱乐部</a></li>
+			<li>
+				<a class="pl_color" href="http://conference.cyzone.cn/club/join.html" target="_blank" title="">加入俱乐部</a></li>
+			<li>
+				<a class="pl_color" href="http://conference.cyzone.cn/club/benefit.html" target="_blank" title="">会员权益</a></li>
+			<li>
+				<a class="pl_color" href="http://conference.cyzone.cn/annual/" target="_blank" title="">创业邦年会</a></li>
+			<li>
+				<a class="pl_color" href="http://conference.cyzone.cn/yearlist/" target="_blank" title="">全部活动</a></li>
+		</ul>
+	</div>
+</div>  </div>
+</div>
+<!-----------content bottom friendlink------>
+<div class="friendlink">
+  <div class="title_fri"><span class="con_we">友情链接</span></div>
+  <div class="link_1">
+	<a class="frlink" href="http://www.nvca.org/" target="_blank" title="">美国风险投资协会</a> | <a class="frlink" href="http://www.hysta.org/" target="_blank" title="">华源科学技术协会</a> | <a class="frlink" href="http://www.thsp.com.cn/" target="_blank" title="">清华科技园</a> | <a class="frlink" href="http://www.teec.org.cn/" target="_blank" title="">清华企业家协会</a> | <a class="frlink" href="http://www.zero2ipo.com.cn/" target="_blank" title="">清科集团</a> | <a class="frlink" href="http://www.ccfa.org.cn/index.jsp" target="_blank" title="">中国连锁经营协会</a> | <a class="frlink" href="http://www.cvca.com.hk/" target="_blank" title="">中华创业投资协会</a> | <a class="frlink" href="http://www.stefg.org/" target="_blank" title="">上海大学生科技创业基金会</a> | <a class="frlink" href="http://www.aamasv.com/" target="_blank" title="">AAMA</a> | <a class="frlink" href="http://www.microsoft.com/china/bizspark/" target="_blank" title="">Bizpark</a><br />
+	<a class="frlink" href="http://tech.sina.com.cn/" target="_blank" title="">新浪科技</a> | <a class="frlink" href="http://finance.qq.com/" target="_blank" title="">腾讯财经</a> | <a class="frlink" href="http://tech.qq.com/" target="_blank" title="">腾讯科技</a> | <a class="frlink" href="http://www.163.com/" target="_blank" title="">网易</a> | <a class="frlink" href="http://money.163.com/" target="_blank" title="">网易商业</a> | <a class="frlink" href="http://tech.163.com/" target="_blank" title="">网易科技</a> | <a class="frlink" href="http://www.ifeng.com/" target="_blank" title="">凤凰网</a> | <a class="frlink" href="http://finance.ifeng.com/" target="_blank" title="">凤凰财经</a> | <a class="frlink" href="http://www.21cn.com/" target="_blank" title="">21CN</a> | <a class="frlink" href="http://www.pedaily.cn/" target="_blank" title="">投资界</a> | <a class="frlink" href="http://www.caijing.com.cn/" target="_blank" title="">《财经网》</a> | <a class="frlink" href="http://www.ebusinessreview.cn/" target="_blank" title="">哈佛商业评论</a> | <a class="frlink" href="http://www.ceibsreview.com/" target="_blank" title="">中欧商业评论</a> | <a class="frlink" href="http://www.iceo.com.cn/" target="_blank" title="">中国企业家网</a><br />
+	<a class="frlink" href="http://www.hexun.com/" target="_blank" title="">和讯网</a> | <a class="frlink" href="http://www.jrj.com/" target="_blank" title="">金融界</a> | <a class="frlink" href="http://www.eastmoney.com/" target="_blank" title="">东方财富网</a> | <a class="frlink" href="http://www.p5w.net/" target="_blank" title="">全景网</a> | <a class="frlink" href="http://www.caihuanet.com/" target="_blank" title="">财华网</a> | <a class="frlink" href="http://www.cnfol.com/" target="_blank" title="">中金在线</a> | <a class="frlink" href="http://money.msn.com.cn/" target="_blank" title="">MSN中国理财</a> | <a class="frlink" href="http://finance.cn.yahoo.com/" target="_blank" title="">雅虎财经</a> | <a class="frlink" href="http://finance.huanqiu.com/" target="_blank" title="">环球网财经</a> | <a class="frlink" href="http://www.ce.cn/" target="_blank" title="">中国经济网</a> | <a class="frlink" href="http://www.prnews.cn/" target="_blank" title="">中国商业电讯</a> | <a class="frlink" href="http://www.cnforex.com/" target="_blank" title="">环球外汇网</a> | <a class="frlink" href="http://www.xprn.com/xprn/storyInfoManage.do?method=indexInfo&amp;langId=2" target="_blank" title="">美通社</a> | <a class="frlink" href="http://www.bnet.com.cn/" target="_blank" title="">BNET</a><br />
+	<a class="frlink" href="http://www.cnetnews.com.cn/" target="_blank" title="">CNET</a> | <a class="frlink" href="http://www.myzaker.com/" target="_blank" title="">Zaker</a> | <a class="frlink" href="http://www.eguan.cn/" target="_blank" title="">易观网</a> | <a class="frlink" href="http://www.sootoo.com/" target="_blank" title="">速途网</a> | <a class="frlink" href="www.leiphone.com" target="_blank" title="">雷锋网</a> | <a class="frlink" href="http://technode.com/" target="_blank" title="">动点科技</a> | <a class="frlink" href="http://www.caistv.com" target="_blank" title="">商界财视网</a> | <a class="frlink" href="http://www.umiwi.com/" target="_blank" title="">优米网</a> | <a class="frlink" href="http://www.chinaemba.cn/" target="_blank" title="">中国EMBA网</a> | <a class="frlink" href="http://www.eme2000.com/" target="_blank" title="">中小企业服务平台</a> | <a class="frlink" href="http://club.china.alibaba.com/forum/index.html" target="_blank" title="">商人社区</a> | <a class="frlink" href="http://www.lenso.cn/" target="_blank" title="">连锁中国</a> | <a class="frlink" href="http://www.paidai.com/" target="_blank" title="">派代网</a> | <a class="frlink" href="http://info.china.alibaba.com/news/community/c12.html" target="_blank" title="">阿里巴巴创业</a><br />
+	<a class="frlink" href="http://bj.soufun.com/" target="_blank" title="">搜房网</a> | <a class="frlink" href="http://fdc.soufun.com/" target="_blank" title="">搜房产业网</a> | <a class="frlink" href="http://www.ganji.com" target="_blank" title="">赶集网</a> | <a class="frlink" href="http://www.ujelly.org/" target="_blank" title="">这里网</a> | <a class="frlink" href="http://www.ibtimes.com.cn/" target="_blank" title="">国际财经时报</a> | <a class="frlink" href="http://www.cmmo.cn" target="_blank" title="">第一营销网</a> | <a class="frlink" href="http://www.kxting.com" target="_blank" title="">开心听</a> | <a class="frlink" href="http://www.cnblogs.com" target="_blank" title="">博客园</a> | <a class="frlink" href="http://www.soe.org.cn/" target="_blank" title="">SOE中国</a> | <a class="frlink" href="http://www.docin.com/" target="_blank" title="">豆丁网</a> | <a class="frlink" href="http://www.woyo.com/" target="_blank" title="">我友网</a> | <a class="frlink" href="http://www.pptv.com/" target="_blank" title="">PPTV</a> | <a class="frlink" href="http://industry.yidaba.com/tool/" target="_blank" title="">一大把网</a> | <a class="frlink" href="http://www.17k.com/" target="_blank" title="">17k文学网</a></div></div>
+</div>
+<div class="footer clearfix">
+  <div class="bottom_line"></div>
+  <div class="footer_box">
+    <div class="foot_bar1"> <a title=""  href="http://www.entrepreneur.com/" target="_blank"> <img alt="Entrepreneur" src="http://img.cyzone.com.cn/entrepreneur.gif"></a></div>
+    <div class="foot_bar2"> <a title=""  class="footlink" href="http://www.cyzone.cn/about/about.html" target="_blank">关于创业邦</a>  | <a target="_blank" title="" class="footlink" href="http://www.cyzone.cn/about/consultant.html">顾问委员会</a>  | <a target="_blank" title=""  class="footlink" href="http://www.cyzone.cn/about/contact.html"> 联系我们</a>  |  <a target="_blank" title=""  class="footlink" href="http://www.cyzone.cn/about/cooperation.html">友情合作</a> | <a target="_blank" title=""  class="footlink" href="/about/copyright.html"> 版权声明</a>  |  <a title=""  class="footlink" href="http://www.cyzone.cn/about/hr.html" target="_blank">诚聘英才</a> |  <a target="_blank" title=""  class="footlink" href="http://magazine.cyzone.cn/subscription.html">杂志订阅</a> </div>
+    <div class="foot_bar3"> Copyright 2007-2011 cyzone.cn All rights reserved  <a title="" class="footlink" href="http://www.bca.gov.cn/">京ICP证070362号</a> <a title="" class="footlink" href="http://www.miibeian.gov.cn/">京ICP备08103950号</a> <a href="http://www.pinganhd.com/" target="_blank">京公海网安备110108000742号</a></div>
+  </div>
+</div>
+<script type="text/javascript">
+$(function(){
+    //加载mini登录条
+    $.getJSON('http://www.cyzone.cn/index.php?m=member&c=index&a=mini&jsonp=1&callback=?',function(data){$('#login').html(data.msg);});
+        if(!getcookie('sendmail')){ $.getJSON('http://www.cyzone.cn/api.php?op=sendmail&callback=?'); }
+    ;
+});
+</script>
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-6310276-1");
+    pageTracker._setDomainName("cyzone.cn");
+    pageTracker._trackPageview();
+</script>
+</body>
+</html>

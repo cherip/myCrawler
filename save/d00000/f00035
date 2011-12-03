@@ -1,0 +1,751 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>奇客时尚网-男性时尚生活垂直门户</title>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+function killErrors() {
+     return true;
+}
+window.onerror = killErrors;
+// -->
+</SCRIPT>
+<meta name="Keywords" content="hi-chic时尚网,奇客时尚网,男性时尚,流行,时尚杂志,明星,时尚网站,奢侈品,时装,服饰,化妆,美容,男人,健康,男士护肤,奇客网" />
+<meta name="Description" content="HI-CHIC.COM奇客时尚网是由台湾CHIC GROUP子时集团所成立的一家网络公司。网站定位为男性时尚生活垂直门户。网站以资讯、商城、BBS社区几个部分组成，配合集团强大的男性时尚杂志《Men's Uno 达人志》，目标成为全华人地区最专业的男性时尚网站。" />
+<link href="/public/css/index-n.css" rel="stylesheet" type="text/css" />
+
+<script>
+var isIe=(document.all)?true:false;
+//设置select的可见状态
+function setSelectState(state)
+{
+var objl=document.getElementsByTagName('select');
+for(var i=0;i<objl.length;i++)
+{
+objl[i].style.visibility=state;
+}
+}
+function mousePosition(ev)
+{
+if(ev.pageX || ev.pageY)
+{
+return {x:ev.pageX, y:ev.pageY};
+}
+return {
+x:ev.clientX + document.body.scrollLeft - document.body.clientLeft,y:ev.clientY + document.body.scrollTop - document.body.clientTop
+};
+}
+//弹出方法
+function showMessageBox(wTitle,content,pos,wWidth)
+{
+closeWindow();
+var bWidth=parseInt(document.documentElement.scrollWidth);
+var bHeight=parseInt(document.documentElement.scrollHeight);
+if(isIe){
+setSelectState('hidden');}
+var back=document.createElement("div");
+back.id="back";
+var styleStr="top:0px;left:0px;position:absolute;background:#666;width:"+bWidth+"px;height:"+bHeight+"px;";
+styleStr+=(isIe)?"filter:alpha(opacity=0);":"opacity:0;";
+back.style.cssText=styleStr;
+document.body.appendChild(back);
+showBackground(back,50);
+var mesW=document.createElement("div");
+mesW.id="mesWindow";
+mesW.className="mesWindow";
+mesW.innerHTML="<div class='mesWindowTop'><table width='100%' height='100%'><tr><td>"+wTitle+"</td><td style='width:1px;'><input type='button' onclick='closeWindow();' title='关闭窗口' class='close' value='关闭' /></td></tr></table></div><div class='mesWindowContent' id='mesWindowContent'>"+content+"</div><div class='mesWindowBottom'></div>";
+styleStr="left:"+(((pos.x-wWidth)>0)?(pos.x-wWidth):pos.x)+"px;top:"+(pos.y)+"px;position:absolute;width:"+wWidth+"px;";
+mesW.style.cssText=styleStr;
+document.body.appendChild(mesW);
+}
+//让背景渐渐变暗
+function showBackground(obj,endInt)
+{
+if(isIe)
+{
+obj.filters.alpha.opacity+=1;
+if(obj.filters.alpha.opacity<endInt)
+{
+setTimeout(function(){showBackground(obj,endInt)},5);
+}
+}else{
+var al=parseFloat(obj.style.opacity);al+=0.01;
+obj.style.opacity=al;
+if(al<(endInt/100))
+{setTimeout(function(){showBackground(obj,endInt)},5);}
+}
+}
+//关闭窗口
+function closeWindow()
+{
+if(document.getElementById('back')!=null)
+{
+document.getElementById('back').parentNode.removeChild(document.getElementById('back'));
+}
+if(document.getElementById('mesWindow')!=null)
+{
+document.getElementById('mesWindow').parentNode.removeChild(document.getElementById('mesWindow'));
+}
+if(isIe){
+setSelectState('');}
+}
+//测试弹出
+function testMessageBox1(ev)
+{
+var objPos = mousePosition(ev);
+messContent="<div style='padding:20px 0 20px 0;text-align:center;z-index:999999;'><form action='http://www.hi-chic.com/login' method='post'><table align='center'><tr><td>登陆名：</td><td><input type='text' name='username' id='myusername' style='width:100px;'/></td></tr><tr><td>密　码：</td><td><input type='password' name='password' id='mypassword' style='width:100px;'/></td></tr><tr><td></td><td><input type='submit'  value='登陆' /></td></tr><input type='hidden' name='jumpurl' value='http://www.hi-chic.com'></table></form>";
+showMessageBox('登录',messContent,objPos,350);
+}
+function testMessageBox2(ev)
+{
+var objPos = mousePosition(ev);
+messContent="<div style='padding:20px 0 20px 0;text-align:center'>消息正文2</div>";
+showMessageBox('窗口标题2',messContent,objPos,350);
+}
+function testMessageBox3(ev)
+{
+var objPos = mousePosition(ev);
+messContent="<div style='padding:20px 0 20px 0;text-align:center'>消息正文3</div>";
+showMessageBox('窗口标题3',messContent,objPos,350);
+}
+</script>
+<script type="text/javascript" src="/public/js/jquery-n.js"></script>
+<script type="text/javascript" src="/public/js/lanrentuku.js"></script>
+<script src="/public/js/scrollad.js" type="text/javascript"></script>
+<link href="/public/css/focus_style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/public/js/focus_scripts.js"></script>
+<script type="text/javascript" src="/public/js/swfobjectindex.js"></script>
+<script type="text/javascript" src="http://api.hi-chic.com/title"></script>
+<script type="text/javascript" src="/public/js/common.js"></script>
+<script type="text/javascript">
+            var total_content='7';//
+</script>
+<script type="text/javascript" src="/public/js/scrollad.js"></script>
+<style>
+			.floattitle a{color:#000}
+                        #slide-runner img{width: 934px;height: 234px;}
+</style>
+
+<style type=text/css>body {
+	font-size: 14px; font-family: "宋体"
+}
+ol li {
+	margin: 8px
+}
+#con {
+	font-size: 12px; margin: 0px auto; width: 600px
+}
+#tags {
+	padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px 0px 0px 10px; width: 400px; padding-top: 0px; height: 23px
+}
+#tags li {
+	background: url(images/tagleft.gif) no-repeat left bottom; float: left; margin-right: 1px; list-style-type: none; height: 23px
+}
+#tags li a {
+	padding-right: 10px; padding-left: 10px; background: url(images/tagright.gif) no-repeat right bottom; float: left; padding-bottom: 0px; color: #999; line-height: 23px; padding-top: 0px; height: 23px; text-decoration: none
+}
+#tags li.emptytag {
+	background: none transparent scroll repeat 0% 0%; width: 4px
+}
+#tags li.selecttag {
+	background-position: left top; margin-bottom: -2px; position: relative; height: 25px
+}
+#tags li.selecttag a {
+	background-position: right top; color: #000; line-height: 25px; height: 25px
+}
+#tagcontent {
+	border-right: #aecbd4 1px solid; padding-right: 1px; border-top: #aecbd4 1px solid; padding-left: 1px; padding-bottom: 1px; border-left: #aecbd4 1px solid; padding-top: 1px; border-bottom: #aecbd4 1px solid; background-color: #fff
+}
+.tagcontent {
+	padding-right: 10px; display: none; padding-left: 10px; background: url(images/bg.gif) repeat-x; padding-bottom: 10px; width: 576px; color: #474747; padding-top: 10px; height: 250px
+}
+#tagcontent div.selecttag {
+	display: block
+}
+</style>
+<style>
+html,body{font-size:12px;margin:0px;height:100%;}
+.mesWindow{border:#666 1px solid;background:#fff;}
+.mesWindowTop{border-bottom:#eee 1px solid;margin-left:4px;padding:3px;font-weight:bold;text-align:left;font-size:12px;}
+.mesWindowContent{margin:4px;font-size:12px;}
+.mesWindow .close{height:15px;width:28px;border:none;cursor:pointer;text-decoration:underline;background:#fff}
+</style>
+</head>
+<body>
+<div class="index_body">
+<div class="white_bg">
+<!-- 首页注册开始 -->
+<div class="index_zhuce">
+<div class="toptitleborder">
+<div class="main" id="writetitle" style="background-color:#666666;overflow:visible;">
+        </div>
+<div class="main" style="height:10px;font-size:0px;"></div>
+</div>
+</div>
+<!-- 首页注册结束 -->
+<!-- 首页导航开始 -->
+<div class="index_daohang">
+<div class="bizmenubox">
+<h1>
+<a href="http://news.hi-chic.com/">型男志 MAGAZINE</a></h1>
+<h1>
+<a href="http://shop.hi-chic.com/">商城HI-CHIC SHOP</a></h1>
+<h1>
+<a href="http://fashiondog.hi-chic.com/" target="_blank">时髦狗 FASHION DOG</a></h1>
+<h1>
+<a href="http://special.hi-chic.com/?cat_id=47">达人志 MEN'S UNO</a></h1>
+<h1>
+<a href="http://weibo.com/hichic">官方微博</a></h1>
+</div>
+</div>
+<!-- 首页导航结束 -->
+<!-- 首页主体开始 -->
+<div class="index_jiaodian" align="center">
+
+              <div id="header"><div class="wrap" id="focus_left">
+               <div id="slide-holder">
+                <div id="slide-runner">
+                    <a href="http://www.mensunogroomingawards.com/ "><img id="slide-img-1" src="/public/upload/focus/2011/12/20111202_1322789517362.jpg" class="slide" alt="新世代完美肌肤新演绎" title="新世代完美肌肤新演绎" /></a>
+                    <a href="http://video.hi-chic.com/ "><img id="slide-img-2" src="/public/upload/focus/2011/11/20111130_1322638759642.jpg" class="slide" alt="CHIC TV 精彩呈现 " title="CHIC TV 精彩呈现 " /></a>
+                    <a href="http://shop.hi-chic.com/agencyshop/index_1.html "><img id="slide-img-3" src="/public/upload/focus/2011/11/20111130_1322638777356.jpg" class="slide" alt="欢型有你   缤纷圣诞提前“购”  " title="欢型有你   缤纷圣诞提前“购”  " /></a>
+                    <div id="slide-controls">
+                     <p id="slide-desc" class="text"></p>
+                     <p id="slide-nav"></p>
+                    </div>
+                </div>
+                    <!--content featured gallery here -->
+               </div>
+               <script type="text/javascript">
+                if(!window.slider) var slider={};
+                slider.data=[
+                    {"id":"slide-img-1","client":"","desc":"新世代完美肌肤新演绎"},
+                    {"id":"slide-img-2","client":"","desc":"CHIC TV 精彩呈现 "},
+                    {"id":"slide-img-3","client":"","desc":"欢型有你   缤纷圣诞提前“购”  "}];
+               </script>
+              </div></div>
+
+
+
+
+
+</div>
+<div class="clear">
+</div>
+<div class="index_rukou">
+<div class="rukou_01">
+<div class="kong">
+</div>
+<!--商城入口-->
+<div class="shop">
+<a href="http://shop.hi-chic.com/">
+<img src="images/shop.jpg" alt="奇客商城 型男服饰 潮流服饰 时尚用品" title="奇客商城 型男服饰 潮流服饰 时尚用品" /></a>
+</div>
+<!--商城入口结束-->
+
+<div class="xingnanzhi">
+<a href="http://news.hi-chic.com/">
+<img src="images/xingnanzhi.jpg" alt="男士时尚 时尚资讯 流行趋势" title="男士时尚 时尚资讯 流行趋势" /></a>
+</div>
+
+</div>
+<div class="rukou_02">
+<div class="logo_search">
+<div class="logo">
+<a href="#" target="_blank">
+<img src="images/index_logo.jpg" /></a></div>
+<div class="index_search">
+<div class="gg-search">
+<form method="get" action="http://www.hi-chic.com/search/">
+<input type="hidden" name="kwtype" value="0" /><input class="search-keyword" id="search-keyword"
+name="key" value="" /><input class="search-submit" type="submit" value="" /></form>
+</div>
+</div>
+</div>
+<div class="darenzhi">
+<a href="http://special.hi-chic.com/?cat_id=47">
+<img src="images/darenzhi.jpg" alt="达人志mensuno 男士时尚杂志 现在杂志阅读" title="达人志mensuno 男士时尚杂志 现在杂志阅读" />
+</a>
+</div>
+<div class="shimaogou">
+<a href="http://fashiondog.hi-chic.com/">
+<img src="images/shimaogou.jpg" alt="男士论坛 时尚论坛 八卦直击" title="男士论坛 时尚论坛 八卦直击" /></a>
+</div>
+</div>
+<div class="rukou_03">
+<div class="kong">
+</div>
+<div class="shijian">
+<a href="http://news.hi-chic.com/detail/16118.html" target="_blank">
+<img src="images/shijian.jpg" alt="行者陈坤 抵达一片梦境的高原" title="行者陈坤 抵达一片梦境的高原" /></a>
+</div>
+<div class="youxi">
+
+<a href="http://weibo.com/hichic" target="_blank"><img src="images/youxi.jpg" /></a>
+
+</div>
+</div>
+<div class="div4border" sizcache="1" sizset="25">
+<div class="left flash"  style=" margin-top:-100px; ">
+
+<object height="330" width="570" id="welcomeBanner" codebase=" http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0"
+classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+<param value="always" name="allowScriptAccess" />
+<param value="0xFFFFFF" name="bgcolor" />
+<param value="transparent" name="wmode" />
+<param value="/public/flash/shaizi.swf" name="movie" />
+<param value="noscale" name="scale" />
+<param value="" name="flashvars" />
+<param value="true" name="play" />
+<embed height="330" width="570" pluginspage=" http://www.macromedia.com/go/getflashplayer"
+type="application/x-shockwave-flash" allowscriptaccess="always" play="true" flashvars=""
+bgcolor="0xFFFFFF" wmode="transparent" name="welcomeBanner" scale="noscale" src="/public/flash/shaizi.swf" /></object>
+
+
+</div>
+<div class="dibu_jiaodian" style="margin-top: -2px; z-index: 10; margin-left: -330px;
+width: 552px; position: relative" sizcache="1" sizset="25">
+<div class="dibu_jd">
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://openbus.hi-chic.com/www/delivery/ajs.php':'http://openbus.hi-chic.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=102");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://openbus.hi-chic.com/www/delivery/ck.php?n=ab4f0b19&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://openbus.hi-chic.com/www/delivery/avw.php?zoneid=102&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ab4f0b19' border='0' alt='' /></a></noscript>
+
+</div>
+<div class="clear">
+</div>
+</div>
+</div>
+
+</div>
+<!-- 首页主体结束 -->
+<!-- 底部轮播开始 -->
+<div class="dibu_lunbo">
+<div class="" style="width: 973px; height: 204px;">
+
+
+                <div class="main left" style="background-color:black;height:200px;margin-left:20px;_margin-left:3px;margin-top:4px;width:930px;_width:960px;">
+
+
+
+                    <table border="0" cellpadding="0" cellspacing="0" style="width:930px;_width:920px" height="200px" bgcolor="#000000">
+                        <tr>
+							                            <td  onMouseOver="content_mouse('1')" valign="top" class="pdboder" align="center">
+                                <a href="http://news.hi-chic.com/detail/15849.html" target="_blank" class="title1"><img src="/public/upload/images/2011/11/20111130_1322638902416.jpg" class="tborder" style="height:200px;width:29px;" title="守候冬天里的最后的猎人"/></a>
+                            </td>
+                            <td>
+                                <div id="divhl01" >
+                                     <div class="limit">
+                                        <a href="http://news.hi-chic.com/detail/15849.html" target="_blank">
+                                            <img src="/public/upload/images/2011/11/20111130_1322638902535.jpg"  height="200" width="715" border="0" title="守候冬天里的最后的猎人"/>
+                                        </a>
+                                    </div>
+                                </div>
+                            </td>
+							                            <td  onMouseOver="content_mouse('2')" valign="top" class="pdboder" align="center">
+                                <a href="http://news.hi-chic.com/detail/15822.html" target="_blank" class="title1"><img src="/public/upload/images/2011/11/20111130_1322638892708.jpg" class="tborder" style="height:200px;width:29px;" title="John Galliano 2011秋冬内衣广告"/></a>
+                            </td>
+                            <td>
+                                <div id="divhl02"  style="display:none;">
+                                     <div class="limit">
+                                        <a href="http://news.hi-chic.com/detail/15822.html" target="_blank">
+                                            <img src="/public/upload/images/2011/11/20111130_1322638892276.jpg"  height="200" width="715" border="0" title="John Galliano 2011秋冬内衣广告"/>
+                                        </a>
+                                    </div>
+                                </div>
+                            </td>
+							                            <td  onMouseOver="content_mouse('3')" valign="top" class="pdboder" align="center">
+                                <a href="http://news.hi-chic.com/detail/15808.html" target="_blank" class="title1"><img src="/public/upload/images/2011/11/20111130_1322638936767.jpg" class="tborder" style="height:200px;width:29px;" title="活用抗力球 核心肌群轻松练"/></a>
+                            </td>
+                            <td>
+                                <div id="divhl03"  style="display:none;">
+                                     <div class="limit">
+                                        <a href="http://news.hi-chic.com/detail/15808.html" target="_blank">
+                                            <img src="/public/upload/images/2011/11/20111130_1322638936466.jpg"  height="200" width="715" border="0" title="活用抗力球 核心肌群轻松练"/>
+                                        </a>
+                                    </div>
+                                </div>
+                            </td>
+							                            <td  onMouseOver="content_mouse('4')" valign="top" class="pdboder" align="center">
+                                <a href="http://news.hi-chic.com/detail/15647.html" target="_blank" class="title1"><img src="/public/upload/images/2011/11/20111130_1322638961490.jpg" class="tborder" style="height:200px;width:29px;" title="面膜驾驭时间 保持完美状态"/></a>
+                            </td>
+                            <td>
+                                <div id="divhl04"  style="display:none;">
+                                     <div class="limit">
+                                        <a href="http://news.hi-chic.com/detail/15647.html" target="_blank">
+                                            <img src="/public/upload/images/2011/11/20111130_1322638961179.jpg"  height="200" width="715" border="0" title="面膜驾驭时间 保持完美状态"/>
+                                        </a>
+                                    </div>
+                                </div>
+                            </td>
+							                            <td  onMouseOver="content_mouse('5')" valign="top" class="pdboder" align="center">
+                                <a href="http://news.hi-chic.com/detail/15956.html" target="_blank" class="title1"><img src="/public/upload/images/2011/11/20111130_1322638989988.jpg" class="tborder" style="height:200px;width:29px;" title="Evan Rachel Wood 男女通吃的危险情人"/></a>
+                            </td>
+                            <td>
+                                <div id="divhl05"  style="display:none;">
+                                     <div class="limit">
+                                        <a href="http://news.hi-chic.com/detail/15956.html" target="_blank">
+                                            <img src="/public/upload/images/2011/11/20111130_1322638989729.jpg"  height="200" width="715" border="0" title="Evan Rachel Wood 男女通吃的危险情人"/>
+                                        </a>
+                                    </div>
+                                </div>
+                            </td>
+							                            <td  onMouseOver="content_mouse('6')" valign="top" class="pdboder" align="center">
+                                <a href="http://news.hi-chic.com/detail/15933.html" target="_blank" class="title1"><img src="/public/upload/images/2011/11/20111130_1322639016653.jpg" class="tborder" style="height:200px;width:29px;" title="卡地亚首款概念腕表亮相中国"/></a>
+                            </td>
+                            <td>
+                                <div id="divhl06"  style="display:none;">
+                                     <div class="limit">
+                                        <a href="http://news.hi-chic.com/detail/15933.html" target="_blank">
+                                            <img src="/public/upload/images/2011/11/20111130_1322639016889.jpg"  height="200" width="715" border="0" title="卡地亚首款概念腕表亮相中国"/>
+                                        </a>
+                                    </div>
+                                </div>
+                            </td>
+							                            <td  onMouseOver="content_mouse('7')" valign="top" class="pdboder" align="center">
+                                <a href="http://special.hi-chic.com/special/185.html" target="_blank" class="title1"><img src="/public/upload/images/2011/11/20111130_1322639055783.jpg" class="tborder" style="height:200px;width:29px;" title="我们想要时髦出租车"/></a>
+                            </td>
+                            <td>
+                                <div id="divhl07"  style="display:none;">
+                                     <div class="limit">
+                                        <a href="http://special.hi-chic.com/special/185.html" target="_blank">
+                                            <img src="/public/upload/images/2011/11/20111130_1322639055170.jpg"  height="200" width="715" border="0" title="我们想要时髦出租车"/>
+                                        </a>
+                                    </div>
+                                </div>
+                            </td>
+							                        </tr>
+                    </table>
+                </div>
+
+
+
+
+
+
+
+<div class="left" style="width: 6px; text-align: left; font-size: 0px;">
+<img src="http://www.hi-chic.com/public/images/indexbg1.gif" style="width: 5px;" />
+</div>
+<div class="clear">
+</div>
+</div>
+<div class="main" style="height: 30px; font-size: 0px;">
+</div>
+
+<script type="text/javascript">
+var timeout2=5000;  //
+var timeout3=10000; //mouse over
+var now_content=0;
+var way=1;
+var start_content=Math.round(Math.random()*(total_content-1))+1; //
+function content_mouse(num){
+now_content=num;
+window.clearInterval(theTimer2);
+for (var i=1;i<=total_content;i++){
+document.getElementById('divhl0'+i).style.display='none';
+}
+document.getElementById('divhl0'+num).style.display='block';
+theTimer2=setTimeout('change_content()', timeout3);
+}
+function change_content(){
+
+for (var i=1;i<=total_content;i++){
+document.getElementById('divhl0'+i).style.display='none';
+}
+document.getElementById('divhl0'+now_content).style.display='block';
+if (way) now_content++;
+else now_content--;
+if(now_content>total_content) {
+now_content=total_content-1;
+way=0;
+}
+else if(now_content==0) {
+now_content=1;
+way=1;
+}
+theTimer2=setTimeout('change_content()', timeout2);
+}
+theTimer2=setTimeout(function(){
+now_content=1;
+change_content();
+}, timeout2);
+</script>
+
+</div>
+<!-- 底部轮播结束 -->
+<!-- 合作单位开始 -->
+<div class="main" style="margin-top:10px!important;">
+
+            <div class="linktitle">
+                <div style="height:6px;font-size:0px;line-height:0px;"></div>
+									                <div name="1" class="lt1 left lktitle lktitle2"><a href="">男性时尚</a></div>
+						                <div name="2" class="lt2 left lktitle lktitle2"><a href="">女性时尚</a></div>
+						                <div name="3" class="lt3 left lktitle lktitle2"><a href="">时尚生活</a></div>
+						                <div name="4" class="lt4 left lktitle lktitle2"><a href="">导航</a></div>
+			                <div class="clear"></div>
+            </div>
+
+                                                <div class="linklist ll1 showlklist" align="left">
+                			[<a href="http://www.mensuno.com.tw/" target="_blank">men's uno </a>]&nbsp;&nbsp;
+                			[<a href="http://man.taobao.com/" target="_blank">淘宝男人 </a>]&nbsp;&nbsp;
+                			[<a href="http://men.sohu.com/" target="_blank">搜狐男人 </a>]&nbsp;&nbsp;
+                			[<a href="http://www.fengsung.com/" target="_blank">风尚中国 </a>]&nbsp;&nbsp;
+                			[<a href="http://www.junzimen.com/" target="_blank">君子门</a>]&nbsp;&nbsp;
+                			[<a href="http://www.nanrenzhuang.net/" target="_blank">男人装</a>]&nbsp;&nbsp;
+                			[<a href="http://www.mancity.com.cn/html/index.html" target="_blank">男士时尚网</a>]&nbsp;&nbsp;
+                            </div>
+                                    <div class="linklist ll2 showlklist" align="left">
+                			[<a href="http://www.lady8844.com/" target="_blank">爱美网</a>]&nbsp;&nbsp;
+                			[<a href="http://www.ladymax.cn/" target="_blank">ladymax女性网 </a>]&nbsp;&nbsp;
+                			[<a href="http://www.ejfeng.com/" target="_blank">E街风时尚网 </a>]&nbsp;&nbsp;
+                			[<a href="http://luxury.pclady.com.cn" target="_blank">Pclady时尚</a>]&nbsp;&nbsp;
+                			[<a href="http://www.wed114.cn" target="_blank">wed114结婚网</a>]&nbsp;&nbsp;
+                			[<a href="http://www.enet.com.cn/elady/" target="_blank">eNet-IT女性</a>]&nbsp;&nbsp;
+                			[<a href="http://lady.poco.cn/" target="_blank">poco女性频道 </a>]&nbsp;&nbsp;
+                			[<a href="http://www.herschina.com/" target="_blank">Hers女性网</a>]&nbsp;&nbsp;
+                			[<a href="http://www.zdface.com/" target="_blank">妆点网</a>]&nbsp;&nbsp;
+                			[<a href="http://www.vdolady.com" target="_blank">维度女性网</a>]&nbsp;&nbsp;
+                			[<a href="http://www.7y7.com/" target="_blank">七丽女性网</a>]&nbsp;&nbsp;
+                			[<a href="http://www.2hua.com/" target="_blank">花花女性网</a>]&nbsp;&nbsp;
+                			[<a href="http://lady.taobao.com/" target="_blank">淘宝女人</a>]&nbsp;&nbsp;
+                            </div>
+                                    <div class="linklist ll3 showlklist" align="left">
+                			[<a href="http://lady.cn.yahoo.com/" target="_blank">雅虎时尚</a>]&nbsp;&nbsp;
+                			[<a href="http://lady.people.com.cn/" target="_blank">人民网时尚</a>]&nbsp;&nbsp;
+                			[<a href="http://www.vsuch.com/" target="_blank">尚趣网</a>]&nbsp;&nbsp;
+                			[<a href="http://v.ifeng.com/" target="_blank">凤凰视频</a>]&nbsp;&nbsp;
+                			[<a href="http://life.ynet.com/index.html" target="_blank">北青网生活</a>]&nbsp;&nbsp;
+                			[<a href="http://www.55bbs.com/" target="_blank">55BBS生活消费门户</a>]&nbsp;&nbsp;
+                			[<a href="http://fashion.ifeng.com/" target="_blank">凤凰网时尚</a>]&nbsp;&nbsp;
+                			[<a href="http://www.opda.com.cn" target="_blank">安卓网</a>]&nbsp;&nbsp;
+                			[<a href="http://www.yoka.com/" target="_blank">YOKA时尚网</a>]&nbsp;&nbsp;
+                			[<a href="http://www.trends.com.cn/" target="_blank">时尚网 </a>]&nbsp;&nbsp;
+                			[<a href="http://luxury.qq.com/" target="_blank">腾讯时尚 </a>]&nbsp;&nbsp;
+                			[<a href="http://www.hi-chic.com/" target="_blank">奇客时尚网</a>]&nbsp;&nbsp;
+                			[<a href="http://www.clubtime.cn/" target="_blank">夜时光</a>]&nbsp;&nbsp;
+                			[<a href="http://www.docin.com/" target="_blank">豆丁网</a>]&nbsp;&nbsp;
+                			[<a href="http://www.yoti.cn/" target="_blank">健身美体网</a>]&nbsp;&nbsp;
+                			[<a href="http://fashion.daqi.com/" target="_blank">大旗時尚</a>]&nbsp;&nbsp;
+                			[<a href="http://life.21cn.com/" target="_blank">21CN生活</a>]&nbsp;&nbsp;
+                			[<a href="http://www.ngmchina.com.cn" target="_blank">华夏地理</a>]&nbsp;&nbsp;
+                			[<a href="http://www.voguechinese.com/" target="_blank">风尚时尚网</a>]&nbsp;&nbsp;
+                			[<a href="http://fashion.ce.cn/" target="_blank">中国经济网时尚</a>]&nbsp;&nbsp;
+                			[<a href="http://www.feelcars.com/" target="_blank">汽车探索网</a>]&nbsp;&nbsp;
+                			[<a href="http://www.boosj.com" target="_blank">播视网</a>]&nbsp;&nbsp;
+                			[<a href="http://www.sg.com.cn" target="_blank">精品网</a>]&nbsp;&nbsp;
+                			[<a href="http://bj.pcauto.com.cn/" target="_blank">北京车市</a>]&nbsp;&nbsp;
+                			[<a href="http://fashion.cnwest.com/" target="_blank">西部网时尚频道</a>]&nbsp;&nbsp;
+                			[<a href="http://www.chinasspp.com/" target="_blank">中国时尚品牌网</a>]&nbsp;&nbsp;
+                			[<a href="http://lux.hexun.com/" target="_blank">和讯奢侈品频道</a>]&nbsp;&nbsp;
+                			[<a href="http://ent.qianlong.com/" target="_blank">千龙娱乐频道</a>]&nbsp;&nbsp;
+                			[<a href="http://tt.mop.com/" target="_blank">猫扑贴贴</a>]&nbsp;&nbsp;
+							[<a href="http://news.iqilu.com/ " target="_blank">齐鲁新闻中心</a>]&nbsp;&nbsp;
+							[<a href="http://www.opda.com.cn/ " target="_blank">塞班论坛</a>]&nbsp;&nbsp;
+							[<a href="http://www.jobui.com " target="_blank">找工作</a>]&nbsp;&nbsp;
+							[<a href="http://www.cnhubei.com/ " target="_blank">荆楚网</a>]&nbsp;&nbsp;
+							[<a href="http://city.club.sohu.com/" target="_blank">搜狐城市社区</a>]&nbsp;&nbsp;
+							[<a href="http://lady.southcn.com/default.htm" target="_blank">南方网时尚频道</a>]&nbsp;&nbsp;
+							[<a href="http://news.ifensi.com" target="_blank">粉丝网娱乐</a>]&nbsp;&nbsp;
+                            </div>
+                                    <div class="linklist ll4 showlklist" align="left">
+                			[<a href="http://www.0090.cn" target="_blank">0090网址大全</a>]&nbsp;&nbsp;
+                			[<a href="http://www.1122.com/" target="_blank">1122网址导航</a>]&nbsp;&nbsp;
+                			[<a href=" http://www.kuhao360.com" target="_blank">360网站导航</a>]&nbsp;&nbsp;
+                			[<a href="http://www.6296.com.cn/" target="_blank">6296网址大全</a>]&nbsp;&nbsp;
+                			[<a href="http://zixun.hi-chic.com/" target="_blank">资讯</a>]&nbsp;&nbsp;
+                			[<a href="http://www.webdh.net" target="_blank">华人网站导航</a>]&nbsp;&nbsp;
+                			[<a href="http://www.qnrwz.com/" target="_blank">青年人网址大全</a>]&nbsp;&nbsp;
+                			[<a href="http://www.57616.com/" target="_blank">57616网址大全</a>]&nbsp;&nbsp;
+                			[<a href="http://car.hi-chic.com/" target="_blank">奇客时尚汽车频道</a>]&nbsp;&nbsp;
+                			[<a href="http://ipad.hi-chic.com/" target="_blank">奇客时尚ipad频道</a>]&nbsp;&nbsp;
+                			[<a href="http://zixun.hi-chic.com/" target="_blank">奇客时尚新闻资讯</a>]&nbsp;&nbsp;
+                			[<a href="http://netbook.hi-chic.com/" target="_blank">笔记本专题</a>]&nbsp;&nbsp;                                   
+                            </div>
+
+
+
+
+</div>
+<!-- 合作单位结束 -->
+<div class="clear">
+</div>
+<!-- 尾部开始 -->
+<div class="indexfoot">
+
+
+	<!-- 底部
+	<div class="main" style="height:20px;"></div>
+	<div class="main foot">
+		<div class="footblack">
+			
+		</div>
+		<div class="foot2"><b>chic group 子时集团-北京麦斯吾若科贸有限公司 版权所有</b> 京ICP证09015390号 | 京公网安备110105500953号</div>
+		<div class="foot3">
+			Copyright 2007-2008 CHIC GROUP-Men’s Uno Trade(China)co.,Ltd. All right reserved. 最佳浏览 1024*768
+		</div>
+		<div style="height:15px;"></div>
+		<div style="text-align: center;">
+			<script src="http://s73.cnzz.com/stat.php?id=1089655&web_id=1089655&show=pic1" language="JavaScript" charset="gb2312"></script>
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-17109165-1']);
+			  _gaq.push(['_trackPageview']);
+			  (function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>
+		</div>
+	</div>
+	  -->
+
+
+<!-- 尾部开始 -->
+<div class="indexfoot">
+<div class="indexfootblack">
+<a href="http://www.hi-chic.com/link/2.html" target="_blank">
+版权声明</a> - <a href="http://www.hi-chic.com/link/3.html"
+target="_blank">隐私权声明 </a>-
+<a href="http://www.hi-chic.com/link/4.html" target="_blank" >
+关于我们 </a>- <a href="http://www.hi-chic.com/link/6.html"
+target="_blank">诚聘英才 </a>-
+<a href="http://www.hi-chic.com/link/7.html" target="_blank">
+购物需知 </a>- <a href="http://www.hi-chic.com/link/8.html"
+target="_blank">联系我们</a>
+</div>
+<div class="indexfoot2">
+<b>chic group 子时集团-北京麦斯吾若科贸有限公司 版权所有</b> 京icp证09015390号 | 京公网安备110105005953号</div>
+<div class="indexfoot3">
+copyright 2007-2011 chic group-men’s uno trade(china)co.,ltd. all right reserved.
+最佳浏览 1024*768
+</div>
+<div style="text-align: center" sizcache="1" sizset="46">
+
+        <script type="text/javascript" src="http://s73.cnzz.com/stat.php?id=1089655&web_id=1089655&show=pic1" language="JavaScript" charset="gb2312"></script>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-17109165-1']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+
+<script src="http://s16.cnzz.com/stat.php?id=3218639&web_id=3218639" language="JavaScript"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17109165-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</div>
+</div>
+</div>
+<!-- 尾部结束 -->
+
+</div>
+</div>
+<!-- 尾部结束 -->
+</div>
+</div>
+
+
+
+
+        <script type="text/javascript">
+            var index=1;
+            var settime = 5000;
+
+            $(document)	.ready(function(){
+                $(".floatdiv").hover(function(){},function(){
+                    $(this).hide();
+                });
+                $(".showdiv").hover(function(){
+                    id = $(this).attr("name");
+                    $(".floatdiv").hide();
+                    $(".pos"+id).show();
+                });
+
+                $(".fdlist").hover(function(){
+                    name=$(this).attr("name");
+                    link = $(this).attr("link");
+                    //$(".fidvshow").attr("src",link);
+                    $("#fdivimg"+name).attr("src",link);
+                },function(){});
+
+                create_cu3flash();
+            });
+            var a;
+            function showlink()
+            {
+                if(settime>5000)
+                {
+                    window.clearTimeout(a);
+                }
+                $(".lktitle").removeClass("lktitle2");
+                $(".lt"+index).addClass("lktitle2");
+                $(".linklist").hide();
+                $(".ll"+index).show();
+                index++;
+                if(index>''){index=1;}
+                a=window.setTimeout("showlink()", settime)
+                settime = 5000;
+            }
+			$(".lktitle").click(function(){
+                    index = $(this).attr("name");
+                    settime = 10000;
+                    showlink();
+                    return false;
+                });
+			showlink();
+
+            function create_cu3flash(){
+                var flashvars = {};
+                flashvars.xml =  "/public/focus/focus.xml";
+                var params = {};
+                params.allowscriptaccess = "always";
+                params.allownetworking = "all";
+                params.wmode = "transparent";
+                params.xml = "focus.xml";
+                var attributes = {};
+                attributes.id = "slider";
+                swfobject.embedSWF("http://www.hi-chic.com/public/flash/cu3er.swf", "3dcube", "934", "320", "9", flashvars, params, attributes);
+            }
+
+			window.setTimeout("hide()", 5000)
+			function hide()
+			{
+				$("#clhide").hide();
+			}
+        </script>
+
+
+
+
+
+
+
+</body>
+</html>

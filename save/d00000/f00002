@@ -1,0 +1,1782 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title> 拼范网 - 分类收藏每一个新发现！</title>
+		<meta name="Description" content="拼范网是一个图微博社区，刚刚开始测试，并将在接下来的一段时间里,和你一起不断创造惊喜. 你会发现，原来有这么个地方我可以分享任何我喜欢的东东，你可以关注我，这样就可以看到我的分享了。一旦加入拼范网，就可以创建你自己的账户来和大家分享你自己所喜欢的东东了。" />
+		<meta name="Keywords" content="拼范,图片分享,家居,服饰,美食,设计,艺术,时尚,摄影,电影" />
+		<link rel="stylesheet" href="http://static.pinfun.com/css/module/component/profilebox02.css?1314982261" />
+		<link rel="stylesheet" href="http://static.pinfun.com/css/conf/frame.css?t=1314982261" />
+		<link rel="stylesheet" href="http://static.pinfun.com/css/conf/index.css?t=1314982261" />
+		<link rel="stylesheet" href="http://static.pinfun.com/css/module/component/loading.css?t=1314982261" />
+		<link rel="stylesheet" href="http://static.pinfun.com/css/module/component/item02.css?t=1314982261?1314982261" />
+		<link rel="Shortcut Icon" href="http://static.pinfun.com/images/common/16.ico" />
+		<script type="text/javascript" src="http://static.pinfun.com/js/pf.min.js?t=1314982261"></script>
+		<script type="text/javascript" src="http://static.pinfun.com/js/ui/layout/layout.min.js?t=1314982261"></script>
+	</head>
+	<body class="index" id="index">
+		<div class="top02wrap">
+	<div class="header02">
+		<!--logo-->
+		<h1>
+			<a class="logo" href="/">
+				PINFUN
+				<span class="beta">BETA</span>
+				<span class="home">HOME</span>
+			</a>
+		</h1>
+		<!--logo-->
+		<!--search-->
+		<div class="search">
+			<form action="/search" method="get">
+				<fieldset>
+					<legend>搜索</legend>
+					<input class="searchtext" type="text" value="寻拼客" name="keyword" />
+					<button class="searchgo" type="submit">搜索</button>
+				</fieldset>
+			</form>
+		</div>
+		<!--search-->
+		<!--board-->
+				<div class="board">
+			<ul class="menubar">
+				<li class="menu first posi">
+					<a class="menutitle PF_linkga homer" href="/">
+						<img src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon PF_icon36" align="absmiddle" width="20" height="23" />首页
+					</a>
+					<a class="update_h2" style="display:none" href="//activity/list" id="remindTotal"></a>
+				</li>
+								<li class="menu">
+					<a class="menutitle PF_linkga" href="/all">
+						创意墙
+						<img src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon imgease" alt="" align="absmiddle" width="20" height="23" />
+					</a>
+					<div class="menucontent">
+						<ul>
+							<li class="first"><a href="/all">发现</a></li>
+							<li><a href="/hot">讨论</a></li>
+							<li class="last"><a href="/latest">潘多拉</a></li>
+						</ul>
+					</div>
+				</li>
+				<li class="menu">
+					<a class="menutitle PF_linkga" href="/boards?tabs=all">
+						随便看看
+						<img src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon imgease" alt="" align="absmiddle" width="20" height="23" />
+					</a>
+					<div class="menucontent">
+						<ul>
+							<li><a href="/boards?tabs=all">热门主题</a></li>
+							<li class="first"><a href="/boards?tabs=lately">流行主题</a></li>
+													</ul>
+					</div>
+				</li>
+				<li class="menu">
+					<a class="menutitle PF_linkga" href="/people">
+						拼客
+						<img src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon imgease" alt="" align="absmiddle" width="20" height="23" />
+					</a>
+					<div class="menucontent">
+						<ul>
+							<li class="first"><a href="/people">潮人榜</a></li>
+							<li><a href="/find_friends">寻找好友</a></li>
+							<li class="last"><a href="/invites">邀请好友</a></li>
+						</ul>
+					</div>
+				</li>
+				
+				<li class="menu">
+					<a class="menutitle PF_linkga" href="/about" target="_blank">
+						帮助
+						<img src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon imgease" 	align="absmiddle" width="20" height="23" />
+					</a>
+					<div class="menucontent">
+						<ul>
+							<li class="first"><a href="/about#pf_tool" target="_blank">拼范工具</a></li>
+							<li><a href="/feedback" target="_blank">建议反馈</a></li>
+							<li><a href="/job" target="_blank">工作机会</a></li>
+							<li><a href="/about" target="_blank">关于我们</a></li>
+							<li class="last"><a href="http://blog.pinfun.com" target="_blank">官方博客</a></li>
+						</ul>
+					</div>
+				</li>
+								<li class="menu">
+					<a class="menutitle PF_linkga" href="/login">
+						登录
+					</a>
+				</li>
+							</ul>
+			<div class="PF_clearb"></div>
+		</div>
+		<!--board-->
+	</div>
+<div>
+<script type="text/javascript">
+    var menu = $C(".menu");
+    for (var i = 0; i < menu.length; i++) { (function() {
+            var that = menu[i];
+            $_addHandler(that, "mouseover",
+            function() {
+                $_addClass(that, "current");
+            });
+            $_addHandler(that, "mouseout",
+            function() {
+                $_removeClass(that, "current");
+            });
+        })(i);
+    }
+    var menuLi = $(".menu li");
+    for (var i = 0; i < menuLi.length; i++) { (function() {
+            var that = menuLi[i];
+            $_addHandler(that, "mouseover",
+            function() {
+                $_addClass(that, "hover");
+            });
+            $_addHandler(that, "mouseout",
+            function() {
+                $_removeClass(that, "hover");
+            });
+        })(i);
+    }
+var searchtext = $C('.searchtext')[0];
+$_addHandler(searchtext, "focus", function() {
+	if(searchtext.value == '寻拼客')
+	searchtext.value='';
+});
+$_addHandler(searchtext, "blur", function() {
+	if(searchtext.value == '')
+	searchtext.value='寻拼客';
+});
+searchtext.value='寻拼客';
+</script>
+
+		
+		<div class="PF_body">
+		<div class="profilebox03 ">
+	<div class="PF_floatl div_l" id="huandeng">
+		<ul id="slider-list"  style="position: relative;float: left;">
+			<li>
+				<a href="http://www.pinfun.com/help/pin-fan-wang-bang-zhu-pin-ban?t=1317347553"><img src="http://static.pinfun.com/images/common/3.png" ></a>
+			</li>
+			<li>
+				<a href="http://www.pinfun.com/help/pin-fan-wang-li-tu-pin-ban?t=1317352240" class="PF_clearb PF_floatl"><img src="http://static.pinfun.com/images/common/2.png" class="img_ban"></a>
+			</li>
+			<li>
+				<a href="http://www.pinfun.com/help/pin-fan-wang-li-tu-pin-ban?t=1317352240" class="PF_clearb PF_floatl"><img src="http://static.pinfun.com/images/common/1.png" class="img_ban"></a>
+			</li>
+			<li>
+				<a href="http://www.pinfun.com/help/pin-fan-wang-li-tu-pin-ban?t=1317352240" class="PF_clearb PF_floatl"><img src="http://static.pinfun.com/images/common/4.png" class="img_ban"></a>
+			</li>
+			<!--<li>
+				<a href="http://www.tuita.com/event/nala?_actsrc=pf#home" class="PF_clearb PF_floatl" target="_blank"><img src="http://static.pinfun.com/images/common/680x141.png" class="img_ban"></a>
+			</li>-->
+		</ul>
+		<ul class="pin001" id="slider-number">
+			<li rel="1">
+				<a href=""><img  src="http://static.pinfun.com//images/common/PF_trans.gif" class="pin01" align="absmiddle"/></a>
+			</li>
+			<li rel="2">
+				<a href=""><img  src="http://static.pinfun.com//images/common/PF_trans.gif" class="pin02" align="absmiddle"/></a>
+			</li>
+			<li rel="3">
+				<a href=""><img  src="http://static.pinfun.com//images/common/PF_trans.gif" class="pin02" align="absmiddle"/></a>
+			</li>
+			<li rel="4">
+				<a href=""><img  src="http://static.pinfun.com//images/common/PF_trans.gif" class="pin02" align="absmiddle"/></a>
+			</li>
+			<!--<li rel="5">
+				<a href=""><img  src="http://static.pinfun.com//images/common/PF_trans.gif" class="pin02" align="absmiddle"/></a>
+			</li>-->
+		</ul>
+	</div>
+	<script src="http://static.pinfun.com/js/pinfun_silder.js"></script>
+<script>
+var loadImage = function(img) {
+	if (!img.getAttribute('_preload')) {
+		return;
+	}
+	img.src = img.getAttribute('_preload');
+	img.removeAttribute('_preload');
+}
+var lis = [],
+	timer = null,
+	imgs = getTagName('img', 'huandeng'), // 图片预加载处理，首先获得图片数组
+	n = $I('#slider-list').getElementsByTagName('li').length;
+var slider = new SlideTrans('huandeng', 'slider-list', n, {
+	OnStart: function() {
+		var i = slider.Index + 1;
+		if (i < imgs.length) {
+			loadImage(imgs[slider.Index+1]);
+		}
+		each(lis, function(i) {
+			if(PF.dom.getAttr(lis[i], 'rel') - 1 == slider.Index) {
+				$_removeClass(lis[i].children[0].children[0], 'pin02');
+				$_addClass(lis[i].children[0].children[0], 'pin01');
+			} else {
+				$_removeClass(lis[i].children[0].children[0], 'pin01');
+				$_addClass(lis[i].children[0].children[0], 'pin02');
+			}
+		});
+	},
+	Pause: 4000,
+	Direction: false,
+	Duration: 50
+});
+for (var i = 0; i < n; i++) {
+	(function(i) {
+		var li = $I('#slider-number').children[i];
+		addEvent(li, 'mouseover', function() {
+			timer = setTimeout(function() {
+				$_removeClass(li.children[0].children[0], 'pin02');
+				$_addClass(li.children[0].children[0], 'pin01');
+				loadImage(imgs[i]);
+				slider.Auto = false; 
+				slider.run(i);									
+			}, 100);
+		});
+		addEvent(li, 'mouseout', function() {
+			clearTimeout(timer); 
+			$_removeClass(li.children[0].children[0], 'pin01');
+			$_addClass(li.children[0].children[0], 'pin02');
+			slider.Auto = true; 
+			slider.run();
+		});
+		lis[i] = li;
+	})(i);
+}
+//slider.run();
+</script>
+	<div class="profilebox_board03">
+		<ul>
+			<li class="po_js_r"><img  src="http://static.pinfun.com/images/common/PF_trans.gif" align="absmiddle"/></li>
+		</ul>
+		<ul class="top_ul">
+			<li class="firstli">
+			<form method="post" action="/login">
+				<div class="pro_left PF_floatl">
+					<p class="uername PF_floatl">
+						<label for="login_name"></label>
+						<input type="text" name="login_name" id="login_name" onfocus="if (this.value == '登录名/邮箱') { this.value = ''; }" value="登录名/邮箱"/>
+										</p>
+					<p class="uername PF_floatl">
+						<label for="user_passwd"></label>
+						<input style="display:block" type="text" value="登录密码" name="passwd_show" id="passwd_show"/>
+						<input style="display:none" type="password" name="user_passwd" id="user_passwd" value=""/>
+					</p>
+				</div>
+				<div class="pro_right PF_floatl">
+					<label>
+						<input type="checkbox" checked="checked" value="1" name="auto_login">
+						记住我
+					</label>
+					<p>
+						<a href="/find_pwd" class="PF_textgc PF_under">找回密码</a>
+					</p>
+					<p>
+						<button type="submit" class="login_bt"></button>
+					</p>
+				</div>
+			</form>
+			</li>
+			<li class="lastli">
+			<span class="PF_floatl">其他账号登录：</span>
+				<a href="/sina" class="PF_floatl">
+					<img  src="http://static.pinfun.com//images/common/PF_trans.gif" class="logo_icon logo_icon_sina" align="absmiddle"/>
+				</a>
+				<a href="/tencent" class="PF_floatl">
+					<img  src="http://static.pinfun.com//images/common/PF_trans.gif" class="logo_icon logo_icon_qq" align="absmiddle" />
+				</a>
+				<a href="/renren" class="PF_floatl">
+					<img  src="http://static.pinfun.com//images/common/PF_trans.gif" class="logo_icon logo_icon_renren" align="absmiddle"/>
+				</a>
+				<a href="/douban" class="PF_floatl">
+					<img  src="http://static.pinfun.com//images/common/PF_trans.gif" class="logo_icon logo_icon_douban" align="absmiddle"/>
+				</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<script type="text/javascript" charset="utf-8">
+	var passwd_show 	= $I('#passwd_show');
+	var user_passwd 	= $I('#user_passwd');
+	var login_name 	= $I('#login_name');
+	var delete_name = $I('#delete');
+	var cookie_name = "";
+	$_addHandler(passwd_show, 'focus', function(){
+		$_setStyle(passwd_show,'display', 'none');
+		$_setStyle(user_passwd,'display', 'block');
+		$_setStyle(user_passwd, 'color', 'black');
+		user_passwd.focus();
+		if(login_name.value != cookie_name){
+			user_passwd.value = '';
+		}			
+	});
+	$_addHandler(user_passwd, 'click', function(){
+		$_setStyle(user_passwd, 'color', 'black');
+		if(login_name.value != cookie_name){
+			user_passwd.value = '';
+		}	
+	});
+	$_addHandler(user_passwd, 'blur', function(){
+		var value = user_passwd.value;
+		if(value == ''){
+			$_setStyle(user_passwd,'display', 'none');
+			$_setStyle(passwd_show,'display', 'block');
+		}else{
+			$_setStyle(user_passwd, 'color', '');
+		}
+	});
+	if(login_name.value == '登录名/邮箱') {
+		if(cookie_name != '') {
+			login_name.value = cookie_name;
+		}
+	}
+	$_addHandler(login_name, 'click', function(){
+		if(cookie_name != '') {
+			login_name.select();
+		}
+		$_setStyle(login_name, 'color', 'black');
+		if(login_name.value != ''){
+			$_setStyle(delete_name,'display', 'block');
+		}
+	});
+	$_addHandler(login_name, 'blur', function(){
+		var value = login_name.value;
+		$_setStyle(delete_name,'display', 'block');
+		$_setStyle(login_name, 'color', '');
+		if(value == '' || value == null){
+			login_name.value = '登录名/邮箱';
+			$_setStyle(delete_name,'display', 'none');
+		}
+	});
+	$_addHandler(login_name,'keyup',function(){
+		if(login_name.value == ''){
+			$_setStyle(delete_name,'display', 'none');
+		}else{
+			$_setStyle(delete_name,'display', 'block');
+		}
+	});
+	$_addHandler(delete_name, 'click', function(){
+		login_name.value = '';
+		$_setStyle(delete_name,'display', 'none');
+		login_name.focus();
+	});
+</script>
+<div class="navwrap_02">
+	<ul class="classify PF_floatl" style="position:absolute;">
+		
+				<li id="navwrapall">
+			<a href="/all"><span>发现</span></a>
+		</li>
+		<li id="navwraphot">
+			<a href="/hot" ><span>讨论</span></a>
+		</li>
+		<li class="last" id="navwraplatest">
+			<a href="/latest"><span>潘多拉</span></a>
+			<!--s class="new"><img src="http://static.pinfun.com/images/common/new.png"/></s-->
+		</li>
+	</ul>
+	<ul class="options PF_floatr">
+					</ul>
+</div>
+
+<script>
+	var isEmptyUser = false;
+				isEmptyUser = true;
+		//try {
+		var nav = 'latest';
+		if(nav == '' && isEmptyUser) {
+			nav = 'all';
+		}
+		$_addClass($I('#navwrap' + nav), 'current');
+	//} catch(e){}
+//	var current_board = $C('.current');
+//	document.title = document.title + '_' + $_children($_children(current_board[0])[0])[0].innerHTML;
+</script>
+		<script type="text/javascript">
+(function(l){
+		var flag = 'b';
+	//屏幕分辨率
+	var s = {a:1024,b:1280,c:1366,d:1440,e:1680,f:1920,g:2160,h:2400,i:2640,j:2880};
+	//初始化页面宽度
+	var p = {a:933,b:1170,c:1408,d:1644,e:1889,f:2127,g:2365,h:2603,i:2853};
+	//初始化页面宽度,但不包含页面左侧第一列宽度
+	var f = {a:697,b:933,c:1172,d:1410,e:1651,f:1891,g:2130,h:2369,i:2617};
+	//导航左边距宽度
+	var m = {a:221,b:300};
+	//屏幕宽度默认值
+	var df = p.b;
+	//屏幕宽度默认值,但不包含页面左侧第一列宽度
+	var ff = f.b;
+	//导航左边距默认值
+	var bml = m.b;
+	//计算宽度
+	function count() {
+		var w = getCW();
+		if(w <= s.a || w <= p.b) {//４列
+			df = p.a;
+			ff = f.a;
+			bml = m.a;
+       	} else if((w <= s.b && w >= s.a) || w <= s.c || w < p.c) {//5列
+			df = p.b;
+			ff = f.b;
+			bml = m.b;
+        	} else if((w <= s.d && w >= s.c) || w <= s.d || w < p.d) {//6列
+			df = p.c;
+			ff = f.c;
+			bml = m.b;
+        	} else if((w <= s.e && w >= s.d) || w <= s.e || w < p.e) {//7列
+        		df = p.d;
+			ff = f.d;
+			bml = m.b;
+        	} else if((w <= s.f && w >= s.e) || w <= s.f || w < p.f) {//8列
+        		df = p.e;
+			ff = f.e;
+			bml = m.b;
+        	} else if((w <= s.g && w >= s.f) || w <= s.g || w < p.g) {//9列
+			df = p.f;
+			ff = f.f;
+			bml = m.b;
+	 	} else if((w <= s.h && w >= s.g) || w <= s.h || w < p.h) {//10列
+			df = p.g;
+			ff = f.g;
+			bml = m.b;
+	 	} else if((w <= s.i && w >= s.h) || w <= s.i || w < p.i) {//11列
+			df = p.h;
+			ff = f.h;
+			bml = m.b;
+	 	} else {//12列
+			df = p.i;
+			ff = f.i;
+			bml = m.b;
+	 	}
+	}
+	//设置页面整体宽度
+	function setW() {
+		var bo = $C('.PF_body')[0];
+		if(bo != undefined) {
+			$_setStyle($C('.PF_body')[0], 'width', df + 'px');
+		}
+		var w = getCW();
+		if(w <= s.a || w <= p.b) {
+			$_setStyle($C('.header02')[0], 'width','auto');	
+		} else {
+			$_setStyle($C('.header02')[0], 'width', df + 'px');
+		}
+	}
+	//设置个人页面（版块，拼图，喜欢，提到）宽度，不包含左侧第一列宽度
+	function setBW() {
+		$_setStyle($C('.PF_width_r')[0], 'width', ff + 'px');
+	}
+	//获取浏览器宽度
+   	function getCW() {
+		return l.body.clientWidth
+   	}
+	function init() {
+		count();
+		setW();
+        if(flag == 'p') {
+	        setBW();
+        }
+	}
+	//当浏览宽度改变时执行
+	window.onresize = function(){
+        init();
+        if(flag != 'o') {
+		if(layout) {
+	        layout._init();
+	        layout.reload();
+		}
+        }
+   	}
+   	init();
+})(document);
+</script>
+
+		<div class="container" id="container">
+				<div class="item02end PF_g_line alpha">
+		<div class="item_m PF_textgc PF_fontd category_parent" style="display:none" id="category_parentall"  rel="all">
+						<a href="latest" title="全部" style="display:block">
+			<img  src="http://static.pinfun.com/images/common/PF_trans.gif"  class="PF_icon PF_icon38 PF_floatl"  alt="" title="" align="absmiddle"  width="20"  height="20" />
+			全部</a>
+		</div>
+			<ul class="item_mune" id="category_childrenall" rel="all">
+			<li class="PF_clearb">
+				<a href="latest?low=1&high=20" class="item_list">￥1-20</a>
+				<a href="latest?low=20&high=50" class="item_list">￥20-50</a>
+				<a href="latest?low=50&high=100" class="item_list">￥50-100</a>
+				<a href="latest?low=100&high=200" class="item_list">￥100-200</a>
+				<a href="latest?low=200&high=500" class="item_list">￥200-500</a>
+				<a href="latest?low=500" class="item_list">￥500+</a>
+			</li>
+			<li class="PF_clearb"></li>
+		</ul>
+			<p class="iten_imgd alpha"></p>
+		<script type="text/javascript">
+			var up_category_ul = $I('#category_childrenall');
+			var up_category_div = $I('#category_parentall');
+			function show_hide_category(self, alias) {
+				var ulo = $I('#category_children' + alias);
+				if(!self) {
+					ulo = $C('.' + alias)[0].parentNode.parentNode;
+					self = $I('#category_parent' + PF.dom.getAttr(ulo, "rel"));
+				}
+				if(up_category_ul) {
+					$_setStyle(up_category_ul, 'display', 'none');
+					$_setStyle(up_category_div, 'display', 'block');
+				}
+				if(ulo) {
+					$_setStyle(self, 'display', 'none');
+					$_setStyle(ulo, 'display', 'block');
+					up_category_ul = ulo;
+					up_category_div = self;
+				}
+			}
+					</script>
+	</div>
+
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/90741/" style="height:190px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/90741_nQDgXwVo_b.jpg" height="190" alt="￥180"  />
+	</a>
+	<p class="description" title="￥180">
+		￥180	</p>
+			
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/90741/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/90741/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/90741/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥180.00</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/shihaod/">
+				<img src="http://img1.pinfun.com/avatars/shihaod-110_t.jpg" alt="时尚饰品推荐" title="时尚饰品推荐" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/shihaod/"  title="时尚饰品推荐">
+				时尚饰品推荐			</a>拼在
+			<a href="/shihaod/shi-shang-shi-pin-tui-jian-de-pin-ban?t=1322494706" title="时尚饰品推荐的拼板">
+				时尚饰品推荐的拼板			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/87147/" style="height:px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/87147_KkRc0Jg8_b.jpg" height="" alt="￥248"  />
+	</a>
+	<p class="description" title="￥248">
+		￥248	</p>
+			
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/87147/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/87147/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/87147/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥248.00</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/freemem/">
+				<img src="http://img1.pinfun.com/avatars/freemem-768_t.jpg" alt="i江平" title="i江平" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/freemem/"  title="i江平">
+				i江平			</a>拼在
+			<a href="/freemem/walkman?t=1314178496" title="WalkMan">
+				WalkMan			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/86408/" style="height:244px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/86408_gBSL3GRU_b.jpg" height="244" alt="￥5"  />
+	</a>
+	<p class="description" title="￥5">
+		￥5	</p>
+			
+	<p class="likecomment">
+				
+				<span class="likecount">
+			<img alt="喜欢" title="喜欢" src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon PF_icon11" align="absmiddle" width="20" height="23" />
+			1		</span>
+				
+			</p>	
+		
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/86408/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/86408/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/86408/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥5.00</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/cassiopeia-tvxq/">
+				<img src="http://img1.pinfun.com/avatars/cassiopeia-tvxq-093_t.jpg" alt="蓝冰雪星" title="蓝冰雪星" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/cassiopeia-tvxq/"  title="蓝冰雪星">
+				蓝冰雪星			</a>拼在
+			<a href="/cassiopeia-tvxq/dong-fang-shen-qi-in-five?t=1322056095" title="东方神起 in five">
+				东方神起 in five			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/85553/" style="height:239px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/85553_zAI3JdMP_b.jpg" height="239" alt="嘿嘿。。。目前上身率很高滴小马甲。真兔毛哦，所以价格也不便宜，要￥110呢。虽然看起来小，可穿上身很暖和，摸着也非常舒服，而且最重要是百搭啊，对了，两颗小球还是可以拆卸的哦。超值！"  />
+	</a>
+	<p class="description" title="嘿嘿。。。目前上身率很高滴小马甲。真兔毛哦，所以价格也不便宜，要￥110呢。虽然看起来小，可穿上身很暖和，摸着也非常舒服，而且最重要是百搭啊，对了，两颗小球还是可以拆卸的哦。超值！">
+		嘿嘿。。。目前上身率很高滴小马甲。真兔毛哦，所以价格也不便宜，要￥110呢。虽然...	</p>
+			
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/85553/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/85553/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/85553/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥110.00</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/yanli/">
+				<img src="http://img1.pinfun.com/avatars/yanli-333_t.jpg" alt="第一眼淑女" title="第一眼淑女" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/yanli/"  title="第一眼淑女">
+				第一眼淑女			</a>拼在
+			<a href="/yanli/wo-de-yi-gui?t=1316837253" title="我的衣柜">
+				我的衣柜			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/85552/" style="height:155px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/85552_6t5F3FmW_b.jpg" height="155" alt="有点小贵，￥170，但真的很厚实，颜色也漂亮。和图片几乎一模一样。。就是领口大了点，多粒扣子就好了"  />
+	</a>
+	<p class="description" title="有点小贵，￥170，但真的很厚实，颜色也漂亮。和图片几乎一模一样。。就是领口大了点，多粒扣子就好了">
+		有点小贵，￥170，但真的很厚实，颜色也漂亮。和图片几乎一模一样。。就是领口大了...	</p>
+			
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/85552/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/85552/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/85552/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥170.00</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/yanli/">
+				<img src="http://img1.pinfun.com/avatars/yanli-333_t.jpg" alt="第一眼淑女" title="第一眼淑女" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/yanli/"  title="第一眼淑女">
+				第一眼淑女			</a>拼在
+			<a href="/yanli/wo-de-yi-gui?t=1316837253" title="我的衣柜">
+				我的衣柜			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/85551/" style="height:297px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/85551_hquLmfAl_b.jpg" height="297" alt="这件大衣很便宜，只要￥100.和图片还是有差距的，但也物有所值了。很喜欢里面的内衬，全是圈圈毛。"  />
+	</a>
+	<p class="description" title="这件大衣很便宜，只要￥100.和图片还是有差距的，但也物有所值了。很喜欢里面的内衬，全是圈圈毛。">
+		这件大衣很便宜，只要￥100.和图片还是有差距的，但也物有所值了。很喜欢里面的内...	</p>
+			
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/85551/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/85551/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/85551/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥100.00</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/yanli/">
+				<img src="http://img1.pinfun.com/avatars/yanli-333_t.jpg" alt="第一眼淑女" title="第一眼淑女" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/yanli/"  title="第一眼淑女">
+				第一眼淑女			</a>拼在
+			<a href="/yanli/wo-de-yi-gui?t=1316837253" title="我的衣柜">
+				我的衣柜			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/83355/" style="height:190px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/83355_J9EPDCXh_b.jpg" height="190" alt="来自纽约设计师 steven alan的男士衬衫 ￥1488"  />
+	</a>
+	<p class="description" title="来自纽约设计师 steven alan的男士衬衫 ￥1488">
+		来自纽约设计师 steven alan的男士衬衫 ￥1488	</p>
+			
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/83355/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/83355/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/83355/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥1488.00</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/josh/">
+				<img src="http://img1.pinfun.com/avatars/josh-277_t.jpg" alt="小樱桃" title="小樱桃" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/josh/"  title="小樱桃">
+				小樱桃			</a>拼在
+			<a href="/angie/gifts?t=1320651511" title="GIFTS">
+				GIFTS			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/83354/" style="height:190px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/83354_WcSH69RX_b.jpg" height="190" alt="来自美国 男士包包 ￥810"  />
+	</a>
+	<p class="description" title="来自美国 男士包包 ￥810">
+		来自美国 男士包包 ￥810	</p>
+			
+	<p class="likecomment">
+				<span class="likecount">
+			<img alt="拼!" title="拼!" src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon PF_icon41" align="absmiddle" width="20" height="20" />
+			2		</span>
+				
+				
+			</p>	
+		
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/83354/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/83354/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/83354/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥810.00</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/josh/">
+				<img src="http://img1.pinfun.com/avatars/josh-277_t.jpg" alt="小樱桃" title="小樱桃" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/josh/"  title="小樱桃">
+				小樱桃			</a>拼在
+			<a href="/angie/gifts?t=1320651511" title="GIFTS">
+				GIFTS			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/80571/" style="height:143px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/80571_8CFdud5Z_b.jpg" height="143" alt="黑色超酷，又是亮片的，一定很暖和，走在路上没有了平日工作的繁忙，给自己放一个假，徜徉于轻松愉快的感觉之中￥158.00"  />
+	</a>
+	<p class="description" title="黑色超酷，又是亮片的，一定很暖和，走在路上没有了平日工作的繁忙，给自己放一个假，徜徉于轻松愉快的感觉之中￥158.00">
+		黑色超酷，又是亮片的，一定很暖和，走在路上没有了平日工作的繁忙，给自己放一个假，...	</p>
+			
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/80571/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/80571/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/80571/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥158.00</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/xiaobei/">
+				<img src="http://img1.pinfun.com/avatars/xiaobei-617_t.jpg" alt="小北best" title="小北best" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/xiaobei/"  title="小北best">
+				小北best			</a>拼在
+			<a href="/xiaobei/mei-xie?t=1319099051" title="美鞋">
+				美鞋			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/80558/" style="height:171px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/80558_bMXB69YZ_b.jpg" height="171" alt="针织开衫  女长款￥49.00"  />
+	</a>
+	<p class="description" title="针织开衫  女长款￥49.00">
+		针织开衫  女长款￥49.00	</p>
+			
+	<p class="likecomment">
+				
+				<span class="likecount">
+			<img alt="喜欢" title="喜欢" src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon PF_icon11" align="absmiddle" width="20" height="23" />
+			1		</span>
+				
+			</p>	
+		
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/80558/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/80558/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/80558/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥49.00</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/xiaobei/">
+				<img src="http://img1.pinfun.com/avatars/xiaobei-617_t.jpg" alt="小北best" title="小北best" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/xiaobei/"  title="小北best">
+				小北best			</a>拼在
+			<a href="/xiaobei/fashion--yi-shi?t=1316395834" title="fashion 衣饰">
+				fashion 衣饰			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/80555/" style="height:285px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/80555_JgaGQAbb_b.jpg" height="285" alt="这件毛衣必须推荐，很美￥115.00"  />
+	</a>
+	<p class="description" title="这件毛衣必须推荐，很美￥115.00">
+		这件毛衣必须推荐，很美￥115.00	</p>
+			
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/80555/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/80555/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/80555/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥115.00</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/xiaobei/">
+				<img src="http://img1.pinfun.com/avatars/xiaobei-617_t.jpg" alt="小北best" title="小北best" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/xiaobei/"  title="小北best">
+				小北best			</a>拼在
+			<a href="/xiaobei/fashion--yi-shi?t=1316395834" title="fashion 衣饰">
+				fashion 衣饰			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/80544/" style="height:286px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/80544_f0hpOpKp_b.jpg" height="286" alt="温温柔柔的感觉,大爱这款.￥119.00"  />
+	</a>
+	<p class="description" title="温温柔柔的感觉,大爱这款.￥119.00">
+		温温柔柔的感觉,大爱这款.￥119.00	</p>
+			
+	<p class="likecomment">
+				<span class="likecount">
+			<img alt="拼!" title="拼!" src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon PF_icon41" align="absmiddle" width="20" height="20" />
+			3		</span>
+				
+				
+				<span class="likecount">
+			<img alt="评论" title="评论" src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon PF_icon09" align="absmiddle" width="20" height="20" />
+			1		</span>	
+			</p>	
+		
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/80544/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/80544/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/80544/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥119.00</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/xiaobei/">
+				<img src="http://img1.pinfun.com/avatars/xiaobei-617_t.jpg" alt="小北best" title="小北best" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/xiaobei/"  title="小北best">
+				小北best			</a>拼在
+			<a href="/xiaobei/fashion--yi-shi?t=1316395834" title="fashion 衣饰">
+				fashion 衣饰			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+		<li>
+	<a class="userimage" href="/josh/">
+		<img src="http://img1.pinfun.com/avatars/josh-277_t.jpg" alt="小樱桃" title="小樱桃" class="head_p"/>
+	</a>
+	<p>
+		<a href="/josh/">小樱桃</a>
+		<p>感觉好柔软</p>	</p>
+</li>
+		
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/80533/" style="height:285px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/80533_KTzHKnNw_b.jpg" height="285" alt="新装韩版女装字母大口&#8230;.￥69.00"  />
+	</a>
+	<p class="description" title="新装韩版女装字母大口&#8230;.￥69.00">
+		新装韩版女装字母大口&#8230;.￥69.00	</p>
+			
+	<p class="likecomment">
+				<span class="likecount">
+			<img alt="拼!" title="拼!" src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon PF_icon41" align="absmiddle" width="20" height="20" />
+			1		</span>
+				
+				
+			</p>	
+		
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/80533/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/80533/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/80533/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥69.00</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/xiaobei/">
+				<img src="http://img1.pinfun.com/avatars/xiaobei-617_t.jpg" alt="小北best" title="小北best" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/xiaobei/"  title="小北best">
+				小北best			</a>拼在
+			<a href="/xiaobei/fashion--yi-shi?t=1316395834" title="fashion 衣饰">
+				fashion 衣饰			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/80531/" style="height:190px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/80531_DTUdYgqG_b.jpg" height="190" alt="秋日里，最想拥有一款这样的高领粗纺中长款毛衣，配上腰带也很好，超百搭！￥56.00"  />
+	</a>
+	<p class="description" title="秋日里，最想拥有一款这样的高领粗纺中长款毛衣，配上腰带也很好，超百搭！￥56.00">
+		秋日里，最想拥有一款这样的高领粗纺中长款毛衣，配上腰带也很好，超百搭！￥56.0...	</p>
+			
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/80531/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/80531/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/80531/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥56.00</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/xiaobei/">
+				<img src="http://img1.pinfun.com/avatars/xiaobei-617_t.jpg" alt="小北best" title="小北best" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/xiaobei/"  title="小北best">
+				小北best			</a>拼在
+			<a href="/xiaobei/fashion--yi-shi?t=1316395834" title="fashion 衣饰">
+				fashion 衣饰			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/80523/" style="height:285px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/80523_c12gKCQf_b.jpg" height="285" alt="兔毛 看了就舒服.￥100.00"  />
+	</a>
+	<p class="description" title="兔毛 看了就舒服.￥100.00">
+		兔毛 看了就舒服.￥100.00	</p>
+			
+	<p class="likecomment">
+				
+				<span class="likecount">
+			<img alt="喜欢" title="喜欢" src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon PF_icon11" align="absmiddle" width="20" height="23" />
+			2		</span>
+				
+			</p>	
+		
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/80523/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/80523/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/80523/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥100.00</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/xiaobei/">
+				<img src="http://img1.pinfun.com/avatars/xiaobei-617_t.jpg" alt="小北best" title="小北best" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/xiaobei/"  title="小北best">
+				小北best			</a>拼在
+			<a href="/xiaobei/fashion--yi-shi?t=1316395834" title="fashion 衣饰">
+				fashion 衣饰			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/80522/" style="height:190px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/80522_igf1a3Tx_b.jpg" height="190" alt="好漂亮！￥178"  />
+	</a>
+	<p class="description" title="好漂亮！￥178">
+		好漂亮！￥178	</p>
+			
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/80522/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/80522/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/80522/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥178.00</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/xiaobei/">
+				<img src="http://img1.pinfun.com/avatars/xiaobei-617_t.jpg" alt="小北best" title="小北best" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/xiaobei/"  title="小北best">
+				小北best			</a>拼在
+			<a href="/xiaobei/fashion--yi-shi?t=1316395834" title="fashion 衣饰">
+				fashion 衣饰			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/80505/" style="height:285px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/80505_7P3m6MlG_b.jpg" height="285" alt="小腰带     ￥686.58 "  />
+	</a>
+	<p class="description" title="小腰带     ￥686.58 ">
+		小腰带     ￥686.58 	</p>
+			
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/80505/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/80505/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/80505/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥686.58</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/angie/">
+				<img src="http://img1.pinfun.com/avatars/angie-883_t.jpg" alt="chocolatekiller" title="chocolatekiller" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/angie/"  title="chocolatekiller">
+				chocolatekiller			</a>拼在
+			<a href="/angie/gifts?t=1320651511" title="GIFTS">
+				GIFTS			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/79896/" style="height:191px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/79896_dJ2o3Tzz_b.jpg" height="191" alt="2011秋冬装新款火爆韩版女装卡通小鹿连帽套头加厚抓绒卫衣外套 ￥15.11 打折"  />
+	</a>
+	<p class="description" title="2011秋冬装新款火爆韩版女装卡通小鹿连帽套头加厚抓绒卫衣外套 ￥15.11 打折">
+		2011秋冬装新款火爆韩版女装卡通小鹿连帽套头加厚抓绒卫衣外套 ￥15.11 打...	</p>
+			
+	<p class="likecomment">
+				<span class="likecount">
+			<img alt="拼!" title="拼!" src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon PF_icon41" align="absmiddle" width="20" height="20" />
+			1		</span>
+				
+				<span class="likecount">
+			<img alt="喜欢" title="喜欢" src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon PF_icon11" align="absmiddle" width="20" height="23" />
+			1		</span>
+				
+			</p>	
+		
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/79896/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/79896/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/79896/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥15.11</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/doudou/">
+				<img src="http://img1.pinfun.com/avatars/doudou-964_t.jpg" alt="小米甜甜" title="小米甜甜" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/doudou/"  title="小米甜甜">
+				小米甜甜			</a>拼在
+			<a href="/doudou/ke-yi-mai-dao-de-dong-dong?t=1320393665" title="可以买到的东东">
+				可以买到的东东			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/79895/" style="height:190px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/79895_EYQUXVL4_b.jpg" height="190" alt="2011秋冬装新款 韩版抓绒加厚大码卫衣外套￥93.32"  />
+	</a>
+	<p class="description" title="2011秋冬装新款 韩版抓绒加厚大码卫衣外套￥93.32">
+		2011秋冬装新款 韩版抓绒加厚大码卫衣外套￥93.32	</p>
+			
+	<p class="likecomment">
+				
+				<span class="likecount">
+			<img alt="喜欢" title="喜欢" src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon PF_icon11" align="absmiddle" width="20" height="23" />
+			1		</span>
+				
+			</p>	
+		
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/79895/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/79895/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/79895/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥93.32</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/doudou/">
+				<img src="http://img1.pinfun.com/avatars/doudou-964_t.jpg" alt="小米甜甜" title="小米甜甜" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/doudou/"  title="小米甜甜">
+				小米甜甜			</a>拼在
+			<a href="/doudou/ke-yi-mai-dao-de-dong-dong?t=1320393665" title="可以买到的东东">
+				可以买到的东东			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/79886/" style="height:210px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/79886_JOsy8Jrf_b.jpg" height="210" alt="梵琳达 2011秋装新款女装 超大貉子毛领 毛呢外套大衣 风衣￥437.57"  />
+	</a>
+	<p class="description" title="梵琳达 2011秋装新款女装 超大貉子毛领 毛呢外套大衣 风衣￥437.57">
+		梵琳达 2011秋装新款女装 超大貉子毛领 毛呢外套大衣 风衣￥437.57	</p>
+			
+	<p class="likecomment">
+				
+				<span class="likecount">
+			<img alt="喜欢" title="喜欢" src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon PF_icon11" align="absmiddle" width="20" height="23" />
+			1		</span>
+				
+				<span class="likecount">
+			<img alt="评论" title="评论" src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon PF_icon09" align="absmiddle" width="20" height="20" />
+			1		</span>	
+			</p>	
+		
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/79886/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/79886/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/79886/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥437.57</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/doudou/">
+				<img src="http://img1.pinfun.com/avatars/doudou-964_t.jpg" alt="小米甜甜" title="小米甜甜" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/doudou/"  title="小米甜甜">
+				小米甜甜			</a>拼在
+			<a href="/doudou/ke-yi-mai-dao-de-dong-dong?t=1320393665" title="可以买到的东东">
+				可以买到的东东			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+		<li>
+	<a class="userimage" href="/chinalinzheng/">
+		<img src="http://img1.pinfun.com/avatars/chinalinzheng-623_t.jpg" alt="蔺正_In_Action" title="蔺正_In_Action" class="head_p"/>
+	</a>
+	<p>
+		<a href="/chinalinzheng/">蔺正_In_Action</a>
+		<p>挺好看的，这是什么颜色啊？咖啡色？</p>	</p>
+</li>
+		
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/79899/" style="height:190px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/79899_U2OZNCCt_b.jpg" height="190" alt="淘金币奈叶休闲毛衣女秋冬新款2011女装针织衫外套雪纺连衣裙￥49.68"  />
+	</a>
+	<p class="description" title="淘金币奈叶休闲毛衣女秋冬新款2011女装针织衫外套雪纺连衣裙￥49.68">
+		淘金币奈叶休闲毛衣女秋冬新款2011女装针织衫外套雪纺连衣裙￥49.68	</p>
+			
+	<p class="likecomment">
+				
+				<span class="likecount">
+			<img alt="喜欢" title="喜欢" src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon PF_icon11" align="absmiddle" width="20" height="23" />
+			1		</span>
+				
+			</p>	
+		
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/79899/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/79899/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/79899/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥49.68</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/doudou/">
+				<img src="http://img1.pinfun.com/avatars/doudou-964_t.jpg" alt="小米甜甜" title="小米甜甜" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/doudou/"  title="小米甜甜">
+				小米甜甜			</a>拼在
+			<a href="/doudou/ke-yi-mai-dao-de-dong-dong?t=1320393665" title="可以买到的东东">
+				可以买到的东东			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/79904/" style="height:190px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/79904_Eu4tfleo_b.jpg" height="190" alt="英伦乖乖女 白色圆领百褶长袖毛呢连衣裙 ￥142.80"  />
+	</a>
+	<p class="description" title="英伦乖乖女 白色圆领百褶长袖毛呢连衣裙 ￥142.80">
+		英伦乖乖女 白色圆领百褶长袖毛呢连衣裙 ￥142.80	</p>
+			
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/79904/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/79904/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/79904/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥142.80</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/doudou/">
+				<img src="http://img1.pinfun.com/avatars/doudou-964_t.jpg" alt="小米甜甜" title="小米甜甜" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/doudou/"  title="小米甜甜">
+				小米甜甜			</a>拼在
+			<a href="/doudou/ke-yi-mai-dao-de-dong-dong?t=1320393665" title="可以买到的东东">
+				可以买到的东东			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/79852/" style="height:285px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/79852_gt4YeDqV_b.jpg" height="285" alt="很美有木有？￥88"  />
+	</a>
+	<p class="description" title="很美有木有？￥88">
+		很美有木有？￥88	</p>
+			
+	<p class="likecomment">
+				
+				<span class="likecount">
+			<img alt="喜欢" title="喜欢" src="http://static.pinfun.com/images/common/PF_trans.gif" class="PF_icon PF_icon11" align="absmiddle" width="20" height="23" />
+			1		</span>
+				
+			</p>	
+		
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/79852/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/79852/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/79852/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥88.00</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/nikki99/">
+				<img src="http://img1.pinfun.com/avatars/nikki99-997_t.jpg" alt="nikki爱东东" title="nikki爱东东" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/nikki99/"  title="nikki爱东东">
+				nikki爱东东			</a>拼在
+			<a href="/nikki99/da-za-hui-sha-dou-you?t=1320384406" title="大杂烩，啥都有">
+				大杂烩，啥都有			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/80880/" style="height:190px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/80880_52WlqXSS_b.jpg" height="190" alt="韩国代购的 好看￥383.09"  />
+	</a>
+	<p class="description" title="韩国代购的 好看￥383.09">
+		韩国代购的 好看￥383.09	</p>
+			
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/80880/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/80880/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/80880/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥383.09</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/xiaobei/">
+				<img src="http://img1.pinfun.com/avatars/xiaobei-617_t.jpg" alt="小北best" title="小北best" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/xiaobei/"  title="小北best">
+				小北best			</a>拼在
+			<a href="/xiaobei/shi-shang-mei-bao-bao?t=1320724033" title="时尚美包包">
+				时尚美包包			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+	
+<div class="item pin PF_g_line alpha">
+	<a target="_blank" class="image" href="/pin/80878/" style="height:259px; max-width: 195px;">
+		<img class="alpha" src="http://img1.pinfun.com/upload/80878_T6Q2nUen_b.jpg" height="259" alt="喜欢复古红￥87.99"  />
+	</a>
+	<p class="description" title="喜欢复古红￥87.99">
+		喜欢复古红￥87.99	</p>
+			
+		<div style="padding-top:1px;">
+		<a class="optionbtn PF_textga pin_bt" href="/login?redirectURL=/pin/80878/" target="_blank" >拼！</a>
+		<a class="optionbtn PF_textga o_left02 " href="/login?redirectURL=/pin/80878/" title="评论">评论</a>	
+				<a href="/login?redirectURL=/pin/80878/" class="optionbtn PF_textga o_left01 " title="喜欢"><span class="PF_like">喜欢</span></a>
+		</div>
+		<div class="priceflag alpha">￥87.99</div>
+		<ul class="pinlist origin">
+		<li class="first">
+			<a class="userimage" href="/xiaobei/">
+				<img src="http://img1.pinfun.com/avatars/xiaobei-617_t.jpg" alt="小北best" title="小北best" class="head_p"/>
+			</a>
+			
+			<p>被
+			<a href="/xiaobei/"  title="小北best">
+				小北best			</a>拼在
+			<a href="/xiaobei/shi-shang-mei-bao-bao?t=1320724033" title="时尚美包包">
+				时尚美包包			</a>
+			</p>
+		</li>
+	</ul>
+	<ul class="pinlist comments">
+				
+	</ul>
+	<div class="PF_clearb"></div>
+</div>
+<a id="next" href="http://www.pinfun.com/latest?page=2" style="display: none">next</a>
+
+			</div>
+			<a target='_blank' href="/pin/7610" class="advise_button">意见反馈</a>
+			<div id="loadingtip" class="loadingtip" style="left:50%;visibility:hidden;">
+				<a href="http://www.pinfun.com/latest?page=2"></a>
+			</div>
+			<a href="#top" id="top_button" class="top_button" style="display:none;"></a>
+		</div>
+				<script type="text/javascript">
+function bindEvent(nodes) {
+	
+	nodes = nodes || null;
+	var items = [],
+		reviewbtns = [],
+		commentforms = [],
+		inputs = [],
+		sends = [],
+		likes = [];
+	if (nodes) {
+		items = nodes;
+		for (var i = 0, j = nodes.length; i < j; i++) {
+			!!$C(".reviewbtn", nodes[i])[0] && reviewbtns.push($C(".reviewbtn", nodes[i])[0]);
+			!!$C(".comments", nodes[i])[0] && commentforms.push($C(".comments", nodes[i])[0]);
+			!!$T("textarea", nodes[i])[0] && inputs.push($T("textarea", nodes[i])[0]);
+			!!$C(".send", nodes[i])[0] && sends.push($C(".send", nodes[i])[0]);
+			!!$C(".fwlike", nodes[i])[0] && likes.push($C(".fwlike", nodes[i])[0]);
+		}
+	} else {
+		items = $(".pin");
+		reviewbtns = $(".pin .reviewbtn");
+		commentforms = $(".pin .comments");
+		inputs = $(".pin textarea");
+		sends = $(".pin .send");
+		likes = $(".pin .fwlike");
+	}
+	
+	// 滑入滑出
+	for (var i = 0, j = items.length; i < j; i++) {
+		(function(i) {
+			var that = items[i];
+			$_addHandler(that, "mouseover", function() {
+				$_addClass(that, "current");
+				if((!PF.browser.is360se && !PF.browser.ie) && $_getStyle(that, 'opacity') >= 1) {
+					$_setStyle(that, "opacity", "0.9");
+				}
+			});
+			$_addHandler(that, "mouseout", function() {
+				$_removeClass(that, "current");
+				if((!PF.browser.is360se && !PF.browser.ie) && $_getStyle(that, 'opacity') == 0.9) {
+					$_setStyle(that, "opacity", "1");
+				}
+			});
+		})(i);		
+	}
+	for (i = 0, j = reviewbtns.length; i < j; i++) {
+		(function(i) {
+			var that = reviewbtns[i],
+				forms = $_children(commentforms[i]),
+				form = forms[forms.length - 1];
+			$_addHandler(that, "click", function(event) {
+				pf.event.preventDefault(event);
+				if ($_getStyle(form, "display") == "none") {
+					$_setStyle(form, "display", "block");
+				}
+				$_children($_children(form)[1])[0].focus();
+				layout.reload(function(){});
+			});
+		})(i);
+	}
+	for (i = 0, j = likes.length; i < j; i++) {
+		(function(i) {
+			var self = likes[i];	
+			$_addHandler(self, "click", function (event) {
+				var fw_url = PF.dom.getAttr(self, "href");
+				var selfHtml = self.innerHTML;
+				$_ajaxXmlHeader(fw_url, {
+					onsuccess: function (data) {
+						var fw_id = parseInt(data);
+						if(fw_id > 0){
+							var butText = $_children(self);
+							var className = PF.dom.getAttr(butText[0],"className");
+							if(!className)
+								className = PF.dom.getAttr(butText[0],"class");
+							if(className == '' || className == null){
+								//$_removeClass(butText[0], "PF_icon11");
+								//$_addClass(butText[0], "PF_icon12");
+								$_addClass(butText[0], "PF_like");
+								$_removeClass(self, "o_left01_r");
+								$_addClass(self, "o_left01");
+								butText[0].innerHTML = "喜欢"
+							}else{
+								//$_removeClass(butText[0], "PF_icon12");
+								//$_addClass(butText[0], "PF_icon11");
+								$_removeClass(butText[0], "PF_like");
+								$_removeClass(self, "o_left01");
+								$_addClass(self, "o_left01_r");
+								butText[0].innerHTML = "取消"
+							}
+						}else{
+							alert("操作失败, 请重新操作");
+						}
+					}
+				});
+				PF.event.preventDefault(event);
+			});
+		})(i);
+	}
+	for (i = 0, j = inputs.length; i < j; i++) {
+		(function(i) {
+			var that = inputs[i];
+			$_addHandler(that, "input", function() {
+				$_setStyle(that, "height", (that.scrollHeight + "px"));
+				layout.reload(function(){});
+			});
+			$_addHandler(that, "propertychange", function() {
+				$_setStyle(that, "height", (that.scrollHeight + "px"));
+				layout.reload(function(){});
+			});
+		})(i);
+	}
+	for (i = 0; i < sends.length; i++) {
+		(function(){
+			var that = sends[i],
+				sendStart = false;
+			$_addHandler(that, "click", function(event) {
+				pf.event.preventDefault(event); // 取消默认行为
+				pf.event.stopPropagation(event); // 防止冒泡
+				var parent = pf.dom.getParent(that),
+					comment = pf.dom.getParent(pf.dom.getParent(parent)),
+					action = parent.action,
+					textarea = $_children(parent)[0],
+					value = pf.string.trimStart(textarea.value);
+				if (value.length <= 0) {
+					alert("评论内容不能为空！");
+					textarea.focus();
+				} else { // 提交数据到后台，并等待回应，获得回应后插入数据；
+					!sendStart && (function() {
+						sendStart = true;
+						$_ajax(action, {
+							data: "comment_body=" + value, // 数据
+							method: "POST", // 用post方法提交
+							onsuccess: function(data) { // 成功响应
+								//alert(data);
+								var div = $_create("div", {id: "tempData"});
+								div.innerHTML = data;
+								parent.appendChild(div);
+								var tempChildren = $_children($I("#tempData"))[0];
+								$_remove(div);
+								$_insertBefore(tempChildren, $_children(comment)[0]);
+								textarea.value = "";
+								layout.reload(function(){});
+								sendStart = false;	
+							}
+						});
+					})();
+				};
+			});	
+		})(i);
+	}
+}
+bindEvent();
+var ajaxStart = false;
+var ajaxRequest = function() {
+	if (pf.bom.isPageBottom() && !ajaxStart) {
+		var elements = [],
+		container = layout ? layout._container : null,
+		nextpage = $I("#next"),
+		nexturl = nextpage ? nextpage.href : "#",
+		loading = $I("#loadingtip");
+		ajaxStart = true;
+		
+		$_setStyle(loading, "visibility", "visible");
+		
+		$_ajaxXmlHeader(nexturl,{
+			onsuccess: function(data) {
+				$_setStyle(loading, "visibility", "hidden");
+				$_remove(nextpage); // 移除nextpage节点，因为服务器端会返回新的节点
+				var div = $_create("div", {id: "temp"}); // 临时容器
+				div.innerHTML = data;
+				container.appendChild(div);
+				var tempChildren = $_children($I("#temp"));
+				$_remove(div);
+				for (var i = 0, j = tempChildren.length; i < j; i++) {
+					var temp = tempChildren[i];
+					container.appendChild(temp);
+					if (i < (j -1)) {
+						elements.push(temp);
+					}
+				}
+				div = null;
+				ajaxStart = false;
+				if (elements) {
+					layout.append(elements);
+					bindEvent(elements);
+				} else {
+					$_removeHandler(window, "scroll", ajaxRequest);
+				}
+				if (elements.length < 25) {
+					//ajaxStart = true;
+					$_removeHandler(window, "scroll", ajaxRequest);
+				}
+				if(pf.bom.isPageBottom() && tempChildren.length > 1)
+					ajaxRequest();
+			}
+		});
+	}
+};
+$_addHandler(window, "scroll", ajaxRequest);
+$_addHandler(window, "scroll", function() {
+    if (pf.bom.getScrollTop() > 0) {
+        $_setStyle($I("#top_button"), "display", "block");
+    } else {
+        $_setStyle($I("#top_button"), "display", "none");
+    }
+});
+$_addHandler($I('#top_button'), "click", function() {
+	goTop(2, 20);
+	return false;
+});
+function goTop(acceleration, time) {
+
+	window.onscroll = function(){
+		return false;
+	}
+	
+	acceleration = acceleration || 0.1;
+	time = time || 16;
+ 
+	var x1 = 0;
+	var y1 = 0;
+	var x2 = 0;
+	var y2 = 0;
+	var x3 = 0;
+	var y3 = 0;
+ 
+	if (document.documentElement) {
+		x1 = document.documentElement.scrollLeft || 0;
+		y1 = document.documentElement.scrollTop || 0;
+	}
+	if (document.body) {
+		x2 = document.body.scrollLeft || 0;
+		y2 = document.body.scrollTop || 0;
+	}
+	var x3 = window.scrollX || 0;
+	var y3 = window.scrollY || 0;
+ 
+	// 滚动条到页面顶部的水平距离
+	var x = Math.max(x1, Math.max(x2, x3));
+	// 滚动条到页面顶部的垂直距离
+	var y = Math.max(y1, Math.max(y2, y3));
+ 
+	// 滚动距离 = 目前距离 / 速度, 因为距离原来越小, 速度是大于 1 的数, 所以滚动距离会越来越小
+	var speed = 1 + acceleration;
+	window.scrollTo(Math.floor(x / speed), Math.floor(y / speed));
+ 
+	// 如果距离不为零, 继续调用迭代本函数
+	if(x > 0 || y > 0) {
+		var invokeFunction = "goTop(" + acceleration + ", " + time + ")";
+		window.setTimeout(invokeFunction, time);
+	}
+}
+
+//mention 如果是新浪用户的用户名 改target 为_blank 用来弹出窗口
+var changeLinkTarget = function(){
+	var m_links = $C(".external");
+	for(var i = 0 ; i < m_links.length ; i ++){
+		m_links[i].target = '_blank'
+	}
+}
+changeLinkTarget();
+
+function layoutFade() {
+	if(this.tagName != 'A'){
+		$_fadeIn(this);
+		var as = $C('.alpha', this);
+		for(var i = 0;i < as.length;i++) {
+			if(!PF.browser.is360se && !PF.browser.ie) {
+				$_fadeIn(as[i]);
+			} else {
+				$_removeClass(as[i], 'alpha');
+			}
+		}
+	}
+}
+</script>
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://stat.pinfun.com/" : "http://stat.pinfun.com/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+
+</script><noscript><p><img src="http://stat.pinfun.com/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+		<script type="text/javascript">
+		var layout = new Layout("#container", {
+			spaceWidth: 15,
+			callback: layoutFade
+		});
+		ajaxRequest();
+		</script>
+	</body>
+</html>
