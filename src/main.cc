@@ -102,6 +102,7 @@ int main (int argc, char *argv[]) {
     fetchOpen();
     stateMain(6);
     checkAll();
+    //printf("|||||||||||||||||||||||||\n");
     // select
     stateMain(count++);
     poll(global::pollfds, global::posPoll, 10);

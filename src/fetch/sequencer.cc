@@ -60,7 +60,17 @@ static bool canGetUrl (bool *testPriority) {
     } else {
       u = global::URLsDisk->tryGet();
       if (u != NULL) {
+
+//      printf("*********************\n")
+    if (strstr(u->getUrl(), "blog") != NULL
+        || strstr(u->getUrl(), "activity/list") != NULL) {
+        u->print();
+    }else {
+        if (strstr(u->getUrl(), "pinfun") != NULL) {
         global::namedSiteList[u->hostHashCode()].putUrl(u);
+        }
+    }
+
         return true;
       } else {
         return false;

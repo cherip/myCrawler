@@ -147,6 +147,7 @@ void NamedSite::putGenericUrl(url *u, int limit, bool prio) {
         || global::now > dnsTimeout) {
       // dns not done or other site
       putInFifo(u);
+      //u->print();
       addNamedUrl();
       // Put Site in fifo if not yet in
       if (!isInFifo) {
@@ -155,6 +156,7 @@ void NamedSite::putGenericUrl(url *u, int limit, bool prio) {
       }
     } else switch (dnsState) {
     case doneDns:
+      //  printf("transfer\n");
       transfer(u);
       break;
     case errorDns:
@@ -238,6 +240,7 @@ void NamedSite::dnsAns (adns_answer *ans) {
               &ans->rrs.addr->addr.inet.sin_addr,
               sizeof (struct in_addr));
       // Get the robots.txt
+      printf("dns OKKKKKKKKKKK!\n");
       dnsOK();
     }
   }
@@ -283,6 +286,7 @@ void NamedSite::dnsOK () {
  */
 void NamedSite::dnsErr () {
   FetchError theErr;
+  printf("dns error!\n");
   if (dnsState == errorDns) {
     theErr = noDNS;
   } else {
@@ -388,6 +392,9 @@ void NamedSite::transfer (url *u) {
     if (global::proxyAddr == NULL) {
       memcpy (&u->addr, &addr, sizeof (struct in_addr));
     }
+    printf("ipHash:%d transfer: ", ipHash);
+    u->print();
+
     global::IPSiteList[ipHash].putUrl(u);
   } else {
     forgetUrl(u, forbiddenRobots);
@@ -470,15 +477,21 @@ int IPSite::fetch () {
 	// no more url to read
 	// This is possible because this function can be called recursively
 	isInFifo = false;
+    printf("no urls\n");
     return 0;
   } else {
     int next_call = lastAccess + global::waitDuration;
+    printf("%d %d %d\n", lastAccess, global::waitDuration, next_call);
     if (next_call > global::now) {
       global::okSites->rePut(this);
       return next_call;
     } else {
+        printf("come to here!\n");
       Connexion *conn = global::freeConns->get();
       url *u = getUrl();
+      printf("-------------\n");
+      u->print();
+      printf("-------------\n");
       // We're allowed to fetch this one
       // open the socket and write the request
       char res = getFds(conn, &(u->addr), u->getPort());

@@ -62,12 +62,14 @@ void checkAll () {
     switch (conn->state) {
     case connectingC:
     case writeC:
+//      printf("%d, %d\n", i, conn->state);
       if (global::ansPoll[conn->socket]) {
         // trying to finish the connection
         pipeWrite(conn);
       }
       break;
     case openC:
+ //       printf("%d, %d\n", i, conn->state);
       if (global::ansPoll[conn->socket]) {
         // The socket is open, let's try to read it
         pipeRead(conn);
@@ -75,6 +77,7 @@ void checkAll () {
       break;
     }
   }
+//  printf("**************\n");
 
   // update fd_set for the next select
   for (uint i=0; i<global::nb_conn; i++) {
@@ -148,6 +151,7 @@ static void pipeWrite (Connexion *conn) {
 static void pipeRead (Connexion *conn) {
   int p = conn->parser->pos;
   int size = read (conn->socket, conn->buffer+p, maxPageSize-p-1);
+  //printf("size = %d\n", size);
   switch (size) {
   case 0:
     // End of file

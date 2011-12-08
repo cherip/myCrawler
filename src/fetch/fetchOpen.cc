@@ -27,9 +27,11 @@ void fetchOpen () {
   int cont = 1;
   while (cont && global::freeConns->isNonEmpty()) {
     IPSite *s = global::okSites->tryGet();
+  //  printf("IPsites\n");
     if (s == NULL) {
       cont = 0;
     } else {
+        printf("IPsites\n");
       next_call = s->fetch();
       cont = (next_call == 0);
     }
@@ -49,6 +51,8 @@ void fetchDns () {
       break;
     } else {
       site->newQuery();
+    printf("%s\n", site->name);
+    printf("Try to Open DNS ^^^^^^^^^^^^^^^^^^^^^\n");
     }
   }
 
@@ -64,6 +68,11 @@ void fetchDns () {
     }
     global::nbDnsCalls--;
     site->dnsAns(ans);
+    
+//  printf("%s\n", site->name);
+//  printf("%d\n", site->dnsState);
+//  printf("^^^^^^^^^^^^^^^^^^^^^\n");
+
     free(ans); // ans has been allocated with malloc
   }
 }

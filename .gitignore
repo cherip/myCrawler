@@ -1,2 +1,4 @@
 fifo*
 save/*
+*.jpg
+pyhandler/images/*

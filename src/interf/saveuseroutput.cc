@@ -28,6 +28,12 @@ static uint endFileName;
  * @param page the page that has been fetched
  */
 void loaded (html *page) {
+    url *curUrl = page->getUrl();
+    if (strstr(curUrl->getUrl(), "jpg") == NULL) {
+        printf("don't download no jpg page!\n");
+        return ;
+    }
+
   nbfile++;
   if (nbfile < filesPerDir) {
     int tmp = nbfile;
