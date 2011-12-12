@@ -34,6 +34,7 @@
 
 #define LINK 0
 #define BASE 1
+#define IMAGE 2
 
 
 /***********************************
@@ -266,6 +267,8 @@ html::html (url *here, Connexion *conn) : file(conn) {
   constrSpec();
   pages();
   isRobots = false;
+
+  info = NULL;
 }
 
 /** Destructor
@@ -610,7 +613,7 @@ void html::parseTag () {
           "src", LINK, 5);
 #ifdef IMAGES
   } else if (thisCharIs(0, 'i')) { // img src
-    isTag(thisCharIs(1, 'm') && thisCharIs(2, 'g'), "src", LINK, 3);
+    isTag(thisCharIs(1, 'm') && thisCharIs(2, 'g'), "src", IMAGE, 3);
 #endif // IMAGES
   } else {
     return;
@@ -620,19 +623,72 @@ void html::parseTag () {
   skipSpace();
   for (;;) {
     int i=0;
+    /* if this is src or href */
     while (param[i]!=0 && thisCharIs(i, param[i])) i++;
+    /* go through the tag */
     posParse += i;
-    if (posParse[i]=='>' || posParse[i]==0) return;
+    /* go end */
+    if (posParse[i]=='>' || posParse[i]==0) break;
+    /* right match */
     if (param[i]==0) {
       parseContent(action);
-      return;
+      if (action != IMAGE) {
+        return ;
+      }
+  //    return;
     } else {
       // not the good parameter
-      nextWord();
+      
+        /*add by zhouchao*/
+        /*****************/
+        /*if the tag is alt, we need it*/
+        if(action == IMAGE && strncmp(posParse - i, "alt", 3) == 0) {
+            posParse -= i;
+            posParse += 3; 
+      //printf("%c%c%c%c\n", posParse[0], posParse[1], posParse[2], posParse[3]);
+            //printf("%s\n", posParse);
+            parseImageAlt();
+        } else {
+            nextWord();
+        }
     }
+  }
+
+  /*if the image has no url, we don't need the alt anymore*/
+  if (action == IMAGE && imgUrl != NULL) {
+    imgUrl->info = info;  
+    manageUrl(imgUrl, false);
+
+    imgUrl = NULL;
+    info = NULL;
   }
 }
 
+void html::parseImageAlt() {
+  while (*posParse==' ' || *posParse=='=') posParse++;
+  if (*posParse=='\"' || *posParse=='\'') posParse++;
+  alt = posParse;
+    /*define the max length of the alt content*/
+  char *endItem = area + maxUrlSize;
+  if (endItem > buffer + pos) endItem = buffer + pos;
+  while (posParse < endItem && *posParse!='\"' && *posParse!='\''
+         && notCgiChar(*posParse)) {
+    posParse++;
+  }
+    if(posParse == buffer + pos) {
+        return ;
+    } 
+    if (posParse < endItem && notCgiChar(*posParse)) {
+        char oldChar = *posParse;
+        *posParse = 0;
+
+        info = new imageInfo(alt, NULL, NULL);    
+        
+        *posParse = oldChar;
+        posParse++;
+    } 
+
+}
 const char baseUrl[] = "http://www.pinfun.com";
 
 /** read the content of an interesting tag */
@@ -672,7 +728,15 @@ void html::parseContent (int action) {
 //    manageUrl(new url(area, here->getDepth()-1, base), false);
 //    }
         manageUrl(new url(area, here->getDepth() - 1, base), false);
+       //tmpUrl = new url(area, here->getDepth() - 1, base);
       break;
+    case IMAGE:
+      //printf("ok!!!!\n");
+      //printf("%s\n", area);
+      //manageUrl(new imageUrl(area, here->getDepth() - 1, base, info), false);
+      imgUrl = new imageUrl(area, here->getDepth() - 1, base, info);
+      //manageUrl(new url(area, here->getDepth() - 1, base), false);
+      //printf("ok!!!!\n");
     case BASE:
       // This page has a BASE HREF tag
       {

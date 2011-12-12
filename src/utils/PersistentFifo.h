@@ -77,6 +77,8 @@ class PersistentFifo {
   /* add an object in the fifo */
   void put (url *obj);
 
+  void putImage(url *obj);
+
   /* how many items are there inside ? */
   int getLength ();
 };

@@ -128,6 +128,25 @@ void PersistentFifo::put (url *obj) {
   delete obj;
 }
 
+void PersistentFifo::putImage(url *obj) {
+//    mypthread_mutex_lock(&lock);
+  mypthread_mutex_lock(&lock);
+  char *s = obj->serialize(); // statically allocated string
+  writeUrl(s);
+  in++;
+  updateWrite();
+  mypthread_mutex_unlock(&lock);
+//  char *s = obj->serializeInfo();
+//  if (s != NULL) {
+//  printf("%s\n", s);
+//      writeUrl(s);
+//      in++;
+//      updateWrite();
+//  }
+    
+//    mypthread_mutex_unlock(&lock);
+}
+
 int PersistentFifo::getLength () {
   return in - out;
 }
@@ -231,7 +250,7 @@ char *PersistentFifo::readLine () {
 // write an url in the out file (buffered write)
 void PersistentFifo::writeUrl (char *s) {
   size_t len = strlen(s);
-  assert(len < maxUrlSize + 40 + maxCookieSize);
+  assert(len < maxUrlSize + 40 + 128);
   if (outbufPos + len < BUF_SIZE) {
     memcpy(outbuf + outbufPos, s, len);
     outbufPos += len;

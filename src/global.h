@@ -72,6 +72,8 @@ struct global {
   /** This one has a lower priority : see fetch/sequencer.cc */
   static PersistentFifo *URLsDisk;
   static PersistentFifo *URLsDiskWait;
+ static PersistentFifo *URLsDiskImageInfo;
+
   static uint readWait;
   /** hashtables of the site we accessed (cache) */
   static NamedSite *namedSiteList;

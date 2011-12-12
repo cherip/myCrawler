@@ -44,6 +44,7 @@
 // file name used for storing urls on disk
 #define fifoFile "fifo"
 #define fifoFileWait "fifowait"
+#define fifoFileImage "fifoimage"
 
 // number of urls per file on disk
 // should be equal to ramUrls for good interaction with restart

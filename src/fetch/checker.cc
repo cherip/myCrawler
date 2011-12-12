@@ -39,6 +39,7 @@ void check (url *u) {
 	  global::URLsDisk->put(u);
 	}
 #else // not a SPECIFICSEARCH
+    global::URLsDiskImageInfo->putImage(u);
     global::URLsDisk->put(u);
 #endif
   } else {

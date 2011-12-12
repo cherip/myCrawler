@@ -62,6 +62,7 @@ static uint count = 0;
 int main (int argc, char *argv[]) {
   // create all the structures
   global glob(argc, argv);
+  printf("ok!!!!\n");
 #ifdef PROF
   signal (2, handler);
 #endif // PROF

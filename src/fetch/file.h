@@ -37,6 +37,16 @@ class file {
 
 class html : public file {
  private:
+    char *alt;
+    char *title;
+    char *beside;
+
+    imageInfo *info;
+    imageUrl *imgUrl;
+    url *tmpUrl;
+
+    void parseImageAlt();
+
   // Where are we
   url *here;
   // beginning of the current interesting area

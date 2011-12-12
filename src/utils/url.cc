@@ -17,7 +17,6 @@
 #include "types.h"
 #include "global.h"
 #include "utils/url.h"
-#include "utils/text.h"
 #include "utils/connexion.h"
 #include "utils/debug.h"
 
@@ -393,6 +392,11 @@ char *url::serialize () {
   return statstr;
 }
 
+char *url::serializeInfo(){
+    return NULL;
+}
+
+
 /* very thread unsafe serialisation in a static buffer */
 char *url::getUrl() {
   static char statstr[maxUrlSize+40];
@@ -520,4 +524,40 @@ void url::addCookie(char *header) {
     }
   }
 }
+
 #endif // COOKIES
+
+/*********************
+ * image url 
+ *
+ *********************/
+
+imageUrl::imageUrl(char *u, int8_t depth, url *base, imageInfo *info)
+    : url(u, depth, base) {
+    this->info = info;
+}
+
+imageUrl::~imageUrl() {
+    delete info;
+}
+
+char *imageUrl::serializeInfo() {   
+    static char infoBuffer[maxUrlSize+40+128];
+    char *url = getUrl();
+    int pos = 0;
+
+    pos = sprintf(infoBuffer, "%s ", url);
+    if (info != NULL) {
+        pos += sprintf(infoBuffer + pos, "%s ", info->alt);
+#ifdef OTHER
+        pos += sprintf(infoBuffer + pos, "%s ", info->title);
+        pos += sprintf(infoBuffer + pos, "%s", info->beside);
+#endif
+    }
+
+    infoBuffer[pos] = '\n'; 
+    infoBuffer[pos + 1] = 0;
+    printf("%s\n", infoBuffer);
+
+    return infoBuffer;
+}

@@ -13,6 +13,7 @@
 #include <stdlib.h>
 
 #include "types.h"
+#include "utils/text.h"
 
 bool fileNormalize (char *file);
 
@@ -44,7 +45,7 @@ class url {
   url (char *line);
 
   /* Destructor */
-  ~url ();
+  virtual ~url ();
 
   /* inet addr (once calculated) */
   struct in_addr addr;
@@ -90,6 +91,7 @@ class url {
 
   /* serialize the url for the Persistent Fifo */
   char *serialize ();
+  virtual char *serializeInfo();
 
   /* very thread unsafe serialisation in a static buffer */
   char *getUrl();
@@ -99,6 +101,7 @@ class url {
 
   /* return a hashcode for this url */
   uint hashCode ();
+
 
 #ifdef URL_TAGS
   /* tag associated to this url */
@@ -112,6 +115,44 @@ class url {
 #else // COOKIES
   inline void addCookie(char *header) {}
 #endif // COOKIES
+};
+
+class imageInfo {
+public:
+    char *alt;
+#ifdef OTHER
+    char *title;
+    char *beside;
+#endif
+
+public:
+    imageInfo(char *alt, char *title, char *beside) {
+        if (alt != NULL)
+        this->alt = newString(alt);
+#ifdef OTHER
+        if (title != NULL)
+        this->title = newString(title);
+        if (beside!= NULL)
+        this->beside = newString(beside);
+#endif 
+    }
+
+    ~imageInfo() {
+        delete [] alt;
+#ifdef OTHER
+        delete [] title;
+        delete [] beside;
+#endif
+    }
+};
+
+class imageUrl: public url {
+public:
+    imageInfo *info;
+public:
+    imageUrl(char *u, int8_t depth, url *base, imageInfo *info);
+    ~imageUrl();
+    char *serializeInfo();
 };
 
 #endif // URL_H

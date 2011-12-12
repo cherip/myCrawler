@@ -44,6 +44,8 @@ SyncFifo<url> *global::URLsPriorityWait;
 uint global::readPriorityWait=0;
 PersistentFifo *global::URLsDisk;
 PersistentFifo *global::URLsDiskWait;
+PersistentFifo *global::URLsDiskImageInfo;
+
 uint global::readWait=0;
 IPSite *global::IPSiteList;
 NamedSite *global::namedSiteList;
@@ -125,6 +127,8 @@ global::global (int argc, char *argv[]) {
   // FIFOs
   URLsDisk = new PersistentFifo(reload, fifoFile);
   URLsDiskWait = new PersistentFifo(reload, fifoFileWait);
+    URLsDiskImageInfo = new PersistentFifo(reload, fifoFileImage);
+
   URLsPriority = new SyncFifo<url>;
   URLsPriorityWait = new SyncFifo<url>;
   inter = new Interval(ramUrls);
