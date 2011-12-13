@@ -538,7 +538,8 @@ imageUrl::imageUrl(char *u, int8_t depth, url *base, imageInfo *info)
 }
 
 imageUrl::~imageUrl() {
-    delete info;
+    if (info != NULL)
+        delete info;
 }
 
 char *imageUrl::serializeInfo() {   
@@ -557,7 +558,7 @@ char *imageUrl::serializeInfo() {
 
     infoBuffer[pos] = '\n'; 
     infoBuffer[pos + 1] = 0;
-    printf("%s\n", infoBuffer);
+//    printf("%s\n", infoBuffer);
 
     return infoBuffer;
 }

@@ -41,6 +41,7 @@ void check (url *u) {
 #else // not a SPECIFICSEARCH
     global::URLsDiskImageInfo->putImage(u);
     global::URLsDisk->put(u);
+    //delete u;
 #endif
   } else {
 	// This url has already been seen

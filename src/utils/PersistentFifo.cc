@@ -130,19 +130,18 @@ void PersistentFifo::put (url *obj) {
 
 void PersistentFifo::putImage(url *obj) {
 //    mypthread_mutex_lock(&lock);
-  mypthread_mutex_lock(&lock);
-  char *s = obj->serialize(); // statically allocated string
-  writeUrl(s);
-  in++;
-  updateWrite();
-  mypthread_mutex_unlock(&lock);
-//  char *s = obj->serializeInfo();
-//  if (s != NULL) {
-//  printf("%s\n", s);
-//      writeUrl(s);
-//      in++;
-//      updateWrite();
-//  }
+//char *s = obj->serializeInfo(); // statically allocated string
+//writeUrl(s);
+//flushOut();
+//in++;
+//updateWrite();
+    char *s = obj->serializeInfo();
+    if (s != NULL) {
+        writeUrl(s);
+        flushOut();
+        in++;
+        updateWrite();
+    }
     
 //    mypthread_mutex_unlock(&lock);
 }

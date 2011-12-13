@@ -261,6 +261,7 @@ void initSpecific () { }
 html::html (url *here, Connexion *conn) : file(conn) {
   newPars();
   this->here = here;
+  
   base = here->giveBase();
   state = ANSWER;
   isInteresting = false;
@@ -654,14 +655,22 @@ void html::parseTag () {
     }
   }
 
-  /*if the image has no url, we don't need the alt anymore*/
-  if (action == IMAGE && imgUrl != NULL) {
-    imgUrl->info = info;  
-    manageUrl(imgUrl, false);
 
-    imgUrl = NULL;
-    info = NULL;
+  /*if the image has no url, we don't need the alt anymore*/
+  if (action == IMAGE) {
+      if (info != NULL && imgUrl != NULL) {
+        imgUrl->info = info;  
+        manageUrl(imgUrl, false);
+      } else {
+        if (imgUrl != NULL)
+            delete imgUrl;
+        if (info != NULL)
+            delete info;
+      }
   }
+
+  imgUrl = NULL;
+  info = NULL;
 }
 
 void html::parseImageAlt() {
@@ -682,6 +691,7 @@ void html::parseImageAlt() {
         char oldChar = *posParse;
         *posParse = 0;
 
+        //printf("%s\n", alt);
         info = new imageInfo(alt, NULL, NULL);    
         
         *posParse = oldChar;
@@ -689,7 +699,6 @@ void html::parseImageAlt() {
     } 
 
 }
-const char baseUrl[] = "http://www.pinfun.com";
 
 /** read the content of an interesting tag */
 void html::parseContent (int action) {
@@ -715,28 +724,26 @@ void html::parseContent (int action) {
     switch (action) {
     case LINK:
       // try to understand this new link
+//    printf("base : ");
+//      base->print();
 //      printf("%s\n", area);
-
-//    if (strncmp(area, "http:", 5 ) != 0) {
-//        char *urlStr = new char[128];
-//        strcpy(urlStr, baseUrl);
-//        strcat(urlStr, area);
-//        printf("%s\n", urlStr);
-//      manageUrl(new url(urlStr, here->getDepth()-1, base), false);
-//    } else {
-
-//    manageUrl(new url(area, here->getDepth()-1, base), false);
-//    }
         manageUrl(new url(area, here->getDepth() - 1, base), false);
+//      printf("%s\n", area);
        //tmpUrl = new url(area, here->getDepth() - 1, base);
       break;
     case IMAGE:
       //printf("ok!!!!\n");
       //printf("%s\n", area);
       //manageUrl(new imageUrl(area, here->getDepth() - 1, base, info), false);
-      imgUrl = new imageUrl(area, here->getDepth() - 1, base, info);
+//    printf("&&&&&&&&&&&&&&&&&&\n");
+//    base->print();
+//    printf("%s\n", area);
+      imgUrl = new imageUrl(area, here->getDepth() - 1, base, NULL);
+//    base->print();
+//    printf("&&&&&&&&&&&&&&&&&&\n");
       //manageUrl(new url(area, here->getDepth() - 1, base), false);
       //printf("ok!!!!\n");
+      break;
     case BASE:
       // This page has a BASE HREF tag
       {

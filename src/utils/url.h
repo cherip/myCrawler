@@ -138,7 +138,8 @@ public:
     }
 
     ~imageInfo() {
-        delete [] alt;
+        if (alt != NULL)
+            delete [] alt;
 #ifdef OTHER
         delete [] title;
         delete [] beside;
