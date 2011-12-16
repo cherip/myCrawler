@@ -562,3 +562,7 @@ char *imageUrl::serializeInfo() {
 
     return infoBuffer;
 }
+
+void imageUrl::print_info() {
+    printf("%s\n", info->alt);
+}

@@ -2,3 +2,4 @@ fifo*
 save/*
 *.jpg
 pyhandler/images/*
+*.swp

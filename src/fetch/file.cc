@@ -660,6 +660,11 @@ void html::parseTag () {
   if (action == IMAGE) {
       if (info != NULL && imgUrl != NULL) {
         imgUrl->info = info;  
+
+//      imgUrl->print_info();
+//      imgUrl->print();
+//      printf("********\n");
+
         manageUrl(imgUrl, false);
       } else {
         if (imgUrl != NULL)

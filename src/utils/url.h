@@ -154,6 +154,7 @@ public:
     imageUrl(char *u, int8_t depth, url *base, imageInfo *info);
     ~imageUrl();
     char *serializeInfo();
+    void print_info();
 };
 
 #endif // URL_H
