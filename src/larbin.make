@@ -4,7 +4,8 @@ LIBS:=
 include $(BASEDIR)/../config.make
 
 UTILS-OBJ:=string.o debug.o url.o connexion.o text.o \
-    histogram.o webserver.o PersistentFifo.o hashDup.o mypthread.o
+    histogram.o webserver.o PersistentFifo.o hashDup.o mypthread.o \
+    convert.o
 INTERF-OBJ:=input.o useroutput.o output.o
 FETCH-OBJ:=site.o sequencer.o hashTable.o checker.o file.o \
 	fetchOpen.o fetchPipe.o
@@ -13,7 +14,7 @@ MAIN-OBJ:=global.o main.o
 ABS-UTILS-OBJ:=utils/string.o utils/debug.o utils/url.o \
     utils/connexion.o utils/text.o utils/histogram.o \
     utils/webserver.o utils/PersistentFifo.o utils/hashDup.o \
-    utils/mypthread.o
+    utils/mypthread.o utils/convert.o
 ABS-INTERF-OBJ:=interf/input.o interf/useroutput.o interf/output.o
 ABS-FETCH-OBJ:=fetch/site.o fetch/sequencer.o fetch/hashTable.o \
     fetch/checker.o fetch/file.o fetch/fetchOpen.o fetch/fetchPipe.o

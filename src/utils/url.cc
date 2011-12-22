@@ -543,13 +543,15 @@ imageUrl::~imageUrl() {
 }
 
 char *imageUrl::serializeInfo() {   
-    static char infoBuffer[maxUrlSize+40+128];
-    char *url = getUrl();
+    static char infoBuffer[1024];
+    char *urlStr = getUrl();
     int pos = 0;
+    url *baseUrl = giveBase();
 
-    pos = sprintf(infoBuffer, "%s ", url);
+    pos = sprintf(infoBuffer, "%s|", urlStr);
+    pos += sprintf(infoBuffer + pos, "%s|", baseUrl->getUrl());
     if (info != NULL) {
-        pos += sprintf(infoBuffer + pos, "%s ", info->alt);
+        pos += sprintf(infoBuffer + pos, "%s", info->alt);
 #ifdef OTHER
         pos += sprintf(infoBuffer + pos, "%s ", info->title);
         pos += sprintf(infoBuffer + pos, "%s", info->beside);
@@ -560,6 +562,7 @@ char *imageUrl::serializeInfo() {
     infoBuffer[pos + 1] = 0;
 //    printf("%s\n", infoBuffer);
 
+    delete baseUrl;
     return infoBuffer;
 }
 

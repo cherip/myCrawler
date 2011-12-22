@@ -6,15 +6,32 @@
 from pymmseg import mmseg
 import os
 
+def format_img_name(index):
+    formatIndex = str(100000 + int(index))
+    formatIndex = 'f' + formatIndex[1:]
+    return formatIndex
+
 
 def read_file(pfile, fullDir, dicts):
     line = pfile.readline() 
     while line:
         words = line.split()
         line = pfile.readline()
-        #print words[0], words[1] 
-        dicts[words[1]] = os.path.join(fullDir, words[0])
 
+        #print words[0], words[1] 
+        imgName = format_img_name(words[0])
+        if words[1].find('n0') > 0:
+            dicts[words[1]] = os.path.join(fullDir, imgName)
+        else:
+            #print os.path.join(fullDir, imgName)
+            #print os.path.join(fullDir, imgName + '.jpg')
+            os.remove(os.path.join(fullDir, imgName + '.jpg'))
+            
+            #os.rename(os.path.join(fullDir, imgName), 
+            #      os.path.join(fullDir, imgName + '.jpg'))
+#  for url in dicts.keys():
+#      print dicts[url]
+        #os.rename(dicts[url], dicts[url] + '.jpg')
 
 sdir = "../save"
 def read_dir():
@@ -72,18 +89,18 @@ def read_alt_info():
     return dicts
 
 url2imgfile = read_dir()
-url2imginfo = read_alt_info()
+#url2imginfo = read_alt_info()
 
-mmseg.dict_load_defaults()
-for url in url2imginfo.keys():
-    print url, len(url)
-print '***************'
-for url in url2imgfile.keys():
-    if url2imginfo.has_key(url) == True:
-        print '*************'
-        print url2imginfo[url]
-        segs = mmseg.Algorithm(url2imginfo[url])
-        for tok in segs:
-            print tok.text
-    else:
-        print url, len(url)
+#mmseg.dict_load_defaults()
+#for url in url2imginfo.keys():
+#  print url, len(url)
+#print '***************'
+#for url in url2imgfile.keys():
+#  if url2imginfo.has_key(url) == True:
+#      print '*************'
+#      print url2imginfo[url]
+#      segs = mmseg.Algorithm(url2imginfo[url])
+#      for tok in segs:
+#          print tok.text
+#  else:
+#      print url, len(url)

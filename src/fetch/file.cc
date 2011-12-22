@@ -24,6 +24,8 @@
 #include "fetch/fetchOpen.h"
 #include "fetch/checker.h"
 
+#include "utils/convert.h"
+
 #include "utils/debug.h"
 
 #define ANSWER 0
@@ -292,6 +294,9 @@ int html::getLength () {
 
 /* manage a new url : verify and send it */
 void html::manageUrl (url *nouv, bool isRedir) {
+
+    //nouv->print();
+
   if (nouv->isValid()
       && filter1(nouv->getHost(), nouv->getFile())
       && (global::externalLinks || isRedir
@@ -530,10 +535,46 @@ int html::endInput () {
   buffer[pos] = 0;
   _endOfInput();
   // now parse the html
+    
+
+
+    /*copy the content for transfer*/
+    static char tmp[maxPageSize];
+    strncpy(tmp, posParse, strlen(posParse));
+
+    printf("test charset\n");
+    char *pCharset = strstr(posParse, "charset");    
+    printf("test charset\n");
+    char *pCharset = strstr(posParse, "charset");    
+    //char *pCharset = NULL;
+    if (pCharset == NULL) {
+        printf("charset error!\n"); 
+    } else {
+        char *pCharStart = pCharset + 8;
+        while (*pCharStart == '\"' || *pCharStart == '=' || *pCharStart == ' ') 
+            pCharStart++;
+        char *pCharEnd = pCharStart;
+        while (*pCharEnd != '\"' || *pCharEnd != '\'' || *pCharEnd != ' ')
+            pCharEnd++;
+        *pCharEnd = 0;
+        printf("charset: %s\n", pCharStart);
+        getchar();
+    }
+
+    g2u(tmp, strlen(tmp), posParse, maxPageSize);
+//    printf("%s\n", posParse);
+//  int rc = g2u(posParse, strlen(posParse), tmp, maxPageSize);
+//  if (rc != -1) {
+//      strncpy(posParse, tmp, strlen(tmp));
+//      posParse[strlen(tmp)] = 0;
+//  }
 
   printf("one html file is complete, and try to parse it!\n");
   this->here->print();
   printf("**********************************\n");
+
+//  getchar();
+//  getchar();
 
   parseHtml();
   return 0;
@@ -623,6 +664,15 @@ void html::parseTag () {
   assert(param != NULL);
   skipSpace();
   for (;;) {
+
+//    if (action == IMAGE) {
+//        char *tmpP = posParse + 32;
+//        char val = *tmpP;
+//        *tmpP = 0;
+//        printf("original img src: %s\n", posParse);
+//        *tmpP = val;
+//    }
+
     int i=0;
     /* if this is src or href */
     while (param[i]!=0 && thisCharIs(i, param[i])) i++;
@@ -661,9 +711,37 @@ void html::parseTag () {
       if (info != NULL && imgUrl != NULL) {
         imgUrl->info = info;  
 
-//      imgUrl->print_info();
-//      imgUrl->print();
-//      printf("********\n");
+      imgUrl->print_info();
+      imgUrl->print();
+      printf("********\n");
+
+      /*
+       * special for 360buy.com 
+       * because i need the original image
+       */
+//#ifdef 
+        char *normalUrl = imgUrl->getUrl();
+  //      printf("normal url: %s\n", normalUrl);
+        char *pos = strstr(normalUrl, "/n11");
+        if (pos != NULL) {
+//            char *newUrl = new char[strlen(normalUrl) - 1];
+            static char newUrl[512];
+            char *sta = normalUrl;
+            char *pNew = newUrl;
+            while (sta != pos) 
+                *pNew++ = *sta++;
+            strncpy(pNew, "/n0", 3);
+            pNew += 3;
+            sta += 4;
+            while (sta != normalUrl + strlen(normalUrl)) 
+                *pNew++ = *sta++; 
+            pNew[0] = 0;
+            
+            //printf("special image Url: %s\n", newUrl);
+            manageUrl(new url(newUrl, here->getDepth() - 1, base), false);
+ //           delete [] newUrl;
+        }
+//#endif
 
         manageUrl(imgUrl, false);
       } else {

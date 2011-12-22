@@ -62,14 +62,19 @@ static bool canGetUrl (bool *testPriority) {
       if (u != NULL) {
 
 //      printf("*********************\n")
-    if (strstr(u->getUrl(), "blog") != NULL
-        || strstr(u->getUrl(), "activity/list") != NULL) {
-        u->print();
-    }else {
-        if (strstr(u->getUrl(), "pinfun") != NULL) {
+//  if (strstr(u->getUrl(), "blog") != NULL
+//      || strstr(u->getUrl(), "activity/list") != NULL) {
+//      u->print();
+//  }else {
+    if (strstr(u->getUrl(), "pinfun") != NULL ||
+        strstr(u->getUrl(), "dangdang") != NULL ||
+        strstr(u->getUrl(), "ddimg.cn") != NULL ||
+        strstr(u->getUrl(), "book.360buy") != NULL ||
+        strstr(u->getUrl(), "jpg") != NULL ||
+        strstr(u->getUrl(), "gif") != NULL) {
         global::namedSiteList[u->hostHashCode()].putUrl(u);
-        }
     }
+//  }
 
         return true;
       } else {
