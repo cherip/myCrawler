@@ -3,3 +3,4 @@ save/*
 *.jpg
 pyhandler/images/*
 *.swp
+f00*
