@@ -541,21 +541,28 @@ int html::endInput () {
     /*copy the content for transfer*/
     static char tmp[maxPageSize];
     strncpy(tmp, posParse, strlen(posParse));
+    printf("try to transfer charset!\n");
+    g2u(tmp, strlen(tmp), posParse, maxPageSize);
 
     printf("test charset\n");
     char *pCharset = strstr(posParse, "charset");    
     printf("test charset\n");
-    char *pCharset = strstr(posParse, "charset");    
     //char *pCharset = NULL;
     if (pCharset == NULL) {
         printf("charset error!\n"); 
     } else {
-        char *pCharStart = pCharset + 8;
+        *(pCharset + 32) = 0;
+        printf("pCharset: %s\n", pCharset);
+        char *pCharStart = pCharset + 7;
+        printf("pCharStart: %s\n", pCharStart);
         while (*pCharStart == '\"' || *pCharStart == '=' || *pCharStart == ' ') 
             pCharStart++;
-        char *pCharEnd = pCharStart;
-        while (*pCharEnd != '\"' || *pCharEnd != '\'' || *pCharEnd != ' ')
+        printf("pCharStart: %s\n", pCharStart);
+        char *pCharEnd = pCharStart + 1; 
+        printf("pCharEnd: %s\n", pCharEnd);
+        while (*pCharEnd != '\"' && *pCharEnd != '\'' && *pCharEnd != ' ')
             pCharEnd++;
+        printf("pCharEnd: %s\n", pCharEnd);
         *pCharEnd = 0;
         printf("charset: %s\n", pCharStart);
         getchar();
