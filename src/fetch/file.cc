@@ -538,37 +538,58 @@ int html::endInput () {
     
 
 
-    /*copy the content for transfer*/
+    char *urlStr = here->getUrl();
+    here->print();
+    //char *pUrl = &urlStr[strlen(urlStr) - 3];
+    //printf("%s\n", pUrl);
+    
+    if (strstr(urlStr, "jpg") != NULL) {
+        printf("ok\n");
+    } 
     static char tmp[maxPageSize];
-    strncpy(tmp, posParse, strlen(posParse));
-    printf("try to transfer charset!\n");
-    g2u(tmp, strlen(tmp), posParse, maxPageSize);
-
-    printf("test charset\n");
-    char *pCharset = strstr(posParse, "charset");    
-    printf("test charset\n");
-    //char *pCharset = NULL;
-    if (pCharset == NULL) {
-        printf("charset error!\n"); 
-    } else {
-        *(pCharset + 32) = 0;
-        printf("pCharset: %s\n", pCharset);
-        char *pCharStart = pCharset + 7;
-        printf("pCharStart: %s\n", pCharStart);
-        while (*pCharStart == '\"' || *pCharStart == '=' || *pCharStart == ' ') 
-            pCharStart++;
-        printf("pCharStart: %s\n", pCharStart);
-        char *pCharEnd = pCharStart + 1; 
-        printf("pCharEnd: %s\n", pCharEnd);
-        while (*pCharEnd != '\"' && *pCharEnd != '\'' && *pCharEnd != ' ')
-            pCharEnd++;
-        printf("pCharEnd: %s\n", pCharEnd);
-        *pCharEnd = 0;
-        printf("charset: %s\n", pCharStart);
-        getchar();
+//  if (strstr(urlStr, "jpg") != NULL &&
+//      strstr(urlStr, "gif") != NULL) {
+        /*copy the content for transfer*/
+    if (1) {
+        printf("try to transfer %s\n", urlStr);
+        strncpy(tmp, posParse, (buffer + pos) - posParse);
+        printf("try to transfer charset!\n");
+        int res = g2u(tmp, strlen(tmp), posParse, maxPageSize);
+        if (res == -1) {
+            printf("transfer error!\n");
+            printf("********************\n******************\n\n\n");
+            printf("%s\n", tmp);
+            printf("********************\n******************\n\n\n");
+            printf("%s\n", posParse);
+            getchar();
+            getchar();
+        }
     }
+//  printf("test charset\n");
+//  char *pCharset = strstr(posParse, "charset");    
+//  printf("test charset\n");
+//  //char *pCharset = NULL;
+//  if (pCharset == NULL) {
+//      printf("charset error!\n"); 
+//  } else {
+//      *(pCharset + 32) = 0;
+//      printf("pCharset: %s\n", pCharset);
+//      char *pCharStart = pCharset + 7;
+//      printf("pCharStart: %s\n", pCharStart);
+//      while (*pCharStart == '\"' || *pCharStart == '=' || *pCharStart == ' ') 
+//          pCharStart++;
+//      printf("pCharStart: %s\n", pCharStart);
+//      char *pCharEnd = pCharStart + 1; 
+//      printf("pCharEnd: %s\n", pCharEnd);
+//      while (*pCharEnd != '\"' && *pCharEnd != '\'' && *pCharEnd != ' ')
+//          pCharEnd++;
+//      printf("pCharEnd: %s\n", pCharEnd);
+//      *pCharEnd = 0;
+//      printf("charset: %s\n", pCharStart);
+//      getchar();
+//  }
 
-    g2u(tmp, strlen(tmp), posParse, maxPageSize);
+//    g2u(tmp, strlen(tmp), posParse, maxPageSize);
 //    printf("%s\n", posParse);
 //  int rc = g2u(posParse, strlen(posParse), tmp, maxPageSize);
 //  if (rc != -1) {
@@ -782,6 +803,8 @@ void html::parseImageAlt() {
         *posParse = 0;
 
         //printf("%s\n", alt);
+//      static char tmp[1024];
+//      g2u(alt, posParse - alt, tmp, 1024);
         info = new imageInfo(alt, NULL, NULL);    
         
         *posParse = oldChar;

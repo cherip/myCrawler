@@ -486,12 +486,12 @@ int IPSite::fetch () {
       global::okSites->rePut(this);
       return next_call;
     } else {
-        printf("come to here!\n");
+//      printf("come to here!\n");
       Connexion *conn = global::freeConns->get();
       url *u = getUrl();
-      printf("-------------\n");
-      u->print();
-      printf("-------------\n");
+//    printf("-------------\n");
+//    u->print();
+//    printf("-------------\n");
       // We're allowed to fetch this one
       // open the socket and write the request
       char res = getFds(conn, &(u->addr), u->getPort());
