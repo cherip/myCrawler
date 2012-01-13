@@ -81,6 +81,8 @@ class PersistentFifo {
 
   /* how many items are there inside ? */
   int getLength ();
+
+  void init_hashtable();
 };
 
 #endif // PERSFIFO_H

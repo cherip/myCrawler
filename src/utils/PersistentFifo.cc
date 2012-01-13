@@ -56,12 +56,15 @@ PersistentFifo::PersistentFifo (bool reload, char *baseName) {
       exit(1);
     }
 	closedir(dir);
-	in = (fin - fout) * urlByFile;
+	//in = (fin - fout) * urlByFile;
 	out = 0;
-	makeName(fin);
-	wfds = creat (fileName, S_IRUSR | S_IWUSR);
-	makeName(fout);
-	rfds = open (fileName, O_RDONLY);
+//	makeName(fin);
+//	wfds = creat (fileName, S_IRUSR | S_IWUSR);
+//	makeName(fout);
+//	rfds = open (fileName, O_RDONLY);
+    in = 0;
+    printf("0000000000000000000k\n");
+    init_hashtable();
   } else {
 	// Delete old fifos
 	DIR *dir = opendir(".");
@@ -83,6 +86,35 @@ PersistentFifo::PersistentFifo (bool reload, char *baseName) {
 	wfds = creat (fileName, S_IRUSR | S_IWUSR);
 	rfds = open (fileName, O_RDONLY);
   }
+}
+
+void PersistentFifo::init_hashtable() {
+//  if (fin != 0) {
+    if (true) {
+        fin++;
+        FILE *pfile;
+        static char _line[512];
+        for (; fout < fin; fout++) {
+            makeName(fout);
+            pfile = fopen(fileName, "r");
+            
+            while (!feof(pfile)) {
+                if (fgets(_line, 512, pfile) == NULL) {
+                    printf("error!\n");
+                } else {
+                    printf("%s", _line);
+                    url *tmp = new url(_line);
+                    global::seen->testSet(tmp);
+                    delete tmp;
+                }
+            }
+
+            fclose(pfile);
+        }
+    }
+    makeName(fin);
+	wfds = creat (fileName, S_IRUSR | S_IWUSR);
+	rfds = open (fileName, O_RDONLY);
 }
 
 PersistentFifo::~PersistentFifo () {
@@ -170,7 +202,7 @@ void PersistentFifo::updateRead () {
   if ((out % urlByFile) == 0) {
 	close(rfds);
 	makeName(fout);
-	unlink(fileName);
+//	unlink(fileName);
 	makeName(++fout);
 	rfds = open(fileName, O_RDONLY);
 	in -= out;

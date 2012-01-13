@@ -39,6 +39,8 @@ void check (url *u) {
 	  global::URLsDisk->put(u);
 	}
 #else // not a SPECIFICSEARCH
+    printf("this url is ok! ");
+    u->print();
     global::URLsDiskImageInfo->putImage(u);
     global::URLsDisk->put(u);
     //delete u;

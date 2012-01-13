@@ -124,10 +124,6 @@ global::global (int argc, char *argv[]) {
   inputPort = 0;  // by default, no input available
   proxyAddr = NULL;
   domains = NULL;
-  // FIFOs
-  URLsDisk = new PersistentFifo(reload, fifoFile);
-  URLsDiskWait = new PersistentFifo(reload, fifoFileWait);
-    URLsDiskImageInfo = new PersistentFifo(reload, fifoFileImage);
 
   URLsPriority = new SyncFifo<url>;
   URLsPriorityWait = new SyncFifo<url>;
@@ -137,6 +133,11 @@ global::global (int argc, char *argv[]) {
   okSites = new Fifo<IPSite>(2000);
   dnsSites = new Fifo<NamedSite>(2000);
   seen = new hashTable(!reload);
+
+  // FIFOs
+  URLsDisk = new PersistentFifo(true, fifoFile);
+  URLsDiskWait = new PersistentFifo(reload, fifoFileWait);
+    URLsDiskImageInfo = new PersistentFifo(reload, fifoFileImage);
 #ifdef NO_DUP
   hDuplicate = new hashDup(dupSize, dupFile, !reload);
 #endif // NO_DUP

@@ -57,12 +57,13 @@ static void waitBandwidth (time_t *old) {
 static uint count = 0;
 #endif // NDEBUG
 
+
 ///////////////////////////////////////////////////////////
 // If this thread terminates, the whole program exits
 int main (int argc, char *argv[]) {
   // create all the structures
   global glob(argc, argv);
-  printf("ok!!!!\n");
+//printf("ok!!!!\n");
 #ifdef PROF
   signal (2, handler);
 #endif // PROF

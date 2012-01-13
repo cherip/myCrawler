@@ -67,9 +67,11 @@ static bool canGetUrl (bool *testPriority) {
 //      u->print();
 //  }else {
     if (strstr(u->getUrl(), "pinfun") != NULL ||
-        strstr(u->getUrl(), "dangdang") != NULL ||
-        strstr(u->getUrl(), "ddimg.cn") != NULL ||
+//      strstr(u->getUrl(), "dangdang") != NULL ||
+//      strstr(u->getUrl(), "ddimg.cn") != NULL ||
         strstr(u->getUrl(), "book.360buy") != NULL ||
+        strstr(u->getUrl(), "/writer/") != NULL ||
+        strstr(u->getUrl(), "/publish/") != NULL ||
         strstr(u->getUrl(), "jpg") != NULL ||
         strstr(u->getUrl(), "gif") != NULL) {
         global::namedSiteList[u->hostHashCode()].putUrl(u);

@@ -392,8 +392,8 @@ void NamedSite::transfer (url *u) {
     if (global::proxyAddr == NULL) {
       memcpy (&u->addr, &addr, sizeof (struct in_addr));
     }
-    printf("ipHash:%d transfer: ", ipHash);
-    u->print();
+//  printf("ipHash:%d transfer: ", ipHash);
+//  u->print();
 
     global::IPSiteList[ipHash].putUrl(u);
   } else {
@@ -481,7 +481,7 @@ int IPSite::fetch () {
     return 0;
   } else {
     int next_call = lastAccess + global::waitDuration;
-    printf("%d %d %d\n", lastAccess, global::waitDuration, next_call);
+//  printf("%d %d %d\n", lastAccess, global::waitDuration, next_call);
     if (next_call > global::now) {
       global::okSites->rePut(this);
       return next_call;
@@ -490,8 +490,8 @@ int IPSite::fetch () {
       Connexion *conn = global::freeConns->get();
       url *u = getUrl();
 //    printf("-------------\n");
-//    u->print();
-//    printf("-------------\n");
+      u->print();
+      printf("-------------\n");
       // We're allowed to fetch this one
       // open the socket and write the request
       char res = getFds(conn, &(u->addr), u->getPort());
@@ -503,7 +503,7 @@ int IPSite::fetch () {
           char *tmp = u->getUrl();
           conn->request.addString(tmp);
         } else {
-          conn->request.addString(u->getFile());
+          conn->request.addString(u->getFormatFile());
         }
         conn->request.addString(" HTTP/1.0\r\nHost: ");
         conn->request.addString(u->getHost());

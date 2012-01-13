@@ -1,0 +1,6 @@
+2011-12-30
+URL: http://union.dangdang.com:80/union/ 
+Descripotr: 
+dns err! and then segementFault!
+the len of the html changed when transfer, may be this is dangdang html.
+the charset is not "gb2312"

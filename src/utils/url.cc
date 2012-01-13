@@ -19,6 +19,7 @@
 #include "utils/url.h"
 #include "utils/connexion.h"
 #include "utils/debug.h"
+#include "utils/convert.h"
 
 #ifdef COOKIES
 #define initCookie() cookie=NULL
@@ -402,6 +403,11 @@ char *url::getUrl() {
   static char statstr[maxUrlSize+40];
   sprintf(statstr, "http://%s:%u%s", host, port, file);
   return statstr;
+}
+char *url::getFormatFile() {
+    static char formatFile[maxUrlSize + 40];
+    utf2url(file, formatFile);
+    return formatFile;
 }
 
 /* return a hashcode for the host of this url */

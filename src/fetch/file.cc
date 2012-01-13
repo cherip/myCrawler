@@ -514,6 +514,28 @@ int html::parseHeader30X () {
 /* This part manages the content of the file */
 /*********************************************/
 
+/*whether the url we need*/
+int test_url(char *pUrl) {
+    char *p;
+    int len = strlen(pUrl);
+    
+    //1= test for .jpg url
+    p = &pUrl[len - 3];
+//  printf("%s\n", p);
+    if (p[0] == 'j' && p[1] == 'p' &&
+        p[2] == 'g') {
+        return 1;
+    }
+
+    //2= test for .gif url
+    if (p[0] == 'g' && p[1] =='i' &&
+        p[2] == 'f') {
+        return 1;
+    }
+
+    return 0;
+}
+
 /** file download is complete, parse the file (headers already done)
  * return 0 usually, 1 if there was an error
  */
@@ -539,72 +561,39 @@ int html::endInput () {
 
 
     char *urlStr = here->getUrl();
-    here->print();
-    //char *pUrl = &urlStr[strlen(urlStr) - 3];
-    //printf("%s\n", pUrl);
-    
-    if (strstr(urlStr, "jpg") != NULL) {
-        printf("ok\n");
-    } 
+//  here->print();
+
     static char tmp[maxPageSize];
-//  if (strstr(urlStr, "jpg") != NULL &&
-//      strstr(urlStr, "gif") != NULL) {
-        /*copy the content for transfer*/
-    if (1) {
-        printf("try to transfer %s\n", urlStr);
+    
+    /*only parse .html file*/
+    if (test_url(urlStr) == 0) {
+//      printf("try to transfer %s\n", urlStr);
+        int len = (buffer + pos) - posParse;
+//      printf("%d\n", strlen(posParse));
         strncpy(tmp, posParse, (buffer + pos) - posParse);
-        printf("try to transfer charset!\n");
-        int res = g2u(tmp, strlen(tmp), posParse, maxPageSize);
+//      printf("try to transfer charset!\n");
+//      printf("%d\n", len);
+        int res = g2u(tmp, len, posParse, maxPageSize);
+//      printf("%d\n", strlen(posParse));
         if (res == -1) {
             printf("transfer error!\n");
             printf("********************\n******************\n\n\n");
             printf("%s\n", tmp);
             printf("********************\n******************\n\n\n");
+            *(posParse + 50240) = 0;
             printf("%s\n", posParse);
-            getchar();
-            getchar();
         }
+          printf("one html file is complete, and try to parse it!\n");
+          this->here->print();
+          printf("**********************************\n");
+
+          parseHtml();
+    } else {
+          printf("one not file is complete, only try to download it!\n");
+          this->here->print();
+          printf("**********************************\n");
     }
-//  printf("test charset\n");
-//  char *pCharset = strstr(posParse, "charset");    
-//  printf("test charset\n");
-//  //char *pCharset = NULL;
-//  if (pCharset == NULL) {
-//      printf("charset error!\n"); 
-//  } else {
-//      *(pCharset + 32) = 0;
-//      printf("pCharset: %s\n", pCharset);
-//      char *pCharStart = pCharset + 7;
-//      printf("pCharStart: %s\n", pCharStart);
-//      while (*pCharStart == '\"' || *pCharStart == '=' || *pCharStart == ' ') 
-//          pCharStart++;
-//      printf("pCharStart: %s\n", pCharStart);
-//      char *pCharEnd = pCharStart + 1; 
-//      printf("pCharEnd: %s\n", pCharEnd);
-//      while (*pCharEnd != '\"' && *pCharEnd != '\'' && *pCharEnd != ' ')
-//          pCharEnd++;
-//      printf("pCharEnd: %s\n", pCharEnd);
-//      *pCharEnd = 0;
-//      printf("charset: %s\n", pCharStart);
-//      getchar();
-//  }
 
-//    g2u(tmp, strlen(tmp), posParse, maxPageSize);
-//    printf("%s\n", posParse);
-//  int rc = g2u(posParse, strlen(posParse), tmp, maxPageSize);
-//  if (rc != -1) {
-//      strncpy(posParse, tmp, strlen(tmp));
-//      posParse[strlen(tmp)] = 0;
-//  }
-
-  printf("one html file is complete, and try to parse it!\n");
-  this->here->print();
-  printf("**********************************\n");
-
-//  getchar();
-//  getchar();
-
-  parseHtml();
   return 0;
 }
 
@@ -739,9 +728,9 @@ void html::parseTag () {
       if (info != NULL && imgUrl != NULL) {
         imgUrl->info = info;  
 
-      imgUrl->print_info();
-      imgUrl->print();
-      printf("********\n");
+//    imgUrl->print_info();
+//    imgUrl->print();
+//    printf("********\n");
 
       /*
        * special for 360buy.com 
@@ -822,7 +811,7 @@ void html::parseContent (int action) {
   char *endItem = area + maxUrlSize;
   if (endItem > buffer + pos) endItem = buffer + pos;
   while (posParse < endItem && *posParse!='\"' && *posParse!='\''
-         && *posParse!='\n' && *posParse!=' ' && *posParse!='>'
+         && *posParse!='\n' && *posParse!='>'
          && *posParse!='\r' && *posParse!='\t' && notCgiChar(*posParse)) {
     if (*posParse == '\\') *posParse = '/';    // Bye Bye DOS !
     posParse++;

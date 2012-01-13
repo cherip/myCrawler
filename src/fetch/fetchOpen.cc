@@ -31,7 +31,7 @@ void fetchOpen () {
     if (s == NULL) {
       cont = 0;
     } else {
-        printf("IPsites\n");
+//      printf("IPsites\n");
       next_call = s->fetch();
       cont = (next_call == 0);
     }

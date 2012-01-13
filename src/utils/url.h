@@ -95,6 +95,7 @@ class url {
 
   /* very thread unsafe serialisation in a static buffer */
   char *getUrl();
+  char *getFormatFile();
 
   /* return a hashcode for the host of this url */
   uint hostHashCode ();

@@ -21,11 +21,13 @@ def read_file(pfile, fullDir, dicts):
         #print words[0], words[1] 
         imgName = format_img_name(words[0])
         if words[1].find('n0') > 0:
-            dicts[words[1]] = os.path.join(fullDir, imgName)
+            os.rename(os.path.join(fullDir, imgName), 
+                      os.path.join(fullDir, imgName + '.jpg'))
+            #dicts[words[1]] = os.path.join(fullDir, imgName)
         else:
             #print os.path.join(fullDir, imgName)
             #print os.path.join(fullDir, imgName + '.jpg')
-            os.remove(os.path.join(fullDir, imgName + '.jpg'))
+            os.remove(os.path.join(fullDir, imgName))
             
             #os.rename(os.path.join(fullDir, imgName), 
             #      os.path.join(fullDir, imgName + '.jpg'))
